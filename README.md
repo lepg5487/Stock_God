@@ -2,7 +2,7 @@
 
 https://lepg5487.github.io/NCTU_LIFE/Paper
 
-
+ [Paper](https://lepg5487.github.io/NCTU_LIFE/Paper).
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
