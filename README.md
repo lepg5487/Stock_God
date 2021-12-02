@@ -1,4 +1,5 @@
 # 少年股神的日記
+##### [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 ## 2021/12/02
 ```
@@ -14,7 +15,6 @@
 
 ---
 
-### [心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 ## Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) 
