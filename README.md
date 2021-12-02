@@ -12,6 +12,8 @@
 新的糖果+是欣不是新的興+阿姨的小孩很威
 ```
 
+---
+
 ### [心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 ## Support or Contact
