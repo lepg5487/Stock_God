@@ -18,3 +18,9 @@
 買股時機11：30-40，1：20-25。
 ```
 
+## 財富密碼
+[富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
+```
+富時指數調整:3,6,9,12月。
+月的第三個星期五生效，星期二、三買進，接著沿著技術面操作。
+```
