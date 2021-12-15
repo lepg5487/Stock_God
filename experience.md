@@ -22,5 +22,6 @@
 [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
 ```
 富時指數調整:3,6,9,12月。
+看台灣50和中型100的成分股納入個股。
 月的第三個星期五生效，星期二、三買進，接著沿著技術面操作。
 ```
