@@ -8,6 +8,8 @@
 "觀察高價股的漲跌"判斷底下題材會不會漲。
 ```
 
+---
+
 ## 小技巧
 ```
 飆股，爆量沒鎖住漲停，短線開始震盪，可以停利。
@@ -17,6 +19,8 @@
 5~7成持股時可找之前大漲，回檔守住月季均線的股票，會有反彈。
 買股時機11：30-40，1：20-25。
 ```
+
+---
 
 ## 財富密碼
 [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
