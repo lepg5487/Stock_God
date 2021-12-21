@@ -21,6 +21,18 @@
 
 ---
 
+## SOP
+```
+盤前:
+1. 查詢持股新聞(判斷利多、利空來賣股票)
+2. 即時選股 第一個 之前都沒出現過的股票，KD出現黃金交叉，連續出現5次，買進。
+3. 看 特別報價 誰第一個漲停
+
+盤後:
+1. 查詢持股籌碼(看投信、隔日沖)
+2. 使用程式看選股 KD翻多 和 投信突然買
+```
+
 ## 財富密碼
 [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
 ```
