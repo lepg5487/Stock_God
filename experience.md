@@ -35,7 +35,11 @@
 盤後:
 1. 查詢持股籌碼(看投信、隔日沖)
 2. 使用程式看選股 KD翻多 和 投信突然買
+第一金-中壢
+元大-南勢角
 ```
+
+---
 
 ## 財富密碼
 [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
