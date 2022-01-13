@@ -45,6 +45,15 @@
 ```
 
 ---
+測試
+```
+找出上引線個股
+追蹤籌碼
+如果上引線是隔日沖留出來的
+(多單沖, 融資殺, 隔日券商沖)
+隔日 開高就是買點
+```
+---
 
 ## 財富密碼
 [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
