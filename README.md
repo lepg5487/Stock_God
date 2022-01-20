@@ -1,6 +1,6 @@
 # 少年股神的日記
 ##### [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
-
+##### [少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
 ## 2021/01/20
 ```
 剛掛牌上市PMIC投信還沒買就噴, 大家都提早買等抬轎.
@@ -8,7 +8,7 @@
 出關前一天紅K就能買進等噴(學起來)(Ex:OMG,所羅生門,台中環球影城).
 +興PMIC+我佳很有能力
 ```
-[台股加權扣除GG沒破底還在季線上](https://www.wantgoo.com/index/000-)
+##### [台股加權扣除GG沒破底還在季線上](https://www.wantgoo.com/index/000-)
 
 ## 2021/01/19
 ```
