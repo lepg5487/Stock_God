@@ -1,5 +1,6 @@
 # 少年股神的日記
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
+
 [少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
 
 ## 2021/01/20
