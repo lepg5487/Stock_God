@@ -8,7 +8,7 @@
 出關前一天紅K就能買進等噴(學起來)(Ex:OMG,所羅生門,台中環球影城).
 +興PMIC+我佳很有能力
 ```
-[台股加權扣除GG還在季線上](https://www.wantgoo.com/index/000-)
+[台股加權扣除GG沒破底還在季線上](https://www.wantgoo.com/index/000-)
 
 ## 2021/01/19
 ```
