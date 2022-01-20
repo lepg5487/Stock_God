@@ -3,6 +3,8 @@
 
 [少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
 
+---
+
 ## 2021/01/20
 ```
 剛掛牌上市PMIC投信還沒買就噴, 大家都提早買等抬轎.
