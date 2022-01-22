@@ -1,8 +1,6 @@
 # 少年股神的日記
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
-[少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
-
 ---
 
 ## 2021/01/21
@@ -307,8 +305,12 @@ G板卡被郭董喊下去，早上全出躲一下看情況，尾盤沒事買回�
 ---
 
 [PuLonCon](https://www.facebook.com/PuLonCon-321011168059899)
+
 [Twitch](https://www.twitch.tv/lepg5487)
+
 [Youtube](https://www.youtube.com/channel/UCCqcUgBe1He37DzRG09627Q/videos)
+
+[少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
 
 ## Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) 
