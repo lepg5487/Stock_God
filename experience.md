@@ -1,4 +1,14 @@
-# 短線
+# 國際趨勢
+
+[美國10年期公債殖利率](https://www.macromicro.me/charts/75/10-year-bond-yield-us-mid14)
+
+[台股加權扣除GG](https://www.wantgoo.com/index/000-)
+
+[比特幣](https://www.wantgoo.com/global/bitcoin)
+
+[黃金](https://www.wantgoo.com/global/gold)
+
+---
 
 ## 綜合心得
 ```
