@@ -2,6 +2,14 @@
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 ---
+## 2021/02/17
+```
+2/18留錢買2/22送分題.
+2/21留錢買2/23送分題.
+最近漲勢沒連貫題材, 只能買進等待守停損.
+
+```
+
 ## 2021/02/16
 ```
 之前說其他利基型的都會被拉, 後來發現有找到卻沒買, 該檢討.
@@ -414,3 +422,22 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 [makedown doc](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+---
+
+## 題材整理 2/17
+```
+離開處置: 倚強科, 樂士
+PMIC: 來頡, 茂達, 力智
+抬頭顯: 怡利電, 力特, 普誠, 英濟, 大眾控
+PMOLED: 智晶, 錸寶, 華晶科
+電子紙: 力特, 晶宏, 元太
+TypeC: 威鋒電子, 創惟,
+IP: 愛普, 智原, 
+NFT: 華義, 辣椒, 方舟, 歐買尬, 大宇資, 霹靂, 中環, 所羅門
+顯板卡: 映泰, 麗臺
+天線: 萬旭, 建舜電 芮特, 昇達科
+特用化學: 三福化, 三晃
+散熱: 奇鋐, 富世達, 泰碩, 元山, 雙鴻
+
+
+```
