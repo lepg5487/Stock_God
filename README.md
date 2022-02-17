@@ -429,7 +429,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 ## 題材整理 2/17
 ```
 離開處置: 倚強科, 樂士
-還沒漲長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
+長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
 
 抬頭顯: 怡利電, 力特, 普誠, 英濟, 大眾控
 PMOLED: 智晶, 錸寶, 華晶科
