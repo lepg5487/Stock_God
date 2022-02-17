@@ -435,7 +435,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 PMOLED: 智晶, 錸寶, 華晶科
 NFT: 華義, 辣椒, 方舟, 歐買尬, 大宇資, 霹靂, 中環, 所羅門
 顯板卡: 映泰, 麗臺
-散熱: 奇鋐, 富世達, 泰碩, ,建準 ,元山, 雙鴻
+散熱: 奇鋐, 富世達, 泰碩, 建準, 元山, 雙鴻
 連接器: 連展投控, 詮欣
 TypeC: 威鋒電子, 創惟, 詮欣
 特用化學: 三福化, 勝一, 三晃
