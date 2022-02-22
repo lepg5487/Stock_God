@@ -456,7 +456,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 2/22
 ```
-離開處置: 倚強科, 樂士
+離開處置: 樂士
 長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
 
 解封概念股: 華航, 長榮航, 晶華, 雄獅, 鳳凰
