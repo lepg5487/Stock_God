@@ -2,6 +2,11 @@
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 ---
+## 2021/02/24
+```
+旅行社
+```
+
 ## 2021/02/23
 ```
 出關送分題又沒達標準.
@@ -463,9 +468,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 
-## 題材整理 2/22
+## 題材整理 2/24
 ```
-離開處置: 樂士
 長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
 
 記憶體: 鈺創, 晶豪科, 威剛, 群聯
