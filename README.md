@@ -493,7 +493,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 
-## 題材整理 2/24
+## 題材整理 3/01
 ```
 長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
 
@@ -502,10 +502,10 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 NFT: 華義, 辣椒, 方舟, 歐買尬, 大宇資, 霹靂, 中環, 所羅門
 散熱: 奇鋐, 富世達, 泰碩, 建準, 元山, 雙鴻
 新藥: 寶齡富錦, 浩鼎, 北極星, 醣基, 
-
 記憶體: 鈺創, 晶豪科, 威剛, 群聯
-PMOLED: 智晶, 錸寶, 華晶科
 顯板卡: 映泰, 麗臺
+
+PMOLED: 智晶, 錸寶, 華晶科
 伺服器: 宏致,
 連接器: 連展投控, 詮欣, 貿聯, 凡甲, 宏致
 TypeC: 連展投控, 威鋒電子, 創惟, 詮欣, 佳必琪, 鈺創, 鴻碩 ,萬旭, 宏致
