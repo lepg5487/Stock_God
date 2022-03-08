@@ -1,5 +1,7 @@
 # 國際趨勢
 
+[融資維持率150%以下準備反彈](https://www.cmoney.tw/finance/f00012.aspx)
+
 [法說會行情](https://pchome.megatime.com.tw/post/sto5/mkt0/)
 
 [美股期貨](https://www.cnyes.com/futures/indexftr.aspx)
