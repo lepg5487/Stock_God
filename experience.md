@@ -97,7 +97,7 @@
 或是等大盤站上5日線, 搶反彈.
 或是等國安基金10575進場台GG.
 ```
-[富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
+## [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
 ```
 富時指數調整:3,6,9,12月。
 看台灣50和中型100的成分股納入個股。
