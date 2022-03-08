@@ -553,8 +553,6 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 3/08
 ```
-長期送分題: 光罩, 合晶, 來頡, 茂達, 力智
-
 解封概念股: 鳳凰(O), 晶華(O), 長榮航(O), 華航(O), 雄獅,
 電動車: 連展投控(O), 佳必琪, 鴻碩, 萬旭, 宏致
 連接器: 連展投控(O), 詮欣, 貿聯, 凡甲, 宏致, 萬旭
