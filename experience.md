@@ -93,9 +93,9 @@
 
 ## "大跌"標準進場SOP
 ```
-等待哪天早上美股期貨大漲, 早上開低再進場強勢股.
+等待哪天早上美股期貨大漲, 早上開低再進場強勢股(如果不知道哪個是強勢股台GG是送分題).
 或是等大盤站上5日線, 搶反彈.
-或是等國安基金10575進場台GG.
+或是等國安基金10575(10年線)進場台GG.
 ```
 ## [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
 ```
