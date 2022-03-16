@@ -4,6 +4,8 @@
 
 <a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zrnoda&nd=9&style=41" border="0" alt="網頁計數器"></a>
 
+[test.html](https://lepg5487.github.io/Stock_God/test.html)
+
 ---
 
 ## 2022/03/16
