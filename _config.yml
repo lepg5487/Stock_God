@@ -1,9 +1,9 @@
 theme: jekyll-theme-hacker
 title: Stock_God's homepage
 description: If you want to become a stock god you have to watch!
-#show_downloads: true
-#github:
-#  zip_url: https://drive.google.com/file/d/0BxA3WE5R2GhreVR0czh1NU1waGM/view?usp=sharing&resourcekey=0-jkz5a4L-MXGZA_rqzTyw0A
+show_downloads: true
+github:
+  zip_url: https://drive.google.com/file/d/0BxA3WE5R2GhreVR0czh1NU1waGM/view?usp=sharing&resourcekey=0-jkz5a4L-MXGZA_rqzTyw0A
 #  another_url: another value
 
 # show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
