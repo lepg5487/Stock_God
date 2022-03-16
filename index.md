@@ -1,6 +1,11 @@
-# 少年股神的日記 
+---
+layout: testlayouts
+---
 
-#成功從README.md變成index.md
+# 成功使用 testlayouts
+# 成功從README.md變成index.md9999999999999999999999999999999
+
+# 少年股神的日記 
 
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
