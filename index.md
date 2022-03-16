@@ -2,19 +2,9 @@
 layout: testlayouts
 ---
 
-# 成功使用 testlayouts
-# 成功從README.md變成index.md9999999999999999999999999999999
-
 # 少年股神的日記 
 
-[戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
-
 <a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zrnoda&nd=9&style=41" border="0" alt="網頁計數器"></a>
-
-[test.html](https://lepg5487.github.io/Stock_God/test.html)
-
-[testmarkdown不是html](https://lepg5487.github.io/Stock_God/testmarkdown)
-
 
 ---
 
@@ -624,11 +614,18 @@ G板卡被郭董喊下去，早上全出躲一下看情況，尾盤沒事買回�
 
 [少年股神都會聽的歌](https://music.youtube.com/playlist?list=PLrSlp8kro2MpNYKfay2ErFai_iW9bQT3M&feature=share)
 
+[戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
+
+[test.html](https://lepg5487.github.io/Stock_God/test.html)
+
+[testmarkdown不是html](https://lepg5487.github.io/Stock_God/testmarkdown)
+
 ## Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) 
 or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [makedown doc](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 ---
 
