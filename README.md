@@ -1,3 +1,8 @@
+---
+layout: default
+title: 123123123
+---
+
 # 少年股神的日記 
 
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
