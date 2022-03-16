@@ -1,5 +1,7 @@
 # 少年股神的日記 
 
+#成功從README.md變成index.md
+
 [戰場心得小技巧](https://lepg5487.github.io/Stock_God/experience)
 
 <a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zrnoda&nd=9&style=41" border="0" alt="網頁計數器"></a>
