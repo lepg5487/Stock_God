@@ -1,13 +1,13 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
 title: Stock_God's homepage
 description: If you want to become a stock god you have to watch!
 show_downloads: true
 github:
   zip_url: https://drive.google.com/file/d/0BxA3WE5R2GhreVR0czh1NU1waGM/view?usp=sharing&resourcekey=0-jkz5a4L-MXGZA_rqzTyw0A
-  another_url: another value
+#  another_url: another value
 
 # show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
