@@ -4,8 +4,6 @@ layout: testlayouts
 
 # 少年股神的日記 
 
-<a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zrnoda&nd=9&style=41" border="0" alt="網頁計數器"></a>
-
 ---
 
 ## 2022/03/17
@@ -19,7 +17,7 @@ layout: testlayouts
 但是今天最先漲停的代表情緒的方向.
 依照自己更新的選股題材面重點: 高價股(矽力-KY), 興櫃(龍德造船), 美股(飛機, 旅行社, 太陽能, 風電)
 ALL IN 做到最完美了, 讓獲利持續奔跑.
-吸取經驗, 每次改進, 做到最好. 
+吸取經驗, 每次改進, 做到最好.
 ```
 
 ## 2022/03/16
