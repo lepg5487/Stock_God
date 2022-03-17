@@ -20,6 +20,8 @@ layout: testlayouts
 
 [黃金](https://www.wantgoo.com/global/gold)
 
+[原油](https://www.wantgoo.com/global/brent)
+
 ---
 
 ## 股票賺錢核心想法
