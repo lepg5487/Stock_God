@@ -683,7 +683,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 長榮航, 華航, 山富, 鳳凰, 晶華, 雄獅,
 
 #通膨概念:
-肥料: 全宇生計, 東鹼, 興農, 台肥
+肥料: 全宇生計, 東鹼, 興農, 台肥, 惠光
 特用化學: 全宇生計, 勝一, 三福化, 中華化, 三晃, 聯華,
 
 #缺電概念
