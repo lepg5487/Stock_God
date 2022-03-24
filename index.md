@@ -691,7 +691,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 太陽能: 安集, 達能, 元晶 
 風電: 華城, 上緯投控
 不斷電: 中興電, 亞力
-電池: 立凱, 康普, 美琪瑪
+電池: 立凱, 康普, 美琪瑪, 長園科
+南部台積電不斷電供應廠: 長園科, 亞力
 
 #地震概念: 辛耘
 再生晶元材料廠: 中砂, 昇陽半導體
