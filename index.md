@@ -714,9 +714,6 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 特用化學: 全宇生計, 勝一, 三福化, 中華化, 三晃, 聯華,
 生質能源: 愛之味, 台榮
 
-#解封概念:
-長榮航, 華航, 山富, 鳳凰, 晶華, 雄獅,
-
 #缺電概念:
 氫能源(燃料電池): 高力, 中興電
 太陽能: 安集, 達能, 元晶 
@@ -724,6 +721,10 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 不斷電: 中興電, 亞力
 電池: 立凱, 康普, 美琪瑪, 長園科
 南部台積電不斷電供應廠: 長園科, 亞力
+生質能源: 愛之味, 台榮
+
+#解封概念:
+長榮航, 華航, 山富, 鳳凰, 晶華, 雄獅,
 
 #地震概念: 辛耘
 再生晶元材料廠: 中砂, 昇陽半導體
