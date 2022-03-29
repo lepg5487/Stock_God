@@ -739,7 +739,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 PMOLED: 智晶, 錸寶, 華晶科
 電動車: 連展投控, 佳必琪, 鴻碩, 萬旭, 宏致
 TypeC: 連展投控, 創惟, 威鋒電子, 詮欣, 佳必琪, 鈺創, 鴻碩 ,萬旭, 宏致
-電池: 立凱, 康普, 美琪瑪
+電池: 立凱, 康普, 美琪瑪, 精星
 
 #伺服器:
 散熱:  元山, 奇鋐, 雙鴻, 富世達, 泰碩, 建準, 
