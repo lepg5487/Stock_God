@@ -10,7 +10,7 @@ layout: testlayouts
 ```
 美股費半好危險, 躲一下電子.
 金融股多空碰撞.
-中國封城殺ABF, 送分題可以抄作業.
+中國昆山封城殺ABF, 送分題可以抄作業.
 #通膨概念, #解封概念, 繼續上.
 ```
 
@@ -764,7 +764,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 #解封概念:
 長榮航, 華航, 山富, 鳳凰, 晶華, 雄獅,
 
-#中國封城:
+#中國封城(昆山=欣興):
 PCB,ABF: 泰鼎, 欣興, 景碩, 南電
 
 #缺電概念:
