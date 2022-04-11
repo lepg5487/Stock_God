@@ -12,7 +12,9 @@ layout: testlayouts
 危, 站賣方, 站賣方, 站賣方.
 破底, 破底, 破底.
 佳龍漲停, 空手等低點.
+看來比特幣-1%的時候還有時間跑.
 ```
+即時資訊[https://www.msn.com/zh-tw/money/watchlist?cvid=fe9c292ebf43495d9dcb14c7e30a538b&duration=1M]
 
 ## 2022/04/08
 ```
