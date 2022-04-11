@@ -16,11 +16,11 @@ layout: testlayouts
 
 [台股加權扣除GG](https://www.wantgoo.com/index/000-)
 
-[比特幣](https://www.wantgoo.com/global/bitcoin)
+[比特幣](https://www.msn.com/zh-tw/money/cryptocurrencies?id=c2111&cvid=d4fad1afd9204514a97f81a067f425b9&duration=1D)
 
-[黃金](https://www.wantgoo.com/global/gold)
+[黃金](https://www.msn.com/zh-tw/money/markets/commoditydetails/fi-auvwoc?duration=1D)
 
-[原油](https://www.wantgoo.com/global/brent)
+[原油](https://www.msn.com/zh-tw/money/markets/commoditydetails/fi-auvx3m?duration=1D)
 
 ---
 
