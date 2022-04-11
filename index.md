@@ -15,6 +15,7 @@ layout: testlayouts
 
 三竹智選股"股價創近20日新低家數", 如果發現超過800家創新低, 那天就是指數最低點.
 當天收盤前all in(分2天買進)(第1天買收盤價, 第二天買開盤價)買進0050或2330.
+今天285檔股價創近20日新低家數.
 ```
 [比特幣即時資訊](https://www.msn.com/zh-tw/money/cryptocurrencies?id=c2111&cvid=d4fad1afd9204514a97f81a067f425b9&duration=1D)
 
