@@ -871,7 +871,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 #升息概念: 王道銀行
 
-#疫情概念:
+#疫情概念: 有順序
 (消毒): 毛寶 
 (快篩): 亞諾法, 寶齡富錦, ABC-KY, 
 (口罩): 恆大, 康那香,
@@ -879,8 +879,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 (居家醫材血氧機): 優盛, 雃博
 (通路): 杏一, 大樹
 (遠距視訊): 圓剛, 圓展
-(運送): 宅配通, 嘉里大榮,
-運輸股: 長榮, 陽明, 中櫃, 益航, 志信, 榮運, 萬海, 台驊投控,
+(運送): 宅配通, 嘉里大榮, 中櫃, 益航, 志信, 榮運,
+(運輸股): 長榮, 陽明, 萬海, 台驊投控,
 
 #缺電概念:
 氫能源(燃料電池): 高力, 中興電
