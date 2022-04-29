@@ -13,6 +13,8 @@ layout: testlayouts
 美股莫名期貨又崩1%, 今天是賣點.
 FB大漲, 第一個要想到的是立衛, 建達.
 ```
+(周轉率20%以上別碰,沒大戶在顧)[https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm]
+(大漲反彈時,找"新股票"融券1日大增前五名的買進)[https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_EB_1_1.djhtm]
 
 ## 2022/04/28
 ```
