@@ -12,7 +12,7 @@ layout: testlayouts
 星期五連假前, 一定又一堆當沖.
 美股莫名期貨又崩1%, 今天是賣點.
 FB大漲, 第一個要想到的是立衛, 建達.
-觀察智原
+觀察智原, 華新.
 ```
 [周轉率20%以上別碰,沒大戶在顧](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm)
 
