@@ -24,8 +24,6 @@ layout: testlayouts
 
 [周轉率20%以上別碰,沒大戶在顧](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm)
 
-[大漲反彈時,找"新股票"融券1日大增前五名的買進](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_EB_1_1.djhtm)
-
 ---
 
 ## 財富密碼
