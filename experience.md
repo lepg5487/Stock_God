@@ -24,7 +24,7 @@ layout: testlayouts
 
 [周轉率20%以上別碰,沒大戶在顧](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm)
 
-[基本面大補帖上中下游](https://ic.tpex.org.tw/introduce.php?ic=D000)[
+[基本面大補帖上中下游](https://ic.tpex.org.tw/introduce.php?ic=D000)
 
 ---
 
