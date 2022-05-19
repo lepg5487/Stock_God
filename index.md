@@ -19,9 +19,13 @@ layout: testlayouts
 試試三角收斂連展, 賭美股反彈.
 05/25美股台股崩盤, 準備放空.
 ```
-#二手車AM概念股(汽車鈑金): 耿鼎, 東陽, 瑞利...., 簡稱為台幣貶值概念股.
+#AM概念股(台幣貶值概念股):
+汽車鈑金: 耿鼎, 東陽, 瑞利
+車燈: 堤維西, 帝寶
 
 [衝擊AM族群上半年獲利的最大變數－匯損(台幣現在狂貶值, 所以會造成獲利放大)](https://ctee.com.tw/news/stocks/486014.html)
+![image](https://github.com/lepg5487/Stock_God/blob/master/img/AM.png)
+
 
 ## 2022/05/18
 ```
