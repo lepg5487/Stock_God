@@ -22,6 +22,7 @@ layout: testlayouts
 #AM概念股(台幣貶值概念股):
 汽車鈑金: 耿鼎, 東陽, 瑞利
 車燈: 堤維西, 帝寶
+塑膠件: 東陽, 昭輝
 
 [衝擊AM族群上半年獲利的最大變數－匯損(台幣現在狂貶值, 所以會造成獲利放大)](https://ctee.com.tw/news/stocks/486014.html)
 ![image](https://github.com/lepg5487/Stock_God/blob/master/img/AM.png)
@@ -1077,12 +1078,13 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 
-## 題材整理 05/17
+## 題材整理 05/19
 ```
-#台幣貶值概念股:
-二手車AM概念股(汽車鈑金): 耿鼎, 東陽, 瑞利....;
+#AM概念股(台幣貶值概念股):
+汽車鈑金: 耿鼎, 東陽, 瑞利
+車燈: 堤維西, 帝寶
+塑膠件: 東陽, 昭輝
 車用鏡頭: 華晶科, 致伸
-
 
 #特斯拉概念: 華浮
 低軌衛星: 台揚, 建漢, 萬泰科
