@@ -25,6 +25,7 @@ layout: testlayouts
 塑膠件: 東陽, 昭輝
 
 [衝擊AM族群上半年獲利的最大變數－匯損(台幣現在狂貶值, 所以會造成獲利放大)](https://ctee.com.tw/news/stocks/486014.html)
+
 ![image](https://github.com/lepg5487/Stock_God/blob/master/img/AM.png)
 
 
