@@ -1075,6 +1075,11 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 05/17
 ```
+#台幣貶值概念股:
+二手車AM概念股(汽車鈑金): 耿鼎, 東陽, 瑞利....;
+車用鏡頭: 華晶科, 致伸
+
+
 #特斯拉概念: 華浮
 低軌衛星: 台揚, 建漢, 萬泰科
 抬頭顯: 怡利電, 萬旭, 普誠, 英濟, 大眾控, 力特,
