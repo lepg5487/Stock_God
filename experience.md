@@ -194,6 +194,9 @@ IC設計 -> 晶圓代工 ->  IC封測 -> 電腦
 ```
 
 ---
+## 開放融資券有機會漲停
+[上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
+[櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
 
 ## "大跌"標準進場SOP
 ```
@@ -231,8 +234,5 @@ IC設計 -> 晶圓代工 ->  IC封測 -> 電腦
 如果沒買到最么的, 想期待落後補漲, 
 第二么股標準: 能使用融資 > 股價便宜 = 股本最小.
 ```
-## 開放融資券
-[上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
-[櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
-```
-```
+
+
