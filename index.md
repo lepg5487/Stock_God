@@ -16,6 +16,11 @@ layout: testlayouts
 
 萬旭05/24法說會, 加權月線站上有機會.
 所羅門子公司漲停(新門), 造成所羅門往上拉, 但是被下降壓力往下打.
+
+開放融資券有機會漲停
+[上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
+[櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
+
 -----------------檢討分割線-----------------
 #AM概念股(台幣貶值概念股):
 汽車鈑金: 耿鼎, 東陽, 瑞利
