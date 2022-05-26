@@ -29,7 +29,7 @@ layout: testlayouts
 所羅門子公司漲停(新門), 造成所羅門往上拉, 但是被下降壓力往下打.
 
 台揚漲停原因, 今天開放融資.
-開放融資券有機會漲停
+開放融資券有機會漲停: 每年04月1x日, 每年05月2x日, 每年08月2x日, 每年11月2x日, 公布.
 [上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
 [櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
 
