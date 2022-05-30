@@ -200,6 +200,13 @@ IC設計 -> 晶圓代工 ->  IC封測 -> 電腦
 [上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
 [櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
 
+## 富時指數調整偷吃豆腐: 每年3月1X前,6月1X前,9月1X前,12月1X前, 公布.
+[富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
+```
+富時指數調整:3,6,9,12月。
+看台灣50和中型100的成分股納入個股。
+月的第三個星期五生效，星期二、三買進，接著沿著技術面操作。
+```
 
 ## "大跌"標準進場SOP
 ```
@@ -210,12 +217,7 @@ IC設計 -> 晶圓代工 ->  IC封測 -> 電腦
 或是買進投信持續買的多頭個股(10%持股以下)
 ```
 
-## [富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
-```
-富時指數調整:3,6,9,12月。
-看台灣50和中型100的成分股納入個股。
-月的第三個星期五生效，星期二、三買進，接著沿著技術面操作。
-```
+
 ## 遊戲股
 ```
 台北國際電玩展星期六(01/22)開始, 今天反映遊戲股, 所以遊戲要前四天(01/18)買入等待
