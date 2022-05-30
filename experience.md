@@ -10,7 +10,7 @@ layout: testlayouts
 ```
 
 ---
-## 開放融資券有機會漲停: 每年04月1x日, 每年05月2x日, 每年08月2x日, 每年11月2x日, 公布.
+## 開放融資券有機會漲停: 每年04月1x日, 每年05月2x日, 每年08月2x日, 每年11月2x日公布.
 [上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
 
 [櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
@@ -27,13 +27,15 @@ layout: testlayouts
 
 ---
 
-## MSCI調整偷吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前, 公布.
+## MSCI調整偷吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前公布.
 
 Step 1: [查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsList): MSCI指數
 
 Step 2: [看到公布了以後去美國網站看新增刪除誰](https://www.msci.com/zh/index-review)
 
-點選 `MSCI Global Standard Indexes List of Additions/Deletions` 和 `MSCI Small Cap Indexes List of Additions/Deletions` 
+點選 `MSCI Global Standard Indexes List of Additions/Deletions`
+
+和 `MSCI Small Cap Indexes List of Additions/Deletions` 
 
 Step 3: 搜尋 `MSCI TAIWAN`
 
