@@ -31,12 +31,13 @@ Step 1: [查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsLi
 
 Step 2: [看到公布了以後去美國網站看新增刪除誰](https://www.msci.com/zh/index-review)
 
-點選 `MSCI Global Standard Indexes List of Additions/Deletions` 和 `MSCI Small Cap Indexes List of Additions/Deletions` 搜尋: MSCI TAIWAN
+點選 `MSCI Global Standard Indexes List of Additions/Deletions` 和 `MSCI Small Cap Indexes List of Additions/Deletions` 
+
+搜尋: MSCI TAIWAN
 
 Step 3: Additions 和 Deletions 下面就是新增和移除的個股.
 ```
-
-
+---
 
 # 國際趨勢
 
