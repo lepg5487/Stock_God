@@ -27,7 +27,7 @@ layout: testlayouts
 
 ---
 
-## MSCI調整偷吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前公布.
+## MSCI吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前公布.
 
 Step 1: [查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsList): MSCI指數
 
