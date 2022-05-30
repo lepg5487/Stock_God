@@ -42,6 +42,8 @@ Step 3: 搜尋 `MSCI TAIWAN`
 
 Step 4: Additions 和 Deletions 下面就是新增和移除的個股.
 
+Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候生效.
+
 
 ---
 
