@@ -2,6 +2,36 @@
 layout: testlayouts
 ---
 
+## 真財富密碼
+```
+當一直大跌時, 每天開啟三竹智選股查看"股價創近20日新低家數",
+如果發現超過800家創新低, 那天就是指數最低點.
+當天收盤前all in買進0050或2330.
+```
+
+---
+## 開放融資券有機會漲停: 每年04月1x日, 每年05月2x日, 每年08月2x日, 每年11月2x日, 公布.
+[上市市場搜尋](https://www.twse.com.tw/zh/news/newsList): 恢復融資融券交易
+[櫃買市場搜尋](https://www.tpex.org.tw/web/bulletin/announcement/announcement_result.php?l=zh-tw): 公告本中心審核上櫃公司
+
+---
+
+## 富時指數調整偷吃豆腐: 每年3月10日前,6月10日前,9月10日前,12月10日前, 公布.
+[富時指數調整查詢](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
+```
+富時指數調整:3,6,9,12月。
+看台灣50和中型100的成分股納入個股。
+月的第三個星期五生效，星期二、三買進，接著沿著技術面操作。
+```
+---
+
+## MSCI調整偷吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前, 公布.
+[查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsList): MSCI指數
+[看到公布了以後去美國網站看新增刪除誰](https://www.msci.com/zh/index-review):
+
+
+
+
 # 國際趨勢
 
 [融資維持率150%以下準備反彈](https://www.cmoney.tw/finance/f00012.aspx)
