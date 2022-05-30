@@ -26,9 +26,11 @@ layout: testlayouts
 ---
 
 ## MSCI調整偷吃豆腐: 每年02月15日前, 每年05月15日前, 每年08月15日前, 每年11月15日前, 公布.
-[查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsList): MSCI指數
-[看到公布了以後去美國網站看新增刪除誰](https://www.msci.com/zh/index-review):
-
+Step 1: [查詢美國公布了沒,搜尋](https://www.twse.com.tw/zh/news/newsList): MSCI指數
+Step 2: [看到公布了以後去美國網站看新增刪除誰](https://www.msci.com/zh/index-review): 
+點選 `MSCI Global Standard Indexes List of Additions/Deletions` 和 `MSCI Small Cap Indexes List of Additions/Deletions` 搜尋: MSCI TAIWAN
+Step 3: Additions 和 Deletions 下面就是新增和移除的個股.
+```
 
 
 
