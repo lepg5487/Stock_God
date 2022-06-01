@@ -5,6 +5,12 @@ layout: testlayouts
 # 少年股神的日記 
 
 ---
+
+## 2022/06/01
+```
+投信股: 貿聯, 神準.
+```
+
 ## 2022/05/31
 [富時指數調整公布](https://www.taiwanindex.com.tw/technicalNotice/index?count=100&year_range=&month_range=&category=&keyword=%E5%AF%8C%E6%99%82%E5%9C%8B%E9%9A%9B)
 ```
