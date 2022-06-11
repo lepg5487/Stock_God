@@ -2,7 +2,7 @@
 layout: testlayouts
 ---
 
-# 少年股神的日記 
+# 青年股神的日記 
 
 ---
 
