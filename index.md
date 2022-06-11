@@ -10,7 +10,7 @@ layout: testlayouts
 ```
 VIX期貨(VXmain(2207))比.VIX指數反應還明顯, 比較好用.
 像是06/09 VIX期貨早就向上缺口了, 所以早該提前烙跑.
-下次CPI公布可以參考.
+下次CPI公布時間可以參考做多或做空.
 ```
 
 ![image](https://github.com/lepg5487/Stock_God/blob/master/img/CPI.png)
