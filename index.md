@@ -13,6 +13,8 @@ VIX期貨(VXmain(2207))比.VIX指數反應還明顯, 比較好用.
 下次CPI公布時間可以參考做多或做空.
 ```
 
+[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
+
 ![image](https://github.com/lepg5487/Stock_God/blob/master/img/CPI.png)
 
 ## 2022/06/10
