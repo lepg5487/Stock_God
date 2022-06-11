@@ -71,6 +71,9 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 [基本面大補帖上中下游](https://ic.tpex.org.tw/introduce.php?ic=D000)
 
+[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
+
+
 ---
 
 ## 財富密碼
