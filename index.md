@@ -10,7 +10,10 @@ layout: testlayouts
 ```
 VIX期貨(VXmain(2207))比.VIX指數反應還明顯, 比較好用.
 像是06/09 VIX期貨早就向上缺口了, 所以早該提前烙跑.
+下次CPI公布可以參考.
 ```
+
+![image](https://github.com/lepg5487/Stock_God/blob/master/img/CPI.png)
 
 ## 2022/06/10
 ```
@@ -304,7 +307,6 @@ IP: 創意, 愛普, 億而得
 [衝擊AM族群上半年獲利的最大變數－匯損(台幣現在狂貶值, 所以會造成獲利放大)](https://ctee.com.tw/news/stocks/486014.html)
 
 ![image](https://github.com/lepg5487/Stock_God/blob/master/img/AM.png)
-
 
 ## 2022/05/18
 ```
