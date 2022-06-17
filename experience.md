@@ -77,6 +77,8 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 [原油](https://www.msn.com/zh-tw/money/markets/commoditydetails/fi-auvx3m?duration=1D)
 
+[原油(均線)](https://www.wantgoo.com/global/brent)
+
 [周轉率20%以上別碰,沒大戶在顧](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm)
 
 [基本面大補帖上中下游](https://ic.tpex.org.tw/introduce.php?ic=D000)
