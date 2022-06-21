@@ -15,6 +15,7 @@ layout: testlayouts
 
 美元指數, 台幣, 日幣, 都沒破線的情況下都看空, 和大盤幾乎100%走勢, 其實VIX也差不多.
 ```
+[當沖標的:投信買超佔發行張數, 第一名買超卻沒漲過的標的](https://goodinfo.tw/tw/StockList.asp?RPT_TIME=&MARKET_CAT=%E7%86%B1%E9%96%80%E6%8E%92%E8%A1%8C&INDUSTRY_CAT=%E6%8A%95%E4%BF%A1%E8%B2%B7%E8%B6%85%E4%BD%94%E7%99%BC%E8%A1%8C%E5%BC%B5%E6%95%B8+%E2%80%93+%E7%95%B6%E6%97%A5%40%40%E6%8A%95%E4%BF%A1%E8%B2%B7%E8%B6%85%E4%BD%94%E7%99%BC%E8%A1%8C%E5%BC%B5%E6%95%B8%40%40%E6%8A%95%E4%BF%A1+%E2%80%93+%E7%95%B6%E6%97%A5)
 
 ## 2022/06/20
 ```
