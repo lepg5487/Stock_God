@@ -12,6 +12,7 @@ layout: testlayouts
 800家創20日新低以後, 上緯投控都有機會拉一次, 下次一定買.
 07/14台積電法說會影響下次電子的主流股是誰, 上次是創意高速運算.
 ```
+[台積電重點在於"法人說明會簡報"裡面的圖](https://investor.tsmc.com/chinese/quarterly-results/2022/q2)
 
 ## 2022/07/04
 ```
