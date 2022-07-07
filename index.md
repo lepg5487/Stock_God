@@ -1626,6 +1626,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 07/05
 ```
+新族群: 大立光, 先進光, 聯一光, 玉晶光, 揚明光, 今國光.
+
 景氣復甦概念: 寶雅, 泰山.
 
 宏達電家族漲的順序, 先漲同家族 -> 再遊戲NFT.
