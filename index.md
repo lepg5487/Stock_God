@@ -12,7 +12,7 @@ layout: testlayouts
 7/13美國公布CPI, 晚上應該會下殺一段.
 油價還崩破100, 通膨降溫.
 急漲急跌不留倉.
-生計站上10日線比加權電子強.
+生計指數站上10日線比加權電子強.
 ```
 [查詢某日強勢股](https://www.cnyes.com/twstock/ranking2.aspx)
 
