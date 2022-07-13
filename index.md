@@ -13,6 +13,7 @@ layout: testlayouts
 油價還崩破100, 通膨降溫.
 急漲急跌不留倉.
 生計指數站上10日線比加權電子強.
+比亞迪崩跌, 比亞迪概念股: 胡連, 空.
 ```
 [查詢某日強勢股](https://www.cnyes.com/twstock/ranking2.aspx)
 
