@@ -100,7 +100,7 @@ Step2. 再尋找高價股底下的營收好個股.
 ```
 [台積電重點在於"法人說明會簡報"裡面的圖](https://investor.tsmc.com/chinese/quarterly-results/2022/q2)
 
-[查詢某日強勢股](https://goodinfo.tw/tw/StockList.asp?MARKET_CAT=%E6%99%BA%E6%85%A7%E9%81%B8%E8%82%A1&INDUSTRY_CAT=%E6%BC%B23%25%E8%82%A1)
+[查詢某日強勢股](https://www.cnyes.com/twstock/ranking2.aspx)
 
 ## 2022/07/04
 ```
