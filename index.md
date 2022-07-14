@@ -5,9 +5,9 @@ layout: testlayouts
 # 青年股神的日記 
 元宇宙:  [揚明光, 玉晶光](https://news.cnyes.com/news/id/4754093?exp=a), [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [佳能, 華晶科](https://news.cnyes.com/news/id/4782823)
 
-NFT元宇宙: [霹靂, 歐買尬, 中環, 辣椒, 網龍,智冠,宇峻](https://news.cnyes.com/news/id/4796462?exp=a)
+NFT元宇宙: [霹靂, 歐買尬, 中環, 辣椒, 網龍, 智冠, 宇峻](https://news.cnyes.com/news/id/4796462?exp=a)
 
-車載元宇宙: [大眾控、怡利電、英濟、智晶](https://news.cnyes.com/news/id/4780092),
+車載元宇宙: [大眾控, 怡利電, 英濟, 智晶](https://news.cnyes.com/news/id/4780092),
 
 網通元宇宙: [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [華通](https://news.cnyes.com/news/id/4773276?exp=a)
 
