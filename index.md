@@ -10,6 +10,7 @@ layout: testlayouts
 明天處置生計飆股佰研出關, 後天位速出關.
 7/14台積電、大立光法說會
 ```
+元宇宙: [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [驊訊, 威鋒電子](https://news.cnyes.com/news/id/4750279?exp=a), 
 
 ## 2022/07/13
 ```
