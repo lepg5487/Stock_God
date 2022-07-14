@@ -13,7 +13,7 @@ layout: testlayouts
 
 網通元宇宙: [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [華通](https://news.cnyes.com/news/id/4773276?exp=a)
 
-IC設計元宇宙: [愛普](https://news.cnyes.com/news/id/4759807?exp=a), [義隆, 亞信](https://news.cnyes.com/news/id/4757475?exp=a), [普誠, 聚鼎](https://news.cnyes.com/news/id/4782823), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [佐臻, 芯鼎, 凌陽創新](https://news.cnyes.com/news/id/4765914?exp=a)
+IC設計元宇宙: [愛普](https://news.cnyes.com/news/id/4759807?exp=a), [義隆, 亞信](https://news.cnyes.com/news/id/4757475?exp=a), [普誠, 聚鼎](https://news.cnyes.com/news/id/4782823), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [佐臻, 芯鼎, 凌陽創新](https://news.cnyes.com/news/id/4765914?exp=a), [揚智](https://news.cnyes.com/news/id/4793044)
 
 LED元宇宙: [億光, 佰鴻, 宏齊, 光鋐](https://news.cnyes.com/news/id/4775204?exp=a), [台亞](https://news.cnyes.com/news/id/4756844?exp=a)
 
