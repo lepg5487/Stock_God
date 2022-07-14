@@ -9,6 +9,8 @@ layout: testlayouts
 
 車載元宇宙: [大眾控, 怡利電, 英濟, 智晶](https://news.cnyes.com/news/id/4780092),
 
+連接器元宇宙: [萬旭](https://news.cnyes.com/news/id/4821737)
+
 網通元宇宙: [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [華通](https://news.cnyes.com/news/id/4773276?exp=a)
 
 IC設計元宇宙: [愛普](https://news.cnyes.com/news/id/4759807?exp=a), [義隆, 亞信](https://news.cnyes.com/news/id/4757475?exp=a), [普誠, 聚鼎](https://news.cnyes.com/news/id/4782823), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [佐臻, 芯鼎, 凌陽創新](https://news.cnyes.com/news/id/4765914?exp=a)
