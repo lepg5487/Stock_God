@@ -3,7 +3,7 @@ layout: testlayouts
 ---
 
 # 青年股神的日記 
-元宇宙: [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [驊訊, 威鋒電子](https://news.cnyes.com/news/id/4750279?exp=a), [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [揚明光, 玉晶光](https://news.cnyes.com/news/id/4754093?exp=a), [大眾控、怡利電、英濟、智晶](https://news.cnyes.com/news/id/4780092), [普誠, 佳能, 聚鼎, 華晶科](https://news.cnyes.com/news/id/4782823)
+元宇宙: [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [揚明光, 玉晶光](https://news.cnyes.com/news/id/4754093?exp=a), [大眾控、怡利電、英濟、智晶](https://news.cnyes.com/news/id/4780092), [普誠, 佳能, 聚鼎, 華晶科](https://news.cnyes.com/news/id/4782823), [霹靂, 歐買尬, 中環, 辣椒, 網龍,智冠,宇峻](https://news.cnyes.com/news/id/4796462?exp=a), 
 
 ## 2022/07/14
 ```
