@@ -3,22 +3,6 @@ layout: testlayouts
 ---
 
 # 青年股神的日記 
-光學元宇宙:  [揚明光, 玉晶光](https://news.cnyes.com/news/id/4754093?exp=a), [先進光](https://news.cnyes.com/news/id/4754166), [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [佳能, 華晶科](https://news.cnyes.com/news/id/4782823), 
-
-體感元宇宙: [智崴](https://news.cnyes.com/news/id/4760530?exp=a)
-
-車載元宇宙: [大眾控, 怡利電, 英濟, 智晶](https://news.cnyes.com/news/id/4780092),
-
-連接器元宇宙: [萬旭](https://news.cnyes.com/news/id/4821737)
-
-網通元宇宙: [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [華通](https://news.cnyes.com/news/id/4773276?exp=a)
-
-IC設計元宇宙: [愛普](https://news.cnyes.com/news/id/4759807?exp=a), [義隆, 亞信](https://news.cnyes.com/news/id/4757475?exp=a), [普誠, 聚鼎](https://news.cnyes.com/news/id/4782823), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [佐臻, 芯鼎, 凌陽創新](https://news.cnyes.com/news/id/4765914?exp=a), [揚智](https://news.cnyes.com/news/id/4793044)
-
-LED元宇宙: [億光, 佰鴻, 宏齊, 光鋐](https://news.cnyes.com/news/id/4775204?exp=a), [台亞](https://news.cnyes.com/news/id/4756844?exp=a)
-
-NFT元宇宙: [霹靂, 歐買尬, 中環, 辣椒, 網龍, 智冠, 宇峻](https://news.cnyes.com/news/id/4796462?exp=a)
-
 ## 2022/07/14
 ```
 晚上美股開低走高費半+2%(站上月線), 其他平盤, 早上期貨平盤.
@@ -30,7 +14,8 @@ NFT元宇宙: [霹靂, 歐買尬, 中環, 辣椒, 網龍, 智冠, 宇峻](https:
 IC設計元宇宙: [揚智]轉虧為盈, 應該不只一天行情.
 比亞迪屌崩又屌漲, 胡連又有戲了.
 
-突然發現怡利電現金增資60元, 最低點竟然真的是60元, 觀察其他現金增資股, 最後過戶日以後買進?.
+突然發現怡利電現金增資60元, 最低點竟然真的是60元, 觀察其他現金增資股, 最後過戶日以後買進?
+營收超好的可能比較有機會.
 ```
 
 ## 2022/07/14
@@ -1818,3 +1803,19 @@ PCB設備: 港建
 (運送): 宅配通, 嘉里大榮, 中櫃, 益航, 志信, 榮運,
 (運輸股): 長榮, 陽明, 萬海, 台驊投控,
 ```
+
+光學元宇宙:  [揚明光, 玉晶光](https://news.cnyes.com/news/id/4754093?exp=a), [先進光](https://news.cnyes.com/news/id/4754166), [中光電](https://news.cnyes.com/news/id/4750311?exp=a), [佳能, 華晶科](https://news.cnyes.com/news/id/4782823), 
+
+體感元宇宙: [智崴](https://news.cnyes.com/news/id/4760530?exp=a)
+
+車載元宇宙: [大眾控, 怡利電, 英濟, 智晶](https://news.cnyes.com/news/id/4780092),
+
+連接器元宇宙: [萬旭](https://news.cnyes.com/news/id/4821737)
+
+網通元宇宙: [聯亞](https://news.cnyes.com/news/id/4751268?exp=a), [訊連](https://news.cnyes.com/news/id/4753861?exp=a), [華通](https://news.cnyes.com/news/id/4773276?exp=a)
+
+IC設計元宇宙: [愛普](https://news.cnyes.com/news/id/4759807?exp=a), [義隆, 亞信](https://news.cnyes.com/news/id/4757475?exp=a), [普誠, 聚鼎](https://news.cnyes.com/news/id/4782823), [驊訊, 威鋒電子, 鈺創](https://news.cnyes.com/news/id/4750279?exp=a), [佐臻, 芯鼎, 凌陽創新](https://news.cnyes.com/news/id/4765914?exp=a), [揚智](https://news.cnyes.com/news/id/4793044)
+
+LED元宇宙: [億光, 佰鴻, 宏齊, 光鋐](https://news.cnyes.com/news/id/4775204?exp=a), [台亞](https://news.cnyes.com/news/id/4756844?exp=a)
+
+NFT元宇宙: [霹靂, 歐買尬, 中環, 辣椒, 網龍, 智冠, 宇峻](https://news.cnyes.com/news/id/4796462?exp=a)
