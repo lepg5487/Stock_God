@@ -110,6 +110,8 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 # 國際趨勢
 
+[台股每日當沖比例](https://www.twse.com.tw/zh/page/trading/exchange/TWTB4U2.html)
+
 [台積電重點在於"法人說明會簡報"裡面的圖](https://investor.tsmc.com/chinese/quarterly-results/2022/q2)
 
 [查詢某日強勢股](https://www.cnyes.com/twstock/ranking2.aspx)
