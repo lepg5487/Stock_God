@@ -10,6 +10,7 @@ layout: testlayouts
 Meta +5.82%, 今天應該是元宇宙局, 但是建達提前漲, 或許揚明光, 怡利電.
 開盤進場, 創意當沖, 開太高沖不了= =
 中光電漲停, 沖揚明光, 還是覺得當沖舒服一點, 當沖比例下降再留倉.
+誰有題材就沖誰, 誰漲停就沖誰.
 觀察先進光, 連一光.
 ```
 [台股每日當沖比例](https://www.twse.com.tw/zh/page/trading/exchange/TWTB4U2.html)
