@@ -154,6 +154,9 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 [CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
 
+[通膨預期1](https://tradingeconomics.com/united-states/inflation-expectations)
+
+[通脹預期2]([https://tradingeconomics.com/united-states/inflation-expectations](https://www.newyorkfed.org/microeconomics/topics/inflation))
 
 ---
 
