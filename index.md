@@ -56,6 +56,7 @@ layout: testlayouts
 
 全友越強, 加碼金橋.
 ```
+[國巨新聞](https://www.moneydj.com/funddj/ya/yp050000.djhtm?a=1d11c11c-9b95-495d-94de-5d6f60596309)
 
 ## 2022/09/07
 ```
