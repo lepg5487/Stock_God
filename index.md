@@ -55,6 +55,7 @@ layout: testlayouts
 凱美, 減資後上市09月12日.
 
 全友越強, 加碼金橋.
+靠賽華新科.
 ```
 [國巨新聞](https://www.moneydj.com/funddj/ya/yp050000.djhtm?a=1d11c11c-9b95-495d-94de-5d6f60596309)
 
