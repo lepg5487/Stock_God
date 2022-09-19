@@ -4,11 +4,11 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣03/17.
+[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣03/17.
 
 [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算, 07/20結算.
 
-[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733) 2022年9月13日, 2022年8月10日, 2022年7月13日, 2022年6月10日.
+[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733), 2022年9月13日, 2022年8月10日, 2022年7月13日, 2022年6月10日.
 
 ## 2022/09/20
 ```
