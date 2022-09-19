@@ -134,6 +134,12 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 
 [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/)
 
+[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
+
+[通膨預期1](https://tradingeconomics.com/united-states/inflation-expectations)
+
+[通脹預期2](https://www.newyorkfed.org/microeconomics/topics/inflation)
+
 [查詢某日強勢股1](https://www.cnyes.com/twstock/ranking2.aspx)
 
 [查詢某日強勢股2](https://www.tpex.org.tw/web/stock/historical/active_advanced/rt_rally.php?l=zh-tw)
@@ -167,13 +173,6 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 [周轉率20%以上別碰,沒大戶在顧](https://fubon-ebrokerdj.fbs.com.tw/z/zg/zg_BD_0_0.djhtm)
 
 [基本面大補帖上中下游](https://ic.tpex.org.tw/introduce.php?ic=D000)
-
-[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
-
-[通膨預期1](https://tradingeconomics.com/united-states/inflation-expectations)
-
-[通脹預期2](https://www.newyorkfed.org/microeconomics/topics/inflation)
-
 ---
 
 ## 財富密碼
