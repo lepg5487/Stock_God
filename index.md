@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21* = 台灣09/22, July 26-27 = 07/28, May3-4 = 05/04, March 15-16* = 03/17.
+[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21買, July 26-27 = 07/27買, May 3-4 = 05/04買, March 15-16 = 03/16買.
 
 [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算, 07/20結算.
 
