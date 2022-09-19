@@ -4,9 +4,9 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣03/17
+[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣03/17.
 
-[台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/)
+[台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算, 07/20結算.
 
 [CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733) 2022年9月13日, 2022年8月10日, 2022年7月13日, 2022年6月10日.
 
@@ -14,7 +14,10 @@ layout: testlayouts
 ```
 晚上美股費半 +0.5%, 早上期貨 +0.2%, 盤後沒事.
 
-CPI公布,升息以前 都是IP最低點.
+09/21台指期結算, 09/22美國升息.
+09/21台股最低點不唬爛, 尋找除了IP以外的個股.
+
+CPI公布, 升息以前, 都是IP最低點.
 ```
 
 ## 2022/09/19
