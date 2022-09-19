@@ -136,6 +136,8 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 
 [CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
 
+[CPI未來公布時間](https://chihyun.tw/cpi-release-date/)
+
 [通膨預期1](https://tradingeconomics.com/united-states/inflation-expectations)
 
 [通脹預期2](https://www.newyorkfed.org/microeconomics/topics/inflation)
