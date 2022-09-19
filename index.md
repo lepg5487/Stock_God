@@ -8,13 +8,13 @@ layout: testlayouts
 
 [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/)
 
-[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733)
+[CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733) 2022年9月13日, 2022年8月10日, 2022年7月13日, 2022年6月10日.
 
 ## 2022/09/20
 ```
 晚上美股費半 +0.5%, 早上期貨 +0.2%, 盤後沒事.
 
-CPI公布 2022年9月13日, 2022年8月10日, 2022年7月13日, 2022年6月10日.
+CPI公布,升息以前 都是IP最低點.
 ```
 
 ## 2022/09/19
