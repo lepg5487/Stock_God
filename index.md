@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21買, July 26-27 = 07/27買, May 3-4 = 05/04買, March 15-16 = 03/16買.
+[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21買, July 26-27 = 07/27買, March 15-16 = 06/16買, May 3-4 = 05/04買, March 15-16 = 03/16買.
 
 [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算, 07/20結算. (結算當天尾盤買進)
 
@@ -14,7 +14,7 @@ layout: testlayouts
 
 ## 2022/09/20
 ```
-晚上美股費半 %, 早上期貨 %, 盤後沒事.
+晚上美股費半 +0.5%, 早上期貨 +0.5%, 盤後沒事.
 
 09/21台指期結算, 09/22美國升息.
 09/21台股收盤最低點不唬爛, 尋找除了IP以外的個股.
