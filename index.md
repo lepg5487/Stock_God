@@ -12,7 +12,7 @@ layout: testlayouts
 
 [CPI歷史走勢](https://hk.investing.com/economic-calendar/cpi-733), 9月13日, 8月10日, 7月13日, 6月10日. (日期以後買進IP).
 
-## 2022/09/21
+## 2022/09/22
 ```
 晚上美股費半 -1.5%, 早上期貨 -0.8%, 盤後NVDA -1.3%, AMD -1%, Meta -1%.
 國安基金會如何表演呢?
