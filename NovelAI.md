@@ -5,13 +5,11 @@ layout: testlayouts
 # 進度
 #### 要
 ```
-masterpiece, best quality, 
-female pervert, braid, nose blush, tareme, white background, collarbone, thigh, hips, full body, looking at viewer, closed mouth, smile, covering breasts, heart-shaped pupils, undressing, gown
+masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, braid, tareme, closed mouth, smile, collarbone, thigh, hips, full body, covering breasts, caustics, forest, gown
 ```
 #### 不要
 ```
-nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, bad anatomy, bad hands, fewer digits, extra digit, missing arms,
-facing away, pubic hair, foot
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, toony, dated, low res, line art, flat colors, nsfw, pubic hair, foot, facing away, kneeling
 ```
 
 ## 參數
@@ -22,3 +20,4 @@ Denoising strength 則是可以簡單理解成原圖片的保留程度。
 ### 參考資料
 
 [CFG Scale ,Denoising strength 解釋](https://zhuanlan.zhihu.com/p/574063064)
+[標籤購物](https://tags.novelai.dev/)
