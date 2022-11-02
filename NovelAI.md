@@ -6,12 +6,12 @@ layout: testlayouts
 #### 要
 ```
 masterpiece, best quality, 
-female pervert, braid, blush, tareme, white background, guided penetration,
+female pervert, braid, blush, tareme, white background, collarbone, thigh, navel, hips, naked shirt, full body, looking at viewer, closed mouth, smile, covering breasts, heart-shaped pupils, undressing, happy sex, girl on top,
 ```
 #### 不要
 ```
 nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, bad anatomy, bad hands, fewer digits, extra digit, missing arms,
-facing away, 
+facing away, pubic hair, foot
 ```
 
 ## 參數
