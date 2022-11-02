@@ -6,7 +6,7 @@ layout: testlayouts
 #### 要
 ```
 masterpiece, best quality, 
-female pervert, braid, blush, tareme, white background, collarbone, thigh, navel, hips, naked shirt, full body, looking at viewer, closed mouth, smile, covering breasts, heart-shaped pupils, undressing, happy sex, girl on top,
+female pervert, braid, nose blush, tareme, white background, collarbone, thigh, hips, full body, looking at viewer, closed mouth, smile, covering breasts, heart-shaped pupils, undressing, gown
 ```
 #### 不要
 ```
