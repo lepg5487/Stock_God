@@ -1,3 +1,7 @@
+---
+layout: testlayouts
+---
+
 # 參數
 CFG Scale 這個可以簡單理解為AI對描述參數(tag)的傾向程度。
 
