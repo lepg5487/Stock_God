@@ -11,9 +11,9 @@ masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, br
 ```
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, dated, low res, flat colors, bad feet, futa,
 
-nsfw, pubic hair, facing away, 
+nsfw, pubic hair, 
 ```
-kneeling
+kneeling, facing away,
 
 ## 參數
 CFG Scale 這個可以簡單理解為AI對描述參數(tag)的傾向程度。
