@@ -5,11 +5,13 @@ layout: testlayouts
 # 進度
 #### 要
 ```
-masterpiece, best quality, extremely detailed cg unity 8k wallpaper, landscape, light persona, caustics, (harem:2.000), light smile, skirt, full body, beautiful detailed eyes, finely detail, black hair, collarbone, bare shoulders, medium breasts, looking at viewer
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 2girls, izakaya, full body, black hair, collarbone, off shoulder, small breasts, low twintails
+
 ```
 #### 不要
 ```
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+
 ```
 test: light persona(美化), hair up(頭髮盤起來),
 kneeling, facing away,
