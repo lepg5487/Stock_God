@@ -20,6 +20,7 @@ layout: testlayouts
 記錄: 台股指數前一日+1~2%, 美股晚上-3%, 找前一日強勢股 + 美股期貨明顯急拉V + 9:10以後 + 預估量出量>昨量 + 漲幅綠的 = 買點 德宏 和 中視.
 
 ```
+![image](https://user-images.githubusercontent.com/26459046/199635204-045ec25d-6203-41af-bfe3-5fd1a385db37.png)
 
 ## 2022/11/02
 ```
