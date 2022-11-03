@@ -10,7 +10,6 @@ masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, br
 #### 不要
 ```
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, dated, low res, flat colors, bad feet, futa,
-
 nsfw, pubic hair, 
 ```
 test: light persona(美化), hair up(頭髮盤起來),
