@@ -14,6 +14,7 @@ nsfw, pubic hair,
 ```
 test: light persona(美化), hair up(頭髮盤起來),
 kneeling, facing away,
+covering breasts, covering crotch,
 
 ## 參數
 CFG Scale 這個可以簡單理解為AI對描述參數(tag)的傾向程度。
