@@ -5,8 +5,7 @@ layout: testlayouts
 # 進度
 #### 要
 ```
-masterpiece, best quality, extremely detailed cg unity 8k wallpaper, landscape, light persona, caustics, harem, black hair, collarbone, bare shoulders, medium breasts, light smile, tareme, skirt, full body, looking at viewer
-
+masterpiece, best quality, extremely detailed cg unity 8k wallpaper, landscape, light persona, caustics, (harem:2.000), light smile, skirt, full body, beautiful detailed eyes, finely detail, black hair, collarbone, bare shoulders, medium breasts, looking at viewer
 ```
 #### 不要
 ```
