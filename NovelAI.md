@@ -5,11 +5,13 @@ layout: testlayouts
 # 進度
 #### 要
 ```
-masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, braid, tareme, closed mouth, smile, collarbone, thigh, hips, full body, covering breasts, caustics, forest, gown
+masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, braid, tareme, closed mouth, smile, collarbone, thigh, hips, full body, covering breasts, caustics, forest, gown,
 ```
 #### 不要
 ```
-lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, toony, dated, low res, line art, flat colors, nsfw, pubic hair, foot, facing away, kneeling
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, dated, low res, flat colors, bad feet, futa,
+
+nsfw, pubic hair, foot, facing away, kneeling
 ```
 
 ## 參數
