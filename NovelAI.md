@@ -13,6 +13,7 @@ lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer
 
 nsfw, pubic hair, 
 ```
+test: light persona(美化), hair up(頭髮盤起來),
 kneeling, facing away,
 
 ## 參數
