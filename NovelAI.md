@@ -11,7 +11,7 @@ masterpiece, best quality, extremely detailed cg unity 8k wallpaper, goddess, br
 ```
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, dated, low res, flat colors, bad feet, futa,
 
-nsfw, pubic hair, foot, facing away, kneeling
+nsfw, pubic hair, facing away, kneeling
 ```
 
 ## 參數
