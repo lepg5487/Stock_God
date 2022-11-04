@@ -28,6 +28,17 @@ lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer
 ```
 ![image](https://user-images.githubusercontent.com/26459046/199923282-173679e2-43f7-4f60-875b-2b6310f5d886.png)
 
+## 世界計畫 - 宵崎奏
+#### 要
+```
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, looking to the side, 1girls, full body, small breasts, shiny hair, smile, wide-eyed, tareme, blue eyes, t-shirt, white t-shirt, long hair, hair between eyes, silver hair, beret, pink beret, overalls
+```
+#### 不要
+```
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+```
+![image](https://user-images.githubusercontent.com/26459046/199928089-5b193c34-17f4-47da-84ee-2c27e1cf6b6a.png)
+
 
 
 ## 參數
