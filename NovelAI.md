@@ -2,7 +2,7 @@
 layout: testlayouts
 ---
 
-# 進度: #約兒佛傑, #喜多川海夢
+# 進度: #約兒佛傑, 
 #### 要
 ```
 extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 2girls, izakaya, full body, black hair, collarbone, off shoulder, small breasts, braid, shiny hair
@@ -38,6 +38,16 @@ extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best qu
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
 ```
 ![image](https://user-images.githubusercontent.com/26459046/199928089-5b193c34-17f4-47da-84ee-2c27e1cf6b6a.png)
+
+## 喜多川海夢
+#### 要
+```
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, gyaru, full body, medium breasts, shiny hair, smile, wide-eyed, tareme, blonde hair, gradient hair, parted bangs, collarbone, neck ring, uniform, collared shirt, necktie, blue necktie, pleated skirt, blue pleated skirt, hoop earrings, red eyes, wristband, cherry blossoms
+```
+#### 不要
+```
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+```
 
 
 
