@@ -11,12 +11,24 @@ extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best qu
 #### 不要
 ```
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
-
 ```
 test: light persona(美化), hair up(頭髮盤起來),
 kneeling, facing away,
 covering breasts, covering crotch,
 chibi
+
+## 世界計畫 - 望月穗波
+#### 要
+```
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 1girls, full body, small breasts, shiny hair, bow, red bow, fingerless gloves, uniform, school uniform, collared shirt, buttons, light brown hair, low ponytail, smile, closed mouth, wide-eyed, tareme, blue eyes, drummer, bangs, red coat, drum, drum stick, cymbal
+```
+#### 不要
+```
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+```
+![image](https://user-images.githubusercontent.com/26459046/199923282-173679e2-43f7-4f60-875b-2b6310f5d886.png)
+
+
 
 ## 參數
 CFG Scale 這個可以簡單理解為AI對描述參數(tag)的傾向程度。
