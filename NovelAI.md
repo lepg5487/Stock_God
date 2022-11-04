@@ -53,8 +53,10 @@ Denoising strength 則是可以簡單理解成原圖片的保留程度。
 
 #### 有衣服的 R18
 ```
-collarbone, covered nipples, clothed sex, breastless clothes
+collarbone, covered nipples, clothed sex, happy sex,
 ```
-##### 主要改姿勢
+
+##### 主要改姿勢 擇1
 ```
+girl on top, guided penetration
 ```
