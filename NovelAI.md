@@ -49,7 +49,25 @@ extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best qu
 lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
 ```
 
+## 瑪奇瑪
+#### 要
+```
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, full body, medium breasts, shiny hair, bright pupils, smile, wide-eyed, tareme, collarbone, policewoman, red hair, braid, single braid, yellow eyes, spiral pupils, collared shirt, necktie
+```
+#### 不要
+```
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+```
 
+## 帕瓦 パワー
+#### 要
+```
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, full body, medium breasts, shiny hair, smile, wide-eyed, tareme, collarbone, blonde hair, parted bangs, yellow eyes, cross-shaped pupils, collared shirt, white collared shirt, necktie, black necktie, demon, red demon horns, coat
+```
+#### 不要
+```
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, simple background, low res, flat colors, bad feet, futa, missing arms, nsfw, pubic hair, foot
+```
 
 ## 參數
 CFG Scale 這個可以簡單理解為AI對描述參數(tag)的傾向程度。
