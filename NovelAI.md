@@ -42,7 +42,7 @@ lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer
 ## 喜多川海夢
 #### 要
 ```
-extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, gyaru, full body, medium breasts, shiny hair, smile, wide-eyed, tareme, blonde hair, gradient hair, parted bangs, collarbone, neck ring, uniform, collared shirt, necktie, blue necktie, pleated skirt, blue pleated skirt, hoop earrings, red eyes, wristband, cherry blossoms
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, gyaru, full body, medium breasts, shiny hair, smile, wide-eyed, tareme, blonde hair, gradient hair, parted bangs, collarbone, neck ring, uniform, collared shirt, necktie, blue necktie, pleated skirt, blue pleated skirt, hoop earrings, red eyes,
 ```
 #### 不要
 ```
