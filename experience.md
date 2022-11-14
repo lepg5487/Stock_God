@@ -14,8 +14,8 @@ layout: testlayouts
 
 
 G20美國總統和習近平見面概念股,
-[2019/06/18川普見習](https://ec.ltn.com.tw/article/breakingnews/2826594): "立積".
-[2022/11/11拜登見習](https://udn.com/news/story/6813/6756614): "立積".
+[2019/06/18川普見習](https://ec.ltn.com.tw/article/breakingnews/2826594): "立積", 中租.
+[2022/11/11拜登見習](https://udn.com/news/story/6813/6756614): "立積", 中租.
 
 東森(10/28低點, 11/03高點), 雙11事件交易.
 
