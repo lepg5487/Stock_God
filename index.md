@@ -2682,8 +2682,9 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 
-## 題材整理 10/17
+## 題材整理 11/16
 ```
+#選舉概念(國): 倫飛, 中視.
 ---------------------------------------
 #缺電概念:
 風電: 上緯投控, 永冠-KY, 華城, 中鋼構, 世紀鋼
