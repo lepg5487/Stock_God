@@ -152,6 +152,8 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 # 國際趨勢
 
+[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
 [升息M平方歷史圖](https://www.macromicro.me/time_line?id=11&stat=483)
 
 [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
