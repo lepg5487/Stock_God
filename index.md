@@ -18,6 +18,7 @@ layout: testlayouts
 汰弱留強, 誰強買誰.
 現在只能買進等噴, 環天科, 威盛, 智原.
 ```
+[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 ## 2022/11/21
 ```
