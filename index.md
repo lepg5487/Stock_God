@@ -14,6 +14,12 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2022/11/26
+```
+富時指數調整月底有機會吃豆腐, 當"加權在月季均線上" + "個股月季均線上" = 送分題.
+```
+
+
 ## 2022/11/25
 ```
 晚上美股費半休市, 早上期貨 +0.4%.
