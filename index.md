@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-送分題G20, 雙11.
+送分題G20, 雙11, 台北電玩展.
 
 [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27, March 15-16 = 06/16, May 3-4 = 05/04, March 15-16 = 03/16.
 
@@ -13,6 +13,12 @@ layout: testlayouts
 [CPI未來公布時間](https://chihyun.tw/cpi-release-date/), 9月13號, 10月13號, 11月10號, 12月13號. (日期以前出清股票).
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
+## 2022/11/29
+```
+晚上美股費半 -2.63%, 早上期貨 +0.1%, 盤後沒事.
+
+```
 
 ## 2022/11/28
 ```
