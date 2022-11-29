@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-送分題G20, 雙11, 台北國際電玩展.
+送分題G20, 雙11.
 
 [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27, March 15-16 = 06/16, May 3-4 = 05/04, March 15-16 = 03/16.
 
