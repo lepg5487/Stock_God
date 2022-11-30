@@ -6,11 +6,11 @@ layout: testlayouts
 
 送分題G20, 雙11.
 
-[升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27, March 15-16 = 06/16, May 3-4 = 05/04, March 15-16 = 03/16.
+台灣時間12/14升息. [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27
 
-[台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算, 07/20結算, 06/15結算. (結算當天尾盤買進)
+台灣時間12/21結算. [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-[CPI未來公布時間](https://chihyun.tw/cpi-release-date/), 9月13號, 10月13號, 11月10號, 12月13號. (日期以前出清股票).
+台灣時間12/13號公布. [CPI未來公布時間](https://chihyun.tw/cpi-release-date/), 11月10號, 12月13號. (日期以前出清股票).
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
