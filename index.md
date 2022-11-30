@@ -20,9 +20,10 @@ layout: testlayouts
 ```
 晚上美股費半 -0.3%, 早上期貨 -0.1%, 盤後沒事.
 噴光, 亂槍打鳥, 霖宏, 常珵, 金麗科, 芯鼎.
-紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量
+紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量 + 族群有明顯一檔緩戳(立衛) = 搶進最少%數的(威盛)
 ```
-![image](https://user-images.githubusercontent.com/26459046/204842908-9c890d1f-5325-43aa-8cd7-5f72380bdf57.png)
+![image](https://user-images.githubusercontent.com/26459046/204844112-c795cd8a-d39d-469d-8867-ece91c95756d.png)
+
 
 ## 2022/11/29
 ```
