@@ -14,6 +14,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2022/11/30
+```
+晚上美股費半 -0.3%, 早上期貨 -0.1%, 盤後沒事.
+中國井噴長紅, 元宇宙今天有機會.
+
+```
+
 ## 2022/11/29
 ```
 晚上美股費半 -2.63%, 早上期貨 +0.1%, 盤後沒事.
