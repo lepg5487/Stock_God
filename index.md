@@ -21,7 +21,13 @@ layout: testlayouts
 晚上美股費半 -2.36%, 早上期貨 +0.1%, 盤後沒事.
 跟著中國相關個股走.
 亂槍打鳥, 胡連,
+
+紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量 = 搶進最少%數的(益得)
+盤中買點
 ```
+![image](https://user-images.githubusercontent.com/26459046/206071064-f32b3ccb-08f1-422e-97de-a733e34ac529.png)
+
+![image](https://user-images.githubusercontent.com/26459046/206070979-7cc90f06-c296-42f5-bdee-a02f754a26a5.png)
 
 ## 2022/12/06
 ```
