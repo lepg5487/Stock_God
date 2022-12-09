@@ -22,7 +22,6 @@ layout: testlayouts
 繼續尋找中國解封概念股.
 台灣時間 12/13 公布 CPI, 警慎.
 
-亂槍打鳥, 只出不進, 2929淘帝-KY
 盤中買點 紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量 + 族群有明顯一檔緩戳(五福) = 搶進最少%數的(山富)
 ```
 ![image](https://user-images.githubusercontent.com/26459046/206604103-40d102a8-f67b-499f-979c-b5be40d05df2.png)
