@@ -6,15 +6,21 @@ layout: testlayouts
 
 送分題G20, 雙11.
 
-台灣時間 12/14 升息. [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27
+台灣時間晚上 12/16 升息. [升息歷史日期](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), September 20-21 = 09/21, July 26-27 = 07/27
 
-台灣時間 12/21 結算. [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算(結算當天尾盤買進)
+台灣時間晚上 12/21 結算. [台指期結算日期](https://options.tw/%E6%9C%9F%E8%B2%A8%E8%A1%8C%E4%BA%8B%E6%9B%86/), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間 12/13 公布. [CPI未來公布時間](https://chihyun.tw/cpi-release-date/), 11月10號, 12月13號. (日期以前出清股票).
+台灣時間晚上 12/13 公布. [CPI未來公布時間](https://chihyun.tw/cpi-release-date/), 11月10號, 12月13號. (日期以前出清股票).
 
-台灣時間 12/16 美股四巫日前出清.
+台灣時間晚上 12/16 美股四巫日前出清.
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
+## 2022/12/12
+```
+晚上美股費半 -0.86%, 早上期貨 %, 盤後沒事.
+台灣時間晚上 12/13 公布 CPI, 警慎.
+```
 
 ## 2022/12/09
 ```
