@@ -1,6 +1,8 @@
 ---
 layout: testlayouts
 ---
+[日本ABF, 欣興南電景碩](https://histock.tw/global/history.aspx?mid=15&no=J4062)
+
 ```
 2022/11/30
 紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量 + 族群有明顯一檔緩戳(立衛) = 搶進最少%數的(威盛)
