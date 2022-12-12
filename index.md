@@ -18,7 +18,7 @@ layout: testlayouts
 
 ## 2022/12/12
 ```
-晚上美股費半 -0.86%, 早上期貨 %, 盤後沒事.
+晚上美股費半 -0.86%, 早上期貨 -0.3%, 盤後沒事.
 台灣時間晚上 12/13 公布 CPI, 警慎.
 ```
 
@@ -30,6 +30,7 @@ layout: testlayouts
 
 亂槍打鳥, 誰強買誰, 華新, 優盛
 盤中買點 紀錄: 美股期貨明顯急拉V + 9:10以後 + 整個族群 預估量出量>昨量 + 族群有明顯一檔緩戳(五福) = 搶進最少%數的(山富)
+
 ```
 ![image](https://user-images.githubusercontent.com/26459046/206604103-40d102a8-f67b-499f-979c-b5be40d05df2.png)
 ![image](https://user-images.githubusercontent.com/26459046/206604546-8dea72d8-d765-4bcc-8798-c62435d0aed2.png)
