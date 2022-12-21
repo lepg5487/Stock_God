@@ -16,6 +16,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2022/12/21
+```
+晚上美股費半 -0.62%, 早上期貨 +0.45%, 盤後特斯拉 +0.9%, google +0.78%, 美光 +0.83, 蠻多家小彈.
+補空單, 改做多搶反彈.
+
+```
+
 ## 2022/12/20
 ```
 晚上美股費半 -1.37%, 早上期貨 +0.15%, 盤後沒事.
