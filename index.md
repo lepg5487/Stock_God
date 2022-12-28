@@ -16,8 +16,6 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-事件交易, 月底到月初都會拉元宇宙, 12/28買進元宇宙(位速立衛), 沒預估量沒量時就9:25前賣出.
-
 ## 2022/12/28
 ```
 晚上美股費半 -1.79%, 早上期貨 -0.1% ,盤後 特斯拉 -2%, Meta -0.74%, NVDA -0.84%.
