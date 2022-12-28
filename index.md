@@ -16,6 +16,8 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+[台股1月1日, 1月2日, 1月18日~1月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+
 ## 2022/12/28
 ```
 晚上美股費半 -1.79%, 早上期貨 -0.1% ,盤後 特斯拉 -2%, Meta -0.74%, NVDA -0.84%.
