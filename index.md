@@ -14,9 +14,11 @@ layout: testlayouts
 
 台灣時間晚上 3/17 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
+[台股1月1日, 1月2日, 1月18日~1月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-[台股1月1日, 1月2日, 1月18日~1月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[融資維持率150%以下準備反彈](https://www.cmoney.tw/finance/f00012.aspx)
 
 ## 2022/12/29
 ```
