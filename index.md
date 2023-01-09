@@ -3079,7 +3079,9 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 [美股氮化鎵](https://statementdog.com/tags/1168) QRVO, WOLF = "嘉晶", 漢磊, 環球晶
 
+[美股汽車零件](https://statementdog.com/tags/556) ORLY = "耿鼎", 萬在, 倉佑
 
+特斯拉 TSLA = "華孚"
 
 ## 題材整理 01/09
 ```
