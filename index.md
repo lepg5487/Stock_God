@@ -3071,7 +3071,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 [美股博通](https://statementdog.com/tags/147) AVGO = "穩懋", 全新, 宏捷科
 
-[美股鉀肥](https://statementdog.com/tags/1249) IPI Intrepid Potash = "東鹼", "惠光", 興農, 台肥
+[美股鉀肥](https://statementdog.com/tags/1249) NTR = "東鹼", "惠光", 興農, 台肥
 
 [美股碳化矽磊晶](https://statementdog.com/tags/1203) ON, WOLF = "嘉晶", 中美晶
 
