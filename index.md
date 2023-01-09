@@ -3063,10 +3063,16 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 ## 美股 map 台股 01/09
-[美股健身器材](https://statementdog.com/tags/916) PTON = "喬山", 力山,祺驊, 岱宇
-[美股艾司摩爾](https://statementdog.com/tags/1316) ASML = 家登
+[美股健身器材](https://statementdog.com/tags/916) PTON = "喬山", 力山, 祺驊, 岱宇
+
+[美股艾司摩爾](https://statementdog.com/tags/1316) ASML = "家登", 帆宣, 
+
+[美股光罩](https://statementdog.com/tags/945) PLAB Photronics = 光罩
+
 [美股博通](https://statementdog.com/tags/147) AVGO = "穩懋", 全新, 宏捷科
+
 [美股鉀肥](https://statementdog.com/tags/1249) IPI Intrepid Potash = "東鹼", "惠光", 興農, 台肥
+
 
 ## 題材整理 01/09
 ```
