@@ -3062,11 +3062,14 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 
 ---
+## 美股 map 台股 01/09
+[美股健身器材](https://statementdog.com/tags/916) PTON = "喬山", 力山,祺驊, 岱宇
+[美股艾司摩爾](https://statementdog.com/tags/1316) ASML = 家登
+[美股博通](https://statementdog.com/tags/147) AVGO = "穩懋", 全新, 宏捷科
+[美股鉀肥](https://statementdog.com/tags/1249) IPI Intrepid Potash = "東鹼", "惠光", 興農, 台肥
 
 ## 題材整理 01/09
 ```
-#2023/01/09美股AVGO博通創新高, 造成"穩懋",全新,宏捷科低檔反彈, 紀錄.
-
 #中概解封衣服: "金麗-KY", 淘帝-KY
 #中概解封百貨: "大洋-KY", 大略-KY, 鮮活果汁-KY
 #中概股: "大江", 佰研, 和康生, "辣椒", 網龍, 
