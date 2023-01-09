@@ -18,13 +18,11 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-[融資維持率150%以下準備反彈](https://www.cmoney.tw/finance/f00012.aspx)
-
 ## 2023/01/09
 ```
 晚上美股費半+4.67%, 早上期貨+0.3%, 盤後沒事.
 美股太強台股一定撞過月線, 開太高就不追了.
-現在規律還是拉1~2天後死, 有拉起來就走, 拉積盤.
+美股AVGO博通創新高, 造成穩懋低檔反彈, 紀錄.
 還有幾家營收還沒開, 現在營收好噴, 營收不好盤整.
 繼續買營收, 多訊舟, 多旺矽.
 ```
@@ -3065,8 +3063,10 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 
-## 題材整理 12/07
+## 題材整理 01/09
 ```
+#2023/01/09美股AVGO博通創新高, 造成"穩懋",全新,宏捷科低檔反彈, 紀錄.
+
 #中概解封衣服: "金麗-KY", 淘帝-KY
 #中概解封百貨: "大洋-KY", 大略-KY, 鮮活果汁-KY
 #中概股: "大江", 佰研, 和康生, "辣椒", 網龍, 
