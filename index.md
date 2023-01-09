@@ -3063,6 +3063,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 ## 美股 map 台股 01/09
+[美股航太](https://statementdog.com/tags/1269) BA = 漢翔, "豐達科", 寶一, 晟田, 駐龍, jpp-KY
+
 [美股健身器材](https://statementdog.com/tags/916) PTON = "喬山", 力山, 祺驊, 岱宇
 
 [美股艾司摩爾](https://statementdog.com/tags/1316) ASML = "家登", 帆宣, 
