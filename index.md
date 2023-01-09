@@ -6,9 +6,11 @@ layout: testlayouts
 
 送分題G20, 雙11.
 
+每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋.
+
 台灣時間晚上 1/30 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 01/12 公布. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 11月10號, 12月13號. (日期以前出清股票).
+台灣時間晚上 1/12 公布. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 11月10號, 12月13號. (日期以前出清股票).
 
 台灣時間晚上 3/17 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
