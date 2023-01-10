@@ -6,7 +6,7 @@ layout: testlayouts
 
 送分題G20, 雙11.
 
-每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋.
+每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋, 還沒公佈卻急拉走人, 或早上9:25左右走人.
 
 台灣時間晚上 1/30 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
