@@ -18,6 +18,12 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/01/10
+```
+晚上美股費半+1.92%, 早上期貨-0.3%, 盤後沒事.
+美股銅創新高(第一銅), 鋁也在前高(廷鑫), 波音創新高(漢翔).
+```
+
 ## 2023/01/09
 ```
 晚上美股費半+4.67%, 早上期貨+0.3%, 盤後沒事.
