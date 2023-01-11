@@ -3084,7 +3084,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ---
 ## 美股 map 台股 01/09
-[美股鋼](https://statementdog.com/tags/310) NUE = "新鋼", 佳大, 新光鋼, 海光, 威致
+[美股鋼價](https://statementdog.com/tags/310) NUE = "新鋼", 佳大, 新光鋼, 海光, 威致
 
 美股銅價 = "第一銅"
 
