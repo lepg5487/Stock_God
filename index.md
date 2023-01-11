@@ -20,11 +20,11 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-## 2023/01/10
+## 2023/01/11
 ```
 晚上美股費半+1.29%, 早上期貨+0.1%, 盤後沒事.
 1/12 晚上公布 CPI, 11月和12月隔天都上漲, 1/11要買進.
-美股銅, 鋁, 鋼狂噴.
+美股銅(第一銅), 鋁(廷鑫), 鋼(新鋼)狂噴.
 多第一銅, 多新鋼.
 ```
 
