@@ -3086,6 +3086,10 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 ## 美股 map 台股 01/09
 [美股鋼](https://statementdog.com/tags/310) NUE = "新鋼", 佳大, 新光鋼, 海光, 威致
 
+美股銅價 = "第一銅"
+
+美股鋁價 = "廷鑫"
+
 [美股氫能源](https://statementdog.com/tags/1253) APD = 高力, 中興電
 
 [美股電力](https://statementdog.com/tags/620) NEE = 安集, 中興電
