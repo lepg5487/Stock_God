@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/01/12
+```
+晚上美股費半+1.25%, 早上期貨-0.1%, 盤後沒事.
+1/12 晚上公布 CPI, 下午台積電法說.
+多第一銅, 多新鋼, 多海光.
+```
+
 ## 2023/01/11
 ```
 晚上美股費半+1.29%, 早上期貨+0.1%, 盤後沒事.
