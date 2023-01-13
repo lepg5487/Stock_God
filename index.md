@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/01/13
+```
+晚上美股費半+1.24%, 早上期貨-0.1%, 盤後沒事.
+每個月28日以後還是會拉位速, 01/17買進.
+
+```
+
 ## 2023/01/12
 ```
 晚上美股費半+1.25%, 早上期貨-0.1%, 盤後沒事.
