@@ -10,13 +10,25 @@ layout: testlayouts
 
 台灣時間晚上 1/30 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 1/12 公布. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 目前規律連三次公布都是漲.
+台灣時間晚上 2/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+
+台灣時間晚上 2/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 目前規律都是漲.
 
 台灣時間晚上 3/17 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
-[台股1月1日, 1月2日, 1月18日~1月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股2月27日, 2月28日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
+## 2023/01/29
+```
+晚上美股+0.72%, 早上期貨, 盤後沒事.
+1/30台指期結算, 開高走高機會大, 買進.
+特斯拉 +11% = "華孚".
+2023台北國際電玩展2/2(四)前急拉賣出 = 大宇資.
+每個月月底30號~月初10號月營收事件交易, 歷史3~4年1月營收>12月營收, "新盛力", "jpp-KY", "威鋒電子", "詮欣", "萬潤", 大中, 杰力, 中砂.
+多位速, 多華孚, 多大宇資.
+```
 
 ## 2023/01/17
 ```
