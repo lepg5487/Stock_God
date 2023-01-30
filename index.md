@@ -8,7 +8,7 @@ layout: testlayouts
 
 每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋, 還沒公佈的. 等待急拉走人, 或早上9:15以前走人.
 
-台灣時間晚上 1/30 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
+台灣時間晚上 2/15 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
 台灣時間晚上 2/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
