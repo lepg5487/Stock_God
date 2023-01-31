@@ -20,6 +20,14 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/02/01
+```
+晚上美股%, 早上期貨%, 盤後沒事.
+裕隆大漲 -> 中華大股東36% -> 嘉裕大股東18%.
+
+位速多, 大宇資多, 元太多, 嘉裕多.
+```
+
 ## 2023/01/31
 ```
 晚上美股-2.67%, 早上期貨+0.2%, 盤後沒事.
