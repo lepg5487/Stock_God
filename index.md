@@ -20,6 +20,14 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/02/02
+```
+晚上美股+5.19%, 早上期貨+0.9%, 盤後Meta +20%.
+美股健身器材PTON +26%, 開盤喬山.
+
+位速多最晚3號賣出, 明基醫多, 昇銳多, 多喬山.
+```
+
 ## 2023/02/01
 ```
 晚上美股+1.93%, 早上期貨-0.4%, 盤後Google -0.77%, NVDA -1.27%, META -1.38%, TSLA -0.69%, INTC -0.67%, AMD +1.26%.
