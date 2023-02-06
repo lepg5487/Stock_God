@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/02/06
+```
+晚上美股-1.9%, 早上期貨-0.3%, 盤後TSLA +1.44%.
+等等看威鋒電子5號, jpp-KY6號, 跌回來就有價差.
+多喬山, 多新盛力等營收, 多達爾膚等營收.
+```
+
 ## 2023/02/03
 ```
 晚上美股+2.22%, 早上期貨-1.3%, 盤後Apple -3.3%, 亞馬遜 -5.17%, GOOGLE -4.45%, Meta -1.89%, TSLA -2.04%, NVDA -2.11%.
