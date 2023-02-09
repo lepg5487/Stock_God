@@ -3251,6 +3251,8 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 02/06
 ```
+#微軟ChatGPT: 凌群, 訊連
+#矽智財AI: 創意->巨有科技, M31, 晶心科, 智原, 愛普
 
 #中國缺藥: 強生, 南光, 中化, 健亞, 生達, 松瑞藥, 永日
 #中概解封衣服: "金麗-KY", 淘帝-KY
