@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/02/10
+```
+晚上美股+0.13%, 早上期貨-0.1%, 盤後沒事, 比特幣-5%.
+台灣時間晚上 2/14 CPI公布, 台灣時間晚上 2/15 台指期結算.
+今天能空手就空手, 回檔時準備接IP.
+```
+
 ## 2023/02/09
 ```
 晚上美股-2.19%, 早上期貨+0.2%, 盤後沒事.
