@@ -3261,6 +3261,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 ## 題材整理 02/06
 ```
+#油價大漲, 當沖標的: 中石化.
 #微軟ChatGPT: 凌群, 訊連
 #矽智財AI: 創意->巨有科技, M31, 晶心科, 智原, 愛普
 
