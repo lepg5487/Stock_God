@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/02/16
+```
+晚上美股+0.37%, 早上期貨+0.27%, 盤後TSLA +0.72%, 比特幣+10%.
+觀光指數到前高, 只能到這禮拜.
+沒開太高憾訊多, 麗臺, 映泰, 青雲.
+```
+
 ## 2023/02/15
 ```
 晚上美股+2.1%, 早上期貨-0.3%, 盤後台積電 -4.35%.
