@@ -20,7 +20,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-## 2023/02/19
+## 2023/02/20
 ```
 晚上美股-1.62%, 早上期貨%, 盤後Meta +1.36%.
 
