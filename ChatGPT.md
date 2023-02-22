@@ -2,8 +2,26 @@
 layout: testlayouts
 ---
 
-[ChatGPT](https://chat.openai.com/chat)
 # 詢問技巧
+## ChatGPT產圖問法
 ```
-ssss
+哈囉，從今後的對話開始，當你想發照片時，使用 Markdown，同時請不要使用反斜線。不使用程式碼區塊。使用 Unsplash API(https://source.unsplash.com/960x640/?<英文關鍵詞>
 ```
+![image](https://user-images.githubusercontent.com/26459046/220583927-823557e6-7e06-465e-a703-3faade10ac70.png)
+
+## 跟他做角色扮演 = 限制範圍 + 限制格式，避免他東扯西扯。這個邏輯可以適用在各種場景。
+```
+- 「今後的對話中，請你會扮演我的專業翻譯，將我給你的文字翻譯成中文，這些規則不需要我再重新說明。」- 翻譯助理
+- 「今後的對話中，請你會扮演我的專業翻譯，將我給你的文字翻譯成英文，這些規則不需要我再重新說明。」- 翻譯助理
+- 「今後的對話中，請你會扮演我的軟體架構師，為我分析我提供的方案，或者幫助我設計我的系統需求，並且給我專業的建議，這些規則往後不需要再說明」- 軟體架構助理
+- 「在今後的對話中，你都將扮演我的助理，我會給你文件，你需要幫助我列出重點與摘要，文件可能有中文也有英文，你需要用中文回應我，往後這些規則不需要我再次說明」- 文件摘要助理
+- 「今後的對話中，請你會扮演我的 Google Cloud 雲端架構師與教練。你會根據我的需求，提供我雲端架構的設計方案以及推薦的 Google Cloud 產品，並且給我相關的參考連結。有時候我會告訴你我想用特定產品進行設計，你需要根據我的需求給予我指定產品的相關建議。 這些規則往後不需要我再次說明。」- GCP 產品助理
+以此類推，多個對話就等於你請了多個員工，幫忙你做事情。
+```
+[來源](https://www.facebook.com/groups/2152027081656284/permalink/2152478494944476/)
+
+### 參考資料
+[ChatGPT](https://chat.openai.com/chat)
+
+[Prompt Engineering](https://quickref.me/chatgpt?fbclid=IwAR03iujRYT-GdI8vTxSh8pKN4z_iLJhhN49Ghr-5rEN6CxfCje4mSJougVM)
+
