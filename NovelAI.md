@@ -2,7 +2,7 @@
 layout: testlayouts
 ---
 
-# 進度: #約兒佛傑, 
+## 約兒佛傑
 #### 要
 ```
 extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 2girls, izakaya, full body, black hair, collarbone, off shoulder, small breasts, braid, shiny hair
@@ -76,6 +76,7 @@ Denoising strength 則是可以簡單理解成原圖片的保留程度。
 
 ### 參考資料
 
+[使用Google雲端:Colaboratory執行腳本](https://drive.google.com/file/d/1UONVm5mrhwZjT84Waw5MWCrCsGl9wUgw/view?usp=sharing)
 [CFG Scale ,Denoising strength 解釋](https://zhuanlan.zhihu.com/p/574063064)
 [標籤購物](https://tags.novelai.dev/)
 
