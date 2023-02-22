@@ -1,0 +1,31 @@
+import twstock
+import websocket
+import json
+
+# 股票代號
+stock_id = '2330'
+
+# 連接到 WebSocket 伺服器
+ws_url = 'wss://mis.twse.com.tw/stock/fibest/ws/{}'.format(stock_id)
+ws = websocket.WebSocket()
+ws.connect(ws_url)
+
+# 訂閱即時交易資訊
+subscribe_data = {'id': 'abc123',
+                  'action': 'subscribe',
+                  'type': 'price',
+                  'symbols': [stock_id]}
+ws.send(json.dumps(subscribe_data))
+
+# 接收即時交易資訊
+while True:
+    result = ws.recv()
+    data = json.loads(result)
+    if data['action'] == 'update':
+        for stock in data['msgArray']:
+            if stock['c'] == stock_id:
+                print('股票代號：{}'.format(stock['c']))
+                print('股票名稱：{}'.format(stock['n']))
+                print('成交價格：{}'.format(stock['z']))
+                print('漲跌幅度：{}'.format(stock['f']))
+                print('更新時間：{}'.format(stock['tlong']))
