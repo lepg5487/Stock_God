@@ -3370,7 +3370,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 [美股汽車零件](https://statementdog.com/tags/556) ORLY = "耿鼎", 萬在, 倉佑
 
-散裝船 KEX = 裕民, "新興", "四維航" 落後: "益航", "建新國際", 慧洋, 正德, 中航.
+散裝船 KEX = 裕民, "新興", "四維航", "益航". 落後: "建新國際", "志信", 慧洋, 正德, 中航.
 
 陸上運輸 FDX =  榮運, 宅配通, 嘉里大榮
 
