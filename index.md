@@ -16,9 +16,15 @@ layout: testlayouts
 
 台灣時間晚上 3/17 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
-[台股2月27日, 2月28日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股4月3日~4月5日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
+## 2023/03/01
+```
+晚上美股%, 早上期貨%, 盤後.
+
+```
 
 ## 2023/02/24
 ```
