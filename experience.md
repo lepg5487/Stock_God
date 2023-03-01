@@ -1,6 +1,10 @@
 ---
 layout: testlayouts
 ---
+[台股股價資料下載](https://www.twse.com.tw/zh/page/trading/exchange/STOCK_DAY.html)
+
+[美股股價資料下載](https://hk.finance.yahoo.com/quote/ARNC/history?period1=1672531200&period2=1677628800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+
 [日本ABF, 欣興南電景碩](https://histock.tw/global/history.aspx?mid=15&no=J4062)
 
 [股票獲利20%~30%就要離開](https://www.youtube.com/watch?v=AadaEc6pJpw)
