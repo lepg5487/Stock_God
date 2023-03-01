@@ -3379,8 +3379,9 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 FB: 建達, 鈺創.
 
-## 題材整理 02/06
+## 題材整理 03/01
 ```
+#缺蛋概念: "卜蜂", 達邦蛋白, 茂生農經, 大成, 台榮.
 #缺水概念: "國統", "幸福", "力麒", "山林水", 千附, 中宇, 中茂, 旭然, 信紘科,
 #油價大漲: 當沖標的: 中石化.
 #微軟ChatGPT: 凌群, 訊連
