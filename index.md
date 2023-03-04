@@ -20,6 +20,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/03/06
+```
+晚上美股+1.48%, 早上期貨%, 盤後沒事.
+美股鋼銅鋁都創新高 -> 繼續等廷鑫, 多鋼鐵.
+AVGO創新高 -> 觀察穩茂.
+```
+
 ## 2023/03/03
 ```
 晚上美股+0.96%, 早上期貨-0.2%, 盤後沒事.
