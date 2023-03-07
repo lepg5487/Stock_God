@@ -20,9 +20,10 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-## 2023/03/06
+## 2023/03/07
 ```
 晚上美股-1.11%, 早上期貨+0.1%, 盤後沒事.
+
 凱美看起來是鋁的指標?
 
 多長榮五日線放著掛網, 多廷鑫, 多海光.
