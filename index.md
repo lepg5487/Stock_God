@@ -22,6 +22,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/03/09
+```
+晚上美股%, 早上期貨%, 盤後沒事.
+
+多寶齡富錦營收, 多愛普.
+```
+
 ## 2023/03/08
 ```
 晚上美股-1.07%, 早上期貨+0%, 盤後沒事.
