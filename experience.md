@@ -1,6 +1,9 @@
 ---
 layout: testlayouts
 ---
+
+# 股市歷史只要是"短期的"戰爭都是利多(跌下來要買).
+
 [台股股價資料下載](https://www.twse.com.tw/zh/page/trading/exchange/STOCK_DAY.html)
 
 [美股股價資料下載](https://hk.finance.yahoo.com/quote/ARNC/history?period1=1672531200&period2=1677628800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
