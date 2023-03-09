@@ -5,7 +5,7 @@ layout: testlayouts
 ## 約兒佛傑
 #### 要
 ```
-extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 2girls, izakaya, full body, black hair, collarbone, off shoulder, small breasts, braid, shiny hair
+extremely detailed, finely detail, beautiful detailed eyes, masterpiece, best quality, extremely detailed cg unity 8k wallpaper, caustics, light smile, looking at viewer, 1girls, izakaya, full body, black hair, collarbone, off shoulder, small breasts, braid, shiny hair
 
 ```
 #### 不要
