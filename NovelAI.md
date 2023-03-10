@@ -22,7 +22,7 @@ corneo_yor_forger, black_hair,
 <lora:maplestoryStyle_v20:1>
 <lora:lottalewds_v0:1>
 ```
-`negative`
+`negative`  
 [TEXTUAL方式的EasyNegative](https://civitai.com/models/7808/easynegative)
 ```
 easynegative
@@ -32,7 +32,7 @@ easynegative
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 [動畫素材(海夢)](https://civitai.com/models/5251/corneos-marin-kitagawa-ti-embedding)  
-海夢: prompt要放`school uniform`校服 或`print bikini`比基尼. `earrings`耳環 或 `piercings`耳洞, `fake nails`假指甲 或 `long nails`長指甲等等  
+海夢: prompt要放`school uniform`校服或`print bikini`比基尼.`earrings`耳環或`piercings`耳洞.`fake nails`假指甲或`long nails`長指甲等等  
 `prompt`  
 ```
 solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
