@@ -2,6 +2,25 @@
 layout: testlayouts
 ---
 
+# LINE 貼圖製作過程
+## 素材
+[MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)
+MapleStory: prompt要放chibi, :[權重1到0.7] ,DPM++ 2M KARRAS
+MEMEAnyaHehFace: prompt要放huge shit-eating grin, wicked smug, and half closed eyes
+`prompt`
+```
+chibi, huge shit-eating grin, wicked smug, and half closed eyes
+<lora:maplestoryStyle_v20:1> 
+<lora:lottalewds_v0:1>
+```
+[TEXTUAL方式的EasyNegative](https://civitai.com/models/7808/easynegative)
+`negative`
+```
+easynegative, 
+```
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 約兒佛傑
 #### 要
 ```
