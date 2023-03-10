@@ -24,6 +24,7 @@ corneo_yor_forger, black_hair,
 ```
 easynegative
 ```
+![Yor_AnyaHehFace](https://user-images.githubusercontent.com/26459046/224319634-c11bcf98-e94b-48ca-9bf5-e17d0e2d07c2.png)  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
