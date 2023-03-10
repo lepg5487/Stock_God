@@ -9,10 +9,10 @@ layout: testlayouts
 # LINE 貼圖製作過程
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
-MapleStory: prompt要放chibi, :[權重1到0.7] ,DPM++ 2M KARRAS  
-MEMEAnyaHehFace: prompt要放huge shit-eating grin, wicked smug, half closed eyes  
+MapleStory: prompt要放`chibi`, :[權重1到0.7] ,DPM++ 2M KARRAS  
+MEMEAnyaHehFace: prompt要放`huge shit-eating grin`, `wicked smug`, `half closed eyes`  
 [動畫素材(約兒)](https://civitai.com/models/5417/yor-forger-innocent-housewife-version-ti-embedding-by-corneo)  
-約兒: prompt要放black_hair  
+約兒: prompt要放`black_hair`  
 `prompt`
 ```
 solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
@@ -32,12 +32,12 @@ easynegative
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 [動畫素材(海夢)](https://civitai.com/models/5251/corneos-marin-kitagawa-ti-embedding)  
-海夢: prompt要放 school uniform校服 或 iconic bikini比基尼. earrings耳環 或 piercings耳洞, fake nails假指甲 或 long nails長指甲  
+海夢: prompt要放`school uniform`校服 或`print bikini`比基尼. `earrings`耳環 或 `piercings`耳洞, `fake nails`假指甲 或 `long nails`長指甲等等  
 `prompt`  
 ```
 solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
 
-corneo_marin_kitagawa, bikini, earrings
+corneo_marin_kitagawa, print bikini, earrings
 
 <lora:maplestoryStyle_v20:1>
 <lora:lottalewds_v0:1>
