@@ -3,6 +3,9 @@ layout: testlayouts
 ---
 # [NovelAI模組有四種載入的方式](https://github.com/civitai/civitai/wiki/How-to-use-models#textual-inversions)  
 `Checkpoints`,`Textual `,`Hypernetwork`,`LoRA`.  
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 # LINE 貼圖製作過程
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
@@ -29,8 +32,8 @@ easynegative
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 [動畫素材(海夢)](https://civitai.com/models/5251/corneos-marin-kitagawa-ti-embedding)  
-海夢: prompt要放 school uniform校服 或 iconic bikini比基尼. earrings耳環 或 piercings耳洞, fake nails假指甲 或 long nails長指甲
-`prompt`
+海夢: prompt要放 school uniform校服 或 iconic bikini比基尼. earrings耳環 或 piercings耳洞, fake nails假指甲 或 long nails長指甲  
+`prompt`  
 ```
 solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
 
@@ -39,7 +42,7 @@ corneo_marin_kitagawa, bikini, earrings
 <lora:maplestoryStyle_v20:1>
 <lora:lottalewds_v0:1>
 ```
-`negative`
+`negative`  
 ```
 easynegative
 ```
