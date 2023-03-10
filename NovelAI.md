@@ -1,7 +1,8 @@
 ---
 layout: testlayouts
 ---
-# [NovelAI模組有四種載入的方式](https://github.com/civitai/civitai/wiki/How-to-use-models#textual-inversions)`Checkpoints`,`Textual `,`Hypernetwork`,`LoRA`.  
+# [NovelAI模組有四種載入的方式](https://github.com/civitai/civitai/wiki/How-to-use-models#textual-inversions)  
+`Checkpoints`,`Textual `,`Hypernetwork`,`LoRA`.  
 # LINE 貼圖製作過程
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
