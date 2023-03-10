@@ -12,7 +12,7 @@ layout: testlayouts
 MapleStory: prompt要放chibi, :[權重1到0.7] ,DPM++ 2M KARRAS  
 MEMEAnyaHehFace: prompt要放huge shit-eating grin, wicked smug, half closed eyes  
 [動畫素材(約兒)](https://civitai.com/models/5417/yor-forger-innocent-housewife-version-ti-embedding-by-corneo)  
-約兒: prompt要放black_hair 
+約兒: prompt要放black_hair  
 `prompt`
 ```
 solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
