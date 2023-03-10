@@ -1,22 +1,24 @@
 ---
 layout: testlayouts
 ---
-
+# [NovelAI模組有四種載入的方式](https://github.com/civitai/civitai/wiki/How-to-use-models#textual-inversions)`Checkpoints`,`Textual `,`Hypernetwork`,`LoRA`.  
 # LINE 貼圖製作過程
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
 MapleStory: prompt要放chibi, :[權重1到0.7] ,DPM++ 2M KARRAS  
 MEMEAnyaHehFace: prompt要放huge shit-eating grin, wicked smug, and half closed eyes  
+[動畫素材(約兒)](https://civitai.com/models/5417/yor-forger-innocent-housewife-version-ti-embedding-by-corneo)  
+約兒: prompt要放black_hair 
 `prompt`
 ```
-chibi, huge shit-eating grin, wicked smug, and half closed eyes
+solo, (white background), chibi, huge shit-eating grin, wicked smug, and half closed eyes, corneo_yor_forger, black_hair ,
 <lora:maplestoryStyle_v20:1> 
-<lora:lottalewds_v0:1>
+<lora:lottalewds_v0:1> 
 ```
-[TEXTUAL方式的EasyNegative](https://civitai.com/models/7808/easynegative)
 `negative`
+[TEXTUAL方式的EasyNegative](https://civitai.com/models/7808/easynegative)
 ```
-easynegative, 
+easynegative, hand
 ```
 
 ------------------------------------------------------------------------------------------------------------------------------------------
