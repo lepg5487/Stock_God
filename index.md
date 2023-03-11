@@ -22,6 +22,12 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/03/13
+```
+晚上美股-1.89%, 早上期貨%, 盤後Meta +1.55%.
+小台指散戶多空比散戶狂做多, 3/17前不做多, .
+```
+
 ## 2023/03/10
 ```
 晚上美股-2.01%, 早上期貨-0.2%, 盤後特斯拉 -1.67%.
