@@ -9,6 +9,7 @@ layout: testlayouts
 # LINE 貼圖製作過程
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
+[MapleStory2風格](https://civitai.com/models/8858/maplestory2game-style) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
 MapleStory: prompt要放`chibi`, :[權重1到0.7] ,DPM++ 2M KARRAS  
 MEMEAnyaHehFace: prompt要放`huge shit-eating grin`, `wicked smug`, `half closed eyes`  
 [動畫素材(約兒)](https://civitai.com/models/5417/yor-forger-innocent-housewife-version-ti-embedding-by-corneo)  
@@ -39,13 +40,52 @@ solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
 
 corneo_marin_kitagawa, print bikini, earrings
 
-<lora:maplestoryStyle_v20:1>
+<hypernet:maplestory2GameStyle_20:1> 
 <lora:lottalewds_v0:1>
 ```
 `negative`  
 ```
 easynegative
 ```
+![Marin_Kitagawa](https://user-images.githubusercontent.com/26459046/224457004-33a98442-f7c0-4d76-b28c-c57807ae3a75.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材(Makima)](https://civitai.com/models/5331/corneos-makima-chainsaw-man-ti-embedding)  
+Makima: prompt要放`white shirt`, `collared shirt`, `black necktie`, `black pants`, `ringed_eyes`
+`prompt`  
+```
+solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
+
+corneo_makima, white shirt, collared shirt, black necktie, black pants, ringed_eyes
+
+<hypernet:maplestory2GameStyle_20:1>
+<lora:lottalewds_v0:1>
+```
+`negative`  
+```
+easynegative
+```
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材(Power)](https://civitai.com/models/5196/corneos-power-chainsaw-man-ti-embedding)  
+Power: prompt要放`(sharp_teeth:0.8)`, `orange_eyes`
+`prompt`  
+```
+solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
+
+corneo_power, (sharp_teeth:0.8), orange_eyes
+
+<hypernet:maplestory2GameStyle_20:1>
+<lora:lottalewds_v0:1>
+```
+`negative`  
+```
+easynegative
+```
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
