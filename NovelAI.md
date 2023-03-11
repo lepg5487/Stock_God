@@ -88,14 +88,14 @@ easynegative
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 [動畫素材(Kobeni)](https://civitai.com/models/6679/kobeni)  
-Kobeni: prompt要放1girl, white shirt, black necktie, 3 hair clips, brown eyes,
+Kobeni: prompt要放1girl, white shirt, black necktie, 3 hair clips, brown eyes,  
 `prompt`  
 ```
-solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
+solo, chibi, huge shit-eating grin, wicked smug, half closed eyes, 
 
 1girl, white shirt, black necktie, 3 hair clips, brown eyes,
 
-<lora:maplestoryStyle_v20:1>
+<hypernet:maplestory2GameStyle_20:1>
 <lora:lottalewds_v0:1>
 <lora:kobeni_v10:1>
 ```
@@ -106,20 +106,60 @@ easynegative
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[動畫素材nami](https://civitai.com/models/4224/nami-ti)
-nami: prompt要放
+[動畫素材nami](https://civitai.com/models/4219/one-piece-wano-style-lora)  
+nami: prompt要放nami_1800,  
+`prompt`  
+```
+solo, chibi, huge shit-eating grin, wicked smug
+
+nami, wanostyle, straw hat, brown eyes,
+
+<hypernet:maplestory2GameStyle_20:1>
+<lora:lottalewds_v0:1>
+<lora:onePieceWanoSagaStyle_v2Offset:0.5>
+```
+`negative`  
+```
+easynegative
+```
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[動畫素材robin](https://civitai.com/models/4223/nico-robin-ti)
-robin: prompt要放
+[動畫素材robin](https://civitai.com/models/4219/one-piece-wano-style-lora)  
+robin: prompt要放robin_v2_3000  
+`prompt`  
+```
+solo, chibi,  huge shit-eating grin, wicked smug
 
+nico robin, wanostyle, blue_eyes, eyewear on head,  black long hair, high collar, hair slicked back, sea, wearing a blue jacket, neck is empty.
+
+<hypernet:maplestory2GameStyle_20:1>
+<lora:lottalewds_v0:1>
+<lora:onePieceWanoSagaStyle_v2Offset:0.5>
+```
+`negative`  
+```
+easynegative
+```
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[動畫素材wano](https://civitai.com/models/3887/one-piece-wano-style-ti)
-wano: prompt要放
+[動畫素材yamato](https://civitai.com/models/4219/one-piece-wano-style-lora)  
+yamato: prompt要放yamato_5000  
+`prompt`  
+```
+solo, chibi,  huge shit-eating grin, wicked smug
 
+yamato, wanostyle, red horns,  white hair, green hair, gradient hair, kimono,  ring earrings, brown eyes,
+
+<hypernet:maplestory2GameStyle_20:1>
+<lora:lottalewds_v0:1>
+<lora:onePieceWanoSagaStyle_v2Offset:0.5>
+```
+`negative`  
+```
+easynegative
+```
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
