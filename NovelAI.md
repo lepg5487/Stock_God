@@ -66,6 +66,7 @@ corneo_makima, white shirt, collared shirt, black necktie, black pants, ringed_e
 ```
 easynegative
 ```
+![Makima](https://user-images.githubusercontent.com/26459046/224466750-a7c7adb6-ecb1-414a-b32a-98fd4aef0e9e.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,6 +85,7 @@ corneo_power, (sharp_teeth:0.8), orange_eyes
 ```
 easynegative
 ```
+![Power](https://user-images.githubusercontent.com/26459046/224466761-3e1be591-59a0-4c3b-9af6-10fb79dc341e.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -103,6 +105,7 @@ solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
 ```
 easynegative
 ```
+![Kobeni](https://user-images.githubusercontent.com/26459046/224466784-15f08cd7-eb9d-4ffe-909d-6e2e87618425.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -122,6 +125,7 @@ nami, wanostyle, straw hat, brown eyes,
 ```
 easynegative
 ```
+![Nami](https://user-images.githubusercontent.com/26459046/224466792-34f3189e-0334-419f-96ff-0eaa70130d8f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -141,6 +145,7 @@ nico robin, wanostyle, blue_eyes, eyewear on head,  black long hair, high collar
 ```
 easynegative
 ```
+![nico_robin](https://user-images.githubusercontent.com/26459046/224466796-9725187d-e4a3-4299-944c-c6f368178892.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -160,6 +165,7 @@ yamato, wanostyle, red horns,  white hair, green hair, gradient hair, kimono,  r
 ```
 easynegative
 ```
+![Yamato](https://user-images.githubusercontent.com/26459046/224466805-e9fda4fc-ea1f-4b52-a3c4-772d9ddcc660.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
