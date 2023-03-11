@@ -85,6 +85,40 @@ corneo_power, (sharp_teeth:0.8), orange_eyes
 easynegative
 ```
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材(Kobeni)](https://civitai.com/models/6679/kobeni)  
+Kobeni: prompt要放1girl, white shirt, black necktie, 3 hair clips, brown eyes,
+`prompt`  
+```
+solo, chibi, huge shit-eating grin, wicked smug, half closed eyes,
+
+1girl, white shirt, black necktie, 3 hair clips, brown eyes,
+
+<lora:maplestoryStyle_v20:1>
+<lora:lottalewds_v0:1>
+<lora:kobeni_v10:1>
+```
+`negative`  
+```
+easynegative
+```
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材nami](https://civitai.com/models/4224/nami-ti)
+nami: prompt要放
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材robin](https://civitai.com/models/4223/nico-robin-ti)
+robin: prompt要放
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[動畫素材wano](https://civitai.com/models/3887/one-piece-wano-style-ti)
+wano: prompt要放
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
