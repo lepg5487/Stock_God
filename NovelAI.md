@@ -11,8 +11,11 @@ layout: testlayouts
 
 `prompt`
 ```
-animalization, slimification, lineart, sketch
+lineart, personification,
+animalization, 
+slimification, 
 
+sketch
 ```
 `negative`  
 ```
