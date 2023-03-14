@@ -6,7 +6,22 @@ layout: testlayouts
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# LINE 貼圖製作過程 (被版權砲不能上架)
+# LINE 貼圖製作過程2 (嘗試中)
+## 素材
+
+`prompt`
+```
+animalization, slimification, lineart
+
+```
+`negative`  
+```
+easynegative
+```
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# LINE 貼圖製作過程1 (被版權砲不能上架)
 ## 素材
 [MapleStory風格](https://civitai.com/models/14313) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
 [MapleStory2風格](https://civitai.com/models/8858/maplestory2game-style) + [MEMEAnyaHehFace](https://civitai.com/models/4391/lottalewds-anyahehface)  
