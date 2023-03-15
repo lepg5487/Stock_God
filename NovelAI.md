@@ -8,6 +8,7 @@ layout: testlayouts
 
 # LINE 貼圖製作過程2 (嘗試中)
 ## 素材
+[問ChatGPT配合他能做些什麼LINE貼圖得到的答案](ai.com), 當兵語錄.  
 
 `prompt`
 ```
