@@ -10,6 +10,8 @@ layout: testlayouts
 
 [日本ABF, 欣興南電景碩](https://histock.tw/global/history.aspx?mid=15&no=J4062)
 
+[韓國三星電子, 記憶體](https://histock.tw/ksstock/005930)
+
 [股票獲利20%~30%就要離開](https://www.youtube.com/watch?v=AadaEc6pJpw)
 ```
 2023/03/01~2023/03/03
