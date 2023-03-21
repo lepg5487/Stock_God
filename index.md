@@ -22,6 +22,14 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/03/22
+```
+晚上美股%, 早上期貨%, 盤後.
+看來是上的去, 現在會漲低檔, 
+觀察6863永道-KY創新高的話 -> 買6417韋僑
+低檔TypeC嘉基, 威鋒電子有反應, 觀察金橋出量買進.
+```
+
 ## 2023/03/21
 ```
 晚上美股+1.07%, 早上期貨+0.1%, 盤後沒事.
