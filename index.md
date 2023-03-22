@@ -14,7 +14,7 @@ layout: testlayouts
 
 台灣時間晚上 3/22. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 3/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗了一天, 3/14公布多洗2天.
+台灣時間晚上 3/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
 
 台灣時間晚上 6/16 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
@@ -25,7 +25,8 @@ layout: testlayouts
 ## 2023/03/22
 ```
 晚上美股0.07%, 早上期貨-0.1%, 盤後沒事.
-盤整盤, 現在會漲低檔.
+盤整盤, 現在會漲低檔120日線附近, 連接器有邏輯補漲.
+嘉基 -> 威鋒電子 ->  建舜電 -> 萬旭 -> 金橋?, 連展投控?, 詮欣?
 電這麼強買個上緯投控壓壓驚.
 
 多上緯投控.
