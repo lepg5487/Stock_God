@@ -10,13 +10,13 @@ layout: testlayouts
 
 送分題每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋, 還沒公佈的. 等待急拉走人, 或 早上9:15 以前走人. 
 
-台灣時間晚上 4/19 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
+台灣時間晚上 4/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 3/22. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 4/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
 
-台灣時間晚上 3/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
+台灣時間晚上 5/3. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 6/16 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
+台灣時間晚上 6/16. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
 [台股4月3日~4月5日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
