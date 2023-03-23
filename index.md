@@ -12,7 +12,7 @@ layout: testlayouts
 
 台灣時間晚上 4/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 4/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
+台灣時間晚上 4/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),愛普,東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
 
 台灣時間晚上 5/3. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
