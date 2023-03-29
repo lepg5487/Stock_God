@@ -22,6 +22,14 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/03/29
+```
+晚上美股-0.85%, 早上期貨+0.3%, 盤後美光+1%.
+goodinfo搜尋一下營收交易標的.
+
+多位速, 多建達, 放到星期五早上.
+```
+
 ## 2023/03/28
 ```
 晚上美股-1.21%, 早上期貨+0.1%, 盤後沒事.
