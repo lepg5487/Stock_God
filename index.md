@@ -18,9 +18,16 @@ layout: testlayouts
 
 台灣時間晚上 6/16. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf)前出清.
 
-[台股4月3日~4月5日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股05月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+
+## 2023/04/05
+```
+義大利禁止ChatGPT, 美股AI崩跌20%, 希望這次有機會能介入IP.
+中國禁美光, 記憶體掰掰.
+XOM油價大漲, 觀察中石化.
+```
 
 ## 2023/03/31
 ```
