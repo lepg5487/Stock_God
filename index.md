@@ -22,6 +22,12 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/04/10
+```
+美股04/07休市.
+
+```
+
 ## 2023/04/07
 ```
 晚上美股-0.46%, 早上期貨-0.1%, 盤後美光+4.85%.
