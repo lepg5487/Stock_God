@@ -22,6 +22,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
+## 2023/04/11
+```
+晚上美股+1.8%, 早上期貨+0.1%, 盤後沒事.
+晚上美光+8%, 記憶體局.
+
+```
+
 ## 2023/04/10
 ```
 美股04/07休市.
