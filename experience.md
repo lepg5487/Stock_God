@@ -2,6 +2,14 @@
 layout: testlayouts
 ---
 
+# 送分題
+```
+亞洲生技大展(7/17), G20(8/28), 雙11(10/27).
+每年佳士達買點(2023/1/30附近), 佳士達股東會2023/05/29前2個月股價高點(2023/3/29賣點).
+2月中底~3月初會漲殖利率股, 長榮陽明(3/9下午公布), 鈊象, 南帝(3/7下午公布),聯詠友達們.
+每個月月底30號~月初10號月營收事件交易, 使用goodinfo搜尋, 還沒公佈的. 等待急拉走人, 或 早上9:15 以前走人. 
+```
+
 # 股市歷史只要是"短期的"戰爭都是利多(跌下來要買).
 
 [中國軍演不定期日期搜尋: 琼航警](https://www.google.com.tw/search?q=%E7%90%BC%E8%88%AA%E8%AD%A6&hl=zh_TW&sxsrf=AJOqlzWKyqegNdbEI3HSk6gI0XOTlzUwNA%3A1679624237769&source=hp&ei=LQgdZOycKdiV2roPgsiD2As&iflsig=AK50M_UAAAAAZB0WPSYdmXOPG2Dya8dsJwwvQ_5bX2Zb&ved=0ahUKEwis56vwv_P9AhXYilYBHQLkALsQ4dUDCAo&uact=5&oq=%E7%90%BC%E8%88%AA%E8%AD%A6&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECdQmwFYmwFg2QdoAXAAeACAATSIATSSAQExmAEAoAECoAEBsAEK&sclient=gws-wiz)
