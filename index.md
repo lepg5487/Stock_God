@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-目前聯一光先進光每月30~1日都是低點, 宏達電建達也是.
+主流生技, 電能, 軍工, AI, 散熱, 目前聯一光先進光每月30~1日都是低點, 宏達電建達也是.
 
 ## 2023/04/17
 ```
