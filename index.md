@@ -4,9 +4,9 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 4/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
+台灣時間晚上 5/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 4/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
+台灣時間晚上 5/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
 
 台灣時間晚上 5/3. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -17,6 +17,12 @@ layout: testlayouts
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 主流生技->不斷電->軍工->AI->RFID->太陽能->生技, 目前聯一光先進光每月30~1日都是低點, 宏達電建達也是.
+
+## 2023/04/20
+```
+晚上美股-1%, 早上期貨-0.2%, 盤後特斯拉-6%.
+
+```
 
 ## 2023/04/19
 ```
