@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 5/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 09/21結算, 08/17結算(結算當天尾盤買進)
 
-台灣時間晚上 5/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律都是漲, 2/14公布2/15多洗一天, 3/14公布多洗二天.
+台灣時間晚上 5/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點, 目前規律公布以後跌1~2天再漲.
 
 台灣時間晚上 5/3. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -17,7 +17,7 @@ layout: testlayouts
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 規律: 2829宏達電建達->大眾控->聯一光->東哥->天鈺  
-主流: 生技->不斷電6收亞力,7收中興電->軍工10收雷虎->AI13收凌群->RFID14收韋僑->太陽能18收漲1天->生技19早漲1天.
+主流: 生技->不斷電6收亞力,7收中興電->軍工10收雷虎->AI13收凌群->RFID14收韋僑->太陽能18收漲1天->生技美時19早漲1天->生技美時21收.
 
 ## 2023/04/25
 ```
