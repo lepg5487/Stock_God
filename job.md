@@ -2,7 +2,8 @@
 layout: testlayouts
 ---
 
-# (來源)[https://www.dcard.tw/f/job/p/233111844]
+# SAP ERP [來源](https://www.dcard.tw/f/job/p/233111844)
+```
 做ERP、SAP其實有個好處
 做熟了另外接案或開間小工作室都還不錯
 網路上也有很多外包的可以接案
@@ -14,3 +15,4 @@ layout: testlayouts
 我是有聽過有傳產想要導入營銷系統
 不過因為嫌系統太貴，找一個資深的進來做
 做了半年最後請他走，再找一個22K的進來維護
+```
