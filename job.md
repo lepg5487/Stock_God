@@ -2,6 +2,11 @@
 layout: testlayouts
 ---
 
+
+```
+推 dky93: 台南 傳產 車用 品管 這麼多賽點集中起來你覺得呢
+```
+
 # SAP ERP [來源](https://www.dcard.tw/f/job/p/233111844)
 ```
 做ERP、SAP其實有個好處
