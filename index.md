@@ -12,12 +12,13 @@ layout: testlayouts
 
 台灣時間晚上 6/16. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
 
-[台股05月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股06月22日23日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 規律: 2829宏達電建達(成功)->29大眾控(成功)->31聯一光先進光(成功)->5/10東哥最低點->13天鈺  
-主流: AI25資通->不斷電6收亞力,7收中興電->軍工10收雷虎->AI13收凌群->RFID14收韋僑->太陽能18收漲1天->生技美時19早漲1天->生技美時21收漲1天.
+主流1: AI25資通->不斷電6收亞力,7收中興電->軍工10收雷虎->AI13收凌群->RFID14收韋僑->太陽能18收漲1天->生技美時19早漲1天->生技美時21收漲1天.  
+主流2: AI25收資通->電子紙27收元太->不斷電28收亞力->
 
 ## 2023/05/02
 ```
