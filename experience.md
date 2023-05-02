@@ -26,7 +26,7 @@ layout: testlayouts
 
 # 股市歷史只要是"短期的"戰爭都是利多(跌下來要買).
 
-[中國軍演不定期日期搜尋: 琼航警](https://www.google.com.tw/search?q=%E7%90%BC%E8%88%AA%E8%AD%A6&hl=zh_TW&sxsrf=AJOqlzWKyqegNdbEI3HSk6gI0XOTlzUwNA%3A1679624237769&source=hp&ei=LQgdZOycKdiV2roPgsiD2As&iflsig=AK50M_UAAAAAZB0WPSYdmXOPG2Dya8dsJwwvQ_5bX2Zb&ved=0ahUKEwis56vwv_P9AhXYilYBHQLkALsQ4dUDCAo&uact=5&oq=%E7%90%BC%E8%88%AA%E8%AD%A6&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECdQmwFYmwFg2QdoAXAAeACAATSIATSSAQExmAEAoAECoAEBsAEK&sclient=gws-wiz)
+[中國軍演不定期日期搜尋: 琼航警, 军事训练](https://www.google.com.tw/search?q=%E7%90%BC%E8%88%AA%E8%AD%A6&hl=zh_TW&sxsrf=AJOqlzWKyqegNdbEI3HSk6gI0XOTlzUwNA%3A1679624237769&source=hp&ei=LQgdZOycKdiV2roPgsiD2As&iflsig=AK50M_UAAAAAZB0WPSYdmXOPG2Dya8dsJwwvQ_5bX2Zb&ved=0ahUKEwis56vwv_P9AhXYilYBHQLkALsQ4dUDCAo&uact=5&oq=%E7%90%BC%E8%88%AA%E8%AD%A6&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECdQmwFYmwFg2QdoAXAAeACAATSIATSSAQExmAEAoAECoAEBsAEK&sclient=gws-wiz)
 
 [apple新品發表3,6,9,,10,11月](https://mrmad.com.tw/2023-apple-new-products-and-apple-event)
 
