@@ -7,9 +7,17 @@ layout: testlayouts
 推 dky93: 台南 傳產 車用 品管 這麼多賽點集中起來你覺得呢
 ```
 
-# 網管[來源](https://www.dcard.tw/f/job/p/237234955)
+# 網管 [來源](https://www.dcard.tw/f/job/p/237234955)
+## [infra介紹](https://www.dcard.tw/f/tech_job/p/240502828)
 ```
 找有規模的公司，薪水低一點無所謂，重點看公司的架構，網路怎麼規劃，系統怎麼規劃，日後才有本錢跟公司談薪資。
+Level 1 Helpdesk
+Level 2 MIS/Infra(有些人會稱作Architecture)
+Level 3 SWE/RD
+一般以Infra來說 若參照OSI來看
+Infra需要熟悉Level1~Level7的項目
+L1~L3常見Cable/Wireless/Switch/Router等
+L4~L7還有Firewall/PBX/Proxy/DNS/CA等
 ```
 
 # SI [來源](https://www.dcard.tw/f/job/p/241263664)
