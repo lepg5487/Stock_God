@@ -6,9 +6,9 @@ layout: testlayouts
 
 台灣時間晚上 6/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 反轉日期.
 
-台灣時間晚上 . [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點->變成隔天收盤最低點, 公布以後指數跌1~3天再漲.
+台灣時間晚上 6/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點->變成隔天收盤最低點, 公布以後指數跌1~3天再漲.
 
-台灣時間晚上 5/3. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 6/14. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
 台灣時間晚上 6/16. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
 
@@ -17,6 +17,12 @@ layout: testlayouts
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 規律: 16建達->29大眾控(成功)->31聯一光先進光(成功)->
+
+## 2023/05/24
+```
+晚上美股-1.17%, 早上期貨+0.2%, 盤後沒事.
+
+```
 
 ## 2023/05/23
 ```
