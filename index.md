@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-規律: AI->電能->軍工, 16建達->29大眾控(成功)->31聯一光先進光(成功)->
+規律: AI->電能->軍工, 16建達->
 
 ## 2023/05/29
 ```
