@@ -16,7 +16,13 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-規律: AI->電能->軍工, 16建達->
+規律: AI->電能->軍工->, 16建達->
+
+## 2023/05/30
+```
+晚上美股休市, 早上期貨+0.3%.
+買綠賣紅.
+```
 
 ## 2023/05/29
 ```
