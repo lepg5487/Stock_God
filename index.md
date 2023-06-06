@@ -16,9 +16,8 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
-規律:  
 漲賣點 07分->15分->35分->補漲40分->補漲60分;  
-跌買點 55分
+跌買點 55分  
 炭權華紙倍力->中華化->綠電電能->軍工->旅遊  
 #板卡->散熱->記憶體; 
 16建達->26-28大眾控->
