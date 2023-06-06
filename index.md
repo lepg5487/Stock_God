@@ -17,8 +17,8 @@ layout: testlayouts
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 規律: 07分->15分->35分->補漲40分->補漲60分; 
-板卡->散熱->記憶體->旅遊; 
-炭權華紙倍力->中華化->綠電電能->軍工->AI
+板卡->散熱->記憶體; 
+炭權華紙倍力->中華化->綠電電能->軍工->旅遊
 16建達->
 
 ## 2023/06/06
