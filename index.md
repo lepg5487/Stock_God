@@ -4,13 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 6/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 7/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 6/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點->變成隔天收盤最低點, 公布以後指數跌1~3天再漲.
 
-台灣時間晚上 6/14. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 7/26. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 6/16. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
+台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
 
 [台股06月22日23日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
