@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 6/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 反轉日期.
+台灣時間晚上 6/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 6/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點->變成隔天收盤最低點, 公布以後指數跌1~3天再漲.
 
