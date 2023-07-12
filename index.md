@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 7/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 7/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733),東哥最低點->變成隔天收盤最低點, 公布以後指數跌1~3天再漲.
+台灣時間晚上 7/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 東哥隔天收盤最低點.
 
 台灣時間晚上 7/26. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -24,6 +24,7 @@ layout: testlayouts
 ## 2023/07/12
 ```
 晚上美股+0.05%, 早上期貨-0.1%, 盤後沒事.
+7/15東哥遊艇收盤買進.
 水冷選到最弱, 該檢討想想.
 ```
 
