@@ -12,14 +12,20 @@ layout: testlayouts
 
 台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
 
-[台股06月22日23日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
 漲賣點 9:07->9:15->9:35->補漲9:40分->補漲10:00分->10:15;  
 跌買點 9:55->10:15->11:12->11:22->11:35->11:50->12:20->12:45->12:55  
-水冷->板卡->散熱->電源富驊偉訓->網通仲琦上詮->大同綠電電能->2歐買尬遊戲水冷,1軍工  
+水冷->板卡->散熱->電源富驊偉訓->網通仲琦上詮->辛耘中砂  
 26-28大眾控(成功)  
+
+## 2023/07/17
+```
+晚上美股-1.23%, 早上期貨-0.1%, 盤後沒事.
+快進快出.
+```
 
 ## 2023/07/14
 ```
