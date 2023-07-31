@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 8/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 東哥隔天收盤最低點.
 
-台灣時間晚上 7/26. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 9/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
 台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
 
