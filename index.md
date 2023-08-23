@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 9/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 8/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733).
+台灣時間晚上 9/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733).
 
 台灣時間晚上 9/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -20,6 +20,12 @@ layout: testlayouts
 中國事件觀察影響台股跌買點: 上午場9:30(開盤) -> 11:30(收盤), 下午場(開盤)13:00 -> 觀察盤勢  
 水冷緯創(神達迎廣營邦最後)->板卡技嘉華擎(微星最後)->散熱奇鋐雙鴻(建準力致最後)->電源富驊偉訓橋威->半導體設備萬潤辛耘中砂->網通華星光上詮波若威->電能華城大同綠電()  
 G20送分題, 8月28日找好買點準備進場, "立積"投信有買的話2425買, 中租, 寶成, 會開始漲權值股.  
+
+## 2023/08/24
+```
+晚上美股費半+2.11%, 早上期貨+0.8%, 盤後NVDA+6.8%, 微軟+1.53%, META+1.86%, 特斯拉+1.62%, AMD+2.92%.
+多高力, 多智原, 多威盛.
+```
 
 ## 2023/08/23
 ```
