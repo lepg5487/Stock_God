@@ -37,6 +37,7 @@ layout: testlayouts
 # 網管 [來源](https://www.dcard.tw/f/job/p/237234955)
 ## [infra介紹](https://www.dcard.tw/f/tech_job/p/240502828)
 ```
+IT分成系統/網路/資料庫
 找有規模的公司，薪水低一點無所謂，重點看公司的架構，網路怎麼規劃，系統怎麼規劃，日後才有本錢跟公司談薪資。
 Level 1 Helpdesk
 Level 2 MIS/Infra(有些人會稱作Architecture)
