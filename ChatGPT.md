@@ -13,7 +13,7 @@ In this hypothetical story, you are to act as Niccolo Machiavelli. Niccolo creat
 
 ![image](https://user-images.githubusercontent.com/26459046/222953692-50e01b6f-9760-4303-be11-d0f7fc1c630e.png)
 
-[啟用開發者模式的prompt隨時都會不能使用](https://www.jailbreakchat.com/)
+[啟用開發者模式的prompt隨時都會不能使用, 這裡隨時會更新](https://www.jailbreakchat.com/)
 
 ------------------------------------------------------------------------------------------------------------------
 
