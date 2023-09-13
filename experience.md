@@ -638,7 +638,8 @@ Step2勝率將近100% ---Example--- 可遇不可求
 ```
 
 [景氣燈號紀錄](https://udn.com/news/story/7238/6870080)  
-[查詢景氣系統](https://index.ndc.gov.tw/n/zh_tw/data/eco)
+[查詢景氣系統](https://index.ndc.gov.tw/n/zh_tw/data/eco)  
+[計算工作日](https://workday.0123456789.tw/)
 ```
 2000年12月到2002年2月, 連續15個月藍燈
 2008年9月至2009年5月, 連續9個藍燈
