@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 9/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 目前規律都是漲.
+台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).
 
 [台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
@@ -24,6 +24,7 @@ layout: testlayouts
 ```
 晚上美股費半+0.46%, 早上期貨+0%, 盤後沒事.
 目前每天都漲不一樣, 盤整買線上買綠賣紅.
+看美光投信多威剛, 看營收多十銓.
 ```
 
 ## 2023/09/18
