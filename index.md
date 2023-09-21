@@ -4,13 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 9/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 10/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 9/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733).
 
-台灣時間晚上 9/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 11/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 9/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).
+台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).
 
 [台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
@@ -18,7 +18,6 @@ layout: testlayouts
 
 漲賣點 9:07(9:12)->9:15(9:23)->9:35->補漲9:40分->補漲10:00分->10:15;  
 中國事件觀察影響台股跌買點: 上午場9:30(開盤) -> 11:30(收盤), 下午場(開盤)13:00 -> 觀察盤勢  
-4天AI伺服器營邦8/16,21->4天軍工雷虎8/22,28  
 
 ## 2023/09/21
 ```
