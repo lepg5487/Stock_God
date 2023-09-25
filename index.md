@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 10/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 9/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733).
+台灣時間晚上 10/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733).
 
 台灣時間晚上 11/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -20,6 +20,12 @@ layout: testlayouts
 中國事件觀察影響台股跌買點: 上午場9:30(開盤) -> 11:30(收盤), 下午場(開盤)13:00 -> 觀察盤勢  
 
 ---
+
+## 2023/09/25
+```
+晚上美股費半+0.79%, 早上期貨+0.1%, 盤後沒事.
+目前每天都漲不一樣, 只能跟投信或籌碼走比較穩.
+```
 
 ## 2023/09/22
 ```
