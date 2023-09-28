@@ -79,3 +79,11 @@ T3: 大綜電腦、動力安全、精誠、仁大、IBM
 不過因為嫌系統太貴，找一個資深的進來做
 做了半年最後請他走，再找一個22K的進來維護
 ```
+
+# [MES vs ERP ](https://cimes.ares.com.tw/knowmes/)
+```
+MES管理工廠生產線的系統, 原物料之類的.
+ERP管理企業內部的系統, 人事物之類的.
+```
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/bd5d7b3d-37e6-40ed-a0ee-09c985b6d83c)
+
