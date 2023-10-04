@@ -1,4 +1,3 @@
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/61ffbbfe-d047-4f11-981f-c39055f00841)![image](https://github.com/lepg5487/Stock_God/assets/26459046/7b96eb14-b86c-4ec0-be9a-ea85f1e76500)---
 layout: testlayouts
 ---
 
