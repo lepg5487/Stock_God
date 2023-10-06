@@ -5,7 +5,8 @@ layout: testlayouts
 # 訂閱制
 ```
 step1: 輸入訂閱帳密
-step2: 
+step2: 同一時間訂閱帳密只能一個在線上 (如同時在線顯示:您的訂閱帳密在其他地方被登入,請盡快更改密碼)
+step3: 
 ```
 [參考程式1](https://github.com/max32002/tixcraft_bot)
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/1d9bdfac-3047-40a4-b375-d6cda5e0a8da)
