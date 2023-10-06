@@ -2,10 +2,16 @@
 layout: testlayouts
 ---
 
-訂閱制
+# 訂閱制
 ```
-step1: 
+step1: 輸入訂閱帳密
+step2: 
 ```
+[參考程式1](https://github.com/max32002/tixcraft_bot)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/1d9bdfac-3047-40a4-b375-d6cda5e0a8da)
+
+[參考程式2](https://www.youtube.com/watch?v=z-UwpsXY2Q4)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/3507ff5a-8f1d-4956-b24d-3a88d514f6db)![image](https://github.com/lepg5487/Stock_God/assets/26459046/5811883d-7a02-4875-8ea6-a1e00be0c1f8)
 
 [法律注意](https://youtu.be/GTmZ8zd8xZo?t=395)
 ```
