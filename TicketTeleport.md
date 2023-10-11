@@ -17,6 +17,8 @@ step4: 使用Google's OCR API自動辨識驗證碼(CAPTCHA)
 
 [Google's OCR API](https://dev.to/walrusai/using-google-s-ocr-api-with-puppeteer-for-visual-testing-42m6)  
 
+[網路上也有很多人用機器學習訓練的開源專案](https://www.reddit.com/r/node/comments/bg3xr7/how_to_solve_simple_image_capcha_and_submit_it/)  
+
 [法律注意](https://youtu.be/GTmZ8zd8xZo?t=395)
 ```
 賣刀(程式), 沒叫你去殺人(買票).
