@@ -2,6 +2,39 @@
 layout: testlayouts
 ---
 
+# 建置過程
+#### [安裝最新Node.js](https://nodejs.org/zh-tw/download)
+```
+cd Downloads/
+tar -xf node-v18.18.2-linux-x64.tar.xz
+sudo cp -r node-v18.18.2-linux-x64/* /usr/local/
+sudo ln -s /usr/local/bin/node /usr/bin/node
+sudo ln -s /usr/local/bin/npm /usr/bin/npm
+```
+##### 檢查是否安裝成功
+```
+npm -v
+node -v
+```
+#### 建立Node.js伺服器
+```
+mkdir TicketTeleport
+cd TicketTeleport
+npm init
+npm install express --save
+vim app.js
+```
+
+#### 建立React, react-app資料夾
+```
+sudo npm install -g create-react-app
+npx create-react-app react-app
+```
+
+
+
+
+
 # 訂閱制
 step1: 輸入訂閱帳密  
 step2: 同一時間訂閱帳密只能一個在線上 (如同時在線顯示:您的訂閱帳密在其他地方被登入,請盡快更改密碼)  
