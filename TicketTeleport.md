@@ -23,6 +23,7 @@ cd TicketTeleport
 npm init
 npm install express --save
 vim app.js
+node app.js
 ```
 
 #### 建立React, react-app資料夾
