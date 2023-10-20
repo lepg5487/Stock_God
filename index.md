@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 10/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 11/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 10/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
