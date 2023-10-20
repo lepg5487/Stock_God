@@ -26,7 +26,7 @@ vim app.js
 node app.js
 ```
 
-~~#### 建立React伺服器, react-app資料夾
+~~ ####建立React伺服器, react-app資料夾 ~~
 ```
 sudo npm install -g create-react-app
 npx create-react-app react-app
