@@ -26,16 +26,25 @@ vim app.js
 node app.js
 ```
 
-~~ ####建立React伺服器, react-app資料夾 ~~
+#### 建立React伺服器, react-app資料夾 (直接使用別人UI)
 ```
 sudo npm install -g create-react-app
 npx create-react-app react-app
 cd react-app
 npm start
 ```
-~~
 
-
+#### [別人UIrepo](https://github.com/cornflourblue/react-redux-registration-login-example)
+[錯誤解決](https://github.com/cornflourblue/react-redux-registration-login-example/issues/52)
+```
+git clone https://github.com/cornflourblue/react-redux-registration-login-example.git
+cd react-redux-registration-login-example
+npm audit fix --force
+npm uninstall webpack webpack-cli webpack-dev-server -force
+npm install webpack webpack-cli webpack-dev-server --save-dev
+npm install
+npm start
+```
 
 
 # 訂閱制
