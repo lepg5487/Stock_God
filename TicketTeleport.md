@@ -50,6 +50,10 @@ npm start
 #### 安裝 Puppeteer 
 `npm i puppeteer-core`  
 ##### 下載 [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) 自動產生 Puppeteer script  
+ 
+#### Step 1. [購票網頁tixcraft](https://tixcraft.com/activity)
+#### Step 2. 確認網頁是登入且認證完成狀態
+
 
 
 # 訂閱制
