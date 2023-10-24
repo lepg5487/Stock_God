@@ -45,6 +45,11 @@ npm install webpack webpack-cli webpack-dev-server --save-dev
 npm install
 npm start
 ```
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/92395cdf-0875-4f0a-b8e1-a4be9277b732)
+
+#### 安裝 Puppeteer 
+`npm i puppeteer-core`  
+##### 下載 [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) 自動產生 Puppeteer script  
 
 
 # 訂閱制
