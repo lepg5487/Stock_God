@@ -55,6 +55,11 @@ npm start
 #### Step 2. 確認網頁是登入且認證完成狀態
 
 
+### [ORC開源解法](https://github.com/sml2h3/ddddocr)
+#### Windows10 Bug 解決
+module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
+
+
 
 # 訂閱制
 step1: 輸入訂閱帳密  
