@@ -2,6 +2,15 @@
 layout: testlayouts
 ---
 
+### 檢查網站需不需要重新整理
+`Ajax的最大優點，就是能在不更新整個頁面的前提下維護資料。`
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/6f33d2b8-1d3e-4d79-b613-b170e5f1ce74)
+
+
+
+
+---
+
 # 建置過程
 #### [安裝最新Node.js](https://nodejs.org/zh-tw/download)
 ```
