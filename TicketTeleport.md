@@ -8,9 +8,11 @@ layout: testlayouts
 #### [檢查網站是不是動態網頁](https://www.youtube.com/watch?v=n7IiQGu-jCg)
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/4eff17f6-9b54-49b5-9d76-0eb8526eba4f)
 
-#### 反爬蟲常見方式
-- `User-Agent check`伺服器從User-Agent對應的值中辨識客戶端的使用資訊。  
-    - Header 要設定 `User-Agent`、`Referer`、`Accept`...等等  
+#### [反爬蟲常見方式](https://mp.weixin.qq.com/s/6rbASvvrr46Dg32a5kfdMw)
+- `User-Agent check` 伺服器從User-Agent對應的值中辨識客戶端的使用資訊。
+    - Request Header 要設定 `User-Agent`、`Referer`、`Accept`...等等。
+- `Cookie` 伺服器端透過校驗 Request Header 的"Cookie值"來區分正常使用者和爬蟲程式。
+    - 
 
 
 
