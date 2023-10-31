@@ -9,8 +9,8 @@ layout: testlayouts
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/4eff17f6-9b54-49b5-9d76-0eb8526eba4f)
 
 #### 反爬蟲常見方式
-`User-Agent check`伺服器從User-Agent對應的值中辨識客戶端的使用資訊。
-: Header 要設定 `User-Agent`、`Referer`、`Accept`...等等
+`User-Agent check`伺服器從User-Agent對應的值中辨識客戶端的使用資訊。  
+~ Header 要設定 `User-Agent`、`Referer`、`Accept`...等等  
 
 
 
