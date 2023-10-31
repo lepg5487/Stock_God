@@ -5,6 +5,16 @@ layout: testlayouts
 #### 檢查網站需不需要重新整理, Ajax的最大優點，就是能在不更新整個頁面的前提下維護資料。
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/6f33d2b8-1d3e-4d79-b613-b170e5f1ce74)
 
+#### [檢查網站是不是動態網頁](https://www.youtube.com/watch?v=n7IiQGu-jCg)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/4eff17f6-9b54-49b5-9d76-0eb8526eba4f)
+
+#### 反爬蟲常見方式
+`User-Agent check`伺服器從User-Agent對應的值中辨識客戶端的使用資訊。
+: Header 要設定 `User-Agent`、`Referer`、`Accept`...等等
+
+
+
+
 
 
 
