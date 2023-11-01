@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 11/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).
+台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf). 
 
 [台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
@@ -21,6 +21,12 @@ layout: testlayouts
 22AI營邦奇鋐高力上詮光聖前鼎 -> 25台燿,金像電 26華城 27華星光 -> 波若威記憶體晶豪科威剛十銓當天早上以後所有人死 ->  12前鼎華星光13上詮
 
 ---
+
+## 2023/11/01
+```
+晚上美股費半+0.96%, 早上期貨-0.3%, 夜盤AMD -1%.
+等創意或億而得給起漲訊號才進電子股.
+```
 
 ## 2023/10/31
 ```
