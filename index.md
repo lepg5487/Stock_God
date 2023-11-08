@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 11/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
-台灣時間晚上 11/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 12/13. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
 台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf). 
 
@@ -27,6 +27,7 @@ layout: testlayouts
 晚上美股費半+0.77%, 早上期貨-0.1%, 夜盤沒事.
 緯創急漲->華泰急漲.
 躲所有人的營收, 記憶體,IP,晶圓代工已經崩盤, 空補漲廣達底下已經公佈營收的AI.
+指數加權上不去就是等11/14,15結算完才會繼續漲.
 ```
 
 ## 2023/11/07
