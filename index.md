@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 11/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 12/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 11/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
@@ -26,7 +26,8 @@ layout: testlayouts
 ```
 晚上美股費半+3.62%, 早上期貨+0.1%, 夜盤特斯拉+1.48%.
 觀察加權指數出量就空手, 每個前高都尊重.
-
+華城不等人只好跳過, 電子沒想像中強.
+多合一, 多中天.
 ```
 
 ## 2023/11/14
