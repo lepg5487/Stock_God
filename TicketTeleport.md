@@ -42,6 +42,9 @@ Windows 10 `import cairosvg` 無法使用(解決方式)[https://blog.csdn.net/no
 ### 選擇需要的位置 "productId": "p000002686", "productId": "p000002687",
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/2b25f94c-5369-44ff-9ffd-96e0495af4c1) 
 
+### 定期檢查最後訂票的payload有沒有修改, 用瀏覽器F12直接訂票一次
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/b4e849b2-a6a4-4038-8ed1-7cf6e8bd92bf)
+
 ---
 
 
