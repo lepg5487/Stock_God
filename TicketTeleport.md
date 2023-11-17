@@ -14,6 +14,59 @@ layout: testlayouts
 - `Cookie` 伺服器端透過校驗 Request Header 的"Cookie值"來區分正常使用者和爬蟲程式。
     - 
 
+---
+
+### [ORC開源解法](https://github.com/sml2h3/ddddocr)
+#### Windows10 Bug 解決
+module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
+#### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600)
+原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案.
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/5400c344-1e44-4695-9cbc-d6a30ac8f9d1)
+
+修改 main.spec 檔案 `datas=[('./ddddocr/common.onnx','ddddocr')],`, 將檔案加入進去以後再編譯.
+改用這指令 `pyinstaller main.spec` 編譯
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/e9b00430-bf19-4c50-a39e-35feb2b67d71)  
+
+---
+
+Windows 10 `import cairosvg` 無法使用(解決方式)[https://blog.csdn.net/nongcunqq/article/details/113623801]    
+(安裝GTK-for-Windows-Runtime-Environment-Installer)[https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer] 
+
+---
+
+# ticketplus   
+## 尚未開賣時, 
+### 先檢查 captcha sessionId -> {"sessionId":"s000000428"} 
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/03eeb4dd-ae9b-457a-bfe6-1107ffa05a7b)   
+
+### 選擇需要的位置 "productId": "p000002686", "productId": "p000002687",
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/2b25f94c-5369-44ff-9ffd-96e0495af4c1) 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22,8 +75,31 @@ layout: testlayouts
 
 ---
 
+# 以下不重要
+# 訂閱制
+step1: 輸入訂閱帳密  
+step2: 同一時間訂閱帳密只能一個在線上 (如同時在線顯示:您的訂閱帳密在其他地方被登入,請盡快更改密碼)  
+step3:  
+[參考程式1](https://github.com/max32002/tixcraft_bot)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/1d9bdfac-3047-40a4-b375-d6cda5e0a8da) 
+
+[參考程式2](https://www.youtube.com/watch?v=z-UwpsXY2Q4)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/3507ff5a-8f1d-4956-b24d-3a88d514f6db)![image](https://github.com/lepg5487/Stock_God/assets/26459046/5811883d-7a02-4875-8ea6-a1e00be0c1f8)   
+
+step4: 使用Google's OCR API自動辨識驗證碼(CAPTCHA)  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/dddc3ab5-4f75-46d0-a588-40830d8bccb7)   
+
+[Google's OCR API](https://dev.to/walrusai/using-google-s-ocr-api-with-puppeteer-for-visual-testing-42m6)  
+
+[網路上也有很多人用機器學習訓練的開源專案](https://www.reddit.com/r/node/comments/bg3xr7/how_to_solve_simple_image_capcha_and_submit_it/)  
+
+[google reCAPTCHA v3](https://www.google.com/recaptcha/api2/demo)
+
+[法律注意](https://youtu.be/GTmZ8zd8xZo?t=395)
+
+
 # 建置過程
-#### [安裝最新Node.js](https://nodejs.org/zh-tw/download)
+#### [安裝最新Node.js](https://nodejs.org/zh-tw/download) 
 ```
 cd Downloads/
 tar -xf node-v18.18.2-linux-x64.tar.xz
@@ -34,7 +110,7 @@ sudo ln -s /usr/local/bin/npm /usr/bin/npm
 ##### 檢查是否安裝成功
 ```
 npm -v
-node -v
+node -v 
 ```
 #### 建立Node.js伺服器
 ```
@@ -69,49 +145,14 @@ npm start
 
 #### 安裝 Puppeteer 
 `npm i puppeteer-core`  
-##### 下載 [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) 自動產生 Puppeteer script  
+##### 下載 [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) 自動產生 Puppeteer script   
  
-#### Step 1. [購票網頁tixcraft](https://tixcraft.com/activity)
+#### Step 1. [購票網頁tixcraft](https://tixcraft.com/activity) 
 #### Step 2. 確認網頁是登入且認證完成狀態
 
 ---
 
 
-### [ORC開源解法](https://github.com/sml2h3/ddddocr)
-#### Windows10 Bug 解決
-module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
-#### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600)
-原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案.
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/5400c344-1e44-4695-9cbc-d6a30ac8f9d1)
-
-修改 main.spec 檔案 `datas=[('./ddddocr/common.onnx','ddddocr')],`, 將檔案加入進去以後再編譯.
-改用這指令 `pyinstaller main.spec` 編譯
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/e9b00430-bf19-4c50-a39e-35feb2b67d71)
-
-
-
----
-
-# 訂閱制
-step1: 輸入訂閱帳密  
-step2: 同一時間訂閱帳密只能一個在線上 (如同時在線顯示:您的訂閱帳密在其他地方被登入,請盡快更改密碼)  
-step3:  
-[參考程式1](https://github.com/max32002/tixcraft_bot)
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/1d9bdfac-3047-40a4-b375-d6cda5e0a8da)
-
-[參考程式2](https://www.youtube.com/watch?v=z-UwpsXY2Q4)
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/3507ff5a-8f1d-4956-b24d-3a88d514f6db)![image](https://github.com/lepg5487/Stock_God/assets/26459046/5811883d-7a02-4875-8ea6-a1e00be0c1f8)  
-
-step4: 使用Google's OCR API自動辨識驗證碼(CAPTCHA)  
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/dddc3ab5-4f75-46d0-a588-40830d8bccb7)  
-
-[Google's OCR API](https://dev.to/walrusai/using-google-s-ocr-api-with-puppeteer-for-visual-testing-42m6)  
-
-[網路上也有很多人用機器學習訓練的開源專案](https://www.reddit.com/r/node/comments/bg3xr7/how_to_solve_simple_image_capcha_and_submit_it/)  
-
-[google reCAPTCHA v3](https://www.google.com/recaptcha/api2/demo)
-
-[法律注意](https://youtu.be/GTmZ8zd8xZo?t=395)
 ```
 賣刀(程式), 沒叫你去殺人(買票).
 不能"一步一步的教學".
