@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 12/13. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf). 
+台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
 [台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
@@ -25,7 +25,7 @@ layout: testlayouts
 ## 2023/11/17
 ```
 晚上美股費半+0.32%, 早上期貨+0.1%, 夜盤沒事.
-當漲到霖宏(最後補漲), 志信(最後補漲)才是出清旅遊的一天, 多六角.
+當漲到霖宏(最後補漲), 志信(最後補漲)才是出清旅遊的一天.
 ```
 
 ## 2023/11/16
