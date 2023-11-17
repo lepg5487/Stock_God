@@ -6,20 +6,20 @@ layout: testlayouts
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/6f33d2b8-1d3e-4d79-b613-b170e5f1ce74)
 
 #### [檢查網站是不是動態網頁](https://www.youtube.com/watch?v=n7IiQGu-jCg)
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/4eff17f6-9b54-49b5-9d76-0eb8526eba4f)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/4eff17f6-9b54-49b5-9d76-0eb8526eba4f) 
 
 #### [反爬蟲常見方式](https://mp.weixin.qq.com/s/6rbASvvrr46Dg32a5kfdMw)
 - `User-Agent check` 伺服器從User-Agent對應的值中辨識客戶端的使用資訊。
-    - Request Header 要設定 `User-Agent`、`Referer`、`Accept`...等等。
+    - Request Header 要設定 `User-Agent`、`Referer`、`Accept`...等等。 
 - `Cookie` 伺服器端透過校驗 Request Header 的"Cookie值"來區分正常使用者和爬蟲程式。
     - 
 
 ---
 
 ### [ORC開源解法](https://github.com/sml2h3/ddddocr)
-#### Windows10 Bug 解決
+#### Windows10 Bug 解決 
 module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
-#### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600)
+#### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600) 
 原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案.
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/5400c344-1e44-4695-9cbc-d6a30ac8f9d1)
 
@@ -34,15 +34,14 @@ Windows 10 `import cairosvg` 無法使用(解決方式)[https://blog.csdn.net/no
 
 ---
 
-# ticketplus   
-## 尚未開賣時, 
-### 先檢查 captcha sessionId -> {"sessionId":"s000000428"} 
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/03eeb4dd-ae9b-457a-bfe6-1107ffa05a7b)   
+# ticketplus 尚未開賣時  
+### 先檢查 captcha sessionId -> {"sessionId":"s000000428"}  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/03eeb4dd-ae9b-457a-bfe6-1107ffa05a7b)    
 
-### 選擇需要的位置 "productId": "p000002686", "productId": "p000002687",
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/2b25f94c-5369-44ff-9ffd-96e0495af4c1) 
+### 選擇需要的位置 "productId": "p000002686", "productId": "p000002687",  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/2b25f94c-5369-44ff-9ffd-96e0495af4c1)  
 
-### 定期檢查最後訂票的payload有沒有修改, 用瀏覽器F12直接訂票一次
+### 定期檢查最後訂票的payload有沒有修改, 用瀏覽器F12直接訂票一次  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/b4e849b2-a6a4-4038-8ed1-7cf6e8bd92bf)
 
 ---
