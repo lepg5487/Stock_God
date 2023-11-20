@@ -12,7 +12,7 @@ layout: testlayouts
 
 台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
-[台股09月29日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[台股10月09日, 10月10日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
