@@ -1,0 +1,5 @@
+mobile = "0912345678"
+password = "ji3ji3ji3"
+sessionId = "s000000428"
+productId = "p000002687"
+count = 1
