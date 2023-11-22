@@ -29,8 +29,9 @@ module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 
 ---
 
-Windows 10 `import cairosvg` 無法使用(解決方式)[https://blog.csdn.net/nongcunqq/article/details/113623801]    
-(安裝GTK-for-Windows-Runtime-Environment-Installer)[https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer] 
+Windows 10 `import cairosvg` 無法使用[解決方式](https://blog.csdn.net/nongcunqq/article/details/113623801)  
+
+[安裝GTK-for-Windows-Runtime-Environment-Installer](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer)  
 
 ---
 
