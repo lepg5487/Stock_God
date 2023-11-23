@@ -35,7 +35,7 @@ module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 
 ---
 
-### python fake_useragent bug 解決  
+### python 使用 pyinstaller 的 fake_useragent bug 解決  
 ```
 ModuleNotFoundError: No module named 'fake_useragent.data'
 During handling of the above exception, another exception occurred:
