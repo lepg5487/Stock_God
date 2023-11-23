@@ -36,6 +36,21 @@ module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 ---
 
 #### python fake_useragent bug 解決  
+```
+ModuleNotFoundError: No module named 'fake_useragent.data'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "fake_useragent\utils.py", line 40, in load
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\ticketplus\\dist\\ticketplusniceUI\\fake_useragent\\data\\browsers.json'
+Traceback (most recent call last):
+  File "ticketplusniceUI.py", line 60, in <module>
+  File "fake_useragent\fake.py", line 56, in __init__
+  File "fake_useragent\utils.py", line 55, in load
+UnboundLocalError: cannot access local variable 'ret' where it is not associated with a value
+[4400] Failed to execute script 'ticketplusniceUI' due to unhandled exception!
+```
+
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/a41f339a-afaf-49c2-8baa-7dc33b816698)  
 
 fake_useragent 需要使用 `browsers.json`, 所以要到library找給pyinstaller.  
 `browsers.json`位置在Location: C:\Users\lepg5\AppData\Local\Programs\Python\Python311\Lib\site-packages  
