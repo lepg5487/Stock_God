@@ -35,15 +35,16 @@ module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 
 ---
 
-#### python fake_useragent bug 解決
+#### python fake_useragent bug 解決  
 
-fake_useragent 需要使用 `browsers.json`, 所以要到library找給pyinstaller
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/4bc523a2-42b3-41e3-816f-d890e44ac981)
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/e9181c9b-b108-4880-b044-cc676053692e)
+fake_useragent 需要使用 `browsers.json`, 所以要到library找給pyinstaller.  
+`browsers.json`位置在Location: C:\Users\lepg5\AppData\Local\Programs\Python\Python311\Lib\site-packages  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/4bc523a2-42b3-41e3-816f-d890e44ac981)  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/e9181c9b-b108-4880-b044-cc676053692e)  
 
-將`browsers.json`複製一份, 和 main.py 同目錄底下, 然後修改 main.spec 檔案.
-`datas=[('./ddddocr/common.onnx','ddddocr'),('./browsers.json','fake_useragent/data'),('./info.txt','.')],`, 將檔案加入進去以後再編譯.
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/0a0ba271-23fd-4c81-ab84-58f2e2b74b67)
+將`browsers.json`複製一份, 和 main.py 同目錄底下, 然後修改 main.spec 檔案.  
+`datas=[('./ddddocr/common.onnx','ddddocr'),('./browsers.json','fake_useragent/data'),('./info.txt','.')],`, 將檔案加入進去以後再編譯.  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/0a0ba271-23fd-4c81-ab84-58f2e2b74b67)  
 
 ---
 
