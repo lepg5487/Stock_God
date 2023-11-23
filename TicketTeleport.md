@@ -20,7 +20,7 @@ layout: testlayouts
 #### Windows10 Bug 解決 
 module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 #### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600) 
-原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案.
+原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案. `pyinstaller --onedir --noconsole --clean main.py`
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/5400c344-1e44-4695-9cbc-d6a30ac8f9d1)
 
 修改 main.spec 檔案 `datas=[('./ddddocr/common.onnx','ddddocr')],`, 將檔案加入進去以後再編譯.
