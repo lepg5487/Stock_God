@@ -12,7 +12,7 @@ layout: testlayouts
 
 台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
-[台股10月09日, 10月10日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[01月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
 
@@ -21,6 +21,12 @@ layout: testlayouts
 1101IP->1102伺服器勤誠營邦金像電台光電->1102散熱奇鋐雙鴻->1103迎廣川湖->前鼎華星光上詮波若威(AI最後結束公布財報等等事件)->記憶體十銓威剛晶豪科
 
 ---
+
+## 2023/11/23
+```
+晚上美股費半+0.33%, 早上期貨+0%, 夜盤NVDA-1.7%.
+今晚美股休市, 現在什麼都會漲只差在時間點.
+```
 
 ## 2023/11/22
 ```
