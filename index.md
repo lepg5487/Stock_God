@@ -4,6 +4,8 @@ layout: testlayouts
 
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/e327d6ab-b479-4db4-8c95-38eded4bdcb6)
 
+![螢幕擷取畫面_2023-11-23_103508-removebg-preview](https://github.com/lepg5487/Stock_God/assets/26459046/ab97b8ab-f6a5-49b8-8469-fe976853d8d8)
+
 # 青年股神的日記 
 
 台灣時間晚上 12/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
