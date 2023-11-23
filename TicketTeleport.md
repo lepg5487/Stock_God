@@ -20,7 +20,7 @@ layout: testlayouts
 #### Windows10 Bug 解決 
 module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 #### [使用pyinstaller將.py打包成.exe (含ddddocr有bug)](https://zhuanlan.zhihu.com/p/456894600) 
-原本使用 `pyinstaller --onefile --noconsole --clean main.py` 編譯, 會出現缺少檔案. `pyinstaller --onedir --noconsole --clean main.py`
+原本使用 `pyinstaller --onedir --noconsole --clean main.py` 編譯, 會出現缺少檔案. `--onedir`比較好debug, `--onefile`最後在使用比較簡潔
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/5400c344-1e44-4695-9cbc-d6a30ac8f9d1)
 
 修改 main.spec 檔案 `datas=[('./ddddocr/common.onnx','ddddocr')],`, 將檔案加入進去以後再編譯.
@@ -29,9 +29,21 @@ module 'PIL.Image' has no attribute 'ANTIALIAS' -> `pip install Pillow==9.5.0`
 
 ---
 
-Windows 10 `import cairosvg` 無法使用[解決方式](https://blog.csdn.net/nongcunqq/article/details/113623801)  
+#### Windows 10 `import cairosvg` 無法使用[解決方式](https://blog.csdn.net/nongcunqq/article/details/113623801)  
 
 [安裝GTK-for-Windows-Runtime-Environment-Installer](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer)  
+
+---
+
+#### python fake_useragent bug 解決
+
+fake_useragent 需要使用 `browsers.json`, 所以要到library找給pyinstaller
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/4bc523a2-42b3-41e3-816f-d890e44ac981)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/e9181c9b-b108-4880-b044-cc676053692e)
+
+將`browsers.json`複製一份, 和 main.py 同目錄底下, 然後修改 main.spec 檔案.
+`datas=[('./ddddocr/common.onnx','ddddocr'),('./browsers.json','fake_useragent/data'),('./info.txt','.')],`, 將檔案加入進去以後再編譯.
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/0a0ba271-23fd-4c81-ab84-58f2e2b74b67)
 
 ---
 
