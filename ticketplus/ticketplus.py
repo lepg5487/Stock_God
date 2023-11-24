@@ -7,17 +7,23 @@ import cairosvg
 import hashlib
 import os
 import re
+import sys
 
-script_directory = os.path.dirname(os.path.abspath(__file__))
+# 獲取執行檔案的路徑
+exe_path = sys.argv[0]
+script_directory = os.path.dirname(os.path.abspath(exe_path))
 os.chdir(script_directory)
 
-with open("info.txt") as f:
+# 使用完整路徑打開文件
+info_path = os.path.join(script_directory, "info.txt")
+with open(info_path) as f:
     content = f.read()
-mobile = re.search(r'mobile = "(.+)"', content).group(1) 
-password = re.search(r'password = "(.+)"', content).group(1)
-sessionId = re.search(r'sessionId = "(.+)"', content).group(1)
-productId = re.search(r'productId = "(.+)"', content).group(1)
-count = int(re.search(r'count = (\d+)', content).group(1))
+
+mymobile = re.search(r'mobile = "(.+)"', content).group(1) 
+mypassword = re.search(r'password = "(.+)"', content).group(1)
+mysessionId = re.search(r'sessionId = "(.+)"', content).group(1)
+myproductId = re.search(r'productId = "(.+)"', content).group(1)
+mycount = int(re.search(r'count = (\d+)', content).group(1))
 
 def round_to_nearest_minute():
     current_time = time.time()
@@ -40,12 +46,13 @@ rounded_time = round_to_nearest_minute() * 1000
 login_url = "https://api.ticketplus.com.tw/user/api/v1/login?_="+str(rounded_time)
 print("login API =", login_url)
 # 未加密的密码
-password = password
+password = mypassword
 # 加密密码
 hashed_password = hashlib.md5(password.encode()).hexdigest()
 
 ua = UserAgent()
 user1 = ua.random
+
 print(user1)
 #user1 = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 myheader={
@@ -54,7 +61,7 @@ myheader={
     "Content-Type":"application/json"
 }
 mypayload = {
-    "mobile": mobile,
+    "mobile": mymobile,
     "countryCode": "886",
     "password": hashed_password
 }
@@ -85,7 +92,7 @@ myheader={
 # json標準是雙引號, 一定要使用json.dumps
 # data=payload, 每場sessionId不同
 mydata={
-    "sessionId":sessionId
+    "sessionId":mysessionId
 }
 mydata_json = json.dumps(mydata)
 #print(mydata) # {'sessionId': 's000000324'} 單引號伺服器吃不進去
@@ -126,8 +133,8 @@ myheader2={
 mydata2={
     "products": [
         {
-            "productId": productId,
-            "count": count
+            "productId": myproductId,
+            "count": mycount
         }
     ],
     "captcha": {
@@ -157,4 +164,6 @@ while True:
         # 不是 '137' 也不是 '00'，直接跳出迴圈
         print("不是 '137'，跳出迴圈")
         break
+
+input("按下Enter結束")
 # ------------------------- 訂票API -----------------------------------
