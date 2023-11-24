@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['ticketplusniceUI.py'],
+    ['ticketplus.py'],
     pathex=[],
     binaries=[],
     datas=[('./ddddocr/common.onnx','ddddocr'),('./browsers.json','fake_useragent/data'),('./info.txt','.')],
@@ -26,7 +26,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='ticketplusniceUI',
+    name='ticketplus',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -47,5 +47,5 @@ coll = COLLECT(
     strip=False,
     upx=True,
     upx_exclude=[],
-    name='ticketplusniceUI',
+    name='ticketplus',
 )
