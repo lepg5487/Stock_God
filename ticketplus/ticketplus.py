@@ -8,6 +8,7 @@ import hashlib
 import os
 import re
 import sys
+import subprocess
 
 # 獲取執行檔案的路徑
 exe_path = sys.argv[0]
@@ -149,6 +150,25 @@ mydata2={
 mydata_json2 = json.dumps(mydata2) # payload
 print("reserve Header =", mydata_json2)
 
+# while True:
+#     read2 = requests.post(url2, headers=myheader2, data=mydata_json2)
+#     print("reserve API state =", read2) # <Response [200]>
+#     Response_Reserve = read2.json()
+#     print(Response_Reserve['errCode'], Response_Reserve['errMsg'])
+
+#     if Response_Reserve['errCode'] == '137':
+#         print("繼續迴圈")
+#     elif Response_Reserve['errCode'] == '00':
+#         print("成功取得")
+#         break
+#     else:
+#         # 不是 '137' 也不是 '00'，直接跳出迴圈
+#         print("不是 '137'，跳出迴圈")
+#         break
+
+# input("整份程式結束, 按下Enter結束")
+testexe = "ticketplusniceUI.exe"
+
 while True:
     read2 = requests.post(url2, headers=myheader2, data=mydata_json2)
     print("reserve API state =", read2) # <Response [200]>
@@ -158,12 +178,16 @@ while True:
     if Response_Reserve['errCode'] == '137':
         print("繼續迴圈")
     elif Response_Reserve['errCode'] == '00':
-        print("成功取得")
+        input("成功取得, 按下Enter結束")
+        break
+    elif Response_Reserve['errCode'] == '135':
+        print("驗證碼錯誤重新執行整份程式")
+        subprocess.call([testexe])
         break
     else:
-        # 不是 '137' 也不是 '00'，直接跳出迴圈
-        print("不是 '137'，跳出迴圈")
+        # 不是 '137' 也不是 '00' 也不是 '135'，直接跳出迴圈
+        input("不是 '137'，跳出迴圈, 按下Enter結束")
         break
 
-input("按下Enter結束")
+input("整份程式結束, 按下Enter結束")
 # ------------------------- 訂票API -----------------------------------
