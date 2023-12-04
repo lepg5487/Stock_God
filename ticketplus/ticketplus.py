@@ -167,7 +167,7 @@ print("reserve Header =", mydata_json2)
 #         break
 
 # input("整份程式結束, 按下Enter結束")
-testexe = "ticketplusniceUI.exe"
+testexe = "ticketplus.exe"
 
 while True:
     read2 = requests.post(url2, headers=myheader2, data=mydata_json2)
