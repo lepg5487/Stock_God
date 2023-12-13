@@ -233,12 +233,10 @@ WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR
 info1 = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField7')))
 info1.clear()  # 清除文本框中的内容
 info1.send_keys("林")
-#driver.execute_script("arguments[0].value = arguments[1];", info1, "李")
 
 info2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField8')))
 info2.clear()  # 清除文本框中的内容
 info2.send_keys("帥哥")
-#driver.execute_script("arguments[0].value = arguments[1];", info2, "彥葦")
 
 dropdown2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Select2')))
 info_select2 = Select(dropdown2)
@@ -246,29 +244,24 @@ info_select2.select_by_visible_text("東京都")
 info4 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField10')))
 info4.clear()  # 清除文本框中的内容
 info4.send_keys("東京都足立区堀之内")
-# driver.execute_script("arguments[0].value = arguments[1];", info4, "東京都足立区堀之内")
 
 info5 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField2')))
 info5.clear()  # 清除文本框中的内容
 info5.send_keys("1-1-23")
-# driver.execute_script("arguments[0].value = arguments[1];", info5, "2-2-15")
 
 info6 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField3')))
 info6.clear()  # 清除文本框中的内容
 info6.send_keys("123, 123")
-# driver.execute_script("arguments[0].value = arguments[1];", info6, "JpDeliver, JDZ0605842")
 
 info7 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField6')))
 info7.clear()  # 清除文本框中的内容
 info7.send_keys("123-4567-8910")
-# driver.execute_script("arguments[0].value = arguments[1];", info7, "050-5892-8605")
 
 info3 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#postalCode')))
 #info3.clear()  # 清除文本框中的内容
 info3.send_keys(Keys.CONTROL + "a")  # 选中所有文本
 info3.send_keys(Keys.DELETE)  # 删除选中的文本
 info3.send_keys("123-1234")
-#driver.execute_script("arguments[0].value = arguments[1];", info3, "123-0874")
 
 buy_element = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form0 > div:nth-child(1) > div > div > div.VheJw > div.oQEAZ > div > button')))
 buy_element.click()
@@ -310,7 +303,6 @@ WebDriverWait(driver, 10).until(EC.frame_to_be_available_and_switch_to_it((By.CS
 input_element3 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#expiry')))
 input_element3.send_keys("12")
 input_element3.send_keys("34")
-#driver.execute_script("arguments[0].value = arguments[1];", input_element3, "02")
 driver.switch_to.default_content()
 
 # #card-fields-verification_value-aurz9r9i8pj00000-scope-nagano-market\.jp
