@@ -1,8 +1,0 @@
-第一次使用請把page_1.html和page_2.html等等的page全刪除
-要修改date和target_product_names
-date是網頁的商品上架日期
-target_product_names是想要購買的商品關鍵字
-
-
-無法同時購買page_1和page_2的商品
-只能同時購買page_1或是同時購買page_2的商品
