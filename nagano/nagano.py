@@ -10,6 +10,10 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import time
+from selenium.webdriver.support.ui import Select
+from fake_useragent import UserAgent
+
 
 # 獲取執行檔案的路徑
 exe_path = sys.argv[0]
@@ -17,16 +21,18 @@ script_directory = os.path.dirname(os.path.abspath(exe_path))
 os.chdir(script_directory)
 
 # --------------------------- 登入 ----------------------------
+ua = UserAgent()
+user1 = ua.random
 
 login_header = {
-    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": user1
 }
 
 login_payload = {
     "form_type": "customer_login",
     "utf8": "✓",
     "customer[email]": "133221333123111@gmail.com",
-    "customer[password]": "133221333123",
+    "customer[password]": "1234000",
     "return_url": "/account"
 }
 
@@ -40,9 +46,12 @@ print(redirect_login_history) # 看重定向幾次
 # --------- 取得商品ID----------
 # https://nagano-market.jp/collections/20231006?page=1
 # https://nagano-market.jp/collections/20231020?page=1
+# https://nagano-market.jp/collections/20231213?page=1
+
+
 date = "20231006"
 first_page_url = f"https://nagano-market.jp/collections/{date}?page=1"
-# 用户输入的商品名称
+# 用户输入的商品名称 # 早上11:00慢1秒執行程式
 target_product_names = ["マレーグマ", "もちきんちゃく"]
 
 page_html_file = 'page_1.html'
@@ -50,7 +59,7 @@ page_html_file = 'page_1.html'
 if not os.path.exists(page_html_file):
     # 发送HTTP请求获取第一个页面的HTML
     Webpage_header = {
-        'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'User-Agent' : user1,
     }
     Webpage_response = requests.get(first_page_url, headers=Webpage_header)
     print(Webpage_response.status_code)
@@ -189,7 +198,7 @@ chrome_options = Options()
 #options.add_argument('--headless')  # 启用无头模式
 #options.add_argument("--incognito")  # 使用無痕模式。
 chrome_options.add_argument('--start-maximized')  # 最大化窗口，可根据需要调整
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+chrome_options.add_argument('user-agent='+user1)
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(buy_url)
 
@@ -213,17 +222,72 @@ for cookie_name, cookie_value in cookies_dict.items():
 
 driver.get(buy_url)
 # -------- 進入購買頁面--------
+# -------- 排隊120s直到看到"配送先住所" --------
+WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form0 > div:nth-child(1) > div > div > div.VheJw > div.s_qAq > div > section > div > h2')))
+# dropdown = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Select0')))
+# info_select = Select(dropdown)
+# # 方法1：通过文本选择选项
+# info_select.select_by_visible_text("新しい住所を使用する")
+# -------- 排隊120s直到看到"配送先住所" --------
 # -------- 情報 --------
-buy_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form0 > div:nth-child(1) > div > div > div.VheJw > div.oQEAZ > div > button')))
-driver.execute_script("arguments[0].click();", buy_element)
+info1 = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField7')))
+info1.clear()  # 清除文本框中的内容
+info1.send_keys("林")
+#driver.execute_script("arguments[0].value = arguments[1];", info1, "李")
+
+info2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField8')))
+info2.clear()  # 清除文本框中的内容
+info2.send_keys("帥哥")
+#driver.execute_script("arguments[0].value = arguments[1];", info2, "彥葦")
+
+dropdown2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Select2')))
+info_select2 = Select(dropdown2)
+info_select2.select_by_visible_text("東京都")
+info4 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField10')))
+info4.clear()  # 清除文本框中的内容
+info4.send_keys("東京都足立区堀之内")
+# driver.execute_script("arguments[0].value = arguments[1];", info4, "東京都足立区堀之内")
+
+info5 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField2')))
+info5.clear()  # 清除文本框中的内容
+info5.send_keys("1-1-23")
+# driver.execute_script("arguments[0].value = arguments[1];", info5, "2-2-15")
+
+info6 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField3')))
+info6.clear()  # 清除文本框中的内容
+info6.send_keys("123, 123")
+# driver.execute_script("arguments[0].value = arguments[1];", info6, "JpDeliver, JDZ0605842")
+
+info7 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#TextField6')))
+info7.clear()  # 清除文本框中的内容
+info7.send_keys("123-4567-8910")
+# driver.execute_script("arguments[0].value = arguments[1];", info7, "050-5892-8605")
+
+info3 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#postalCode')))
+#info3.clear()  # 清除文本框中的内容
+info3.send_keys(Keys.CONTROL + "a")  # 选中所有文本
+info3.send_keys(Keys.DELETE)  # 删除选中的文本
+info3.send_keys("123-1234")
+#driver.execute_script("arguments[0].value = arguments[1];", info3, "123-0874")
+
+buy_element = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form0 > div:nth-child(1) > div > div > div.VheJw > div.oQEAZ > div > button')))
+buy_element.click()
+#driver.execute_script("arguments[0].click();", buy_element)
 # -------- 情報 --------
 # -------- 配送 --------
-buy_element2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form1 > div:nth-child(1) > div > div > div > div.oQEAZ > div:nth-child(1) > button')))
-driver.execute_script("arguments[0].click();", buy_element2)
+# -------- 等待120s直到看到"配送方法" --------
+WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#step-section-primary-header')))
+buy_element2 = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form1 > div:nth-child(1) > div > div > div > div.oQEAZ > div:nth-child(1) > button')))
+buy_element2.click()
+#driver.execute_script("arguments[0].click();", buy_element2)
 # -------- 配送 --------
 # -------- 支払い --------
+# -------- 等待120s直到看到"支払い" --------
+WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#step-section-primary-header')))
+# 
 # card-fields-number-b9hkktqoen700000-scope-nagano-market\.jp
 # 部分匹配iframe的CSS_SELECTOR
+# -----------------card -----------------
 iframe_number = "[id^='card-fields-number-'][id$='-scope-nagano-market.jp']"
 WebDriverWait(driver, 10).until(EC.frame_to_be_available_and_switch_to_it((By.CSS_SELECTOR, iframe_number)))
 input_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#number')))
@@ -232,30 +296,37 @@ driver.execute_script("arguments[0].value = arguments[1];", input_element, "1332
 driver.switch_to.default_content()
 
 #card-fields-name-rtxg4ezusib00000-scope-nagano-market\.jp
+# -----------------name -----------------
 iframe_name = "[id^='card-fields-name-'][id$='-scope-nagano-market.jp']"
 WebDriverWait(driver, 10).until(EC.frame_to_be_available_and_switch_to_it((By.CSS_SELECTOR, iframe_name)))
 input_element2 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#name')))
-driver.execute_script("arguments[0].value = arguments[1];", input_element2, "YO YO YO")
+driver.execute_script("arguments[0].value = arguments[1];", input_element2, "ji394su3")
 driver.switch_to.default_content()
 
 # #card-fields-expiry-sop817bcdls00000-scope-nagano-market\.jp
-# expiry
+# -----------------expiry-----------------
 iframe_expiry = "[id^='card-fields-expiry-'][id$='-scope-nagano-market.jp']"
 WebDriverWait(driver, 10).until(EC.frame_to_be_available_and_switch_to_it((By.CSS_SELECTOR, iframe_expiry)))
 input_element3 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#expiry')))
-driver.execute_script("arguments[0].value = arguments[1];", input_element3, "7777")
+input_element3.send_keys("12")
+input_element3.send_keys("34")
+#driver.execute_script("arguments[0].value = arguments[1];", input_element3, "02")
 driver.switch_to.default_content()
 
 # #card-fields-verification_value-aurz9r9i8pj00000-scope-nagano-market\.jp
-# verification_value
+# -----------------verification_value-------------------
 iframe_verification_value = "[id^='card-fields-verification_value-'][id$='-scope-nagano-market.jp']"
 WebDriverWait(driver, 10).until(EC.frame_to_be_available_and_switch_to_it((By.CSS_SELECTOR, iframe_verification_value)))
 input_element4 = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#verification_value')))
-driver.execute_script("arguments[0].value = arguments[1];", input_element4, "777")
+driver.execute_script("arguments[0].value = arguments[1];", input_element4, "123")
 driver.switch_to.default_content()
 
-# Finish = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form2 > div:nth-child(1) > div > div.oQEAZ > div:nth-child(1) > div > button')))
+
+# #Form2 > div:nth-child(1) > div > div.oQEAZ > div:nth-child(1) > div > button
+# Finish = WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.CSS_SELECTOR, '#Form2 > div:nth-child(1) > div > div.oQEAZ > div:nth-child(1) > div > button')))
+# Finish.click()
 # driver.execute_script("arguments[0].click();", Finish)
+
 
 # -------- 支払い --------
 #driver.quit()
