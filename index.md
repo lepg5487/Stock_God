@@ -4,13 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 12/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 01/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 12/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
-台灣時間晚上 12/13. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 01/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 12/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
+台灣時間晚上 03/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
 [01月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
 
@@ -23,6 +23,12 @@ layout: testlayouts
 倍力宏碁資訊等資訊軟體股彈起來就是AI下車時間點
 
 ---
+
+## 2023/12/15
+```
+晚上美股費半+1.55%, 早上期貨+0.5%, 夜盤沒事.
+美股四巫日應該就是瘋狂拉高, 美股到處亂噴台股只能看誰先動了.
+```
 
 ## 2023/12/14
 ```
