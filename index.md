@@ -12,15 +12,11 @@ layout: testlayouts
 
 台灣時間晚上 03/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
-[01月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)
+[01月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-漲賣點 9:07(9:12)->9:15(9:23)->9:35->補漲9:40分->補漲10:00分->10:15;  
-中國事件觀察影響台股跌買點: 上午場9:30(開盤) -> 11:30(收盤), 下午場(開盤)13:00 -> 觀察盤勢  
-1101IP->1102伺服器勤誠金像電->1102散熱奇鋐雙鴻->1103夏都雲品富野華城迎廣川湖->1103前鼎華星光上詮波若威(AI最後結束公布財報等等事件)
-圓剛1109->圓展AMAX定穎投控1110->笙科訊芯1110->笙泉->1113芯鼎->1114揚智->1120達發  
-倍力宏碁資訊等資訊軟體股彈起來就是AI下車時間點
+族群: AI(散熱, 機殼, PC), 記憶體, PMIC, 光學, 海運, 旅遊.  
 
 ---
 
