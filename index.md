@@ -16,9 +16,15 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群: AI(散熱, 機殼, PC), 記憶體, PMIC, 光學, 海運(漲完), 旅遊(漲完).  
+族群: IP, AI(散熱, 機殼, PC), 記憶體, PMIC, 光學, 海運(漲完), 旅遊(漲完).  
 
 ---
+
+## 2024/01/05
+```
+晚上美股費半-0.82%, 早上期貨+0.1%, 夜盤沒事.
+營收好營收壞會直接開高開低, 小心地雷.
+```
 
 ## 2024/01/04
 ```
