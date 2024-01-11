@@ -16,7 +16,8 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群:  IP(漲完), PMIC(漲完), 機殼(漲完), IC設計(漲完). 海運(崩盤預告)(漲完), 旅遊(崩盤預告)(漲完).  
+族群漲:  IP(漲完), PMIC(漲完), 機殼(漲完), IC設計(漲完). 
+族群崩:  海運(崩盤預告)(漲完), 旅遊(崩盤預告)(漲完), 軟體(崩盤預告)(漲完). 
 
 ---
 
