@@ -17,7 +17,7 @@ layout: testlayouts
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
 族群漲:  IP, PMIC, 機殼, 散熱, IC設計, 光學.  
-族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
+族群崩:  海運, 旅遊, 軟體, 重電, 生技, 面板LED.  
 
 ---
 
@@ -28,7 +28,7 @@ layout: testlayouts
 廣寰科漲停, 補漲要選量縮沒漲的, 結論會選到森田該檢討.
 現在看起來指標要先漲20%才可能補漲, 看海華觀察康全電訊.
 環天科20%->鼎天, 忘記該檢討.
-等待明天早上誰先噴, 等待創意, 觀察IP.
+等待創意觀察IP, 看弘凱州巧多光鋐.
 ```
 
 ## 2024/01/15
