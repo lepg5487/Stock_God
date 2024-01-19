@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  IP, PMIC, 機殼, 散熱, IC設計, 光學面板LED.  
+族群漲:  緯創們(漲完), IP, PMIC, 機殼, 散熱, IC設計, 光學面板LED.  
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
@@ -25,6 +25,8 @@ layout: testlayouts
 ```
 晚上美股費半+3.36%, 早上期貨+0.1%, 夜盤AMD+1.25%, TSM-1.47%.
 台積電ADR 1/12, 5/17, 11/10, 大漲5%以後穎崴都漲20%.
+緯創經典每月彈一次, 然後就結束.
+LED 回檔第一次10日線都超強錯過達運和李洲, 觀察一詮,洋華,正達.
 觀察旺矽,精測,中探針.多穎崴5~10天到出量.
 ```
 
