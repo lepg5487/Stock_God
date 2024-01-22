@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 01/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 02/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 01/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
@@ -16,10 +16,17 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  緯創們(漲完), IP, PMIC, 機殼, 散熱, IC設計, 光學面板LED.  
+族群漲:  緯創們(漲完), IP, PMIC, 機殼(漲完), 散熱(漲完), IC設計, 光學面板LED.  
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
+
+## 2024/01/22
+```
+晚上美股費半+4.06%, 早上期貨+0.1%, 夜盤特斯拉+1.38%, AMD+1.74%, 美光+1.3%, INTC+1.3%.
+資金從低價股回到高價股, 看美股AVGO多穩懋.
+觀察旺矽,精測,中探針.多穎崴5~10天到出量.
+```
 
 ## 2024/01/19
 ```
