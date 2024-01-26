@@ -16,10 +16,16 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  緯創們(漲完), IP, PMIC, 機殼(漲完), 散熱(漲完), IC設計, 光學面板LED.  
+族群漲:  緯創們(漲完), IP, PMIC(漲完), 機殼(漲完), 散熱(漲完), IC設計, 光學面板LED(漲完).  
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
+
+## 2024/01/26
+```
+晚上美股費半-0.25%, 早上期貨-0.6%, 夜盤NVDA-2%, INTC-12%, AMD-3.5%.
+多穎崴到出量.
+```
 
 ## 2024/01/25
 ```
