@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 02/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 01/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
+台灣時間晚上 02/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
 台灣時間晚上 01/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -24,8 +24,8 @@ layout: testlayouts
 ## 2024/01/26
 ```
 晚上美股費半-0.25%, 早上期貨-0.6%, 夜盤NVDA-2%, INTC-12%, AMD-3.5%.
-等等看有沒有崩盤.
-多穎崴到出量.
+等等看有沒有崩盤漲到旅遊, 觀察IP和IC設計.
+看台積電多穎崴到出量.
 ```
 
 ## 2024/01/25
