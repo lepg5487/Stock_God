@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  緯創們(漲完), IP, PMIC(漲完), 機殼(漲完), 散熱(漲完), IC設計, 光學面板LED(漲完).  
+族群漲:  緯創們, IP, PMIC, 機殼, 散熱, IC設計, 光學面板LED.  
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
@@ -24,7 +24,7 @@ layout: testlayouts
 ## 2024/01/30
 ```
 晚上美股費半+1.06%, 早上期貨+0.1%, 夜盤特斯拉+2.48%, NVDA+1.15%, 微軟+1.81%.
-觀察長榮鋼看新鋼.
+觀察長榮鋼看新鋼, 觀察亞矽尚立蔚華科看倍微.
 多勤誠, 多振發.
 ```
 
