@@ -21,6 +21,12 @@ layout: testlayouts
 
 ---
 
+## 2024/02/02
+```
+晚上美股費半+0.46%, 早上期貨+0.5%, 夜盤特斯拉+1.39%, AMD+1.26%, META+14.85%.
+META和凌群同步率很高, 開盤凌群.
+```
+
 ## 2024/02/01
 ```
 晚上美股費半-1.37%, 早上期貨-0.5%, 夜盤特斯拉-2.9%, NVDA-2%, AMD-6.5%, Google-5.5%.
@@ -5282,7 +5288,7 @@ or [contact support](https://github.com/contact) and we’ll help you sort it ou
 
 特斯拉 TSLA = "華孚", 同致
 
-FB: 建達, 鈺創.
+FB(META): 凌群, 建達, 鈺創.
 
 ## 高速連動 01/17
 ```
