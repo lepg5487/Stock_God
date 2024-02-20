@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  緯創們, IP, PMIC, 機殼, 散熱, IC設計, 光學面板LED.  
+族群漲:  緯創們, IP, PMIC, 機殼, 散熱, IC設計, 光學, 面板, LED.  
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
