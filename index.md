@@ -4,9 +4,9 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 02/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 03/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 02/13. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
+台灣時間晚上 03/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
 台灣時間晚上 03/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -26,7 +26,7 @@ layout: testlayouts
 晚上美股費半-0.24%, 早上期貨+1%, 夜盤NVDA+9.22%, AMD+4.5%.
 NVDA狂噴, 電子看不出漲停補漲, 船竟然沒崩盤殖利率概念是真的.
 加碼應該直接加到長榮, 該檢討.
-多長榮(3/1or3/8早上出清), 多四維航.
+多長榮(3/1or3/8早上出清).
 ```
 
 ## 2024/02/21
