@@ -12,7 +12,7 @@ layout: testlayouts
 
 台灣時間晚上 03/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
-[02月15日開始交易日, 02月28日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[04月04日-05日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
@@ -20,6 +20,12 @@ layout: testlayouts
 族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
 
 ---
+
+## 2024/03/01
+```
+晚上美股費半+2.7%, 早上期貨-0.1%, 夜盤沒事.
+看創意多智原, 
+```
 
 ## 2024/02/29
 ```
