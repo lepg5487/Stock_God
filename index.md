@@ -24,8 +24,8 @@ layout: testlayouts
 ## 2024/03/20
 ```
 晚上美股費半-0.94%, 早上期貨-0.1%, 夜盤沒事.
-北京召開名為「AMD AI PC創新高峰會」的活動蘇姿豐出席,
-微軟發布Surface Pro 10和Surface Laptop 6為微軟首批AI PC產品,
+2024年03月21日北京召開名為「AMD AI PC創新高峰會」的活動蘇姿豐出席,
+2024年03月21日微軟發布Surface Pro 10和Surface Laptop 6為微軟首批AI PC產品,
 看藍天多宏碁.
 看所羅門多新門.
 ```
