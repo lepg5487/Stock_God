@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 05/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 06/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
+台灣時間晚上 06/21. 美股[四巫日](ttps://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf).  
 
 [04月04日-05日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
