@@ -4,29 +4,30 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 03/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 04/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 03/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
+台灣時間晚上 04/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
-台灣時間晚上 03/20. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 05/01. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
-台灣時間晚上 03/15. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
+台灣時間晚上 06/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2023Calendar_cv1.pdf).  
 
 [04月04日-05日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-族群漲:  緯創們, IP, PMIC, 機殼, 散熱, IC設計, 光學, 面板, LED.  
-族群崩:  海運, 旅遊, 軟體, 重電, 生技.  
+族群漲:  (AIPC)藍天宏碁, (DC-DC)台達電光寶科, (散熱)雙鴻奇鋐, (ETF), (重電)
 
 ---
 
 ## 2024/03/21
 ```
 晚上美股費半+1.6%, 早上期貨+0.4%, 夜盤美光+17%.
-3月是個困難的月份多數權值股, 肯定記得一輩子.
+3月是個困難的月份多數漲權值股, 肯定記得一輩子.
+Computex 2024 06/04 - 06/07 劉揚偉：黃仁勳6月來台電腦展公布與鴻海合作內容.
 看美光群聯多宇瞻, 看所羅門多新門, 多宏碁.
 ```
+[AMD_AI_PC](https://www.amd.com/zh-cn/corporate/events/advancing-ai-pc.html)
 
 ## 2024/03/20
 ```
