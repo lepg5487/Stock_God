@@ -16,6 +16,8 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
+[台北南港展覽館](https://www.tainex.com.tw/event)  
+
 族群漲: 鴻海(鴻準陽程建漢), (DC-DC)台達電光寶科, (散熱)雙鴻奇鋐, (ETF), (重電)  
 
 ---
@@ -30,8 +32,8 @@ layout: testlayouts
 2024 04/24(三)-26(五)第25屆台北國際安全科技應用博覽會.
 看AI投信多和碩,看車展帝寶東陽多泰茂.
 ```
-[台北南港展覽館](https://www.tainex.com.tw/event)
-[台北國際車用電子展廠商](https://booth.e-taitra.com.tw/DB/PDF/2024AP_4_zh-TW_03261518.pdf)
+[台北南港展覽館](https://www.tainex.com.tw/event)  
+[台北國際車用電子展廠商](https://booth.e-taitra.com.tw/DB/PDF/2024AP_4_zh-TW_03261518.pdf)  
 
 ## 2024/03/26
 ```
