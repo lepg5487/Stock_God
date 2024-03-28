@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-[台北南港展覽館](https://www.tainex.com.tw/event)  
+[台北所有展覽](https://www.twtc.com.tw/exhibition)
 
 族群漲: 機器人(所羅門等), 鴻海(鴻準陽程建漢等), DC-DC(台達電高技), 散熱(雙鴻奇鋐), ETF(漢唐新普), 車用展(帝寶東陽耿鼎), LED(達興邑錡易發)  
 
