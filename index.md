@@ -18,6 +18,8 @@ layout: testlayouts
 
 [台北所有展覽](https://www.twtc.com.tw/exhibition)
 
+[總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
+
 族群漲: 機器人(所羅門等), 鴻海(鴻準陽程建漢等), DC-DC(台達電高技), 散熱(雙鴻奇鋐), ETF(漢唐新普), 車用展(帝寶東陽耿鼎), LED(達興邑錡易發)  
 
 ---
