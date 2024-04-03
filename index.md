@@ -16,9 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-[台北所有展覽](https://www.twtc.com.tw/exhibition)
-
-[總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
+[台北所有展覽](https://www.twtc.com.tw/exhibition), [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
 
 ---
 
