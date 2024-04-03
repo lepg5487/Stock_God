@@ -12,13 +12,20 @@ layout: testlayouts
 
 台灣時間晚上 06/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf).  
 
-[04月04日-05日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[05月01日(星期三)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
 [台北所有展覽](https://www.twtc.com.tw/exhibition), [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
 
 ---
+
+## 2024/04/04
+```
+2023瑞士日內瓦世界不織布展INDEX(4/18-4/21), 康那香3/22-23進場(工作天1516天).
+2022美國世界不織布展(3/28-3/31), 康那香3/08-09進場(工作天1314天).
+2024亞洲不織布展覽暨會議ANEX(05/22~05/24), 猜:康那香4/30進場(工作天16天).
+```
 
 ## 2024/04/03
 ```
