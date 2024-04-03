@@ -234,7 +234,7 @@ G20舉辦日的前12天買進權值股, G20附近賣出權值股, 權值股會�
 
 [日本被動元件, Murata國巨華新科](https://histock.tw/jpstock/6981)
 
-[韓國三星電子, 記憶體](https://histock.tw/ksstock/005930)
+[韓國三星電子, 記憶體](https://tw.tradingview.com/chart/?symbol=KRX%3A005930)
 
 [股票獲利20%~30%就要離開](https://www.youtube.com/watch?v=AadaEc6pJpw)
 
