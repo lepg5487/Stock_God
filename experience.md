@@ -258,9 +258,9 @@ G20舉辦日的前12天買進權值股, G20附近賣出權值股, 權值股會�
 
 [美股股價資料下載](https://hk.finance.yahoo.com/quote/ARNC/history?period1=1672531200&period2=1677628800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
 
-[日本ABF, 欣興南電景碩](https://histock.tw/global/history.aspx?mid=15&no=J4062)
+[日本ABF, 欣興南電景碩](https://tw.tradingview.com/chart/?symbol=TSE%3A4062)
 
-[日本被動元件, Murata國巨華新科](https://histock.tw/jpstock/6981)
+[日本被動元件, Murata國巨華新科](https://tw.tradingview.com/chart/?symbol=TSE%3A6981)
 
 [韓國三星電子, 記憶體](https://tw.tradingview.com/chart/?symbol=KRX%3A005930)
 
