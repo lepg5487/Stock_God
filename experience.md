@@ -263,6 +263,7 @@ G20舉辦日的前12天買進權值股, G20附近賣出權值股, 權值股會�
 `比特幣2022/07/"19","29"就是例子.`
 # 看盤是看"什麼事件"造成"什麼上漲", 下次發生時再來抄作業.
 `2022/08/02美國眾議院議長佩洛西來台, 戰爭概念股=佳龍`
+# 景氣循環: 台積電創高 -> 台塑創高 -> 台肥創高 -> 空頭 -> 台積電創高 ...
 ```
 
 [中國軍演不定期日期搜尋: 琼航警, 军事训练](https://www.google.com.tw/search?q=%E7%90%BC%E8%88%AA%E8%AD%A6&hl=zh_TW&sxsrf=AJOqlzWKyqegNdbEI3HSk6gI0XOTlzUwNA%3A1679624237769&source=hp&ei=LQgdZOycKdiV2roPgsiD2As&iflsig=AK50M_UAAAAAZB0WPSYdmXOPG2Dya8dsJwwvQ_5bX2Zb&ved=0ahUKEwis56vwv_P9AhXYilYBHQLkALsQ4dUDCAo&uact=5&oq=%E7%90%BC%E8%88%AA%E8%AD%A6&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgjEOoCECdQmwFYmwFg2QdoAXAAeACAATSIATSSAQExmAEAoAECoAEBsAEK&sclient=gws-wiz)
