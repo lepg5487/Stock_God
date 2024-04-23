@@ -16,14 +16,15 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-[台北所有展覽](https://www.twtc.com.tw/exhibition), [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
+[台北所有展覽](https://www.twtc.com.tw/exhibition), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [台中展覽](https://www.tc-iec.com/index.php/events/2024events)
+[總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
 
 ---
 
 ## 2024/04/23
 ```
 晚上美股費半+1.74%, 早上期貨-0.1%, 夜盤沒事.
-2024台北國際觀光(2024/05/31-06/03), 多山富.
+2024台北國際觀光(2024/05/31-06/03), 突然發現高雄和台中也好多旅展, 多山富.
 2024亞洲不織布展覽暨會議ANEX(05/22~05/24), 多康那香.
 ```
 
