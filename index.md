@@ -16,7 +16,7 @@ layout: testlayouts
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
-[台北所有展覽](https://www.twtc.com.tw/exhibition), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [台中展覽](https://www.tc-iec.com/index.php/events/2024events)
+[台北所有展覽](https://www.twtc.com.tw/exhibition), [台中展覽](https://www.tc-iec.com/index.php/events/2024events) [台中世貿](https://www.wtctxg.org.tw/wtctxg/schedule), [台南會展中心](https://www.icctainan.com/exhibitions), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [高雄展覽館](https://www.kecc.com.tw/zh-tw/visitors-exhibition)    
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
 
 ---
