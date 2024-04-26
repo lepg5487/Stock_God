@@ -170,6 +170,7 @@ NVIDIA GTC開發者大會公布時間.
 ```
 [0326副總統參觀廣達開盤後續直接噴](https://www.president.gov.tw/NEWS/28280?DeteailNo=)
 [0323副總統參觀雷虎開盤後續直接噴](https://www.president.gov.tw/NEWS/28271?DeteailNo=)
+[0424副總統曾參觀友達開盤後續直接噴](https://www.president.gov.tw/NEWS/28359?DeteailNo=)
 ```
 
 ## 不織布展
