@@ -28,7 +28,7 @@ layout: testlayouts
 強勢股沒跌停第三天, 開始找輪漲, 多均豪.
 ARM明天早上財報公布, 多智原, 多安國.
 5/15 CSCO財報公布, 下禮拜開始找網通和AI.
-網通展 CommunicAsia 2024 05/29–05/31
+網通展 CommunicAsia 2024 05/29–05/31, 新漢, 百一.
 NVDA展 Computex 2024 06/04-06/07
 Apple展 WWDC 2024 06/10-06/14
 ```
