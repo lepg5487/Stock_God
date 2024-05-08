@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 05/15. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
-台灣時間晚上 05/12. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
+台灣時間晚上 06/12. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
 台灣時間晚上 06/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf).  
 
@@ -21,6 +21,13 @@ layout: testlayouts
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
 
 ---
+
+## 2024/05/08
+```
+晚上美股費半-0.74%, 早上期貨+0%, 夜盤沒事.
+強勢股沒跌停第三天, 開始找輪漲, 佳必琪?
+ARM明天早上公布財報, 多智原.
+```
 
 ## 2024/05/07
 ```
