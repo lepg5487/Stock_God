@@ -195,6 +195,7 @@ NVIDIA GTC開發者大會公布時間.
 2024/05/28~2023/05/30, Exhibitor: 日月光, 鈦昇, 志聖, 帆宣, 華立, 穎崴
 ```
 [2024Exhibitor](https://expo.semi.org/southeastasia2024/Public/EventMap.aspx?ID=28139&ShAvailable=1&thumbnail=1)
+[志聖5/14上報以後噴](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=284199d0-757f-4851-8d4b-4c97d8b8b44b)
 
 # SEMICON WEST 美國國際半導體展
 ```
