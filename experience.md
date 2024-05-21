@@ -188,6 +188,14 @@ NVIDIA GTC開發者大會公布時間.
 ```
 [2023盛達](https://www.ctee.com.tw/news/20230607700987-430502) [2023普萊德](https://money.udn.com/money/story/11074/7225094)
 
+
+
+# SEMICON WEST 美國國際半導體展
+```
+2023年07月10日
+2024年07月09日-07月11日, Exhibitor: 中菲行, 辛耘
+```
+
 # Dell Technologies World 當成利多?
 ```
 2022/05/03-18
