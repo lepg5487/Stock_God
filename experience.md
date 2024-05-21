@@ -123,6 +123,7 @@ Computex2024 06/04-06/07劉揚偉:黃仁勳6月來台電腦展公布與鴻海合
 ```
 ## 7月:
 ```
+2024年07月09日-07月11日, SEMICON WEST 美國國際半導體展 Exhibitor: 中菲行, 辛耘
 2024 台北國際自動化工業大展-2024/8/21(三)-8/24(六) 
 亞洲生技大展(2023/7/17沒發生),
 亞洲生技大展(2024/7/25(四)-7/28(日))
@@ -188,13 +189,19 @@ NVIDIA GTC開發者大會公布時間.
 ```
 [2023盛達](https://www.ctee.com.tw/news/20230607700987-430502) [2023普萊德](https://money.udn.com/money/story/11074/7225094)
 
-
+# SEMICON SEA 東南亞半導體展
+```
+2023/05/23~2023/05/25
+2024/05/28~2023/05/30, Exhibitor: 日月光, 鈦昇, 志聖, 帆宣
+```
+[2024Exhibitor](https://expo.semi.org/southeastasia2024/Public/EventMap.aspx?ID=28139&ShAvailable=1&thumbnail=1)
 
 # SEMICON WEST 美國國際半導體展
 ```
 2023年07月10日
 2024年07月09日-07月11日, Exhibitor: 中菲行, 辛耘
 ```
+[2024Exhibitor](https://expo.semi.org/west2024/Public/EventMap.aspx?ID=28351&ShAvailable=1&thumbnail=1)
 
 # Dell Technologies World 當成利多?
 ```
