@@ -26,8 +26,10 @@ layout: testlayouts
 ```
 晚上美股費半+2.15%, 早上期貨-0.1%, 夜盤沒事.
 NVDA財報5月23日早上公布財報, NVDA已經彈到前高, 財報不會有好事.
+SEMICON SEA 東南亞半導體展2024/05/28~2023/05/30, Exhibitor: 日月光, 鈦昇, 志聖, "帆宣", 華立, 穎崴
 多攸泰科技等待CommunicAsia展, 網通開始有漲停板.
 ```
+[志聖5/14新聞後噴](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=284199d0-757f-4851-8d4b-4c97d8b8b44b)
 
 ## 2024/05/20
 ```
