@@ -192,7 +192,7 @@ NVIDIA GTC開發者大會公布時間.
 # SEMICON SEA 東南亞半導體展
 ```
 2023/05/23~2023/05/25
-2024/05/28~2023/05/30, Exhibitor: 日月光, 鈦昇, 志聖, 帆宣
+2024/05/28~2023/05/30, Exhibitor: 日月光, 鈦昇, 志聖, 帆宣, 華立, 穎崴
 ```
 [2024Exhibitor](https://expo.semi.org/southeastasia2024/Public/EventMap.aspx?ID=28139&ShAvailable=1&thumbnail=1)
 
