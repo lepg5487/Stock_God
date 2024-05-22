@@ -26,7 +26,7 @@ layout: testlayouts
 ```
 晚上美股費半-0.31%, 早上期貨+0%, 夜盤沒事.
 NVDA財報5月23日早上公布財報, NVDA已經彈到前高, 財報不會有好事.
-多帆宣等SEMICON SEA展, 多攸泰科技等待CommunicAsia展.
+多帆宣等SEMICON SEA展, 多攸泰科技等CommunicAsia展.
 ```
 
 ## 2024/05/21
