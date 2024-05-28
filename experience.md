@@ -180,7 +180,7 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
-# CommunicAsia
+# CommunicAsia, "訊舟"
 ```
 2020年9月29日–2020年10月1日, 百一9/18高點, 0新漢, 
 2021年7月14日–2021年7月16日, 0百一, 0新漢, 正基7/15高點, 常珵6/30高點
