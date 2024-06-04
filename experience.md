@@ -1028,14 +1028,16 @@ Step2勝率將近100% ---Example--- 可遇不可求
 ```
 
 # "訊聯", "訊聯基因"立法通過起漲流程
-112/03/24 -> 112/05/10  
+## 112/03/24 -> 112/05/10  
+[立法院"議案"查詢網站](https://ppg.ly.gov.tw/ppg/bills/search?criteria=keyword&value=%E5%86%8D%E7%94%9F%E9%86%AB%E7%99%82%E6%B3%95%E8%8D%89%E6%A1%88)  
 "112/03/24"買進訊聯基因  
 本院時代力量黨團  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/524b6be5-ab7a-47a2-a9f0-a1ee3fe2d5dc)  
 "112/05/10"賣出訊聯基因  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/362a82a5-cd72-46bd-be3a-b3fc72eba3f3)  
 
-113/04/19 -> 113/05/31 or 113/06/04  
+## 113/04/19 -> 113/05/31 or 113/06/04  
+[立法院"會議"查詢網站](https://ppg.ly.gov.tw/ppg/sittings/search?criteria=keyword&value=%E5%86%8D%E7%94%9F%E9%86%AB%E7%99%82%E6%B3%95%E8%8D%89%E6%A1%88)  
 "113/04/19" 買進訊聯基因  
 本院台灣民眾黨黨團  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/0f19cf43-2fa8-4c86-bf12-21c5c1587b54)  
