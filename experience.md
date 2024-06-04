@@ -1031,15 +1031,14 @@ Step2勝率將近100% ---Example--- 可遇不可求
 112/03/24 -> 112/05/10  
 "112/03/24"買進訊聯基因  
 本院時代力量黨團  
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/ebfb9fbb-2da1-4ae8-b54f-37060d046c7e)  
-
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/0bd2930b-e7b7-4afb-9964-73150e48e2c3)  
 "112/05/10"賣出訊聯基因  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/362a82a5-cd72-46bd-be3a-b3fc72eba3f3)  
 
 113/04/19 -> 113/05/31 or 113/06/04  
 "113/04/19" 買進訊聯基因  
 本院台灣民眾黨黨團  
-![image](https://github.com/lepg5487/Stock_God/assets/26459046/8ae17c23-3348-4c2c-af55-77a681b46136)  
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/c0e72f64-19ff-4c2b-b6af-451c2c7002d8)  
 
 "113/05/31 or 113/06/04" 賣出訊聯基因  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/b0f09189-09c5-4fb9-ac5b-0f2753edc288)  
