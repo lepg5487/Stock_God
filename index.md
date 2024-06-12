@@ -27,6 +27,7 @@ layout: testlayouts
 晚上美股費半+0.06%, 早上期貨+0%, 夜盤沒事.
 看和碩多所羅門佳能聰泰, 大盤不跌只能信仰抱.
 ```
+[黃仁勳兒女傳參訪"和碩"桃園智慧工廠](https://www.sinotrade.com.tw/richclub/news/665d69f832ba0c9331d45216)
 
 ## 2024/06/11
 ```
