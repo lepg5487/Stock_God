@@ -12,7 +12,7 @@ layout: testlayouts
 
 台灣時間晚上 06/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf).  
 
-[06月10日(星期一)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
