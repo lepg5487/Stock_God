@@ -1056,3 +1056,10 @@ Step2勝率將近100% ---Example--- 可遇不可求
 
 "113/05/31 or 113/06/04" 賣出訊聯  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/b0f09189-09c5-4fb9-ac5b-0f2753edc288)  
+
+# 法說會交易法
+每天查詢[公開網站](https://mops.twse.com.tw/mops/web/t51sb10_q1), 搜尋"說明本公司""或含""本公司受"
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/ebbc409e-ad7e-4156-89d5-a03830dea93e)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/c91df587-8540-418e-92af-e7d5babe48e2)
+
+
