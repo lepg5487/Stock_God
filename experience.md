@@ -104,6 +104,7 @@ MWC世界行動通訊大會, 正基.
 ---
 ```
 ## 5月:
+[股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
 2024 Dell Technologies World 5月20日-23日
 2024 高雄自動化工業展2024-05-15 ~ 2024-05-18
@@ -120,6 +121,7 @@ MWC世界行動通訊大會, 正基.
 ---
 ```
 ## 6月:
+[股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
 Computex2024 06/04-06/07劉揚偉:黃仁勳6月來台電腦展公布與鴻海合作內容. 猜:(5/1415買進AMAX高力奇鴻雙鴻, 等展覽)
 (3/18利多NVDA大會(2/23(15天工作日)AMAX高力奇鴻雙鴻買進)) 
