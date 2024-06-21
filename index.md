@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 07/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 06/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
+台灣時間晚上 07/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
 
 台灣時間晚上 07/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
 
@@ -21,6 +21,13 @@ layout: testlayouts
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
 
 ---
+
+## 2024/06/21
+```
+晚上美股費半-2.69%, 早上期貨+0%, 夜盤沒事.
+股東會和法說會是明顯的答案, 股東會和法說會隔天賣出.
+多弘憶股6/26股東會, 多神盾6/25股東會.
+```
 
 ## 2024/06/20
 ```
@@ -39,7 +46,7 @@ layout: testlayouts
 
 ## 2024/06/19
 ```
-晚上美股費半+1.35%%, 早上期貨+0.1%, 夜盤沒事. 今天美股休市.
+晚上美股費半+1.35%, 早上期貨+0.1%, 夜盤沒事. 今天美股休市.
 每天觀察所羅門, 所羅門不跌機器人就會一直彈, 所羅門出事直接空手.
 觀察所羅門, 吉茂, 上詮, 明天能買多低是多低.
 ```
