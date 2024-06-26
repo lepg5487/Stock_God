@@ -3,6 +3,10 @@ layout: testlayouts
 ---
 # 回檔不賠錢遲早會賺錢
 
+[台北所有展覽](https://www.twtc.com.tw/exhibition), [台中展覽](https://www.tc-iec.com/index.php/events/2024events) [台中世貿](https://www.wtctxg.org.tw/wtctxg/schedule), [台南會展中心](https://www.icctainan.com/exhibitions), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [高雄展覽館](https://www.kecc.com.tw/zh-tw/visitors-exhibition)  
+[國外展覽1](https://www.thetw.com/expo/indexs/0/1), [國外展覽2](https://www.chanchao.com.tw/expo.asp), [日本展覽1](https://www.rxjapan.jp/en/schedule/?show=64)  
+[總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
+
 ## 展覽交易法
 ```
 進場注意事項:
@@ -729,7 +733,11 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 # 國際趨勢
 
-[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)
+台灣時間晚上 07/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.  
+
+台灣時間晚上 07/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.  
+
+[小台指散戶多空比(散戶反指標)](https://www.macromicro.me/charts/20069/tw-mtx-long-to-short-ratio-of-individual-player)  
 
 [升息M平方歷史圖](https://www.macromicro.me/time_line?id=11&stat=483)
 
