@@ -6,13 +6,9 @@ layout: testlayouts
 
 台灣時間晚上 07/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 07/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.
+台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
-台灣時間晚上 07/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.
-
-台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf).  
-
-台灣時間晚上 06/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎"
+台灣時間晚上 06/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
 
 [09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
