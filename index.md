@@ -19,6 +19,7 @@ layout: testlayouts
 晚上美股費半+3.02%, 早上期貨+0%, 夜盤沒事.
 OPEC油價開會時間2月開始影響元禎, 每月2x日是元禎低點, 到了6月才發現.
 台灣時間06/27早上公布美光財報, 觀察群聯宇瞻.
+元禎急殺停損或28日賣出.
 ```
 [OPEC油價開會時間"元禎"](https://hk.investing.com/economic-calendar/opec-meeting-230)
 
