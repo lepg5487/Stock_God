@@ -1078,4 +1078,5 @@ Step2勝率將近100% ---Example--- 可遇不可求
 ```
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/e012eaf6-aead-40fa-b86b-ab0eb0a21330)
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/bcb4c255-5fa5-4c97-b135-5b987f574ffe)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/1af921bb-dcc1-4242-8f40-543404a31492)
 
