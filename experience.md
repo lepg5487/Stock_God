@@ -811,15 +811,6 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 ```
 公布營收以後觀察股價的反應, 如果股價開高>昨天收盤價, 就能買進.
 ```
-```
-看大做小,看高做低,看舊做新.
-1.原來強勢股拉回找買點
-2.還沒漲到落後補漲的
-3.某公司有轉投資強勢股的
-4.誰供應強勢股原料材料
-5.誰包裝強勢股
-6.興櫃
-```
 
 ```
 電子股順序
@@ -1075,4 +1066,16 @@ Step2勝率將近100% ---Example--- 可遇不可求
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/ebbc409e-ad7e-4156-89d5-a03830dea93e)
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/c91df587-8540-418e-92af-e7d5babe48e2)
 
+# 新樹精靈誰"轉投資"強勢股查詢
+```
+看大做小,看高做低,看舊做新.
+1.原來強勢股拉回找買點
+2.還沒漲到落後補漲的
+3.某公司有轉投資強勢股的
+4.誰供應強勢股原料材料
+5.誰包裝強勢股
+6.興櫃
+```
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/e012eaf6-aead-40fa-b86b-ab0eb0a21330)
+![image](https://github.com/lepg5487/Stock_God/assets/26459046/bcb4c255-5fa5-4c97-b135-5b987f574ffe)
 
