@@ -19,7 +19,7 @@ layout: testlayouts
 晚上美股費半-0.28%, 早上期貨-0.4%, 夜盤美光-8%.
 美股夜盤開崩, 開盤賣出晶豪科.
 7月5日碳費審議會, 沒看出明顯答案.
-NVDA買太陽能電, 觀察森威能源和雲豹能源, 如果繼續漲停多...
+NVDA買太陽能電, 觀察森威能源和雲豹能源, 如果繼續漲停多崇越或大亞
 ```
 [買綠電網址](https://www.trec.org.tw/greenpower/market?type=find_sale)
 
