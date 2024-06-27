@@ -20,7 +20,7 @@ layout: testlayouts
 美股夜盤開崩, 開盤賣出晶豪科. 7月5日碳費審議會, 沒看出明顯答案.
 NVDA買太陽能電, 觀察森威能源和雲豹能源, 結果答案安集茂迪
 NVDA考慮和客戶簽長期合約, 長榮2022/10/14開始討論長期合約, 跌14天後上漲.
-看奇鋐多尼得科超眾.
+看奇鋐收盤多尼得科超眾.
 ```
 [買綠電網址](https://www.trec.org.tw/greenpower/market?type=find_sale)
 
