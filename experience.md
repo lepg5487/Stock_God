@@ -3,6 +3,7 @@ layout: testlayouts
 ---
 # 回檔不賠錢遲早會賺錢
 
+[上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81)  
 [台北所有展覽](https://www.twtc.com.tw/exhibition), [台中展覽](https://www.tc-iec.com/index.php/events/2024events) [台中世貿](https://www.wtctxg.org.tw/wtctxg/schedule), [台南會展中心](https://www.icctainan.com/exhibitions), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [高雄展覽館](https://www.kecc.com.tw/zh-tw/visitors-exhibition)  
 [國外展覽1](https://www.thetw.com/expo/indexs/0/1), [國外展覽2](https://www.chanchao.com.tw/expo.asp), [日本展覽1](https://www.rxjapan.jp/en/schedule/?show=64)  
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
