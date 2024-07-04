@@ -3,7 +3,7 @@ layout: testlayouts
 ---
 # 回檔不賠錢遲早會賺錢
 
-[上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81)  
+[上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81)  [會展中心（上海）](https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx)
 [台北所有展覽](https://www.twtc.com.tw/exhibition), [台中展覽](https://www.tc-iec.com/index.php/events/2024events) [台中世貿](https://www.wtctxg.org.tw/wtctxg/schedule), [台南會展中心](https://www.icctainan.com/exhibitions), [高雄巨蛋展覽](http://www.k-arena.com.tw/calendar-item.php), [高雄展覽館](https://www.kecc.com.tw/zh-tw/visitors-exhibition)  
 [國外展覽1](https://www.thetw.com/expo/indexs/0/1), [國外展覽2](https://www.chanchao.com.tw/expo.asp), [日本展覽1](https://www.rxjapan.jp/en/schedule/?show=64)  
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
@@ -135,6 +135,7 @@ Computex2024 06/04-06/07劉揚偉:黃仁勳6月來台電腦展公布與鴻海合
 華城每年6月和12月營收都很好, 能看線進場.
 東哥遊艇6月和12月營收很好, 5月26收盤買進, 6/1早上賣出.
 夏都等飯店業6月7月營收很好, 5/10公布4月營收以後買進.
+SNEC第十七屆(2024)國際太陽能光電與智慧能源(上海)大會暨展覽會時間：2024-06-13 -- 2024-06-15
 ```
 ## 7月:
 ```
@@ -197,6 +198,11 @@ NVIDIA GTC開發者大會公布時間.
 [0323副總統參觀雷虎開盤後續直接噴](https://www.president.gov.tw/NEWS/28271?DeteailNo=)
 [0424副總統曾參觀友達開盤後續直接噴](https://www.president.gov.tw/NEWS/28359?DeteailNo=)
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
+```
+
+# SNEC第十七屆(2024)國際太陽能光電與智慧能源(上海)大會暨展覽會時間
+```
+2024-06-13 -- 2024-06-15, 華城士電合機等等
 ```
 
 # 中國世界人工智能大會（WAIC）。
