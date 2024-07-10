@@ -12,7 +12,7 @@ layout: testlayouts
 
 [09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料能源(碳權電力太陽能), 機器人, 先進封裝(CoWoS,CPO矽光子,扇出型封裝)  
+目前主觀有料, 能源(碳權電力太陽能), 機器人, 先進封裝(CoWoS,CPO矽光子,扇出型封裝)  
 ---
 
 ## 2024/07/10
