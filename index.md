@@ -8,12 +8,19 @@ layout: testlayouts
 
 台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
-台灣時間晚上 06/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
+台灣時間晚上 下次將在12/01? [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
 
 [09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 能源(碳權電力太陽能), 機器人(昆盈羅昇), 先進封裝(CPO矽光子(光聖),扇出型封裝(晶彩科,東捷))  
 ---
+
+## 2024/07/11
+```
+晚上美股費半+2.42%, 早上期貨+0%, 夜盤沒事.
+法說會前後都會漲, 鑫科07/19下午2點法說會, 有機會放嗎?
+等誰衝再買進.
+```
 
 ## 2024/07/10
 ```
