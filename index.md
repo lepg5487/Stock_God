@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 07/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 08/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
@@ -14,6 +14,13 @@ layout: testlayouts
 
 目前主觀有料, 能源(碳權電力太陽能), 機器人(昆盈羅昇), 先進封裝(CPO矽光子(光聖),扇出型封裝(晶彩科,東捷))  
 ---
+
+## 2024/07/22
+```
+晚上美股費半-3.11%, 早上期貨+0%, 夜盤沒事.
+07/23特斯拉收盤財報, 07/24上海國際智能工廠展暨工業自動化與機器人展, 07/27核三廠一號機停機.
+所羅門, 昆盈, 穎漢, 羅昇.
+```
 
 ## 2024/07/12
 ```
