@@ -12,7 +12,7 @@ layout: testlayouts
 
 [09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 機器人(昆盈羅昇), 先進封裝(CPO矽光子(光聖), 扇出型封裝(晶彩科,東捷))  
+目前主觀有料, 能源(雲豹達能), 機器人(昆盈羅昇), 先進封裝(CPO矽光子(光聖), 扇出型封裝(晶彩科,東捷))  
 ---
 
 ## 2024/07/30
