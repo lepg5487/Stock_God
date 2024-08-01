@@ -6,6 +6,8 @@ layout: testlayouts
 
 台灣時間晚上 08/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
+台灣時間晚上 09/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+
 台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
 台灣時間晚上 下次將在12/01? [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
@@ -14,6 +16,12 @@ layout: testlayouts
 
 目前主觀有料, 1.扇出型封裝(鑫科,晶彩科,東捷), 2.能源(雲豹達能), 3.機器人(昆盈羅昇), 4.先進封裝(CPO矽光子(光聖).
 ---
+
+## 2024/08/01
+```
+晚上美股費半+7.01%, 早上期貨+0.4%, 夜盤一樣很震NVDA+3%, ARM-10%, META+7%.
+假破底後面接?
+```
 
 ## 2024/07/31
 ```
