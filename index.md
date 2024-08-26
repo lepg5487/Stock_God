@@ -25,6 +25,7 @@ layout: testlayouts
 2024年1月19日幻獸帕魯開始上架, 麗臺19日開始起漲, 遊戲上架也能讓顯示卡上漲.
 2024年8月20日黑神話悟空開始上架, 麗臺23日開始起漲, 遊戲上架也能讓顯示卡上漲.
 ```
+![image](https://github.com/user-attachments/assets/b6e64ea4-ffa7-4972-91ba-38297f147b61)
 
 ## 2024/08/23
 ```
