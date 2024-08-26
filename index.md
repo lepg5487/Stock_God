@@ -24,8 +24,10 @@ layout: testlayouts
 美國總統9月10日第二場辯論, 多雲豹能源.
 2024年1月19日幻獸帕魯開始上架, 麗臺19日開始起漲, 遊戲上架也能讓顯示卡上漲.
 2024年8月20日黑神話悟空開始上架, 麗臺23日開始起漲, 遊戲上架也能讓顯示卡上漲.
+大約是2百萬人同時上線有可能觸發麗臺, 記錄起來或許下次有機會.
 ```
 ![image](https://github.com/user-attachments/assets/b6e64ea4-ffa7-4972-91ba-38297f147b61)
+![image](https://github.com/user-attachments/assets/03bb6216-f60a-48a3-b2eb-6e7c08449eda)
 
 ## 2024/08/23
 ```
