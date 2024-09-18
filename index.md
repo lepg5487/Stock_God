@@ -12,9 +12,16 @@ layout: testlayouts
 
 台灣時間晚上 下次將在12/01? [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
 
-[09月17日(星期二)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月10日(星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.機器人(高鋒穎漢羅昇), 2.扇出型封裝(鑫科精材), 3.矽光子, 4.HBM(擎亞), 5.綠能(雲豹達能)
+
+## 2024/09/18
+```
+晚上美股費半+0.03%, 早上期貨+0.1%, 夜盤沒事.
+太久沒去注意漲停與持股關係, 該檢討, 最近都漲這些, Ex:菱光->東友光菱.
+2024年10月2日–4日台灣國際智慧能源週與台灣國際淨零永續展, 多雲豹能源.
+```
 
 ## 2024/09/16
 ```
