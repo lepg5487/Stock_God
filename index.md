@@ -4,9 +4,9 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 09/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 10/16. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 09/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+台灣時間晚上 11/07. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
 台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
