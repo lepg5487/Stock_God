@@ -8,13 +8,21 @@ layout: testlayouts
 
 台灣時間晚上 11/07. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
-台灣時間晚上 09/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
+台灣時間晚上 12/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
 台灣時間晚上 下次將在12/01? [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
 
 [10月10日(星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 1.機器人(高鋒穎漢羅昇), 2.扇出型封裝(鑫科精材), 3.矽光子, 4.HBM(擎亞), 5.綠能(雲豹達能)
+目前主觀有料, 1.機器人(高鋒穎漢羅昇), 2.扇出型封裝(鑫科精材), 3.矽光子, 4.HBM(擎亞), 5.綠能(雲豹達能), 6.玻璃基板(正達悅城安可)
+
+## 2024/09/23
+```
+晚上美股費半-1.31%, 早上期貨+0.2%, 夜盤Intel+3.66%.
+每天都漲不一樣, 買綠賣紅比較穩, 主流題材沒有變過.
+10/4台中AI工具機暨自動化展, 10/8、10/9黃仁勳將出席鴻海科技日, 10/10發佈Robotaxi馬斯克, 機器人等10月戲會很大.
+2024年10月2日–4日台灣國際智慧能源週與台灣國際淨零永續展, 多雲豹能源.
+```
 
 ## 2024/09/20
 ```
