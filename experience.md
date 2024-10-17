@@ -2,6 +2,7 @@
 layout: testlayouts
 ---
 # 回檔不賠錢遲早會賺錢
+# 題材 > 型態 > 均線
 
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
 [上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81), [會展中心（上海）](https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx), [中國國際展覽中心](http://www.ciec-expo.com.cn/ciec/ciecexpo/channels/2401.html), [北人亦創國際會展中心](https://www.bjeiecc.com/col30/list)  
@@ -9,6 +10,8 @@ layout: testlayouts
 [台南會展中心](https://www.icctainan.com/exhibitions), [高雄巨蛋展覽](https://www.kaoarena.com.tw/Home/CalendarList?year=2024), [高雄展覽館](https://www.kecc.com.tw/zh-tw/visitors-exhibition)  
 [國外展覽1](https://www.thetw.com/expo/indexs/0/1), [國外展覽2](https://www.chanchao.com.tw/expo.asp), [日本展覽1](https://www.rxjapan.jp/en/schedule/?show=64)  
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
+
+
 
 ## 展覽交易法
 ```
@@ -831,7 +834,7 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 ## 財富密碼
 ```
 指標股漲20%時就能往下找相關性質的股票拚補漲了(基本面分類一樣的), 補漲通常只能吃10%+開高.
-當漲到"子公司"或"大股東轉投資"就是這個題材的最後一棒(謚源=堤維西最大股東).
+當漲到"子公司"或"大股東轉投資"就是這個的最後一棒(謚源=堤維西最大股東).
 ```
 ```
 2022/05/06
