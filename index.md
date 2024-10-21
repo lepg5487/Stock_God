@@ -4,17 +4,25 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 10/16. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 11/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 11/07. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
 台灣時間晚上 12/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
-台灣時間晚上 下次將在12/01? [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
+台灣時間晚上 10/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
 
 [10月10日(星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.矽光子(聯光通上詮創威), 2.玻璃基板(正達悅城安可), 3.機器人(羅昇穎漢) 4.矽光子2(鑫科友威科東捷) 5.HBM(擎亞)  
+
+## 2024/10/21
+```
+晚上美股費半+0.07%, 早上期貨+0.1%, 夜盤沒事.
+特斯拉10/23公布財報, 美股開始一堆財報公布很震.
+等待10/22強勢股會提示下一波主流.
+等待G20概念立積.
+```
 
 ## 2024/10/18
 ```
