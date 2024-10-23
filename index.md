@@ -24,7 +24,7 @@ layout: testlayouts
 ->三晃大立當指標->等待"規律改變"
 ->網家緩慢賣出.
 ```
-[OpenAI AI Seoul Summit](https://www.aisummitseoul.com/)
+[OpenAI AI Seoul Summit 官網](https://www.aisummitseoul.com/)
 
 ## 2024/10/22
 ```
