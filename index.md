@@ -10,8 +10,6 @@ layout: testlayouts
 
 台灣時間晚上 12/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
 
-台灣時間晚上 10/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
-
 [10月10日(星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.矽光子(聯光通上詮創威), 2.玻璃基板(正達悅城安可), 3.機器人(羅昇穎漢) 4.矽光子2(鑫科友威科東捷) 5.HBM(擎亞)  
