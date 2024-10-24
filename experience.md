@@ -797,6 +797,8 @@ Step 5: 搜尋 `will take place as of the close`, 後面可以知道什麼時候
 
 # 國際趨勢
 
+台灣時間晚上 10/02. [OPEC油價開會時間](https://hk.investing.com/economic-calendar/opec-meeting-230), "元禎".
+
 台灣時間晚上 07/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 開始沒啥影響.  
 
 台灣時間晚上 07/31. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 沒啥影響.  
