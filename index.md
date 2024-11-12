@@ -17,8 +17,7 @@ layout: testlayouts
 ## 2024/11/12
 ```
 晚上美股費半-2.54%, 早上期貨-0.1%, 夜盤沒事.
-觀察12月集團作帳(OpenAI AI Seoul Summit):藍天.
-等待G20立積出大量結束.
+等待12月集團作帳(OpenAI AI Seoul Summit):藍天.
 ```
 
 ## 2024/11/11
