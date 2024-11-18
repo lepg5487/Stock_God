@@ -828,6 +828,8 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 
 [查詢某日強勢股3](https://goodinfo.tw/tw/StockList.asp?MARKET_CAT=%E6%99%BA%E6%85%A7%E9%81%B8%E8%82%A1&INDUSTRY_CAT=%E6%BC%B23%25%E8%82%A1)
 
+[查詢某日強勢股4最好](https://www.esunsec.com.tw/tw-rank/b2brwd/page/rank/priceVolume/0001)
+
 [台股每日當沖比例](https://www.twse.com.tw/zh/page/trading/exchange/TWTB4U2.html)
 
 [台積電重點在於"法人說明會簡報"裡面的圖](https://investor.tsmc.com/chinese/quarterly-results/2022/q2)
