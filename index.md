@@ -18,7 +18,7 @@ layout: testlayouts
 ```
 晚上美股費半-0.15%, 早上期貨+0.5%, 夜盤沒事.
 BBU一直漲下次還有機會, 等待BBU轉弱.
-等待藍天, 12月集團作帳(OpenAI AI Seoul Summit).
+等待藍天出量12月10日(OpenAI AI Seoul Summit).
 ```
 
 ## 2024/11/22
