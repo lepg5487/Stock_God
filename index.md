@@ -21,6 +21,7 @@ layout: testlayouts
 Sam Altman 說 OpenAI 會連續 12 個工作日 (weekday)，
 用直播的方式，發佈一連串的 Demo 與震撼的重大消息！
 OpenAI昨天晚上po文, 結果這次反應資訊軟體股, 多倍力和叡揚.
+押錯寶.
 ```
 
 ## 2024/12/04
