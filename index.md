@@ -4,15 +4,22 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 12/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 01/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 12/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+台灣時間晚上 01/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
-台灣時間晚上 12/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2024Calendar_cv1.pdf), 指數很震.  
+台灣時間晚上 03/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[01月01日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[01月23日 (星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.矽光子(聯光通上詮創威), 2.玻璃基板(正達悅城安可), 3.機器人(羅昇穎漢) 4.矽光子2(鑫科友威科東捷) 5.BBU(興能高加百裕西勝新盛力順達)
+
+## 2025/01/05
+```
+晚上美股費半+2.83%, 早上期貨%, 夜盤沒事.
+美國舊金山西部光電展覽會 SPIE Photonics West 2025.01.25-01.30.
+緩慢買進創威.
+```
 
 ## 2024/12/20
 ```
