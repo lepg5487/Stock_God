@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 01/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 02/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 01/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
