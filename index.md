@@ -12,7 +12,7 @@ layout: testlayouts
 
 [01月23日 (星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 1.矽光子(聯光通上詮創威), 2.機器人(羅昇穎漢) ,3.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米)
+目前主觀有料, 1.矽光子(上詮波若威訊芯-KY), 2.機器人(高鋒穎漢) ,3.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米)
 
 ## 2025/01/17
 ```
