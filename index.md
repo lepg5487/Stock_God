@@ -6,13 +6,21 @@ layout: testlayouts
 
 台灣時間晚上 02/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 01/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+台灣時間晚上 03/19. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
 台灣時間晚上 03/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[01月23日 (星期四)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[02月28日(星期五) 休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.矽光子(上詮波若威訊芯-KY), 2.機器人(高鋒穎漢) ,3.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米)
+
+## 2025/02/03
+```
+晚上美股費半-0.29%, 早上期貨+%, 夜盤.
+過年期間NVDA總共-16%, 開盤沒意外開低.
+2025年3月3日–8日 台北國際工具機展2025 TIMTOS, 等待族群起來或訊號再開始進場.
+正基統計是2/12左右賣點.
+```
 
 ## 2025/01/22
 ```
