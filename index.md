@@ -12,7 +12,7 @@ layout: testlayouts
 
 [02月28日(星期五) 休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 1.矽光子(上詮波若威訊芯-KY), 2.機器人(高鋒穎漢) ,3.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米)
+目前主觀有料, 1.矽光子(上詮波若威訊芯-KY), 2.機器人(高鋒) ,3.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米)
 
 ## 2025/02/18
 ```
@@ -21,7 +21,7 @@ layout: testlayouts
 美國時間2024年8月14日，Grok-2和Grok-2 mini發布, 所羅門高點.
 美國時間2025年2月16日，2025年2月17日中午12點(台灣時間18日中午12點)，發表最新的Grok 3, 所羅門高點?
 3月初注意汽車產業, 帝寶,耿鼎等等, 不知名汽車小股(和大?)會先漲.
-歷年3月都有殖利率題材, 聯詠
+歷年3月都有殖利率題材, 聯詠.
 ```
 [馬斯克 xAI Grok Wiki](https://en.wikipedia.org/wiki/Grok_(chatbot))
 
