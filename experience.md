@@ -141,8 +141,8 @@ Meta今年4月29日舉行首屆LlamaCon, 軟體股
 ## 5月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
-2025 Dell Technologies World 5 月19 日至22 日
 2024 Dell Technologies World 5月20日-23日
+2025 Dell Technologies World 5 月19 日至22 日
 
 2025 Computex 2025年5月20日–2025年5月23日
 
@@ -159,6 +159,7 @@ Computex2024 06/04-06/07劉揚偉:黃仁勳6月來台電腦展公布與鴻海合
 (3/18利多NVDA大會(2/23(15天工作日)AMAX高力奇鴻雙鴻買進)) 
 2024年日本國際無人機展Japan Drone 2024, 2024/06/05  ~  2024/06/07.
 
+查時間, 2025上海世界人工智慧大會WAIC, 6月
 每年蘋果WWDC年度開發者大會台灣時間(2023/6/6,2022/6/7,2021/6/8,2020/6/23), 前一天收盤買進建達.
 
 華城每年6月和12月營收都很好, 能看線進場.
@@ -376,11 +377,12 @@ NVDA顯卡每2年一次規律, 微星, 買進10月底11月初.
 ```
 [2024Exhibitor](https://expo.semi.org/west2024/Public/EventMap.aspx?ID=28351&ShAvailable=1&thumbnail=1)
 
-# Dell Technologies World 當成利多?
+# Dell Technologies World, "藍天"
 ```
-2022/05/03-18
-2023/05/22-25
-2024/05/20-23
+2022/05/02-05, 4/12低點(13天), 4/22高點(8天).
+2023/05/22-25, 5/8低點(10天), 5/22高點(10天)
+2024/05/20-23, 5/3低點(11天) or 4/23低點(18天), 5/17高點.
+2025/05/19-22, 
 ```
 
 # Microsoft Build 當成利多?
