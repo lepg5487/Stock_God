@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d43cf4c6-fb9d-4879-9dfb-ea2564983a63)---
 layout: testlayouts
 ---
 
@@ -18,6 +18,9 @@ layout: testlayouts
 ```
 晚上美股費半-3.28%, 早上期貨+0.4%, 夜盤沒事.
 加權櫃買崩不下去, 繼續等待.
+檢討高鋒買賣點:
+2/18 IKKA-KY和中光電T3起漲, 正常是賣出點.
+但是當處置王有同族群(和樁)正在處置, 就能無視T3規則.
 ```
 
 ## 2025/02/21
