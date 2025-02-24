@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d43cf4c6-fb9d-4879-9dfb-ea2564983a63)---
+---
 layout: testlayouts
 ---
 
