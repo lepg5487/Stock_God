@@ -10,14 +10,21 @@ layout: testlayouts
 
 台灣時間晚上 03/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[02月28日(星期五) 休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[04月03日(星期四) 休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.機器人(高鋒) ,2.AR眼鏡(達邁, GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米), 3.軟體股(驊宏資華經邁達特零壹訊達資通凌群等等..), 4.矽光子(上詮波若威訊芯-KY).
+
+## 2025/03/04
+```
+晚上美股費半-4.01%, 早上期貨+0.1%, 夜盤沒事.
+台灣時間MRVL財報3月6日, AVGO財報3月7日, 美光財報3月21日.
+凌群3/8開始買進.
+```
 
 ## 2025/03/03
 ```
 晚上美股費半+1.71%, 早上期貨+0.1%, 夜盤沒事.
-大量財報炸彈開始, NVDA財報2月27日, DELL財報2月28日, MRVL財報3月6日, 美光財報3月21日.
+MRVL財報3月6日, 美光財報3月21日.
 意外發現散裝船每年送分題, 下次一定.
 凌群3/8開始買進.
 ```
