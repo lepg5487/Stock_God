@@ -20,6 +20,8 @@ layout: testlayouts
 今年漢翔和去年一樣3月中提早上漲, 只能等待漢翔回檔到10日線.
 每年1月2月11月12月會有集團概念股, 2025年是上曜集團, 2024年是神盾集團.
 Meta今年4月29日舉行首屆LlamaCon, 不能確定是軟體股(華經,驊宏資)還是AR概念股(達邁,英濟).
+昨天興能高西勝漲停, 今天直接開高走低.
+今天漢翔寶一晟田漲停, 明天不保證續漲.
 ```
 [2025GTC新聞總結](https://www.bnext.com.tw/article/82654/gtc2025-jensen-huang-keynote?openExternalBrowser=1&utm_source=line&utm_medium=message)
 ```
