@@ -21,8 +21,9 @@ layout: testlayouts
 每年1月2月11月12月會有集團概念股, 2025年是上曜集團, 2024年是神盾集團.
 Meta今年4月29日舉行首屆LlamaCon, 不能確定是軟體股(華經,驊宏資)還是AR概念股(達邁,英濟).
 ```
+[2025GTC新聞總結](https://www.bnext.com.tw/article/82654/gtc2025-jensen-huang-keynote?openExternalBrowser=1&utm_source=line&utm_medium=message)
 ```
-NCDA,Google DeepMind,Disney Research合作開發 Blue 機器人,
+NVDA,Google DeepMind,Disney Research合作開發 Blue 機器人,
 使用Isaac GR00T N1模型和物理引擎Newton，世界上第一個「開放、完全可自訂」的通用人形機器人推理和技能基礎模型。
 開發商包括Agility Robotics、Boston Dynamics、Mentee Robotics、NEURA Robotics等。
 ```
