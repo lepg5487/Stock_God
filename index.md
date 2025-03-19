@@ -23,7 +23,7 @@ Meta今年4月29日舉行首屆LlamaCon, 不能確定是軟體股(華經,驊宏�
 ```
 ```
 NCDA,Google DeepMind,Disney Research合作開發 Blue 機器人,
-使用Isaac GR00T N1模型，世界上第一個「開放、完全可自訂」的通用人形機器人推理和技能基礎模型。
+使用Isaac GR00T N1模型和物理引擎Newton，世界上第一個「開放、完全可自訂」的通用人形機器人推理和技能基礎模型。
 開發商包括Agility Robotics、Boston Dynamics、Mentee Robotics、NEURA Robotics等。
 ```
 
