@@ -4,15 +4,22 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 03/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 04/16. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 03/19. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+台灣時間晚上 05/07. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
 台灣時間晚上 03/21. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
 [04月03日(星期四) 休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.機器人(高鋒) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米), 3.軟體股(驊宏資華經邁達特零壹訊達資通凌群等等..).
+
+## 2025/03/20
+```
+晚上美股費半+0.99%, 早上期貨+0.3%, 夜盤沒事.
+華經,驊宏資9:15漲停, 帶動所有軟體股, 網路安全也被帶動.
+Meta今年4月29日舉行首屆LlamaCon, 軟體股提早上漲, 4月應該是AR眼鏡概念股(達邁,英濟).
+```
 
 ## 2025/03/19
 ```
