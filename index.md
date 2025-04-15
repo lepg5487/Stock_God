@@ -24,7 +24,7 @@ layout: testlayouts
 和大9:24漲停帶動機器人一波急拉.
 新漢每年2~6月會很活躍的炒股,新漢今年有參展2025年5月27日CommunicAsia, 5月初新漢應該會發布新聞說我有參展.
 ```
-[官網新聞公布不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=)
+[新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=)
 
 ## 2025/04/14
 ```
