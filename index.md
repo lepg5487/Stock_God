@@ -10,9 +10,18 @@ layout: testlayouts
 
 台灣時間晚上 06/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[05月30日31日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 1.機器人(高鋒) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米), 3.軟體股(驊宏資華經邁達特零壹訊達資通凌群等等..).
+目前主觀有料, 1.機器人(高鋒和椿) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米), 3.軟體股(驊宏資華經邁達特零壹訊達資通凌群等等..).
+
+## 2025/05/02
+```
+晚上美股費半%, 早上期貨%, 夜盤.
+美股財報周, 5/28NVDA財報.
+台北國際電腦展, 2025年5月20日.
+OpenAI創始人Sam Altman, 準備發佈GPT-5, 歷史5月1x日會公布.
+等待高鋒和椿早上沒漲停賣出所有個股.
+```
 
 ## 2025/04/23
 ```
