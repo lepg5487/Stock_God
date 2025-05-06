@@ -297,7 +297,7 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
-# Augmented World Expo USA 世界XR產業博覽會 (AWE) (官網)[https://www.awexr.com/usa-2025/]
+# Augmented World Expo USA 世界XR產業博覽會 (AWE) [官網](https://www.awexr.com/usa-2025/)
 ```
 2020年5月26日至29日, 
 2021年11月9日至11日, 達邁0
