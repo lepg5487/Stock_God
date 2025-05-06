@@ -297,6 +297,17 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
+# Augmented World Expo USA 世界XR產業博覽會 (AWE) (官網)[https://www.awexr.com/usa-2025/]
+```
+2020年5月26日至29日, 
+2021年11月9日至11日, 達邁0
+2022年6月1日至3日, 達邁有漲
+2023年5月31日至2日AR眼鏡MetaLens首次亮相北美市場, 達邁有漲
+2024年6月18日至20日, 達邁0
+2025年6月10日至12日,
+亞光(有漲), 國外指標011790韓國SKC
+```
+
 # Meta Connect 開發者大會
 ```
 2022年10月11日, 0
