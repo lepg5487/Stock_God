@@ -6,13 +6,20 @@ layout: testlayouts
 
 台灣時間晚上 05/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 05/07. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
+台灣時間晚上 06/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
 台灣時間晚上 06/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
 [05月30日31日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.機器人(高鋒和椿) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米), 3.軟體股(驊宏資華經邁達特零壹訊達資通凌群等等..).
+
+## 2025/05/08
+```
+晚上美股費半+1.74%, 早上期貨+1%, 夜盤沒事.
+中國何立峰副總理5/9~5/12將在瑞士和美國會談.
+川普PO文今天晚上10點有重大新聞發布, 內容為達成重大貿易協議.
+```
 
 ## 2025/05/07
 ```
