@@ -222,8 +222,8 @@ Meta今年4月29日舉行首屆LlamaCon, 軟體股
 ## 5月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
-2025 Dell Technologies World 5 月19 日至22 日, 藍天
-
+2025 Dell Technologies World 5月19日至22日, 藍天
+2025 Google I/O 5月20日, 軟體股
 2025 Computex 2025年5月20日–2025年5月23日, 所羅門
 
 2024 高雄自動化工業展2024-05-15 ~ 2024-05-18
