@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 05/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 06/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 06/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 07/31開始反轉.
 
@@ -14,6 +14,12 @@ layout: testlayouts
 
 目前主觀有料, 1.機器人(高鋒和椿) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米),  
 3.軟體股(驊宏資華經邁達特訊達). 4.電能(4/23T1有成精密, 4/29T2天方能源, T3富威電力雲豹能源, 5/2T1士電亞力合機,T3合正)  
+
+## 2025/05/22
+```
+晚上美股費半-1.8%, 早上期貨+0.1%, 夜盤沒事.
+Google和美股Warby Parker合作製作AI眼鏡, 帶動宏達電起漲, 忘記看到全新是Google眼鏡供應商.
+```
 
 ## 2025/05/21
 ```
