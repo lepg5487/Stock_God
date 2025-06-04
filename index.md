@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 06/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[05月30日31日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月06日(星期一)中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 目前主觀有料, 1.機器人(高鋒和椿) ,2.AR眼鏡(達邁(Meta), 全新(Google三星AI眼鏡), GIS-KY, 宏觀, 驊訊, 英濟, 大眾控, 澤米),  
 3.軟體股(驊宏資華經邁達特訊達). 4.電能(4/23T1有成精密, 4/29T2天方能源, T3富威電力雲豹能源, 5/2T1士電亞力合機,T3合正)  
