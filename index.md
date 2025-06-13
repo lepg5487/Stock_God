@@ -23,7 +23,7 @@ layout: testlayouts
 6月24日美國元宇宙大會Metaverse, 緩慢買進英濟等待出關.
 6月25日北美美國休士頓氫能及燃料電池展Hydrogen Technology Conference & Expo.
 川普全力支持美國稀土產業USAR,MP, 等待康普美琪瑪利多結束.
-Switch2創下歷史最佳販售紀錄, 買進意騰-KY.
+Switch2創下歷史最佳販售紀錄, 買進新股意騰-KY.
 ```
 
 ## 2025/06/12
