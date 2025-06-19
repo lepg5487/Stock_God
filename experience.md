@@ -234,6 +234,8 @@ AI EXPO Taiwan 2024/4/24-26
 ## 5月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
+2025年5月6月隨機起漲, 只能買強勢股回檔?
+
 2025 Dell Technologies World 5月19日至22日, 藍天
 2025 Google I/O 5月20日, 軟體股
 2025 Computex 2025年5月20日–2025年5月23日, 所羅門
@@ -247,6 +249,8 @@ AI EXPO Taiwan 2024/4/24-26
 ## 6月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
+2025年5月6月隨機起漲, 只能買強勢股回檔?
+
 Computex2024 06/04-06/07劉揚偉:黃仁勳6月來台電腦展公布與鴻海合作內容. 猜:(5/1415買進AMAX高力奇鴻雙鴻, 等展覽)
 (3/18利多NVDA大會(2/23(15天工作日)AMAX高力奇鴻雙鴻買進)) 
 2024年日本國際無人機展Japan Drone 2024, 2024/06/05  ~  2024/06/07.
