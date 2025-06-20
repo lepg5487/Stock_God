@@ -12,7 +12,7 @@ layout: testlayouts
 
 [10月06日(星期一)中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-目前主觀有料, 1.AR眼鏡(英濟) 2.軟體股(意藍,智通)  
+目前主觀有料, 1.AR眼鏡(英濟) 2.軟體股(意藍)  
 
 ## 2025/06/20
 ```
