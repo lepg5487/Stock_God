@@ -247,7 +247,7 @@ AI EXPO Taiwan 2024/4/24-26
 ## 5月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
-2025年5月6月隨機起漲, 只能買強勢股回檔?
+2025年5月6月隨機起漲, 只能買強勢股回檔? 量不太多的個股, 開始分散個股買進.
 
 2025 Dell Technologies World 5月19日至22日, 藍天
 2025 Google I/O 5月20日, 軟體股
