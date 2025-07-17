@@ -12,7 +12,7 @@ layout: testlayouts
 [國外展覽1](https://www.thetw.com/expo/indexs/0/1), [國外展覽2](https://www.chanchao.com.tw/expo.asp), [日本展覽1](https://www.rxjapan.jp/en/schedule/?show=64)  
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[每年CES主題代表一整年](https://www.ces.tech/media/news/press-releases.aspx)  
 
-
+# [這網站出現的專題報告都是賣點](https://app3.xq.com.tw/newsxt/focustopics?just_req=1)
 # 觀察到的"事實"就是"事實", 不要太主觀.  
 ## 展覽交易法
 ```
