@@ -24,7 +24,7 @@ layout: testlayouts
 T0雷虎T1中光電T3攸泰科技T3昶瑞機電, 早上T3起漲每次都是賣點,但是不是族群結束, 等待8月初.
 意外發現"國防部軍備局生產製造中心""公開徵求""無人機"時, 雷虎都會往上漲一段.
 ```
-<img width="1097" height="420" alt="image" src="https://github.com/user-attachments/assets/e3bc174c-50e5-458c-a6f9-16832f6a6833" />
+<img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
 
 
 ## 2025/07/24
