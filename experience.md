@@ -360,6 +360,10 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
+# 國防部軍備局生產製造中心,公開徵求,無人機時, "雷虎"都會往上漲一段.
+<img width="1148" height="595" alt="image" src="https://github.com/user-attachments/assets/25c53a40-dbec-44b6-b277-127b37930505" />
+<img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
+
 # Augmented World Expo USA 世界XR產業博覽會 (AWE) [官網](https://www.awexr.com/usa-2025/)
 ```
 2020年5月26日至29日, 
