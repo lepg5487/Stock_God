@@ -27,6 +27,7 @@ T0雷虎T1中光電T3攸泰科技T3昶瑞機電, 早上T3起漲每次都是賣�
 2023年9月27日-28日, 達邁6/30低.
 2024年9月25日-26日, 達邁8/6低,8/13低.
 2025年9月17日-18日Meta Connect 開發者大會, 8月9日前買進達邁.
+2025年10月22日–24日台北國際光電週（OPTO Taiwan）,8月底9月初買進矽光子聯亞?
 ```
 <img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
 
