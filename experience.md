@@ -376,7 +376,8 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
-# 國防部軍備局生產製造中心,公開徵求,無人機時, "雷虎"都會往上漲一段.[政府電子採購網](https://web.pcc.gov.tw/prkms/tpAppeal/common/readTpAppeal/basic/returnToBasic?pageSize=100&firstSearch=true&searchType=basic&isBinding=N&isLogIn=N&level_1=on&orgName=%E5%9C%8B%E9%98%B2%E9%83%A8%E8%BB%8D%E5%82%99%E5%B1%80&orgId=&tenderName=%E7%84%A1%E4%BA%BA%E6%A9%9F&tenderId=&tenderType=SEARCH_APPEAL&dateType=isDate&startDate=&endDate=&radProctrgCate=&policyAdvocacy=)
+# 國防部軍備局生產製造中心,公開徵求,無人機時, "雷虎"都會往上漲一段.  
+[政府電子採購網](https://web.pcc.gov.tw/prkms/tpAppeal/common/readTpAppeal/basic/returnToBasic?pageSize=100&firstSearch=true&searchType=basic&isBinding=N&isLogIn=N&level_1=on&orgName=%E5%9C%8B%E9%98%B2%E9%83%A8%E8%BB%8D%E5%82%99%E5%B1%80&orgId=&tenderName=%E7%84%A1%E4%BA%BA%E6%A9%9F&tenderId=&tenderType=SEARCH_APPEAL&dateType=isDate&startDate=&endDate=&radProctrgCate=&policyAdvocacy=)
 <img width="1148" height="595" alt="image" src="https://github.com/user-attachments/assets/25c53a40-dbec-44b6-b277-127b37930505" />
 <img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
 
