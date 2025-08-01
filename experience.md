@@ -381,6 +381,12 @@ NVIDIA GTC開發者大會公布時間.
 <img width="1148" height="595" alt="image" src="https://github.com/user-attachments/assets/25c53a40-dbec-44b6-b277-127b37930505" />
 <img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
 
+# 台灣電力股份有限公司,決標公告,財務類,Ctrl+F搜尋"kv",進去檢視Ctrl+F搜尋"得標廠商", 開盤買進都會往上漲一段.  
+
+<img width="724" height="626" alt="image" src="https://github.com/user-attachments/assets/ce9cf844-169b-458b-8aa4-ebc8efd46abc" />
+<img width="1053" height="173" alt="image" src="https://github.com/user-attachments/assets/e43d48ec-cabf-403b-87c1-706f96ae8fde" />
+<img width="409" height="210" alt="image" src="https://github.com/user-attachments/assets/0bf864ab-e44f-44a2-988f-5d538c4d7235" />
+
 # Augmented World Expo USA 世界XR產業博覽會 (AWE) [官網](https://www.awexr.com/usa-2025/)
 ```
 2020年5月26日至29日, 
