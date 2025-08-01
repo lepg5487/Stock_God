@@ -382,6 +382,7 @@ NVIDIA GTC開發者大會公布時間.
 <img width="1077" height="393" alt="image" src="https://github.com/user-attachments/assets/5eccbb02-e3e9-418c-8d69-031f28a1dbbc" />
 
 # 台灣電力股份有限公司,決標公告,財務類,Ctrl+F搜尋"kv",進去檢視Ctrl+F搜尋"得標廠商", 開盤買進都會往上漲一段.  
+## 重電要變成熱門股要"每年的3~6月"
 
 <img width="724" height="626" alt="image" src="https://github.com/user-attachments/assets/ce9cf844-169b-458b-8aa4-ebc8efd46abc" />
 <img width="1053" height="173" alt="image" src="https://github.com/user-attachments/assets/e43d48ec-cabf-403b-87c1-706f96ae8fde" />
