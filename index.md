@@ -1,4 +1,3 @@
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/d933a573-0fac-48fe-b3ee-aa4234429681" />---
 layout: testlayouts
 ---
 
@@ -22,6 +21,7 @@ layout: testlayouts
 晚上美股費半+1.5%, 早上期貨+0.2%, 夜盤沒事.
 開法說會和季報多數大漲, 毅嘉IKKA-KY發新聞切入無人機起漲, 勤誠法說會漲停.
 最完美交易方式, 7/30~31賣出雷虎,買進Meta財報Meta Connect AR眼鏡達邁英濟, 8/1~8/4賣出達邁英濟, 買進和椿.
+2025 WRC世界機器人大會2025/8/8-12於北京舉行, 今天造成機器人起漲.
 2025年10月22日–24日台北國際光電週(OPTO Taiwan),NVDA和中際旭創財報8/27前買進"聯亞", 2024年只有聯亞漲最多.
 ```
 
