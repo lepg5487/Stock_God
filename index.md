@@ -1,4 +1,4 @@
-<img width="73" height="23" alt="image" src="https://github.com/user-attachments/assets/e664fc59-c90c-431b-9df6-1e0403495acf" />---
+---
 layout: testlayouts
 ---
 
@@ -22,7 +22,8 @@ layout: testlayouts
 晚上美股費半+0.41%, 早上期貨-0.1%, 夜盤沒事.
 目前規律處置股出關都是高點(錦明攸泰科技), 8/22賣出所有無人機.
 8/14新聞發布挪威主權基金造成矽光子提早上漲, 當天矽光子成交值排行依序是"華星光",波若威,光聖,聯鈞,上詮,眾達-KY.
-2025年10月22日–24日台北國際光電週(OPTO Taiwan),NVDA和中際旭創財報8/27前, 買進華星光.
+2025年10月22日–24日台北國際光電週(OPTO Taiwan),NVDA和中際旭創財報8/27前, 買進華星光?
+中國長飛光纖光纜AI資料中心新技術空芯光纖(Hollow-Core Fiber)漲了30%以上, 台灣公司基本面ChatGPT分析只有上詮有機會做出來.
 ```
 
 ## 2025/08/18
