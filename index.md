@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 08/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 09/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
 台灣時間晚上 09/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -16,6 +16,14 @@ layout: testlayouts
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
 買進: 定義好T0T1T2T3, 觀察"同族群個股強弱程度", 再考慮要不要進場這族群, 族群可以直接買進成交值最大的.  
 賣出: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出, 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出, 漲到T3賣出.  
+
+## 2025/08/21
+```
+晚上美股費半-0.72%, 早上期貨-0.1%, 夜盤沒事.
+目前規律處置股出關都是高點(銘旺科), 8/22賣出所有無人機?
+2025年10月22日–24日台北國際光電週(OPTO Taiwan),NVDA和中際旭創財報8/27前買進, 2025/08/28 IET-KY法說會.
+觀察聯亞IET-KY.
+```
 
 ## 2025/08/19
 ```
