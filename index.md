@@ -17,6 +17,16 @@ layout: testlayouts
 買進: 定義好T0T1T2T3, 觀察"同族群個股強弱程度", 再考慮要不要進場這族群, 族群可以直接買進成交值最大的.  
 賣出: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出, 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出, 漲到T3賣出.  
 
+## 2025/08/25
+```
+晚上美股費半+2.7%, 早上期貨-0.1%, 夜盤沒事, 可能降息造成美股大漲.
+8月27日NVDA公布財報前, NVIDIA在22日X轉發NVIDIARobotics影片To Robot Enjoy Your New Bran!
+NVIDIARobotics在24日X發布Did you mark your calendars?
+發布8月25日時要公布新機器人產品, 造成今天機器人全面上漲.
+```
+[22日影片](https://x.com/NVIDIARobotics/status/1958571389037748328)
+[24日發文](https://x.com/NVIDIARobotics/status/1959364501616074774)
+
 ## 2025/08/22
 ```
 晚上美股費半-0.49%, 早上期貨-0.1%, 夜盤沒事.
