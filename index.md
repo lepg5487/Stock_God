@@ -23,6 +23,7 @@ layout: testlayouts
 8月27日NVDA公布財報前, NVIDIA在22日X轉發NVIDIARobotics影片To Robot Enjoy Your New Bran!
 NVIDIARobotics在24日X發布Did you mark your calendars?
 發布8月25日時要公布新機器人產品, 造成今天機器人全面上漲.
+曾經黃仁勳背板最有關係的是所羅門波若威, 最近和所羅門合作的個股圓剛.
 ```
 [22日影片](https://x.com/NVIDIARobotics/status/1958571389037748328)
 [24日發文](https://x.com/NVIDIARobotics/status/1959364501616074774)
