@@ -25,8 +25,11 @@ layout: testlayouts
 NVDA和中際旭創財報8/27前買進, IET-KY 08/28法說會起漲.
 攸泰科技8/27法說會起漲, 光聖8/29法說會起漲, 銘旺科9/9股東會?
 所有資金都在無人機, 等待無人機轉弱再買進其他個股, 原本目標是轉向矽光子.
+NVIDIA 26日宣布推出全新AI機器人大腦Jetson AGX Thor，並在官網公布首波20家合作夥伴，台廠僅有三家入列，研華,宜鼎,益登.
+益登(EDOM): NVDA台灣代理商, 宜鼎: 旗下子公司安提國際(Aetina)在合作名單, 研華(Advantech): 和e-con Systems(在合作名單)合作.
 雙城論壇, 台北上海城市論壇今年輪由上海市舉辦，傳出時間點可能落在9月25日至27日, 山富,五福量多好買進.
 ```
+[NVDA合作夥伴官網](https://developer.nvidia.com/embedded/ecosystem?sortBy=jetson_ecosystem_partners%2Fsort%2Fcompany_name%3Aasc&refinementList%5Bproducts_supported%5D%5B0%5D=AGX%20Thor&hitsPerPage=36#search)
 
 ## 2025/08/26
 ```
