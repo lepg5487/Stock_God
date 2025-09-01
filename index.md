@@ -31,7 +31,7 @@ NVIDIA可能公布第二波合作夥伴, 每天觀察NVDA官網.
 10月初臺北市議會開議, 10月也是中國的國慶敏感月份,不可能舉辦, 歷史沒有9月舉辦過雙城論壇.
 沒意外2025年應該是12月舉辦雙城論壇.
 ```
-[2025/8/15新聞其中一則](https://udn.com/news/story/7331/8940562)  
+[2025/8/15新聞其中一則](https://udn.com/news/story/7331/8940562)[寫得最多理由的新聞](https://www.msn.com/zh-tw/news/national/%E5%82%B3%E9%9B%99%E5%9F%8E%E8%AB%96%E5%A3%879-25%E4%B8%8A%E6%B5%B7%E7%99%BB%E5%A0%B4-%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E6%9B%9D%E7%9C%9F%E7%9B%B8/ar-AA1Kvlca)  
 <img width="776" height="843" alt="image" src="https://github.com/user-attachments/assets/f36713ec-1dbe-4d50-a457-c8f24851cd01" />
 
 ## 2025/08/29
