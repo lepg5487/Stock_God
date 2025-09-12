@@ -25,7 +25,7 @@ layout: testlayouts
 9/17 META AI智能眼鏡產品發布, 9/29 SAMSUNG AI智能眼鏡產品發布, 宏達電位置有機會.
 台北市政府已經在9月11日傍晚左右送出申請，上海雙城論壇確定在9月25、26、27日舉辦, 緩慢買進山富, 五福.
 ```
-[2025雙城論壇新聞](https://www.ettoday.net/news/20250912/3032090.htm)
+[2025雙城論壇新聞1](https://www.ettoday.net/news/20250912/3032090.htm), [2025雙城論壇新聞2](https://www.storm.mg/article/11066967)
 
 ## 2025/09/11
 ```
