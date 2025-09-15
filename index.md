@@ -4,11 +4,11 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 09/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 10/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 09/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 10/15. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
-台灣時間晚上 09/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
+台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
 [10月06日(星期一)中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
@@ -21,6 +21,7 @@ layout: testlayouts
 ```
 晚上美股費半+0.11%, 早上期貨+0%, 夜盤沒事.
 美光9/12通知客戶對DRAM與NAND產品全面暫停一周報價，包含DDR4、DDR5、LPDDR4、LPDDR5等協議價格取消，預計一周後重新開出新價格.
+9/17台指期結算, 9/17 FOMC利率決策公布, 9/19美股四巫日, 指數會很震.
 等待9/26利多緩慢買進山富, 五福, 觀察東森,網家,綠界科技.
 ```
 
