@@ -28,7 +28,6 @@ layout: testlayouts
 緩慢買進綠界科技, 觀察LINEPAY, 歐買尬, 東森, 網家, 這次2025雙11時間是10/15~17注意是哪個出量再直接鬼轉.
 ```
 [9/5 SNDK Sandisk 產品漲價10%](https://www.expreview.com/101571.html),  
-
 [9/12美光停止報價新聞](https://www.expreview.com/101689.html), [9/30美光重新報價新聞](https://www.expreview.com/101992.html),  
 [9/26美光重新報價新聞](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000733690_OX65BCFALGUAP9LIFE529)
 
