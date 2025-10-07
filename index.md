@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[10月06日(星期一)中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月10日(星期五)國慶日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 觀察到的"事實"就是"事實", 不要太主觀.  
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
@@ -20,8 +20,9 @@ layout: testlayouts
 
 ## 2025/10/07
 ```
-晚上美股費半%, 早上期貨%, 夜盤.
-10/6 OpenAI DevDay 開發者大會, 觀察誰有反應, 11/10的OPEN AI AI Summit Seoul 2025, 應該就是它.
+晚上美股費半2.89%, 早上期貨-0.2%, 夜盤沒事.
+AMD和OpenAI合作AMD大漲23%, 台灣隔天麗臺直接開盤漲停.
+10/6 OpenAI DevDay 開發者大會, 觀察誰有反應.
 馬斯克特斯拉X上發文10/7有發布會.
 
 緩慢買進綠界科技, 觀察LINEPAY, 歐買尬, 東森, 網家, 這次2025雙11時間是10/15~17注意是哪個出量再直接鬼轉.
