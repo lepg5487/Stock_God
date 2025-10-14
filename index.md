@@ -25,6 +25,8 @@ layout: testlayouts
 中國交通運輸部宣布對美國船舶收取船舶特別港務費, 造成中航中櫃新興裕民四維航萬海陽明慧洋起漲.
 2025淘寶天貓雙11時間是10/15~17.
 觀察綠界科技, LINEPAY, 歐買尬, 東森, 網家, 富邦媒, 10/15~17沒起漲就賣出, 上次高點在尾款支付時間10/20~10/24.
+
+2025年11月10日–11日, OPEN AI AI Summit Seoul 2025, 軟體股高點 -> 10月因為營收起漲, 精誠, 緯軟.
 ```
 [天貓2025雙11活動時間](https://news.futunn.com/hk/post/62705916/tmall-s-double-11-pre-sale-will-kick-off-on?data_ticket=1742348137323296&level=2&lang=zh-hk)
 
