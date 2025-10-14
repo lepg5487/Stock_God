@@ -26,7 +26,7 @@ layout: testlayouts
 2025淘寶天貓雙11時間是10/15~17.
 觀察綠界科技, LINEPAY, 歐買尬, 東森, 網家, 富邦媒, 10/15~17沒起漲就賣出, 上次高點在尾款支付時間10/20~10/24.
 ```
-[天貓2025雙11活動時間](https://news.futunn.com/en/post/62705916/tmall-s-double-11-pre-sale-will-kick-off-on?level=1&data_ticket=1742348137323296)
+[天貓2025雙11活動時間](https://news.futunn.com/hk/post/62705916/tmall-s-double-11-pre-sale-will-kick-off-on?data_ticket=1742348137323296&level=2&lang=zh-hk)
 
 ## 2025/10/13
 ```
