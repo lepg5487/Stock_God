@@ -4,13 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 10/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
+台灣時間晚上 11/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 10/15. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 10/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
 台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[10月10日(星期五)國慶日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月24日(星期五)臺灣光復暨金門古寧頭大捷紀念日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 觀察到的"事實"就是"事實", 不要太主觀.  
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
@@ -21,7 +21,7 @@ layout: testlayouts
 ## 2025/10/15
 ```
 晚上美股費半-2.28%, 早上期貨+0.1%, 夜盤沒事.
-2025/10/16台積電法說會, 2025/10/31聯發科法說會, 空手等待台積電法說.
+今天是台指期結算日期, 2025/10/16台積電法說會, 2025/10/31聯發科法說會, 空手等待台積電法說.
 2025年G20峰會將於11月22日至23日在南非約翰尼斯堡舉行, 等待買進立積.
 2025年11月10日–11日, OPEN AI AI Summit Seoul 2025, 軟體股高點 -> 10月因為營收起漲, 精誠, 緯軟.
 ```
