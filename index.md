@@ -33,8 +33,9 @@ NVIDIA 8/26宣布推出全新產品Jetson AGX Thor，造成代理商"益登",研
 NVIDIA 10/13宣布推出全新產品DGX Spark，造成代理商"麗臺",研揚上漲.
 NVIDIA DGX Spark合作夥伴: Acer, ASUS, Dell Technologies, GIGABYTE, HP, Lenovo, MSI.
 意外發現麗臺2025/5/23就宣布取得代理商資格, 下次NVIDIA宣布新產品時直接用ChatGPT搜尋台灣代理商是哪間公司.
+博通新產品台灣代理商"鑫聯大投控", 博通Tomahawk®6–Davisson新產品10/8才公布, 但是股價10/3就開始提早漲, 這檔都是內線.
 ```
-[NVDA新商品DGX Spark](https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers), 
+[NVDA新商品DGX Spark](https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers), [博通新產品](https://www.broadcom.com/company/news/product-releases),
 [麗臺代理商資格](https://www.inside.com.tw/article/38563-NVIDIADGXSpark?utm_source=chatgpt.com)  
 <img width="791" height="153" alt="image" src="https://github.com/user-attachments/assets/1c704db3-c826-4db7-9049-45e778a60d61" />
 
