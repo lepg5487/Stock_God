@@ -26,6 +26,9 @@ layout: testlayouts
 2025年G20峰會將於11月22日至23日在南非約翰尼斯堡舉行, 等待立積.
 2025年11月10日–11日, OPEN AI AI Summit Seoul 2025, 軟體股高點 -> 10月因為營收起漲, 精誠, 緯軟.
 
+NVIDIA黃仁勳將於2025年10月27-29日在華盛頓特區舉辦GTC大會演講，
+這是NVIDIA首次在美國首都舉辦此年度科技盛事。這場被稱為GTC DC的活動，延續了聖荷西GTC大會AI界的伍德斯托克音樂節和AI超級盃.
+
 NVIDIA 8/26宣布推出全新產品Jetson AGX Thor，造成益登,研華,宜鼎,研揚上漲.
 NVIDIA 10/13宣布推出全新產品DGX Spark，造成研揚領頭上漲, 研揚繼續上漲買進益登? 研華?
 NVIDIA DGX Spark合作夥伴: Acer, ASUS, Dell Technologies, GIGABYTE, HP, Lenovo, MSI.
