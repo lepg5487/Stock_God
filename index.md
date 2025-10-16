@@ -280,7 +280,7 @@ NVIDIA 26日宣布推出全新AI機器人大腦Jetson AGX Thor，並在官網公
 益登(EDOM): NVDA台灣代理商, 宜鼎: 旗下子公司安提國際(Aetina)在合作名單, 研華(Advantech): 和e-con Systems(在合作名單)合作.
 雙城論壇, 台北上海城市論壇今年輪由上海市舉辦，傳出時間點可能落在9月25日至27日, 山富,五福量多好買進.
 ```
-[NVDA合作夥伴官網](https://developer.nvidia.com/embedded/ecosystem?sortBy=jetson_ecosystem_partners%2Fsort%2Fcompany_name%3Aasc&refinementList%5Bproducts_supported%5D%5B0%5D=AGX%20Thor&hitsPerPage=36#search)
+[NVDA合作夥伴官網](https://developer.nvidia.com/embedded/ecosystem?sortBy=jetson_ecosystem_partners%2Fsort%2Fcompany_name%3Aasc&refinementList%5Bproducts_supported%5D%5B0%5D=AGX%20Thor&hitsPerPage=36#search), [NVDA官網最新消息](https://nvidianews.nvidia.com/news/nvidia-blackwell-powered-jetson-thor-now-available-accelerating-the-age-of-general-robotics)
 
 ## 2025/08/26
 ```
