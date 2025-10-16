@@ -29,11 +29,14 @@ layout: testlayouts
 NVIDIA黃仁勳將於2025年10月27-29日在華盛頓特區舉辦GTC大會演講，
 這是NVIDIA首次在美國首都舉辦此年度科技盛事。這場被稱為GTC DC的活動，延續了聖荷西GTC大會AI界的伍德斯托克音樂節和AI超級盃.
 
-NVIDIA 8/26宣布推出全新產品Jetson AGX Thor，造成益登,研華,宜鼎,研揚上漲.
-NVIDIA 10/13宣布推出全新產品DGX Spark，造成研揚領頭上漲, 研揚繼續上漲買進益登? 研華?
+NVIDIA 8/26宣布推出全新產品Jetson AGX Thor，造成代理商"益登",研華,宜鼎,研揚上漲.
+NVIDIA 10/13宣布推出全新產品DGX Spark，造成代理商"麗臺",研揚上漲.
 NVIDIA DGX Spark合作夥伴: Acer, ASUS, Dell Technologies, GIGABYTE, HP, Lenovo, MSI.
+意外發現麗臺2025/5/23就宣布取得代理商資格, 下次NVIDIA宣布新產品時直接用ChatGPT搜尋台灣代理商是哪間公司.
 ```
-[NVDA新商品DGX Spark](https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers)
+[NVDA新商品DGX Spark](https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers), 
+[麗臺代理商資格](https://www.inside.com.tw/article/38563-NVIDIADGXSpark?utm_source=chatgpt.com)  
+<img width="791" height="153" alt="image" src="https://github.com/user-attachments/assets/1c704db3-c826-4db7-9049-45e778a60d61" />
 
 ## 2025/10/15
 ```
