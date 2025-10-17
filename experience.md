@@ -18,6 +18,11 @@ layout: testlayouts
 
 # [這網站出現的專題報告都是賣點](https://app3.xq.com.tw/newsxt/focustopics?just_req=1)
 # 觀察到的"事實"就是"事實", 不要太主觀.  
+# "台灣xxx的代理商是哪間公司?","xxx 的訂單客戶可能有哪些公司?"
+<img width="794" height="150" alt="image" src="https://github.com/user-attachments/assets/73172165-4acf-44fc-a216-6274fd359d3b" />
+
+<img width="773" height="323" alt="image" src="https://github.com/user-attachments/assets/11c547b6-a955-42e4-8398-322951daa8eb" />
+
 ## 展覽交易法
 ```
 進場注意事項:
