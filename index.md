@@ -29,7 +29,7 @@ layout: testlayouts
 ```
 ```
 2024/06/20 擎亞 強調唯一有出貨三星HBM2E產品的代理商.[1]
-2024/07/17 至上, 擎亞都可能是代理商[4]
+2024/07/17 至上, 擎亞都可能是代理商[5]
 2024/08/14 三星的HBM3E預計2024年底開始量產.[2]
 2025/01/17 擎亞 買點
 2025/01/20, 2025/01/21, 2025/01/22, 連續出越來越大量且上漲,確定買點
@@ -38,7 +38,7 @@ layout: testlayouts
 2025/10/19 三星第六代HBM4 12層產品,並計畫於2025年底實現量產.[4]
 2026/01/1x? 擎亞? 買點?
 ```
-[1](https://today.line.me/tw/v3/article/3NnmVnB), [2](https://news.xfastest.com/samsung/143568/%E4%B8%89%E6%98%9F8%E5%B1%A4%E5%A0%86%E7%96%8Ahbm3e%E5%B7%B2%E9%80%9A%E9%81%8E%E8%8B%B1%E5%81%89%E9%81%94%E6%89%80%E6%9C%89%E6%B8%AC%E8%A9%A6%EF%BC%8C-%E9%A0%90%E8%A8%88%E4%BB%8A%E5%B9%B4%E5%BA%95/#vw-post-shares-dialog), [3](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1a0cbf86-d86b-409f-860e-717a607606ea), [4](https://sedaily.com/NewsView/2GZ8NFHNNH), [4](https://www.sinotrade.com.tw/richclub/news/6696c33132ba0c9331e4e042)
+[1](https://today.line.me/tw/v3/article/3NnmVnB), [2](https://news.xfastest.com/samsung/143568/%E4%B8%89%E6%98%9F8%E5%B1%A4%E5%A0%86%E7%96%8Ahbm3e%E5%B7%B2%E9%80%9A%E9%81%8E%E8%8B%B1%E5%81%89%E9%81%94%E6%89%80%E6%9C%89%E6%B8%AC%E8%A9%A6%EF%BC%8C-%E9%A0%90%E8%A8%88%E4%BB%8A%E5%B9%B4%E5%BA%95/#vw-post-shares-dialog), [3](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1a0cbf86-d86b-409f-860e-717a607606ea), [4](https://sedaily.com/NewsView/2GZ8NFHNNH), [5](https://www.sinotrade.com.tw/richclub/news/6696c33132ba0c9331e4e042)
 
 ## 2025/10/20
 ```
