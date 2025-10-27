@@ -474,6 +474,14 @@ NVIDIA GTC開發者大會公布時間.
 \
 ```
 
+# 國巨併購其他公司 = 必漲
+```
+2025/8/28收購日商芝浦電子
+2025/9/30收購茂達
+```
+[影片分析](https://www.youtube.com/shorts/HANyol6rgEE),  
+[2025/8/28收購日商芝浦電子](https://www.ctee.com.tw/news/20250828700172-439901), [2025/9/30收購茂達](https://uanalyze.com.tw/articles/8126632949)  
+
 # 總統財富密碼
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
 ```
