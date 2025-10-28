@@ -473,15 +473,6 @@ NVIDIA GTC開發者大會公布時間.
 2026年1月20日至22日, 美國西部光電展覽 SPIE Photonics West, 
 \
 ```
-
-# 國巨併購其他公司 = 必漲
-```
-2025/8/28收購日商芝浦電子
-2025/9/30收購茂達
-```
-[影片分析](https://www.youtube.com/shorts/HANyol6rgEE),  
-[2025/8/28收購日商芝浦電子](https://www.ctee.com.tw/news/20250828700172-439901), [2025/9/30收購茂達](https://uanalyze.com.tw/articles/8126632949)  
-
 # 總統財富密碼
 [總統每日行程](https://www.president.gov.tw/Page/37), [總統府新聞](https://www.president.gov.tw/Page/35?DeteailNo=1&Mode=L) ,[總統YT](https://www.youtube.com/@presidentialoffice/videos)  
 ```
@@ -491,10 +482,29 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
+# 非洲豬瘟
+```
+2025/10/22台中首例非洲豬瘟, 造成"瑞基",永鴻生技,達邦蛋白,大成,卜蜂上漲.
+2018/08/24中國首例非洲豬瘟, 還沒反應,緩慢買進"瑞基"
+2018/09/09日本首例非洲豬瘟, 還沒反應,緩慢買進"瑞基"
+2018/09/14才反應到台灣, 開始上漲"瑞基"(30~40%).
+2018/09/27反應T3達邦蛋白上漲(30~40%)(2018/9/18才剛掛牌新股).
+```
+[2025/10/22首例台灣非洲豬瘟](https://www.ctee.com.tw/news/20251022702169-430201?utm_source=rss&utm_medium=MoneyDJ-app&utm_campaign=rss-MoneyDJ-app&sysid=948788200678096896)  
+[2018/08/24中國首例非洲豬瘟](https://www.bbc.com/zhongwen/trad/chinese-news-45296399), [2018/09/09日本首例非洲豬瘟](https://health.udn.com/health/story/6010/3357874?fb_comment_id=2167048439973414_2169330953078496)
+
+# 國巨併購其他公司 = 必漲
+```
+2025/8/28收購日商芝浦電子
+2025/9/30收購茂達
+```
+[影片分析](https://www.youtube.com/shorts/HANyol6rgEE),  
+[2025/8/28收購日商芝浦電子](https://www.ctee.com.tw/news/20250828700172-439901), [2025/9/30收購茂達](https://uanalyze.com.tw/articles/8126632949)  
+
 # 宏達電
 ```
 2016/2/29預購新品HTC Vive, 漲到2016/3/15(共70%)
-2025/8/14預購新品VIVE Eagle, 漲到?
+2025/8/14預購新品VIVE Eagle, 漲到2025/9/1(共55%)
 ```
 
 # 挪威主權基金 2月底 8月初 公布
