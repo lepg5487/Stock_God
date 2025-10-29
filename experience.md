@@ -18,7 +18,7 @@ layout: testlayouts
 
 # [這網站出現的專題報告都是賣點](https://app3.xq.com.tw/newsxt/focustopics?just_req=1)
 # 觀察到的"事實"就是"事實", 不要太主觀.  
-## 時事交易, 注意新聞"漲價","新產品", "xxx 台灣代理商是哪間公司?","xxx 的訂單客戶可能有哪些公司?"
+## 時事交易, 注意新聞"漲價","新產品", "xxx台灣代理商是哪間公司?","xxx的訂單客戶可能有哪些公司?"
 [時事交易新聞](https://www.trendforce.com/news/)  
 <img width="794" height="150" alt="image" src="https://github.com/user-attachments/assets/73172165-4acf-44fc-a216-6274fd359d3b" />
 
