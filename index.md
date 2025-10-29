@@ -31,8 +31,7 @@ OpenAI CEO Sam Altman 2025/10/28直播預告, 台灣時間29日凌晨1:30開直�
 11/04驊宏資,智聯服務,宏碁資訊,昕奇雲端.
 11/05精誠.
 ```
-[OpenAI CEO Sam Altman 2025/10/28直播預告](https://x.com/sama/status/1983182740666364113),  
-[牛牛快訊](https://news.futunn.com/flash/19546444/openai-ceo-live-broadcast-to-discuss-new-corporate-structure-and?futusource=news_push_page&src=1&main_broker=WzEwMDhd&hk_cid=29731895&client_hour_clock=24&sg_cid=29731895&channel=4&skintype=3&level=2&global_content={%22promote_content%22:%22nn:flash:19546444%22,%22invite%22:29731895}&data_ticket=1742348137323296&utm_medium=futu_niuniu_share&utm_content=web_share&utm_campaign=news&utm_term=19546444)
+[OpenAI CEO Sam Altman 2025/10/28直播預告](https://x.com/sama/status/1983182740666364113)
 
 ## 2025/10/28
 ```
