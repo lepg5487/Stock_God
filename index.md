@@ -6,11 +6,11 @@ layout: testlayouts
 
 台灣時間晚上 11/19. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 10/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 12/10. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
 台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
-[10月24日(星期五)臺灣光復暨金門古寧頭大捷紀念日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[12月25日(星期四)行憲紀念日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 觀察到的"事實"就是"事實", 不要太主觀.  
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
@@ -21,8 +21,9 @@ layout: testlayouts
 ## 2025/10/29
 ```
 晚上美股費半+0.37%, 早上期貨-0.10%, 夜盤沒事.
-NVDA黃仁勳在華盛頓特區舉辦GTC DC大會演講內容只有提到一點點台積電鴻海緯創, 台股提早反應的是光聖聯亞波若威華星光環宇-KY
+NVDA黃仁勳在華盛頓特區舉辦GTC DC大會演講內容只有提到一點點台積電鴻海緯創, 台股提早反應的是光聖聯亞波若威華星光環宇-KY.
 OpenAI CEO Sam Altman 2025/10/28直播預告, 台灣時間29日凌晨1:30開直播, 緩慢買進華經.
+10/29 FOMC利率決策公布時間.
 
 美股開始公布財報指數會很震, 2025/10/30中美談判稀土管制, 2025/10/31立積法說會.
 11/14前有很多公司會公布第三季財報利多,
@@ -30,7 +31,8 @@ OpenAI CEO Sam Altman 2025/10/28直播預告, 台灣時間29日凌晨1:30開直�
 11/04驊宏資,智聯服務,宏碁資訊,昕奇雲端.
 11/05精誠.
 ```
-[OpenAI CEO Sam Altman 2025/10/28直播預告](https://x.com/sama/status/1983182740666364113), [牛牛快訊](https://news.futunn.com/flash/19546444/openai-ceo-live-broadcast-to-discuss-new-corporate-structure-and?futusource=news_push_page&src=1&main_broker=WzEwMDhd&hk_cid=29731895&client_hour_clock=24&sg_cid=29731895&channel=4&skintype=3&level=2&global_content={%22promote_content%22:%22nn:flash:19546444%22,%22invite%22:29731895}&data_ticket=1742348137323296&utm_medium=futu_niuniu_share&utm_content=web_share&utm_campaign=news&utm_term=19546444)
+[OpenAI CEO Sam Altman 2025/10/28直播預告](https://x.com/sama/status/1983182740666364113),  
+[牛牛快訊](https://news.futunn.com/flash/19546444/openai-ceo-live-broadcast-to-discuss-new-corporate-structure-and?futusource=news_push_page&src=1&main_broker=WzEwMDhd&hk_cid=29731895&client_hour_clock=24&sg_cid=29731895&channel=4&skintype=3&level=2&global_content={%22promote_content%22:%22nn:flash:19546444%22,%22invite%22:29731895}&data_ticket=1742348137323296&utm_medium=futu_niuniu_share&utm_content=web_share&utm_campaign=news&utm_term=19546444)
 
 ## 2025/10/28
 ```
