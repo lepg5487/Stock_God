@@ -1192,7 +1192,7 @@ GIS-KY = 兆豐竹北
 
 搜尋設定: 總共搜尋4次
 上市 和 上櫃
-預計, 114年第三季財務報告 和 114年第3季財務報告
+預計, 114年第三季財務報告 和 114年第3季
 ```
 <img width="836" height="833" alt="image" src="https://github.com/user-attachments/assets/06cb7a43-2a76-49db-a8cc-f1e149c1907f" />
 
