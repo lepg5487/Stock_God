@@ -3,6 +3,7 @@ layout: testlayouts
 ---
 # 回檔不賠錢遲早會賺錢
 # 題材 > 型態
+# 觀察市場流行"題材"->找題材"未來利多"->觀察個股"股價位置型態"->位置型態好就能"買進"等未來利多.
 
 [中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-5-0-0-4-6/)  
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
