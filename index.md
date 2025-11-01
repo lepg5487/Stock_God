@@ -24,7 +24,9 @@ layout: testlayouts
 TP-Link是美國路由器市場約65%, 背後是卻是中國公司, 影響美國國家安全.
 這報導在2024/12/18~19, 2024/04/29~30, 2025/11/01, 報導都有造成網通股上漲.
 ```
-(TP-Link問題2025/11/01)[https://www.expreview.com/102498.html], (TP-Link問題2024/04/29~30)[https://www.expreview.com/99553.html], (TP-Link問題2024/12/18~19)[https://www.expreview.com/97381.html]
+[TP-Link問題2025/11/01](https://www.expreview.com/102498.html),  
+[TP-Link問題2024/04/29~30](https://www.expreview.com/99553.html),   
+[TP-Link問題2024/12/18~19](https://www.expreview.com/97381.html)  
 
 ## 2025/10/31
 ```
