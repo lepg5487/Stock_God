@@ -25,6 +25,7 @@ layout: testlayouts
 NVDA和NOKIA合作6G,AI-RAN, Infinera公司2024年6月被Nokia收購.
 榮群,互動都是Infinera的重要夥伴，榮群把Infinera的設備列入產品，主要銷售Infinera TM系列產品.
 買進建漢,等待利多, 2025/11/5–7 Brooklyn 6G Summit 2025.
+2025/11/11公布第3季財報,建漢,智邦.
 ```
 [NOKIA的台灣廠商榮群,互動](https://www.sinotrade.com.tw/richclub/news/6907870c8ff59b56a6ebe35e)
 
