@@ -5,7 +5,7 @@ layout: testlayouts
 # 題材(漲價, 新產品, 新平台, 國家安全風險(轉單)) > 型態
 # 觀察市場流行"題材"->找題材"未來利多"->觀察個股"股價位置型態"->位置型態好就能"買進"等未來利多.
 
-[中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-5-0-0-4-6/)  
+[中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-0-0-0-0-1/?sort=asc&type=start_time)  
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
 [上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81), [會展中心（上海）](https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx), 
 [中國國際展覽中心](http://www.ciec.com.cn/ciecnew/zljh/zljh.html), [北人亦創國際會展中心](https://www.bjeiecc.com/col30/list)  
