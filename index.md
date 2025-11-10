@@ -19,6 +19,25 @@ layout: testlayouts
 賣出1: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出, 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出, 漲到T3賣出.  
 賣出2: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/02金居, 09/09銘旺科).  
 
+## 2025/11/10
+```
+晚上美股費半-1.01%, 早上期貨+0.2%, 夜盤沒事, 目前指數主觀定義為盤整.
+目前盤勢買綠賣紅選擇自己相信的長綠, 長紅容易隔天直接開低很危險.
+11/14前有很多公司會公布第三季財報, 都有可能造成跌停或漲停.
+11/11建漢財報, 11/12鴻海法說, 11/21-22鴻海科技日.
+11/19 NVDA財報,台指期結算日期, 主觀覺得才是最重要也最危險的日期.
+
+Google Axion CPU:創意
+Google Ironwood TPU:聯發科
+AMD Helios:營邦
+AWS Trainium3: 世芯-KY
+```
+[文章報導](https://blog.hamibook.com.tw/%E5%95%86%E7%AE%A1%E7%90%86%E8%B2%A1/aws-trainium-3-%E5%B9%B4%E5%BA%95%E5%95%8F%E4%B8%96-%E4%BE%9B%E6%87%89%E9%8F%88%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90)
+<img width="992" height="529" alt="image" src="https://github.com/user-attachments/assets/5ce33726-3850-4071-8e0a-0ec8f3393c13" />
+<img width="1230" height="495" alt="image" src="https://github.com/user-attachments/assets/7f6e215f-c1d5-4c2f-8050-a55b37de4aac" />
+<img width="738" height="445" alt="image" src="https://github.com/user-attachments/assets/cbed17d0-70ba-44e8-809d-e1b203493211" />
+
+
 ## 2025/11/07
 ```
 晚上美股費半-2.39%, 早上期貨+0.2%, 夜盤沒事, 目前指數主觀定義為盤整.
