@@ -26,7 +26,7 @@ layout: testlayouts
 建漢看盤後籌碼美林是答案, 11/12鴻海法說.
 
 未來看好技術:
-面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科晶彩科東捷采鈺力成)
+面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
 ```
 [FOPLP+玻璃基板需求報導](https://www.trendforce.com/news/2025/11/10/news-tsmc-cowos-capacity-crunch-reportedly-pushes-u-s-ai-chipmakers-to-powertech-through-2027/), [友威科晶彩科東捷](https://vocus.cc/article/684851affd89780001944d2d)  
