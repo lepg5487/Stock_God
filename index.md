@@ -19,6 +19,15 @@ layout: testlayouts
 賣出1: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出, 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出, 漲到T3賣出.  
 賣出2: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/02金居, 09/09銘旺科).  
 
+## 2025/11/12
+```
+晚上美股費半+3.02%, 早上期貨+0.1%, 夜盤沒事, 目前指數主觀定義為盤整.
+11/19 NVDA財報,台指期結算日期, 主觀覺得才是最重要也最危險的日期.
+建漢看盤後籌碼美林是答案, 11/12鴻海法說.
+
+玻纖纖維玻纖布,日本日東紡織11/07漲20%, 造成11/11德宏富喬南亞台玻建榮起漲, 要檢討這個有機會.
+```
+
 ## 2025/11/11
 ```
 晚上美股費半+3.02%, 早上期貨+0.1%, 夜盤沒事, 目前指數主觀定義為盤整.
@@ -30,7 +39,7 @@ layout: testlayouts
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
 ```
 [FOPLP+玻璃基板需求報導](https://www.trendforce.com/news/2025/11/10/news-tsmc-cowos-capacity-crunch-reportedly-pushes-u-s-ai-chipmakers-to-powertech-through-2027/), [友威科晶彩科東捷](https://vocus.cc/article/684851affd89780001944d2d)  
-[HBM 改成 HBF](https://www.trendforce.com/news/2025/11/11/news-sk-hynix-samsung-and-sandisk-bet-on-hbf-the-next-battleground-in-memory-sector/)
+[HBM 改成 HBF](https://www.trendforce.com/news/2025/11/11/news-sk-hynix-samsung-and-sandisk-bet-on-hbf-the-next-battleground-in-memory-sector/), [HBF](https://www.expreview.com/102655.html)
 
 ## 2025/11/10
 ```
