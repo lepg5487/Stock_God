@@ -24,13 +24,24 @@ layout: testlayouts
 Google Axion CPU:創意
 Google Ironwood TPU:聯發科
 AWS Trainium3: 世芯-KY
-AMD AMD MI450 Helios(2026年):營邦
+AMD MI450 Helios(2026年):營邦
 AMD Instinct MI400(2026年)
 AMD Instinct MI500(2027年)
 
 面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
 ```
+
+## 2025/11/13
+```
+晚上美股費半+1.47%, 早上期貨+0.1%, 夜盤Cisco+7%, 目前指數主觀定義為盤整.
+11/19 NVDA財報,台指期結算日期, 主觀覺得才是最重要也最危險的日期.
+建漢看盤後籌碼美林是答案.
+
+機器人11月底~12月中都會上漲, 影片發布時間是賣點, 所羅門佳能.
+2024年12月23日, 2023年12月12日, 2022年12月22日
+```
+[2024年12月23日機器人聖誕影片1](https://www.youtube.com/watch?v=sFkUH5XFHKU), [2023年12月12日機器人聖誕影片2](https://www.youtube.com/watch?v=Cdc5iVqjNVs), [2022年12月22日機器人聖誕影片3](https://www.youtube.com/watch?v=7Wm6vy7yBNA)
 
 ## 2025/11/12
 ```
