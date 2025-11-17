@@ -4,6 +4,20 @@ layout: testlayouts
 # 回檔不賠錢遲早會賺錢
 # 題材(漲價, 新產品, 新平台, 國家安全風險(轉單)) > 型態
 # 觀察市場流行"題材"->找題材"未來利多"->觀察個股"股價位置型態"->位置型態好就能"買進"等未來利多.
+# 觀察到的"事實"就是"事實", 不要太主觀.  
+
+## 商品
+```
+Google Axion CPU:創意
+Google Ironwood TPU:聯發科
+AWS Trainium3: 世芯-KY
+AMD (Instinct MI400)MI450 Helios(2026年):營邦
+AMD Instinct MI500(2027年): ?
+
+面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
+記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
+```
+
 
 [中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-0-0-0-0-1/?sort=asc&type=start_time)  
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
@@ -18,7 +32,7 @@ layout: testlayouts
 [上市處置股查詢](https://www.twse.com.tw/zh/announcement/punish.html), [上櫃處置股查詢](https://www.tpex.org.tw/zh-tw/announce/market/disposal.html)
 
 # [這網站出現的專題報告都是賣點](https://app3.xq.com.tw/newsxt/focustopics?just_req=1)
-# 觀察到的"事實"就是"事實", 不要太主觀.  
+
 ## 時事交易
 [時事交易新聞](https://www.trendforce.com/news/)  
 ```
