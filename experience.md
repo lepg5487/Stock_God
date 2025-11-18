@@ -8,7 +8,9 @@ layout: testlayouts
 
 ## 商品
 ```
-NVIDIA BlueField DPU BlueField 4 (2026販售)(3的代理商"茂綸"(20210413公布))
+NVIDIA BlueField DPU BlueField 4 (2026販售)(代理商"茂綸")(3有漲,4沒漲)
+NVIDIA Spectrum X(5)
+NVIDIA ConnectX-9
 Google Axion CPU:創意
 Google Ironwood TPU:聯發科
 AWS Trainium3: 世芯-KY
@@ -18,7 +20,7 @@ AMD Instinct MI500(2027年): ?
 面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
 ```
-[20210413標題有"BlueField-3"](https://nvidianews.nvidia.com/news/nvidia-extends-data-center-infrastructure-processing-roadmap-with-bluefield-3)
+[20210413標題有"BlueField-3"](https://nvidianews.nvidia.com/news/nvidia-extends-data-center-infrastructure-processing-roadmap-with-bluefield-3), [20211029標題有"BlueField-4"](https://blogs.nvidia.com/blog/bluefield-4-ai-factory/)
 
 [中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-0-0-0-0-1/?sort=asc&type=start_time)  
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
