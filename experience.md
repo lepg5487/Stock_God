@@ -319,6 +319,8 @@ AI EXPO Taiwan 2024/4/24-26
 ## 5月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
+新漢每年2~6月會很活躍的炒股,新漢今年有參展2025年5月27日CommunicAsia, 5月初新漢應該會發布新聞說我有參展.
+
 2025年5月6月隨機起漲, 只能買強勢股回檔? 量不太多的個股, 開始分散個股買進.
 
 2025 Dell Technologies World 5月19日至22日, 藍天
@@ -331,6 +333,8 @@ AI EXPO Taiwan 2024/4/24-26
 東哥遊艇CPI公布(2023/5/10)後二天(2023/5/12)下殺盤中買進.
 ---
 ```
+[新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=)
+
 ## 6月:
 [股東會利多](https://goodinfo.tw/tw/StockHolderMeetingList.asp?MARKET_CAT=%E5%85%A8%E9%83%A8&YEAR=2024&INDUSTRY_CAT=%E5%85%A8%E9%83%A8&SORT_FIELD=MEETING_DATE&SORT=DOWN)
 ```
