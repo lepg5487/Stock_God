@@ -24,6 +24,7 @@ layout: testlayouts
 比特幣大漲才是明顯上漲訊號, 等待上市上櫃融資維持率150%以下就會開始反彈.
 等待指數不破底再繼續買進, 機器人每年11月底~12月中都會上漲, 等待佳能,觀察所羅門達明.
 ```
+[加權融資維持率](https://www.macromicro.me/charts/53117/taiwan-taiex-maintenance-margin)
 
 ## 2025/11/20
 ```
