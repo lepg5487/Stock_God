@@ -23,6 +23,7 @@ layout: testlayouts
 比特幣大漲才是明顯上漲訊號, 等待上市上櫃融資維持率150%以下就會開始反彈.
 等待指數機器人每年11月底~12月中都會上漲, 等待佳能,觀察所羅門達明.
 ```
+[2026世界足球賽新聞](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=18aaa79f-bccb-44e7-8b0d-dd86ced15986)
 
 ## 2025/11/21
 ```
