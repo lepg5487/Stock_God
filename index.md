@@ -24,7 +24,7 @@ layout: testlayouts
 矽光子未來利多,SPIE美國西部光電展覽,2026年1月20日至22日.
 114/07/22 JB15042L, 雷虎起漲.
 114/11/24 JB15042L-JB16001L, 政府需求沒改變但是還是造成反彈, 雷虎起漲.
-連續反彈三天, 空手等待下次崩跌.
+連續反彈三天, 空手等待下次崩跌, 小空記憶體.
 ```
 <img width="1062" height="282" alt="image" src="https://github.com/user-attachments/assets/734b5969-1f4c-4454-af96-cd9589b93e86" />
 
