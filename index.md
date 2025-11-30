@@ -895,7 +895,10 @@ T0雷虎T1中光電T3攸泰科技T3昶瑞機電, 早上T3起漲每次都是賣�
 2025年8月10日–14日NVIDIA黃仁勳SIGGRAPH電腦繪圖大會.
 2025年8月20日–23日台北國際自動化工業大展/臺灣機器人與智慧自動化展/台灣國際電力儲能暨電動載具應用整合展.
 8月初全是機器人利多, 明天早上是個最好買點.
+
+7/22新聞造成玻纖布起漲, 德宏富喬南亞台玻建榮, 新聞是起漲點.
 ```
+[玻纖布第一次漲價](https://www.trendforce.com/news/2025/07/22/news-bt-substrate-fiberglass-prices-reportedly-eye-20-hike-amid-ai-boom-and-supply-shortage/)
 
 ## 2025/07/21
 ```
