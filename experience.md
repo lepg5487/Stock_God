@@ -22,6 +22,30 @@ AMD Instinct MI500(2027年): ?
 ```
 [20210413標題有"BlueField-3"](https://nvidianews.nvidia.com/news/nvidia-extends-data-center-infrastructure-processing-roadmap-with-bluefield-3), [20211029標題有"BlueField-4"](https://blogs.nvidia.com/blog/bluefield-4-ai-factory/)
 
+## 聯發科
+[12/24發布晶片天璣座艙P1 Ultra造成11/26上漲](https://www.expreview.com/102893.html),  
+[7/23延遲發布晶片N1X,2026CES才發布](https://www.trendforce.com/news/2025/07/23/news-nvidia-and-mediatek-reportedly-delay-n1x-processor-launch-from-second-half-of-2025-to-q1-2026/)
+```
+聯發科第一個和NVIDIA聯合開發的晶片"天璣座艙P1 Ultra".
+12/24 發布汽車新晶片 天璣座艙P1 Ultra, 造成11/26上漲
+
+9/22 發表手機新晶片 天璣9500 (提早漲了)
+9/16 宣布9/22發布新晶片手機 天璣9500, 高點.
+8/16 宣布9/22發布新晶片 天璣9500, (考慮到高通第二代驍龍8至尊版將於9月23日舉行2025驍龍峰會)
+9/8 apple watch ultra使用聯發科5G Modems, 高點
+7/23 NVIDIA和聯發科將聯合開發的下一代處理器N1X AI PC處理器發佈時間推遲到2026年第一季(CES 2026將公佈更多細節)
+6/24 Google宣布筆電Chromebook Plus 14使用聯發科Kompanio Ultra 910處理器, 低點
+5/14 發布 天璣9400e, 高點.
+4/3 發布Kompanio Ultra 910晶片, 面向高階Chromebook Plus設備, 股災不準.
+3/18 發布Google與聯發科合作開發第七代TPU Ironwood, 高點
+3/12 發布智慧物聯網晶片 Genio 720/520, 低點
+2/25 發布摺疊螢幕新晶片 天璣7400, 高點
+?
+
+11/26 高通宣布 第五代驍龍8行動平台
+```
+
+
 [中國美國展覽(全)](https://www.jufair.com/exhibition-0-0-0-0-0-0-1/?sort=asc&type=start_time)  
 [上市法說會影片](https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101), [上櫃法說會影片](https://www.tpex.org.tw/web/about/news/media/media_gallery.php?l=zh-tw)  
 [上海世博中心](https://sweecc.dlg-expo.com/MouldV/ExhibitionArrangement?WenMenuId=81), [會展中心（上海）](https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx), 
