@@ -29,7 +29,7 @@ layout: testlayouts
 "銀價"影響被動元件漲價, 被動元件漲價過程:
 9/11美股銀礦公司AG大漲10%, 造成凱美,國巨,華新科開始起漲,
 事件發生第二次會漲3天(例:11/24雷虎,11/07南亞)
-11/26,11/28美股銀礦公司AG大漲20%, 觀察國巨凱美華新科,買堡達.
+11/26,11/28美股銀礦公司AG大漲20%, 觀察國巨凱美華新科,買堡達?信昌電?.
 ```
 [11/28被動元件漲價第二次](https://www.trendforce.com/news/2025/11/28/news-tantalum-capacitor-rally-on-ai-panasonic-reportedly-hikes-15-30-yageo-rides-wave/),  
 [10/23國巨宣布準備調漲售價](https://uanalyze.com.tw/articles/4934436449).
