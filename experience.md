@@ -71,6 +71,7 @@ NVIDIA Spectrum X(5)
 NVIDIA ConnectX-9
 Google Axion CPU:創意
 Google Ironwood TPU:聯發科
+AES Graviton5: ?
 AWS Trainium3: 世芯-KY, 金像電, 高技, 台燿
 AMD (Instinct MI400)MI450 Helios(2026年):營邦
 AMD Instinct MI500(2027年): ?
