@@ -605,6 +605,7 @@ G20舉辦日的前12天買進權值股, G20附近賣出權值股, 權值股會�
 機器人11月底~12月中都會上漲, 聖誕影片發布時間是賣點, 所羅門佳能.
 2024年12月23日, 2023年12月12日, 2022年12月22日
 ```
+[IFR國際機器人聯合會,可以看到機器人展覽活動](https://ifr.org/)
 [2024年12月23日機器人聖誕影片1](https://www.youtube.com/watch?v=sFkUH5XFHKU), [2023年12月12日機器人聖誕影片2](https://www.youtube.com/watch?v=Cdc5iVqjNVs), [2022年12月22日機器人聖誕影片3](https://www.youtube.com/watch?v=7Wm6vy7yBNA)
 
 ## 12月:
