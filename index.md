@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 12/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 多空反轉日期.
 
-台灣時間晚上 12/10. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 01/28. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
 台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
 
@@ -25,6 +25,7 @@ layout: testlayouts
 2025年12月27日–28日雙城論壇, 在時間以前買進五福山富.
 每年總統會在元旦01/01說話, 造成旅遊上漲.
 ```
+[12/09賴清德說出機器人造成](https://www.president.gov.tw/NEWS/39694?SearchBy=)
 
 ## 2025/12/10
 ```
