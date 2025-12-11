@@ -85,9 +85,10 @@ AMD Instinct MI500(2027年): ?
 [12/24發布晶片天璣座艙P1 Ultra造成11/26上漲](https://www.expreview.com/102893.html),  
 [7/23延遲發布晶片N1X,2026CES才發布](https://www.trendforce.com/news/2025/07/23/news-nvidia-and-mediatek-reportedly-delay-n1x-processor-launch-from-second-half-of-2025-to-q1-2026/)
 ```
-2026/01/06 前買進聯發科,利多:CES發布和NVIDIA晶片N1X.
+2026/01/06 前買進聯發科,利多:CES發布和NVIDIA晶片N1X, 高機率上漲五天.
+
 聯發科第一個和NVIDIA聯合開發的晶片"天璣座艙P1 Ultra".
-12/24 發布汽車新晶片 天璣座艙P1 Ultra, 造成11/26上漲
+2025/12/24 發布汽車新晶片 天璣座艙P1 Ultra, 造成11/25上漲五天到12/01高點.
 
 9/22 發表手機新晶片 天璣9500 (提早漲了)
 9/16 宣布9/22發布新晶片手機 天璣9500, 高點.
