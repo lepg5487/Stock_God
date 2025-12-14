@@ -69,8 +69,11 @@ layout: testlayouts
 NVIDIA BlueField DPU BlueField 4 (2026販售)(代理商"茂綸")(3有漲,4沒漲)
 NVIDIA Spectrum X(5)
 NVIDIA ConnectX-9
-Google Axion CPU:創意
-Google Ironwood TPU:聯發科
+Google Axion(第七代) CPU:創意
+Google Ironwood(第七代) TPU:聯發科
+Google Zebrafish(第八代) TPUv8x:聯發科
+Google Sunfish(第八代) TPUv8ax:博通AVGO
+
 AES Graviton5: ?
 AWS Trainium3: 世芯-KY, 金像電, 高技, 台燿
 AMD (Instinct MI400)MI450 Helios(2026年):營邦
