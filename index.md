@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 01/28. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
-台灣時間晚上 12/19. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2025Calendar_cv1.pdf), 指數很震.  
+台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
 [12月25日(星期四)行憲紀念日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
@@ -20,9 +20,9 @@ layout: testlayouts
 ## 2025/12/22
 ```
 晚上美股費半+2.98%, 早上期貨+0.4%, 夜盤沒事, 主觀認為盤整等待下跌.
-裕隆開盤-9%停損中華.
+裕隆開盤-9%停損中華, 營建股性是緩漲, 小買上曜.
 2025年12月27日–28日雙城論壇, 等待總統會在元旦01/01說話, 觀察雄獅, 小買五福.
-營建股性是緩漲, 小買上曜.
+2026/01/06 前買進聯發科,利多:CES發布和NVIDIA晶片N1X, 高機率上漲五天.
 2025年12月3日–6日, 2年1次的日本東京國際機器人展覽會iREX, 展覽反應所羅門高點.
 ```
 
