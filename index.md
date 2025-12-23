@@ -23,9 +23,9 @@ layout: testlayouts
 營建股性是緩漲, 小買上曜.
 2025年12月27日–28日雙城論壇, 等待總統會在元旦01/01說話, 觀察雄獅, 小買五福.
 2026/01/06 前買進聯發科,利多:CES發布和NVIDIA晶片N1X, 高機率上漲五天.
-蘋果apple摺疊機6~9月發布, 新日興.
+蘋果apple摺疊機3~9月發布, 新日興.
 ```
-[蘋果apple摺疊機6~9月發布, 新日興](https://www.trendforce.com/news/2025/12/23/news-samsung-reportedly-preps-wide-fold-with-design-similar-to-apples-as-fall-2026-battle-looms/)
+[蘋果apple摺疊機3~9月發布, 新日興](https://www.trendforce.com/news/2025/12/23/news-samsung-reportedly-preps-wide-fold-with-design-similar-to-apples-as-fall-2026-battle-looms/)
 
 ## 2025/12/22
 ```
