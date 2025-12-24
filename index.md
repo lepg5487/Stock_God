@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[12月25日(星期四)行憲紀念日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[01月01日中華民國開國紀念日休市, 01月02日國曆新年開始交易日](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
 買進: 定義好T0T1T2T3, 觀察"同族群個股強弱程度", 再考慮要不要進場這族群, 族群可以直接買進成交值最大的.  
