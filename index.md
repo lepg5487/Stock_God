@@ -24,6 +24,7 @@ layout: testlayouts
 矽光子,聯發科沒有下跌, 沒有好價差買進, 等待下跌好買點.
 不銹鋼1月盤價大漲九個月以來最大漲勢, 造成鋼鐵開高上漲.
 益得商品鼻噴劑有新市場可以賣美國,造成開盤漲停.
+利多: 日本松下被動元件2/6正式漲價, 台灣代理商:堡達, 日電貿
 ```
 [1月不鏽鋼漲價](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1c30d35bc90747568ea3ae9745c35bbe), [益得,鼻噴劑賣向美國](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b33bc5cf98364f28af07d7f05c5e9778)
 
