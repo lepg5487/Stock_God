@@ -21,7 +21,8 @@ layout: testlayouts
 ```
 OpenAI首款AI終端硬體鴻海獨家製造, 可能是一隻智慧筆Gumdrop.
 台積電1月15日召開法說會,欣興高檔現增危險.
-觀察元晶,昇達科, 買進群創.
+多數人認為是漲FOPLP, 個人主觀是漲SpaceX.
+SpaceX觀察元晶,昇達科, 買進群創.
 ```
 [OpenAI智慧筆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=efa9370c4ffb43c3853db94aac9a04c9)
 
