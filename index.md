@@ -393,7 +393,7 @@ AMD Instinct MI500(2027年)
 面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
 ```
-[FOPLP+玻璃基板需求報導](https://www.trendforce.com/news/2025/11/10/news-tsmc-cowos-capacity-crunch-reportedly-pushes-u-s-ai-chipmakers-to-powertech-through-2027/), [友威科晶彩科東捷](https://vocus.cc/article/684851affd89780001944d2d)  
+[FOPLP+玻璃基板需求報導](https://www.trendforce.com/news/2025/11/10/news-tsmc-cowos-capacity-crunch-reportedly-pushes-u-s-ai-chipmakers-to-powertech-through-2027/), [友威科晶彩科東捷](https://vocus.cc/article/684851affd89780001944d2d)  [采鈺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4f2caaddcce44d139b89a6aa222489ce)
 [HBM 改成 HBF](https://www.trendforce.com/news/2025/11/11/news-sk-hynix-samsung-and-sandisk-bet-on-hbf-the-next-battleground-in-memory-sector/), [HBF](https://www.expreview.com/102655.html)
 
 ## 2025/11/10
