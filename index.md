@@ -10,12 +10,20 @@ layout: testlayouts
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[01月01日中華民國開國紀念日休市, 01月02日國曆新年開始交易日](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[02月11日農曆春節前最後交易日,02月12日市場無交易](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 選股: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
 買進: 定義好T0T1T2T3, 觀察"同族群個股強弱程度", 再考慮要不要進場這族群, 族群可以直接買進成交值最大的.  
 賣出1: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出, 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出.  
 賣出2: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/02金居, 09/09銘旺科).  
+
+## 2026/01/05
+```
+SpaceX利多: 2026年1月28日–30日,國際太空產業重點會議與展覽 SpaceCom Space Congress 2026.
+每一塊太陽能板需要約20克的白銀, 白銀正是製造太陽能板的關鍵材料, 白銀漲價造成元晶利空下跌.
+SpaceX觀察昇達科, 買進元晶.
+台積電1月15日召開法說會.
+```
 
 ## 2026/01/02
 ```
@@ -23,6 +31,7 @@ OpenAI首款AI終端硬體鴻海獨家製造, 可能是一隻智慧筆Gumdrop.
 台積電1月15日召開法說會,欣興高檔現增危險.
 多數人認為是漲FOPLP, 個人主觀是漲SpaceX.
 SpaceX觀察昇達科, 買進群創, 元晶.
+波若威準備出關, 買進統新.
 ```
 [OpenAI智慧筆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=efa9370c4ffb43c3853db94aac9a04c9)
 
