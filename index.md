@@ -20,12 +20,14 @@ layout: testlayouts
 ## 2026/01/06
 ```
 黃仁勳CES展利多結束, 群創準備被關離場觀望, 觀察資金轉去哪.
+神隆取得美藥證, 造成神隆漲停.
 CES展AMD CEO發布MI455 GPU造成營邦漲停.
 主觀看法資金不是往面板級扇出型封裝FOPLP, 目前圍繞在低軌衛星和記憶體.
 觀察元晶,錸德, 買進昇貿SpaceX鍚膏供應商.
 矽光子IET-KY,聯亞,環宇-KY準備出關.
 台積電1月15日召開法說會.
 ```
+[神隆取得藥證](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c05ae055eab54092a8b8e2b6f51a4196)
 
 ## 2026/01/05
 ```
