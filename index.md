@@ -21,7 +21,8 @@ layout: testlayouts
 ```
 目前資金圍繞在低軌衛星和記憶體, 觀察群創,元晶,錸德, 觀察有沒有新題材新族群有資金.
 CES黃仁勳背板,營邦是AMD MI450的機櫃與機殼和NVIDIA F2032-G6 2U JBOF儲存系統,支援NVIDIA BlueField-4.
-NVIDIA CES發布的自動駕駛AI, 造成特斯拉下跌(主觀覺得很假), 造成台灣特斯拉供應列下跌.
+NVIDIA CES發布的自動駕駛AI, 造成特斯拉下跌(主觀覺得很假), 造成台灣特斯拉供應鏈下跌.
+或許昇貿應該換華通?
 台積電1月15日召開法說會.
 ```
 [CES黃仁勳背板營邦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5660ed02a7d74ba7853884dd2dc39f02)
