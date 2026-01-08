@@ -22,10 +22,12 @@ layout: testlayouts
 目前資金圍繞在低軌衛星和記憶體, 觀察有沒有新題材新族群有資金.
 雷虎利多新聞漲停,帶動整個族群向上反彈.
 NVIDIA Rubin 導入第三代半導體材料碳化矽(SiC)材料來加強晶片散熱和效率, 造成環球晶,中美晶,漢磊,合晶,嘉晶上漲.
+上次反應Rubin是9/12開始漲, 漲到世界是賣點, 今天是賣點.
 日股日東紡織+13%, 南亞內線,帶動玻纖布,觀察台玻,德宏,富喬,建榮. 拉回都是買點.
 觀察昇達科,群創,錸德,燿華,華通,耀登, 等待元晶,昇貿. 拉回都是買點. 可能漲到SpaceX真的上市?
 台積電1月15日召開法說會.
 ```
+[Rubin第三代半導體材料碳化矽新聞](https://tw.stock.yahoo.com/news/%E7%A2%B3%E5%8C%96%E7%9F%BD%E7%88%86%E7%B4%85%E7%8B%82%E6%BD%AE%E4%BE%86%E8%A5%B2-%E8%BC%9D%E9%81%94800v%E9%BB%9E%E7%81%AB-%E6%BC%A2%E7%A3%8A%E9%A0%98%E8%BB%8D-%E7%92%B0%E7%90%83%E6%99%B6%E6%BC%B2%E5%81%9C-%E9%80%99%E5%B9%BE%E6%AA%94sic%E6%97%8F%E7%BE%A4-232000218.html?utm_source=chatgpt.com), 
 [雷虎放利多新聞反彈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8cb204cdc6e24a7987292f34e68752ee)
 
 ## 2026/01/07
