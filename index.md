@@ -23,7 +23,7 @@ layout: testlayouts
 川普關稅案,美國最高法院預計1月14日公布裁定.
 川普計畫今年4月訪問大陸, 中概股有機會?
 上一個打入NVIDIA供應鏈的是營邦(30%), 台半打入Rubin供應鏈, 開盤漲停買到一些.
-營建剩餘土石方清運車輛新制元旦上路, 台灣唯一合法廠商,方土昶,泰霖.
+營建剩餘土石方清運車輛新制元旦上路, 台灣唯一合法廠商,可寧衛,泰霖.
 ```
 [台半打入Rubin供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=63302171d6b04243b37ccf500291f89f), [營建土石清運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f298ecaa44704382b0cfa4c9c732e586)
 
