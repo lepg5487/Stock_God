@@ -20,10 +20,11 @@ layout: testlayouts
 ## 2026/01/13
 ```
 目前資金圍繞在低軌衛星和NVIDIA Rubin.
+國安基金退場, 2025年4月9日至2026年1月12日，累計護盤期間達279天，刷新史上最長護盤紀錄。
 大亞漆包線材打入SpaceX供應鏈, 只剩大亞, 等待落後補漲.
 瑞昱打入NVIDIA記憶體鏈.
 ```
-[大亞漆包線材打入SpaceX供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a1e769d671c2419eb6962aa91cee8a8e)
+[大亞漆包線材打入SpaceX供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a1e769d671c2419eb6962aa91cee8a8e), [國安基金退場](https://ec.ltn.com.tw/article/breakingnews/5307561)
 
 ## 2026/01/12
 ```
