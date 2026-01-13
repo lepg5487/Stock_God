@@ -24,6 +24,8 @@ layout: testlayouts
 大亞漆包線材打入SpaceX供應鏈, 只剩大亞, 等待落後補漲.
 瑞昱打入NVIDIA記憶體鏈.
 ```
+[Rubin第三代半導體之前報導](https://store.moneydj.com/focus/Article/%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%95%86%E6%A9%9F%E7%99%BC%E5%85%89%EF%BC%8C%E5%8F%B0%E5%BB%A0%E5%A5%AE%E8%B5%B7%E6%91%98%E6%98%9F-637647099409695194),  
+[20200630低軌衛星專題報導](https://store.moneydj.com/focus/Article/%E3%80%90%E8%BF%BD%E8%B9%A4%E6%9B%B4%E6%96%B0%E3%80%91%E4%BD%8E%E8%BB%8C%E9%81%93%E8%A1%9B%E6%98%9F%20%20%E6%8F%AD%E7%B6%B2%E9%80%9A%E6%96%B0%E6%99%82%E4%BB%A3-637291389794645746), [20230113低軌衛星專題報導](https://store3.moneydj.com/focus/Article/%E9%B4%BB%E5%85%94%E5%A4%A7%E5%B1%95%20%205G%E5%B0%88%E7%B6%B2%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F-638092036841288560?sysid=948788200678096896),  
 [大亞漆包線材打入SpaceX供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a1e769d671c2419eb6962aa91cee8a8e), [國安基金退場](https://ec.ltn.com.tw/article/breakingnews/5307561)
 
 ## 2026/01/12
