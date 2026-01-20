@@ -22,7 +22,7 @@ layout: testlayouts
 目前資金圍繞在低軌衛星,電力, 漲太久不想介入(玻纖布,記憶體,被動元件).
 特斯拉自研晶片AI5將採台積電與三星雙晶圓代工策略生產,創意特殊應用IC(ASIC)設計拿下AI5晶片相關案件.
 聯電新加坡Fab 12i P3新廠強化共同封裝光學（CPO）應用布局.
-量大股前40名最近很有用, 試單東元, 等待停利大同大亞士電.
+量大股前40名最近很有用, 買進東元, 等待停利大同大亞士電.
 ```
 [聯電強攻CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=41abe4f6340343059ed6fd07af1f6273), [創意拿到特斯拉A15晶片訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7b65c3f57270415abc8f84e25062ec2e)
 
