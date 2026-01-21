@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 01/21. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 02/23. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 01/28. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -19,6 +19,15 @@ layout: testlayouts
 賣出1: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出.  
 賣出2: 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出.  
 賣出3: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/09銘旺科).  
+
+## 2026/01/21
+```
+目前資金圍繞在低軌衛星,電力,Rubin第三代半導體, 漲太久不想介入(玻纖布,記憶體,被動元件).
+大東電01/22準備上市, 等待停利大同大亞士電東元.
+先進製程正式邁入2奈米世代, 晶圓級多晶片模組（WMCM）與晶背供電（BSPDN）被視為摩爾定律2.0的核心推進力。
+2奈米: 弘塑, 均華.
+```
+[2奈米基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=515ac19e0bcd441e891b8071f54beb74)
 
 ## 2026/01/20
 ```
