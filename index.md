@@ -25,7 +25,7 @@ layout: testlayouts
 目前資金圍繞在低軌衛星,電力,Rubin第三代半導體, 漲太久不想介入(玻纖布,記憶體,被動元件).
 Intel和聯電合作, Super MIM超級電容授權聯電.
 賣出2:大亞士電東元,剩下大東電.
-等待買回訊號.
+昇達科漲停, 觀察元晶, 買進群創.
 ```
 [AI Pin新聞:菱生,英濟,華晶科,揚明光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d2e4ee5dcedd4a38913dedfcd0647a32)
 
