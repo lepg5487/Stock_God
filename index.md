@@ -38,7 +38,7 @@ SpaceX來台密訪供應鏈: 昇達科,華通,群創,元晶,事欣科,台泥.
 國科會喊缺電造成電力概念股繼續向上, 等待大亞士電東元, 賣出大同, 買進大東電.
 ```
 [國科會喊缺電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ff98329e89a94e5dbcedb604f89c9ee2),  
-[馬斯克希望在7月前讓SpaceX上市](https://news.futunn.com/hk/post/67715032/musk-reportedly-aims-to-take-spacex-public-before-july-striving?futusource=news_headline_list&is_recommend_pos=0&is_recommendation=0&report_id=302834&report_type=market&src=3&main_broker=WzEwMDhd&hk_cid=29731895&client_hour_clock=24&sg_cid=29731895&channel=4&skintype=3&level=2&global_content={%22promote_content%22:%22nn:post:67715032%22,%22invite%22:29731895}&data_ticket=1742348137323296&utm_medium=futu_niuniu_share&utm_content=web_share&utm_campaign=news&utm_term=67715032), [SpaceX來台密訪供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=08339a7c9f3243708c64951bf41bfcf2),  
+[馬斯克希望在7月前讓SpaceX上市](https://finance.eastmoney.com/a/202601223626667646.html),  
 [金寶現階段已沒有低軌衛星訂單](https://www.wealth.com.tw/articles/fe9a1c07-ae17-4d8b-8212-297eefdc9c28) 
 
 ## 2026/01/21
