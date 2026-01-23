@@ -2,7 +2,7 @@
 layout: testlayouts
 ---
 ### 回檔不賠錢遲早會賺錢
-### [題材新聞](https://www.trendforce.com/news/)(漲價(hike), 新產品, 新平台, 國家安全風險(轉單)單 > 型態
+### [題材新聞1](https://www.trendforce.com/news/)(漲價(hike)[台灣新聞2](https://ieknet.iek.org.tw/ieknews/Default.aspx?currentPageIndex=1&domain=0&indu_idno=0&actiontype=ieknews&tagStr=), 新產品, 新平台, 國家安全風險(轉單)單 > 型態
 ### 觀察市場流行"題材"->找題材"未來利多"->觀察個股"股價位置型態"->位置型態好就能"買進"等未來利多.
 ### 觀察到的"事實"就是"事實", 不要太主觀.  
 
