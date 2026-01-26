@@ -25,8 +25,10 @@ layout: testlayouts
 ```
 目前資金圍繞在低軌衛星,電力,Rubin第三代半導體, 漲太久不想介入(玻纖布,記憶體,被動元件).
 法說會: 20260128聯亞, 20260203世界, 20260204聯發科, 20260210友達.
+2026年3月25日–28日台灣國際工具機展TMTS, 去年起漲時間1月底~2月底機器人概念, 高鋒和椿.
 東台旗下榮田（7709）打入SpaceX供應鏈, 穩懋打入Google TPU.
 賣出2: 停損群創.
+"重電"要變成熱門股要”每年的2~6月”, 買進大東電.
 ```
 [榮田打入SpaceX供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e8f56a757aab4cd4a986cdca38d60329), [穩懋打入GoogleTPU](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7d8a4f77d01b49dc834036d36c217e39)
 
