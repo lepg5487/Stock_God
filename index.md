@@ -22,6 +22,31 @@ layout: testlayouts
 
 ## 2026/01/28
 ```
+新矽光子(GoogleTPU=矽光子):
+光焱科技,宜特合作CPO.
+聯電.
+泰谷轉型矽光子.
+穩懋切入GoogleTPU.
+錼創科技-KY和光循科技(世芯-KY合資矽光子廠)合作.
+鴻勁積極布局矽光子.
+貿聯-KY收購新富生中國矽光子.
+詮欣提供CPO連接器.
+晶呈科技推出新產品CPO光纖束導基座.
+微軟的MicroLED光互連技術: 富采,億光,錼創科技-KY
+```
+[光焱科技和宜特合作CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=36fa6d11131c484a8b5504aaef5aa230), 
+[聯電正式跨入CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=41abe4f6340343059ed6fd07af1f6273), 
+[泰谷轉型矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e18a142d181a493d8d7833d607cdaa4c), 
+[穩懋切入GoogleTPU](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7d8a4f77d01b49dc834036d36c217e39), 
+[錼創科技-KY和光循科技合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=611dd150dc204b518039a54136771bd1), 
+[鴻勁積極布局矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3a88701bcfc14b9788b525b9c4e72269), 
+[貿聯-KY收購中國矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5af29594829b4e79a9cdfc417e2f595d), 
+[詮欣提供CPO連接器](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=03a2972077c34b4599a1f79c37e597c7), 
+[晶呈科技推出新產品CPO光纖束導基座](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c129664c68bb406b89f5df19aded2f90),
+[微軟的MicroLED光互連技術](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b73bdc1855bf41cf97d96aede015ca95)
+
+## 2026/01/28
+```
 目前資金圍繞在找新題材?, 27日矽光子開盤光聖, 28日散裝開盤裕民.
 Meta財報01/29,特斯拉財報01/29.
 法說會: 20260203世界, 20260204聯發科, 20260210友達.
