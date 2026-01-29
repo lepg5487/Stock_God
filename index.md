@@ -36,7 +36,8 @@ layout: testlayouts
 ```
 [海鯤號今首度潛航下潛50公尺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bfbb67ca4e424e6d84b50ab28892565a),  
 [新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=),  
-[亞光起漲新聞特斯拉自研晶片AI5,Dojo 3復活](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0293eaccc5c7437e9ef6d4d7af986445)
+[亞光起漲新聞特斯拉自研晶片AI5,Dojo 3復活](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0293eaccc5c7437e9ef6d4d7af986445),  
+[亞光,盟立,是Optimus機器人供應鏈成員](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c4549b2cf4a84e8da28badca13d943c9)
 
 ## 2026/01/28
 ```
