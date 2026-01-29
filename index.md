@@ -25,16 +25,18 @@ layout: testlayouts
 ```
 整理不要買: 低軌, 太陽能, PCB(南電欣興景碩),
 目前資金圍繞在找新題材?, 27日矽光子開盤光聖, 28日散裝開盤裕民, 29日開盤中鴻, 每天上漲不一樣不需要跟漲停板.
-2026/2/25 NVIDIA財報.
 2025/10/21 分析過擎亞每年1月中買點主升段, 我竟然沒有買進.
-馬斯克決定停產旗下指標性電動車款「Model S」、「Model X」將用來生產「Optimus」人形機器人。
 台船每次公開測試都會提早上漲, 歷經6月26日,11月27日等多次公開測試, 海鯤號今首度潛航下潛50公尺.
+
 新漢1/20宣布參加2026年3月10日–12日Embedded World 2026全球最大嵌入式電子與工業電腦應用展, 新漢官網新聞公布,不是出貨就是起漲.
-新漢每年2~6月會很活躍的炒股, 1/20當成最低點, 買進新漢
-觀察T0高鋒達明等等, 新漢是機器人概念.
+新漢每年2~6月會很活躍的炒股, 1/20當成最低點, 新漢是機器人概念.
+2026年3月25日–28日TMTS 2026 國際工具機展(機器人), 因為川普關稅關係全部提早上漲很難介入.
+馬斯克決定停產旗下指標性電動車款「Model S」、「Model X」將用來生產「Optimus」人形機器人。
+觀察T0達明宇隆所羅門等等, 買進機器人最大量亞光.
 ```
-[海鯤號今首度潛航下潛50公尺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bfbb67ca4e424e6d84b50ab28892565a),
-[新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=)
+[海鯤號今首度潛航下潛50公尺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bfbb67ca4e424e6d84b50ab28892565a),  
+[新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=),  
+[亞光起漲新聞特斯拉自研晶片AI5,Dojo 3復活](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0293eaccc5c7437e9ef6d4d7af986445)
 
 ## 2026/01/28
 ```
