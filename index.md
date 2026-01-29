@@ -32,7 +32,7 @@ layout: testlayouts
 新漢每年2~6月會很活躍的炒股, 1/20當成最低點, 新漢是機器人概念.
 2026年3月25日–28日TMTS 2026 國際工具機展(機器人), 因為川普關稅關係全部提早上漲很難介入.
 馬斯克決定停產旗下指標性電動車款「Model S」、「Model X」將用來生產「Optimus」人形機器人。
-觀察T0達明宇隆所羅門等等, 買進機器人最大量亞光.
+觀察T0達明宇隆所羅門佳能等等, 買進機器人最大量亞光.
 ```
 [海鯤號今首度潛航下潛50公尺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bfbb67ca4e424e6d84b50ab28892565a),  
 [新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=),  
