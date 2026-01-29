@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 02/23. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 01/28. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 03/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
@@ -19,6 +19,19 @@ layout: testlayouts
 賣出1: T0開盤急漲5%以上9:15前或10:00前沒漲停賣出.  
 賣出2: 開盤沒急漲,往下殺彈起時9:15前低點跌破賣出.  
 賣出3: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/09銘旺科).  
+賣出4: 澄清媒體報導,以後都是股價高點(亞力0126,大東電0123).
+
+## 2026/01/29
+```
+目前資金圍繞在找新題材?, 27日矽光子開盤光聖, 28日散裝開盤裕民, 29日開盤中鴻, 每天上漲不一樣不需要跟漲停板.
+2026/2/25 NVIDIA財報.
+2025/10/21 分析過擎亞每年1月中買點主升段, 我竟然沒有買進.
+台船每次公開測試都會提早上漲, 歷經6月26日,11月27日等多次公開測試, 海鯤號今首度潛航下潛50公尺.
+新漢每年2~6月會很活躍的炒股, 新漢1/20宣布參加2026年3月10日–12日Embedded World 2026全球最大嵌入式電子與工業電腦應用展, 新漢官網新聞公布,不是出貨就是起漲.
+買進新漢.
+```
+[海鯤號今首度潛航下潛50公尺](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bfbb67ca4e424e6d84b50ab28892565a),
+[新漢官網新聞公布,不是出貨就是起漲](https://www.nexcom.com/news/List/events?year=&div=)
 
 ## 2026/01/28
 ```
