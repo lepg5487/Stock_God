@@ -26,17 +26,18 @@ layout: testlayouts
 賣出2: 停損空手.
 欣興目前已打入Google TPU與AWS Trainium.
 一詮目前已打入Google TPU與AWS Trainium.
-金像電AWS Trainium 3主要UBB板供應商，緯穎,則是機櫃組裝的合作夥伴。
+金像電,台燿,AWS Trainium 3主要UBB板供應商，緯穎,則是機櫃組裝的合作夥伴。
 貿聯-KY, AWS是貿聯主要客戶Credo最大客戶，營收占比六成.
 美超微 2/3財報, 關係個股麗臺.
 Google 2/4財報, 關係矽光子.
-2025/10/23營邦是AMD MI450的首家台灣機殼供應鏈,
+2025/10/23營邦是AMD MI450的首家台灣機殼供應鏈.
 AMD 2/3財報高機續繼續提起, 買進營邦.
 ```
 [營邦AMD MI450機殼](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=11879ee336d3441a989c0ae030beae4e),  
 [欣興打入Google和AWS](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ac3aee3263954dfba3ba33bce96b0e61),  
 [一詮打入Google和AWS](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a0042eca051c4ffda8687cff57e4015d),  
 [金像電打入AWSTrainium3](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3ed5c56b367146839a035d48469871ac),
+[台燿打入AWSTrainium3](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c9d366363772451c9849716261203ae6).
 
 ## 2026/01/29
 ```
