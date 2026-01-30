@@ -24,7 +24,12 @@ layout: testlayouts
 ## 2026/01/30
 ```
 賣出2: 停損空手.
+美超微 2/3財報, 關係個股麗臺.
+Google 2/4財報, 關係矽光子.
+2025/10/23營邦是AMD MI450的首家台灣機殼供應鏈,
+AMD 2/3財報高機續繼續提起, 買進營邦.
 ```
+[營邦AMD MI450機殼](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=11879ee336d3441a989c0ae030beae4e)
 
 ## 2026/01/29
 ```
