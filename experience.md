@@ -86,8 +86,8 @@ Google Ironwood(第七代) TPU: 聯發科
 Google Zebrafish(第八代) TPUv8x: 聯發科
 Google Sunfish(第八代) TPUv8ax: 博通AVGO
 
-AES Graviton5: ?
-AWS Trainium3: 世芯-KY, 金像電, 高技, 台燿
+AWS Graviton5: ?
+AWS Trainium3: 世芯-KY, 金像電>台燿>高技.
 AMD (Instinct MI400)MI450 Helios(2026年):營邦
 AMD Instinct MI500(2027年): ?
 
