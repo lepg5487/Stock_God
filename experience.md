@@ -296,6 +296,7 @@ Ex3:
 2026/01/14 士電,華城,取得另一個破億訂單繼續起漲,345kV並聯電抗器(採購案號:6531400081)[2]
 2026/01/16 中興電,取得另一個破億訂單繼續起漲,馬公S/S69kVGIS設備汰換採購案(採購案號:1141400021)[3]
 每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
+/
 
 /2026年1月28日–30日國際太空產業重點會議與展覽 SpaceCom | Space Congress 2026
 群創元晶昇達科燿華華通耀登
@@ -734,7 +735,19 @@ NVIDIA GTC開發者大會公布時間.
 每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
 ```
 [1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
-```
+
+[台灣採購公報網,台灣電力股份有限公司,歷年招標案件數量及金額統計表:](https://www.taiwanbuying.com.tw/ShowOrgStat.ASP?OrgID=2971), 選擇最近年份.
+<img width="745" height="714" alt="image" src="https://github.com/user-attachments/assets/aee08652-1254-4b7c-b756-5eb7ff348a7a" />
+
+[1月查詢最近年份](https://www.taiwanbuying.com.tw/ShowOrgYearClose.ASP?OrgID=2971&Y=2026), 查詢"破億"訂單, 上而下是以前到最近.
+<img width="877" height="593" alt="image" src="https://github.com/user-attachments/assets/562a4f5e-0551-4965-8bab-32abc5561d4a" />
+
+[複製"採購案號"](https://www.taiwanbuying.com.tw/ShowCCDetailOri.ASP?RecNo=5195362)
+<img width="458" height="424" alt="image" src="https://github.com/user-attachments/assets/f49d84d5-7aac-4f8b-b1cb-5be1e67bb036" />
+
+在這[網站](https://web.pcc.gov.tw/prkms/tender/common/bulletion/indexBulletion)查詢"採購案號"
+<img width="1079" height="843" alt="image" src="https://github.com/user-attachments/assets/4fbd50ff-47f7-44ad-9c01-f0d0711b9286" />
+
 
 
 # 非洲豬瘟, 必漲"瑞基"
