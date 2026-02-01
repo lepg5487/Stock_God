@@ -26,9 +26,14 @@ layout: testlayouts
 NVIDIA進駐北士科簽約T17、T18進度在農曆年前簽約, 於2月10至13日間擇日簽約.
 台電規劃第一季(3月)或第二季(6月)再釋出總金額80億元的345KV超高壓線纜標案.
 NVIDIA的任何事件容易讓"聯發科"起漲, 這次是黃仁勳來台.
+2026/01/13 士電,取得網站破億訂單造成起漲,161kV氣體絕緣開關設備(採購案號:6531400085)[1]
+2026/01/14 士電,華城,取得另一個破億訂單繼續起漲,345kV並聯電抗器(採購案號:6531400081)[2]
+2026/01/16 中興電,取得另一個破億訂單繼續起漲,馬公S/S69kVGIS設備汰換採購案(採購案號:1141400021)[3]
+每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
 ```
 [台電規劃第一季(3月)或第二季(6月)再釋出總金額80億元的345KV超高壓線纜標案](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=088987fb01674d5da22d048fa4003d6f),  
-[NVIDIA的任何事件容易讓"聯發科"起漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9fa945e318da4984b4fef47f4a293387),
+[NVIDIA的任何事件容易讓"聯發科"起漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9fa945e318da4984b4fef47f4a293387),  
+[1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
 
 ## 2026/01/30
 ```
