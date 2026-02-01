@@ -287,8 +287,16 @@ Ex3:
 ```
 #晚上台積電ADR+4%以上台股沒提早反應時->買進"穎崴"(11/13成功), 台積電設備也可以"萬潤"辛耘.
 ```
+
+[1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
 ## 1月:
 ```
+/每年1月開始有訂單的重電"必漲", 每年1月政府會開始發包訂單給重電業者競標, "破億"訂單會造成起漲.
+2026/01/13 士電,取得網站破億訂單造成起漲,161kV氣體絕緣開關設備(採購案號:6531400085)[1]
+2026/01/14 士電,華城,取得另一個破億訂單繼續起漲,345kV並聯電抗器(採購案號:6531400081)[2]
+2026/01/16 中興電,取得另一個破億訂單繼續起漲,馬公S/S69kVGIS設備汰換採購案(採購案號:1141400021)[3]
+每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
+
 /2026年1月28日–30日國際太空產業重點會議與展覽 SpaceCom | Space Congress 2026
 群創元晶昇達科燿華華通耀登
 /
@@ -717,6 +725,17 @@ NVIDIA GTC開發者大會公布時間.
 [0424副總統曾參觀友達開盤後續直接噴](https://www.president.gov.tw/NEWS/28359?DeteailNo=)
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
+
+# 每年1月開始有訂單的重電"必漲", 每年1月政府會開始發包訂單給重電業者競標, "破億"訂單會造成起漲.
+```
+2026/01/13 士電,取得網站破億訂單造成起漲,161kV氣體絕緣開關設備(採購案號:6531400085)[1]
+2026/01/14 士電,華城,取得另一個破億訂單繼續起漲,345kV並聯電抗器(採購案號:6531400081)[2]
+2026/01/16 中興電,取得另一個破億訂單繼續起漲,馬公S/S69kVGIS設備汰換採購案(採購案號:1141400021)[3]
+每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
+```
+[1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
+```
+
 
 # 非洲豬瘟, 必漲"瑞基"
 ```
