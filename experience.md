@@ -736,19 +736,23 @@ NVIDIA GTC開發者大會公布時間.
 ```
 [1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
 
-[台灣採購公報網,台灣電力股份有限公司,歷年招標案件數量及金額統計表:](https://www.taiwanbuying.com.tw/ShowOrgStat.ASP?OrgID=2971), 選擇最近年份.
+[台灣採購公報網,台灣電力股份有限公司,歷年招標案件數量及金額統計表:](https://www.taiwanbuying.com.tw/ShowOrgStat.ASP?OrgID=2971), 選擇最近年份.  
 <img width="745" height="714" alt="image" src="https://github.com/user-attachments/assets/aee08652-1254-4b7c-b756-5eb7ff348a7a" />
 
-[1月查詢最近年份](https://www.taiwanbuying.com.tw/ShowOrgYearClose.ASP?OrgID=2971&Y=2026), 查詢"破億"訂單, 上而下是以前到最近.
+[1月查詢最近年份](https://www.taiwanbuying.com.tw/ShowOrgYearClose.ASP?OrgID=2971&Y=2026), 查詢"破億"訂單, 上而下是以前到最近.  
 <img width="877" height="593" alt="image" src="https://github.com/user-attachments/assets/562a4f5e-0551-4965-8bab-32abc5561d4a" />
 
-[複製"採購案號"](https://www.taiwanbuying.com.tw/ShowCCDetailOri.ASP?RecNo=5195362)
+[複製"採購案號"](https://www.taiwanbuying.com.tw/ShowCCDetailOri.ASP?RecNo=5195362)  
 <img width="458" height="424" alt="image" src="https://github.com/user-attachments/assets/f49d84d5-7aac-4f8b-b1cb-5be1e67bb036" />
 
-在這[網站](https://web.pcc.gov.tw/prkms/tender/common/bulletion/indexBulletion)查詢"採購案號"
+在這[網站](https://web.pcc.gov.tw/prkms/tender/common/bulletion/indexBulletion)查詢"採購案號"  
 <img width="1079" height="843" alt="image" src="https://github.com/user-attachments/assets/4fbd50ff-47f7-44ad-9c01-f0d0711b9286" />
 
+[檢視](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=),查詢結果  
+<img width="1085" height="212" alt="image" src="https://github.com/user-attachments/assets/39598e5f-819d-4c4f-bf28-72376a130410" />
 
+搜尋"得標廠商", 就能得到取得訂單的公司  
+<img width="491" height="432" alt="image" src="https://github.com/user-attachments/assets/98fa26c6-950d-4530-bcaa-4c7ff5cc1405" />
 
 # 非洲豬瘟, 必漲"瑞基"
 ```
