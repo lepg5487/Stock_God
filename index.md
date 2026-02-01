@@ -33,7 +33,12 @@ NVIDIA的任何事件容易讓"聯發科"起漲, 這次是黃仁勳來台.
 ```
 [台電規劃第一季(3月)或第二季(6月)再釋出總金額80億元的345KV超高壓線纜標案](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=088987fb01674d5da22d048fa4003d6f),  
 [NVIDIA的任何事件容易讓"聯發科"起漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9fa945e318da4984b4fef47f4a293387),  
+[重電新基本面1](https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E9%9B%BB%E5%BC%B7%E9%9F%8C%E9%9B%BB%E7%B6%B2%E6%98%AF%E4%BB%80%E9%BA%BC-%E9%9B%BB%E5%8A%9B%E8%82%A1%E8%AA%B0%E5%8F%97%E6%83%A0-%E5%9C%A8%E9%9B%BB%E7%B6%B2%E4%BE%9B%E6%87%89%E9%8F%88%E4%B8%AD%E6%89%AE%E6%BC%94%E9%97%9C%E9%8D%B5%E8%A7%92%E8%89%B2%E5%8F%88%E6%98%AF%E4%BB%80%E9%BA%BC--%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-69704b289ea35c2d3d9290d0), 
+[基本面2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=088987fb01674d5da22d048fa4003d6f), 
+[基本面3](https://www.sinotrade.com.tw/richclub/industry/%E5%8F%B0%E9%9B%BB%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7193%E5%84%84%E9%9B%BB%E7%BA%9C%E6%A8%99%E6%A1%88-%E8%8F%AF%E6%96%B0-%E5%90%88%E6%A9%9F-%E5%AE%8F%E6%B3%B0%E7%AD%898%E6%AA%94%E5%BC%B7%E9%9F%8C%E9%9B%BB%E7%B6%B2%E6%A6%82%E5%BF%B5%E8%82%A1%E8%AA%B0%E6%9C%80%E5%8F%97%E6%83%A0--%E7%94%A2%E6%A5%AD%E7%86%B1%E8%A9%B1-68d4b72991d5da84c2b47fab)  
+
 [1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
+
 
 ## 2026/01/30
 ```
