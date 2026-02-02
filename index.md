@@ -23,6 +23,21 @@ layout: testlayouts
 
 ## 2026/02/02
 ```
+馬斯克太空AI, 太陽能電池技術:鈣鈦礦太陽能電池(PSCs), 概念股:聯合再生,位速,元晶,茂迪.
+晶彩科獨家紅外線（IR）量測技術成功打入晶圓代工龍頭台積電的CoWoS-L Gen2製程，並入列首波CoPoS供應鏈。
+挪威主權基金6/30和12/31會自動在官網更新持股比例, 可以直接選取Taiwan觀看持股比例.
+新聞通常會在8月和2月時公布挪威主權基金利多, 像是"營邦"首度被挪威主權基金買進, 今天早上賣點就會出現.
+賣出1: 營邦.
+```
+[鈣鈦礦太陽能電池(PSCs)](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=33046b251b7b44fcbcf527c5f6d58927),  
+[晶彩科打入台積電CoPoS供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ecee6119e453456cadb4587801ee50d8),  
+[營邦首度被挪威主權基金買進](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a468f2a153194616b8219c7210b295e3),
+[挪威主權基金官網](https://www.nbim.no/en/investments/all-investments/),
+[20260130挪威](https://www.moneyweekly.com.tw/ArticleData/Info/Article/209029),
+[20250814挪威](https://www.sinotrade.com.tw/richclub/hotstock/%E6%8C%AA%E5%A8%81%E4%B8%BB%E6%AC%8A%E8%B2%A1%E5%AF%8C%E5%9F%BA%E9%87%91%E6%98%AF%E4%BB%80%E9%BA%BC-%E9%87%8D%E7%A3%85%E5%8A%A0%E7%A2%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%88%87%E7%9F%BD%E5%85%89%E5%AD%90%E5%8E%9F%E5%9B%A0%E6%98%AF--%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-689d83c25d98113e2d263132),
+
+## 2026/02/01
+```
 NVIDIA進駐北士科簽約T17、T18進度在農曆年前簽約, 於2月10至13日間擇日簽約.
 台電規劃第一季(3月)或第二季(6月)再釋出總金額80億元的345KV超高壓線纜標案.
 NVIDIA的任何事件容易讓"聯發科"起漲, 這次是黃仁勳來台.
