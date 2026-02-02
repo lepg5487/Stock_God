@@ -23,11 +23,11 @@ layout: testlayouts
 
 ## 2026/02/02
 ```
-馬斯克太空AI, 太陽能電池技術:鈣鈦礦太陽能電池(PSCs), 概念股:聯合再生,位速,元晶,茂迪.
 晶彩科獨家紅外線（IR）量測技術成功打入晶圓代工龍頭台積電的CoWoS-L Gen2製程，並入列首波CoPoS供應鏈。
 挪威主權基金6/30和12/31會自動在官網更新持股比例, 可以直接選取Taiwan觀看持股比例.
 新聞通常會在8月和2月時公布挪威主權基金利多, 像是"營邦"首度被挪威主權基金買進, 今天早上賣點就會出現.
 賣出1: 營邦.
+馬斯克太空AI, 太陽能電池技術:鈣鈦礦太陽能電池(PSCs), 概念股:聯合再生,位速,元晶,茂迪, 買進元晶.
 ```
 [鈣鈦礦太陽能電池(PSCs)](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=33046b251b7b44fcbcf527c5f6d58927),  
 [晶彩科打入台積電CoPoS供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ecee6119e453456cadb4587801ee50d8),  
