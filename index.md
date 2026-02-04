@@ -33,9 +33,9 @@ layout: testlayouts
 2026/03/17~2026/03/19日本國際太陽能光電展, 太陽能未來利多.
 光寶科,群電入列Starlink電源供應.
 市場馬上找到臺灣鈣鈦礦研發及產業聯盟, 把網站裡提到的公司全部拉起來.
-光焱科技,豐藝,永光,盟立,上游材料光洋科, 倉和.
+光焱科技,豐藝,永光,盟立,光洋科?, 倉和.
 ```
-[臺灣鈣鈦礦研發及產業聯盟](https://www.tpria.org/news), [永光](https://www.tpria.org/post/20230906l01), [豐藝](https://www.tpria.org/post/20240620a01), [光焱科技](https://www.tpria.org/post/20230524w01), [盟立](https://www.tpria.org/post/20231023w01), [光洋科](https://www.tpria.org/post/20241217a01)  
+[臺灣鈣鈦礦研發及產業聯盟](https://www.tpria.org/news), [永光](https://www.tpria.org/post/20230906l01), [豐藝](https://www.tpria.org/post/20240620a01), [光焱科技](https://www.tpria.org/post/20230524w01), [盟立](https://www.tpria.org/post/20231023w01), [光洋科?](https://www.tpria.org/post/20241217a01)  
 [倉和TOPCon](https://www.ctee.com.tw/news/20240826700183-430502?sysid=948788200678096896), [碩和,國碩](https://www.ctee.com.tw/news/20240814701775-430502?sysid=948788200678096896),  
 [光寶科,群電入列Starlink電源供應](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a65e36bb987546549111f6e637d17f20).
 
