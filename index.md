@@ -25,13 +25,20 @@ layout: testlayouts
 
 ## 2026/02/05
 ```
+今天上市櫃興跌停3,漲停30,下跌1465,上漲920,創月新低94,創月新高63.
 過年空手等待2月25日NVIDIA財報, 3月只買軍工股,等待國安高層會議起漲, 搭配川普四月訪問習近平.
+中華人民共和國文化和旅遊部2026/02/04下午發布消息大陸方面將於近期恢復上海居民赴金門、馬祖旅遊。造成燦星旅,易飛網,富野等等旅遊業上漲.
 美超微財報+13%, 勤誠是AMD最新AI伺服器訂單和Supermicro(美超微)AI伺服器整機與機殼的核心供應商.
 2月10日友達法說會.
 2026/03/17~2026/03/19日本國際太陽能光電展, 太陽能未來利多.
 興櫃機光科技(台灣最大的鈣鈦礦材料公司), "台化"是機光科技的前三大股東.
 ```
+[台灣旅遊新聞](https://www.storm.mg/lifestyle/11100674),[中華人民共和國文化和旅遊部出處](https://www.mct.gov.cn/whzx/whyw/),[中華人民共和國文化和旅遊部原文](https://www.mct.gov.cn/whzx/whyw/202602/t20260204_964565.htm).
 [勤誠](https://cmnews.com.tw/article/cmoney-e5cc5961-37bf-11f0-b525-0b1262bf3e9b), [台化](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4a8c3c4a1d174331945333644e982f19), [台灣2026MWC報導](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cd50bde7434448509bf65395784c635b),
+
+<img width="1020" height="362" alt="image" src="https://github.com/user-attachments/assets/5599821f-424f-48c2-885f-1e0dd564da63" />
+<img width="1017" height="539" alt="image" src="https://github.com/user-attachments/assets/e74c5fe5-d3c4-4bc2-9bb3-88d31e550e8d" />
+
 
 ## 2026/02/04
 ```
