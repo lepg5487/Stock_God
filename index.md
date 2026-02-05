@@ -23,6 +23,15 @@ layout: testlayouts
 賣出3: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/09銘旺科).  
 賣出4: 澄清媒體報導,以後都是股價高點(亞力0126,大東電0123).  
 
+## 2026/02/05
+```
+美超微財報+13%, 勤誠是AMD最新AI伺服器訂單和Supermicro(美超微)AI伺服器整機與機殼的核心供應商.
+
+2026/03/17~2026/03/19日本國際太陽能光電展, 太陽能未來利多.
+興櫃機光科技(台灣最大的鈣鈦礦材料公司), "台化"是機光科技的前三大股東.
+```
+[勤誠](https://cmnews.com.tw/article/cmoney-e5cc5961-37bf-11f0-b525-0b1262bf3e9b), [台化](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4a8c3c4a1d174331945333644e982f19), [台灣2026MWC報導](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cd50bde7434448509bf65395784c635b),
+
 ## 2026/02/04
 ```
 現在流行中午12點才起漲, 11:30~40是很好的買點.
@@ -33,9 +42,10 @@ layout: testlayouts
 2026/03/17~2026/03/19日本國際太陽能光電展, 太陽能未來利多.
 光寶科,群電入列Starlink電源供應.
 市場馬上找到臺灣鈣鈦礦研發及產業聯盟, 把網站裡提到的公司全部拉起來.
-光焱科技,豐藝,永光,盟立,光洋科?, 倉和.
+興櫃機光科技(台灣最大的鈣鈦礦材料公司),光焱科技,豐藝,永光,盟立,光洋科?, 倉和.
 ```
-[臺灣鈣鈦礦研發及產業聯盟](https://www.tpria.org/news), [永光](https://www.tpria.org/post/20230906l01), [豐藝](https://www.tpria.org/post/20240620a01), [光焱科技](https://www.tpria.org/post/20230524w01), [盟立](https://www.tpria.org/post/20231023w01), [光洋科?](https://www.tpria.org/post/20241217a01)  
+[臺灣鈣鈦礦研發及產業聯盟](https://www.tpria.org/news), [機光科技](https://www.tpria.org/post/20240430a01),
+[永光](https://www.tpria.org/post/20230906l01), [豐藝](https://www.tpria.org/post/20240620a01), [光焱科技](https://www.tpria.org/post/20230524w01), [盟立](https://www.tpria.org/post/20231023w01), [光洋科?](https://www.tpria.org/post/20241217a01)  
 [倉和TOPCon](https://www.ctee.com.tw/news/20240826700183-430502?sysid=948788200678096896), [碩和,國碩](https://www.ctee.com.tw/news/20240814701775-430502?sysid=948788200678096896),  
 [光寶科,群電入列Starlink電源供應](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a65e36bb987546549111f6e637d17f20).
 
