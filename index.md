@@ -27,6 +27,7 @@ layout: testlayouts
 ```
 過年空手等待2月25日NVIDIA財報, 3月只買軍工股,等待國安高層會議起漲, 搭配川普四月訪問習近平.
 東元去年已於馬來西亞取得兩項資料中心案, 今年開年再獲大單.
+元晶2/4早上是最好的賣點,2/2,2/3開高走低, 2/4又再一次開高走低事不過三.
 ```
 [東元](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c91adc7cc3794331b80e551b2b56a2da)
 
