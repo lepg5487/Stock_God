@@ -26,7 +26,8 @@ layout: testlayouts
 ##2026/02/07
 ```
 台船每次公開測試都會上漲, 台船6月底交件海鯤號, 富邦-三峽明顯提早買進(可以偷看), 事件發生當天早上是高點.
-聯發科在主動式光纜導入Micro LED技術去開發, Micro LED矽光子: 富采,錼創科技-KY,立碁,泰谷,弘凱,惠特?,一詮?,光鋐?,GIS-KY?
+2026年3月17日–19日美國光纖通訊展OFC論壇,聯發科在主動式光纜導入Micro LED技術去開發展覽.
+LED矽光子: 富采,錼創科技-KY,立碁,泰谷,弘凱,惠特?,一詮?,光鋐?,GIS-KY?
 ```
 [台船6月底交件海鯤號](https://www.knews.com.tw/news/59C47B658965B6A98F8A699FBCEA12E1),  
 [聯發科主動式光纜導入Micro LED](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=43d71591a2654cad985f2806decf27fd), [LED廠強攻矽光子技術](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f312ad7bb51a421da45c4a1a0925dcad)
