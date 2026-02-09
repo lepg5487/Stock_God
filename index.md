@@ -29,9 +29,9 @@ layout: testlayouts
 長佳智能和群聯合資成立長聯科技,長聯科技增資引進趨勢科技及上銀兩家公司參股,長聯科技的AI機器人「愛寶」，預計今年4月正式量產出貨.
 盟立和日月光投控轉投資Ainos(有美股股價)打造「有嗅覺的機器人」.
 機器人宇隆策略夥伴信邦, 信邦1/26起漲後帶動1/29宇隆上漲.
-機器人PEEK材料: 邦泰,盟立,長興,台塑,宇隆,南寶,上緯,拓凱.
+機器人PEEK材料: 邦泰,盟立,長興,台塑,宇隆,南寶,上緯,拓凱,耐特.
 ```
-[PEEK台灣廠商](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a27175461eb34f059fdfd8f9113a3d4a),
+[PEEK台灣廠商](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a27175461eb34f059fdfd8f9113a3d4a), [PEEK基本面](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?ID=6020450&sysid=948788200678096896),
 [南寶有PEEK材料](https://www.ctee.com.tw/news/20250725701234-430503?sysid=948788200678096896),  
 [宇隆策略夥伴信邦](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=efc976e7-82e7-4eca-88bb-b1b3c4b82361&just_req=1),
 [長佳智能機器人4月量產](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4aff7c73cd28491393ea5c25d4dfa576),
