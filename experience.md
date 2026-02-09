@@ -90,6 +90,9 @@ AWS Graviton5: ?
 AWS Trainium3: 世芯-KY, 金像電>台燿>高技.
 AMD (Instinct MI400)MI450 Helios(2026年):營邦
 AMD Instinct MI500(2027年): ?
+美超微: 勤誠
+
+甲骨文: 聯鈞AOC(主動光纖)
 
 面板級扇出型封裝FOPLP+玻璃基板(台積電2027)(友威科(富邦建國元大基隆孝二)晶彩科東捷采鈺力成)
 記憶體技術 HBM 改成 HBF(2026~2027)(也需要使用FOPLP)
