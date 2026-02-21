@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[02月11日農曆春節前最後交易日,02月12日市場無交易](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[2月27日28日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 選股1: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
 選股2: 要判斷未來會不會上漲, "低價大跌"只是輔助參考.  
@@ -30,6 +30,11 @@ layout: testlayouts
 韓國經濟日報在對NVIDIA CEO黃仁勳的一次非正式採訪中，黃仁勳透露到「下個月的GTC大會上，我們將發布一款令世界震驚的晶片。」
 沒意外是Rubin VR200, 水冷散熱位置都已經漲上去(奇鋐雙鴻高力健策), 只剩800VHVDC可能有機會.
 觀察法說會是否繼續造成上漲, 每天是否都漲不同個股和只漲一天.
+觀察2/25光寶科法說會利多(電)(低軌), 3/4群電法說會利多(低軌). 觀察2/26華新法說會利多(電).
+
+2026年3月19日中央銀行理監事聯席會議(營建最後利多), 遠雄冠德聯上發國建.
+2026年3月24日XPONENTIAL Europe全球最大無人機展(無人機利多), 雷虎漢翔.
+2026年3月27日全球開發者先鋒大會上海舉行(機器人最後利多), 宇隆亞光佳能.
 ```
 [黃仁勳非正式採訪](https://www.expreview.com/104279.html)
 
