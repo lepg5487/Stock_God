@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 02/23. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 03/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 03/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -30,8 +30,9 @@ layout: testlayouts
 蘋果新品發佈活動3/2-3/4推出至少五款全新產品, AI眼鏡,摺疊機?
 國防預算特別條例希望在3月中完成審議, 軍工沒低點等待拉回.
 2月25日NVIDIA財報, 觀察800VHVDC德微大中, 觀察台半.
+大中董事會現金股利?造成上漲, 觀察後續走勢, 觀察所有準備董事會的個股.
 精確中國母公司敏實集團上漲, 買進精確.
-日月光投控2/5法說會(買群創五廠)以後上漲3天, 買進南茂(,2/24法說會,買群創二廠,記憶體2025/11/11因為記憶體上漲).
+日月光投控2/5法說會(買群創五廠)以後上漲3天, 買進南茂(2/24法說會董事會,買群創二廠,記憶體2025/11/11因為記憶體上漲).
 ```
 [國防預算特別條例2/24將開議](https://www.cna.com.tw/news/aipl/202602220123.aspx), [蘋果新品發佈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=03f4eae6504f40ff84be2ccddf4e3709), [日月光投控2/5法說會](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2ac503d98c4148c69ae76aab5d8bece7),
 
