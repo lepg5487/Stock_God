@@ -733,6 +733,20 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
+# 富崴能源取得台電離岸風電歷史過程
+[富崴能源歷史得標案件](https://pcc.mlwmlw.org/merchants/54165289), [離岸風電標案原網址](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NTMxMjA4MTA=), [2020/06/15新聞](https://m.moneydj.com/f1a.aspx?a=a0a2c114-401c-47e4-9236-039bf660e60f)
+```
+永崴投控子公司富崴能源2020/06/15下午新聞取得台電離岸風電628.88億元標案, 造成上漲300%. (100億通常100%)
+華南永昌-桃園提早2020/05/29開始買進(20張20張緩慢買進)買到2020/06/15, 漲30%以後內線賣飛.
+招標日期2019-05-23, 日期錯誤原因是因為政府一直更正公告.
+決標日期2020-06-20, 日期錯誤原因是新聞有人內線.
+```
+<img width="1004" height="281" alt="image" src="https://github.com/user-attachments/assets/6065fe37-356a-4f06-a5c1-bcc2a990c6bc" />
+<img width="1078" height="784" alt="image" src="https://github.com/user-attachments/assets/68148023-d0b7-4ab7-8f19-3f4b027c5b43" />
+<img width="1058" height="106" alt="image" src="https://github.com/user-attachments/assets/77e294b0-87b6-4441-881c-7581883bc59a" />
+<img width="291" height="236" alt="image" src="https://github.com/user-attachments/assets/3e0e5bdf-e529-4c2d-b515-a9a633e0ff29" />
+
+
 # 每年1月開始有訂單的重電"必漲", 每年1月政府會開始發包訂單給重電業者競標, "破億"訂單會造成起漲.
 ```
 2026/01/13 士電,取得網站破億訂單造成起漲,161kV氣體絕緣開關設備(採購案號:6531400085)[1]
