@@ -733,7 +733,7 @@ NVIDIA GTC開發者大會公布時間.
 [0502總統去力積電](https://www.president.gov.tw/NEWS/28373?DeteailNo=)
 ```
 
-# 富崴能源取得台電離岸風電歷史過程
+# 富崴能源取得台電離岸風電歷史過程, 通常"電能"是看"決標日期"起漲.
 [富崴能源歷史得標案件](https://pcc.mlwmlw.org/merchants/54165289), [離岸風電標案原網址](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NTMxMjA4MTA=), [2020/06/15新聞](https://m.moneydj.com/f1a.aspx?a=a0a2c114-401c-47e4-9236-039bf660e60f), [再生能源處歷年金額](https://www.taiwanbuying.com.tw/ShowOrgStat.ASP?OrgID=3311),
 ```
 永崴投控子公司富崴能源2020/06/15下午新聞取得台電離岸風電628.88億元標案, 造成上漲300%. (100億通常100%)
