@@ -29,9 +29,10 @@ layout: testlayouts
 ```
 華新處分華邦電,華東股票, 董娘賣股容易高點避開.
 欣興董事大股東聯電集團旗下迅捷投資將透過一般交易方式，轉讓欣興股票2,300張, 董娘賣股容易高點避開.
+3月6日議程報告事項, 3月11日選出召委正式啟動實質審查, 美軍購有三項的美方發價書草案有效期限至3月15日, 雷虎漢翔邑錡.
 2/27新聞台灣西部面臨75年來最少降雨量, 但是2/28突然下雨可惜利多沒用?
 ```
-[台灣西部面臨75年來最少降雨量](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b6f8fbcaee8a4fc08c480a5e5131d7f1),
+[台灣西部面臨75年來最少降雨量](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b6f8fbcaee8a4fc08c480a5e5131d7f1), [國防預算特別條例最新新聞](https://news.ltn.com.tw/news/politics/breakingnews/5349405)
 
 ## 2026/02/26
 ```
