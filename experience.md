@@ -354,6 +354,7 @@ NVIDIA GTC開發者大會公布時間.
 [挪威主權基金持股](https://www.nbim.no/en/investments/all-investments/)
 
 ## 2月:
+董事會交易法, [公開網站](https://www.moneydj.com/z/ze/zej/zej.djhtm?A=0&B=2026-2-26&C=0), 國泰樹精靈->資訊->台股市公告->理財行事曆.
 ```
 /正在流行的個股
 法說會, 董事會, 這時間會準備開始, 容易造成上漲. 
@@ -401,6 +402,7 @@ NVIDIA GTC開發者大會公布時間.
 /
 ```
 ## 3月:
+董事會交易法, [公開網站](https://www.moneydj.com/z/ze/zej/zej.djhtm?A=0&B=2026-2-26&C=0), 國泰樹精靈->資訊->台股市公告->理財行事曆.
 ```
 "重電"要變成熱門股要”每年的3~6月”, 政府電子採購網
 
@@ -1976,7 +1978,9 @@ Step2勝率將近100% ---Example--- 可遇不可求
 "113/05/31 or 113/06/04" 賣出訊聯  
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/b0f09189-09c5-4fb9-ac5b-0f2753edc288)  
 
-# 法說會交易法
+# 2月3月董事會交易法, [公開網站](https://www.moneydj.com/z/ze/zej/zej.djhtm?A=0&B=2026-2-26&C=0), 國泰樹精靈->資訊->台股市公告->理財行事曆.
+
+# 2月3月法說會交易法
 每天查詢[公開網站](https://mopsov.twse.com.tw/mops/web/t51sb10_q1), 搜尋"說明本公司""或含""本公司受"
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/ebbc409e-ad7e-4156-89d5-a03830dea93e)
 ![image](https://github.com/lepg5487/Stock_God/assets/26459046/c91df587-8540-418e-92af-e7d5babe48e2)
