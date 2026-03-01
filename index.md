@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[2月27日28日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 選股1: 技術面起漲完回檔(買進不要看線)(扣抵可以用).  
 選股2: 要判斷未來會不會上漲, "低價大跌"只是輔助參考.  
@@ -24,6 +24,14 @@ layout: testlayouts
 賣出3: 族群只剩一檔個股漲停,其他族群個股全部下跌,等於這個族群在出貨. (例:09/09銘旺科).  
 賣出4: 澄清媒體報導,以後都是股價高點(亞力0126,大東電0123).  
 賣出5: 當從上市櫃 漲到 興櫃就是上市櫃的賣點.
+
+## 2026/03/01
+```
+華新處分華邦電,華東股票, 董娘賣股容易高點避開.
+欣興董事大股東聯電集團旗下迅捷投資將透過一般交易方式，轉讓欣興股票2,300張, 董娘賣股容易高點避開.
+2/27新聞台灣西部面臨75年來最少降雨量, 但是2/28突然下雨可惜利多沒用?
+```
+[台灣西部面臨75年來最少降雨量](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b6f8fbcaee8a4fc08c480a5e5131d7f1),
 
 ## 2026/02/26
 ```
