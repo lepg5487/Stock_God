@@ -30,6 +30,4 @@ if cls == PLAYER_CLASS:
     player_pos = (cx, cy)
 elif cls == FIREPIG_CLASS:
     firepig_pos = (cx, cy)
-
-
 ```
