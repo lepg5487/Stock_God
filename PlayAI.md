@@ -33,3 +33,34 @@ if cls == PLAYER_CLASS:
 elif cls == FIREPIG_CLASS:
     firepig_pos = (cx, cy)
 ```
+
+# AI Coding 介紹
+```
+AI Coding（AI 輔助程式開發）
+   │
+   └─ LLM Coding（底層核心技術：以大型語言模型為基礎）
+          │
+          ├─ 1. 底層大腦 (Models / 基礎模型)
+          │      ├─ Codex (開山祖師，已退役)
+          │      ├─ GPT-4o / Claude 3.7 / Gemini 3.1 Pro
+          │      └─ DeepSeek Coder 等專門模型
+          │
+          └─ 2. 工作流與開發哲學 (使用方式)
+                 │
+                 ├─ A. 傳統 AI-Assisted (Copilot 模式 / 輔助型)
+                 │      ├─ 特徵：單行/區塊代碼補全、右側聊天框問答、開發者手動整合
+                 │      ├─ 主控權：開發者 (人類是駕駛，AI 是副駕)
+                 │      └─ 代表工具：GitHub Copilot, Codeium, Amazon Q
+                 │
+                 └─ B. Vibe Coding (Agentic 模式 / 代理型)
+                        ├─ 特徵：意圖導向、跨檔案大規模修改、自動跑終端機指令、自主除錯
+                        ├─ 主控權：AI 代理 (AI 是執行團隊，人類是產品經理/審查員)
+                        └─ 代表工具：Cursor (Composer), Google Antigravity, Devin, Windsurf
+```
+
+# n8n
+開源的低程式碼自動化工作流工具, 熱門的自動化工具有 Zapier、Make、n8n.
+另外還有針對 AI、客服機器人、瀏覽器插件特化的自動化工具：Dify、Coze等等.
+[資料來源1](https://raymondhouch.com/lifehacker/digital-workflow/automation-tools-review/).  
+
+
