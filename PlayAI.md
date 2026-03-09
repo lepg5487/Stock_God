@@ -62,6 +62,6 @@ AI Coding（AI 輔助程式開發）
 開源的低程式碼自動化工作流工具, 熱門的自動化工具有 Zapier、Make、n8n.  
 另外還有針對 AI、客服機器人、瀏覽器插件特化的自動化工具：Dify、Coze等等.  
 有雲端和本地的版本，考量到許多工作流程需要放上私鑰（ex: Google API Key、OpenAI API Key），以及雲端版本至少要付費 20 歐元（限制工作流程執行 2500 次），所以選擇了本地部署的方案。  
-[資料來源1](https://raymondhouch.com/lifehacker/digital-workflow/automation-tools-review/), [資料來源2](https://medium.com/dean-lin/n8n-%E6%95%99%E5%AD%B8-%E7%94%A8-docker-%E5%9C%A8-local-%E5%BB%BA%E7%AB%8B%E5%85%8D%E8%B2%BB-%E7%84%A1%E9%99%90%E6%AC%A1%E6%95%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%87%AA%E5%8B%95%E5%8C%96%E5%B7%A5%E5%85%B7-ab603faa300f)  
+[資料來源1](https://raymondhouch.com/lifehacker/digital-workflow/automation-tools-review/), [資料來源2](https://medium.com/dean-lin/n8n-%E6%95%99%E5%AD%B8-%E7%94%A8-docker-%E5%9C%A8-local-%E5%BB%BA%E7%AB%8B%E5%85%8D%E8%B2%BB-%E7%84%A1%E9%99%90%E6%AC%A1%E6%95%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%87%AA%E5%8B%95%E5%8C%96%E5%B7%A5%E5%85%B7-ab603faa300f), [ithome](https://ithelp.ithome.com.tw/users/20178017/ironman/8777?page=1)  
 
 
