@@ -32,6 +32,7 @@ layout: testlayouts
 等待加權融資維持率150%附近準備反彈, 上次2025/11/21.
 群創搶攻矽光子奪下輝達、Google等光通訊關鍵元件代工大單, 崩盤完買進矽光子.
 ```
+[加權融資維持率](https://www.macromicro.me/charts/53117/taiwan-taiex-maintenance-margin),
 [群創搶攻矽光子奪下輝達、Google等光通訊關鍵元件代工大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e34345a9036e4dd9811118b1dbbe6158)
 
 ## 2026/03/06
