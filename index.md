@@ -29,6 +29,7 @@ layout: testlayouts
 ```
 微台指散戶多空比, 散戶做多就保守.
 等待國安基金, 等待強勢股提示明顯上漲.
+等待加權融資維持率150%附近準備反彈, 上次2025/11/21.
 群創搶攻矽光子奪下輝達、Google等光通訊關鍵元件代工大單, 崩盤完買進矽光子.
 ```
 [群創搶攻矽光子奪下輝達、Google等光通訊關鍵元件代工大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e34345a9036e4dd9811118b1dbbe6158)
