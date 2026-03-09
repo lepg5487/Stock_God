@@ -1685,7 +1685,9 @@ September 20-21* = 台灣09/22, July 26-27 = 台灣07/28, March 15-16* = 台灣0
 
 [台積電重點在於"法人說明會簡報"裡面的圖](https://investor.tsmc.com/chinese/quarterly-results/2022/q2)
 
-[融資維持率150%以下準備反彈](https://www.cmoney.tw/finance/f00012.aspx)
+[融資維持率150%以下準備反彈1](https://www.cmoney.tw/finance/f00012.aspx)  
+
+[融資維持率150%以下準備反彈2](https://www.macromicro.me/charts/53117/taiwan-taiex-maintenance-margin)  
 
 [法說會行情](https://pchome.megatime.com.tw/post/sto5/mkt0/)
 
