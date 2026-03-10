@@ -32,6 +32,7 @@ layout: testlayouts
 建榮出關開盤漲停盤中打開可惜.
 聯亞漲停觀察波若威, 買進統新.
 ```
+[塑化業暫停報價,上次是美光9/12對DRAM產品全面暫停報價](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ebb08595edfd4826946dbe99b09e46cf)
 
 ## 2026/03/09
 ```
