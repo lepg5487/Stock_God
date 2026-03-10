@@ -55,7 +55,7 @@ AI Coding（AI 輔助程式開發）
                  └─ B. Vibe Coding (Agentic 模式 / 代理型)
                         ├─ 特徵：意圖導向、跨檔案大規模修改、自動跑終端機指令、自主除錯
                         ├─ 主控權：AI 代理 (AI 是執行團隊，人類是產品經理/審查員)
-                        └─ 代表工具：Cursor (Composer), Google Antigravity, Devin, Windsurf
+                        └─ 代表工具：Cursor (Composer), Google Antigravity, Devin, Windsurf, Google Jules.
 ```
 
 # Google Stitch
