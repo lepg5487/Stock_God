@@ -41,7 +41,7 @@ AI Coding（AI 輔助程式開發）
    └─ LLM Coding（底層核心技術：以大型語言模型為基礎）
           │
           ├─ 1. 底層大腦 (Models / 基礎模型)
-          │      ├─ Codex (開山祖師，已退役)
+          │      ├─ Codex
           │      ├─ GPT-4o / Claude 3.7 / Gemini 3.1 Pro
           │      └─ DeepSeek Coder 等專門模型
           │
@@ -55,7 +55,23 @@ AI Coding（AI 輔助程式開發）
                  └─ B. Vibe Coding (Agentic 模式 / 代理型)
                         ├─ 特徵：意圖導向、跨檔案大規模修改、自動跑終端機指令、自主除錯
                         ├─ 主控權：AI 代理 (AI 是執行團隊，人類是產品經理/審查員)
-                        └─ 代表工具：Cursor (Composer), Google Antigravity, Devin, Windsurf, Google Jules.
+                        └─ 依互動介面與環境分類：
+                             │
+                             ├─ (1) IDE 派 (圖形化編輯器)
+                             │       ├─ 特色：提供視覺化的檔案比對 (Diff)、點擊同意/拒絕修改。
+                             │       └─ 工具：Cursor, Windsurf, PearAI, Google Antigravity
+                             │
+                             ├─ (2) Terminal 派 (純文字命令列)
+                             │       ├─ 特色：沉浸在 CLI 中，原生結合 Git 操作與終端指令。
+                             │       └─ 工具：Claude Code, Aider, SWE-agent
+                             │
+                             ├─ (3) 獨立雲端工作台派 (Standalone Workspace) [新增]
+                             │       ├─ 特色：不依賴本地環境，提供包含虛擬瀏覽器、終端機與編輯器的全自主網頁端沙盒。
+                             │       └─ 工具：Devin, Daytona (部分情境)
+                             │
+                             └─ (4) Repo / CI-CD 託管派 (背景自動化) [新增]
+                                     ├─ 特色：綁定 GitHub/GitLab，由 Issue 觸發，在雲端背景自主修復 Bug 並提交 PR。
+                                     └─ 工具：Google Jules, Sweep AI, CodeRabbit (偏審查)
 ```
 
 # Google Stitch
