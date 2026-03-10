@@ -58,6 +58,9 @@ AI Coding（AI 輔助程式開發）
                         └─ 代表工具：Cursor (Composer), Google Antigravity, Devin, Windsurf
 ```
 
+# Google Stitch
+開發者僅需透過簡單的文字描述，甚至提供一張圖片作為參考，Stitch便能自動生成所需的使用者介面(UI)元素以及對應的HTML和CSS程式碼，大幅降低了前端設計的門檻。
+
 # n8n
 開源的低程式碼自動化工作流工具, 熱門的自動化工具有 Zapier、Make、n8n.  
 另外還有針對 AI、客服機器人、瀏覽器插件特化的自動化工具：Dify、Coze等等.  
