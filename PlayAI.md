@@ -63,7 +63,7 @@ AI Coding（AI 輔助程式開發）
                              │
                              ├─ (2) Terminal 派 (純文字命令列)
                              │       ├─ 特色：沉浸在 CLI 中，原生結合 Git 操作與終端指令。
-                             │       └─ 工具：Claude Code, Aider, SWE-agent
+                             │       └─ 工具：Claude Code, Aider, SWE-agent, Gemini CLI
                              │
                              ├─ (3) 獨立雲端工作台派 (Standalone Workspace) [新增]
                              │       ├─ 特色：不依賴本地環境，提供包含虛擬瀏覽器、終端機與編輯器的全自主網頁端沙盒。
