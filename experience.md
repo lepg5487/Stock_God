@@ -76,6 +76,14 @@ layout: testlayouts
 
 # 商品
 ```
+NVIDIA Vera Rubin:
+水冷板散熱: 奇鋐,雙鴻,健策
+SOCAMM2記憶體: 擎亞
+SOCAMM2記憶體介面: 嘉澤, 優群
+ICMS記憶體平台(溫儲存資料)DPU: 慧榮, 群聯
+記憶體機櫃: 營邦
+玻纖布 -> HBM: ABF欣興,景碩, BT南電.
+
 NVIDIA BlueField DPU BlueField 4 (2026販售)(代理商"茂綸")(3有漲,4沒漲)
 NVIDIA Spectrum X(5)
 NVIDIA ConnectX-9
