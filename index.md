@@ -28,10 +28,10 @@ layout: testlayouts
 
 ## 2026/03/12
 ```
-2026年3月17日 NVIDIA GTC 2026 黃仁勳演講, OFC 2026 美國光纖通訊展.
-多數矽光子 3/16 出關, 可能 3/16~3/17 早上股價高點.
-WTI原油期貨+7%, 布倫特原油期貨+7%, 危險保守冷靜.
 NVIDIA 推出自己的 OpenClaw 叫做 NemoClaw, 中國指標MINIMAX-WP, 智譜, 迅策, 台灣驊宏資,華經,迅達等等軟體股.
+2026年3月17日 NVIDIA GTC 2026 黃仁勳演講, OFC 2026 美國光纖通訊展.
+多數矽光子 3/16 出關, 可能 3/16~3/17 早上股價高點, 等待矽光子.
+WTI原油期貨+7%, 布倫特原油期貨+7%, 危險保守冷靜.
 ```
 [NVIDIA NemoClaw](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1be22e1ba4d14d5498523478f5af5266)
 
