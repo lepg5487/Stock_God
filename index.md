@@ -29,7 +29,7 @@ layout: testlayouts
 ## 2026/03/13
 ```
 我喜歡會使用K線+事件分析的文章, Threads文章分析重大事件發生後, 市場股價需要24~34工作天評估事件的影響, 3月底空手.
-空手看有什麼新題材.
+空手看有什麼新題材, 法說會,董事會還是容易上漲.
 ```
 [重大事件K線分析數據文章](https://www.threads.com/@kenjikoshu/post/DVybEpdkt3y?xmt=AQF0VjzR9qyQuHpTI6OjnRVymGWPF721vP8JHlg_5VQju1Z037DoGHWBGBPtKrk5nXPo61DGeA&slof=1)
 
