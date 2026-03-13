@@ -26,6 +26,13 @@ layout: testlayouts
 賣出5: 當從上市櫃 漲到 興櫃就是上市櫃的賣點.
 賣出6: 00940價格到達10附近, 空手等待崩盤.
 
+## 2026/03/13
+```
+我喜歡會使用K線+事件分析的文章, Threads文章分析重大事件發生後, 市場股價需要24~34工作天評估事件的影響, 3月底空手.
+扣抵操作, 觀察油價和山隆, 買進欣高,欣天然.
+```
+[重大事件K線分析數據文章](https://www.threads.com/@kenjikoshu/post/DVybEpdkt3y?xmt=AQF0VjzR9qyQuHpTI6OjnRVymGWPF721vP8JHlg_5VQju1Z037DoGHWBGBPtKrk5nXPo61DGeA&slof=1)
+
 ## 2026/03/12
 ```
 NVIDIA 推出自己的 OpenClaw 叫做 NemoClaw, 中國指標MINIMAX-WP, 智譜, 迅策, 台灣驊宏資,華經,迅達等等軟體股.
