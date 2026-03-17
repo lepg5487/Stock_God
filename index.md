@@ -32,10 +32,13 @@ layout: testlayouts
 ```
 買進優先判斷規則: VIX(約等於加權指數) > 股價位置(OpenClaw,BIPV) > 流行族群 > 利多時間點  
 賣出6: 00940價格到達10附近, 空手等待崩盤, 且戰且走.
+2/6日本松下被動元件正式漲價, 國巨和所有被動元件低點, 4天後才上漲, 環科先漲?
+4/1村田製作所MLCC正式漲價, 4/1買進國巨華新科.
+
 BIPV建築整合型太陽能概念: 觀察泓瀚, 買進正達.
 OpenClaw概念: 觀察華經驊宏資, 買進邁達特,零壹,資通.
 ```
-[黃仁勳GTC演講全文](https://reurl.cc/V2EzzY)
+[黃仁勳GTC演講全文](https://reurl.cc/V2EzzY), [4/1村田製作所MLCC正式漲價](https://www.trendforce.com/news/2026/03/17/news-mlcc-giant-murata-reportedly-confirms-april-1-price-hike-on-key-components/)
 
 ## 2026/03/16
 ```
