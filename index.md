@@ -36,7 +36,7 @@ BMC晶片: 信驊,新唐.
 NVDA背板新面孔, 永擎.
 3/23國防預算特別條例立法院開會, 3/20買進雷虎.
 OpenClaw概念: 觀察MINIMAX-W,智譜,迅策. 等待華經,驊宏資.
-00715L: 已運送油輪+5艘以上時, 股價會大漲容易成短線高點.
+00715L: 已運送油輪+5艘以上時, 股價會大漲容易成短線高點, 低點沒有明顯參考資料.
 ```
 [原油資料統整](https://oilhormuz.web.app/),[永擎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e8e9827a138b4f2386377947f1bb2b6b),[BMC晶片,新唐](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3c9da2a082bf4297b94c2c1715238665)
 
