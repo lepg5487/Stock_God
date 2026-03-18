@@ -31,10 +31,13 @@ layout: testlayouts
 ## 2026/03/18
 ```
 買進優先判斷規則: VIX(約等於加權指數) > 股價位置 > 流行族群 > 利多時間點(雷虎)  
-賣出6: 00940價格到達10附近, 空手等待崩盤.
-上次漲到被動元件以後開始崩盤.
+NVDA 新晶片 Groq LPU30 晶片: 力積電,華邦電,愛普,鈺創.
+BMC晶片: 信驊,新唐.
+NVDA背板新面孔, 永擎.
 3/23國防預算特別條例立法院開會, 3/20買進雷虎.
+OpenClaw概念: 觀察MINIMAX-W,智譜,迅策. 等待華經,驊宏資,邁達特.
 ```
+[永擎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e8e9827a138b4f2386377947f1bb2b6b),[BMC晶片,新唐](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3c9da2a082bf4297b94c2c1715238665)
 
 ## 2026/03/17
 ```
