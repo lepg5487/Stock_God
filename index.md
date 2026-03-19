@@ -4,9 +4,9 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 03/18. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 04/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 03/18. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 04/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
 台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
@@ -30,6 +30,13 @@ layout: testlayouts
 
 ## 2026/03/18
 ```
+賣出6: 00940價格到達10附近, 空手等待崩盤.
+3/23國防預算特別條例立法院開會, 3/20買進雷虎.
+```
+
+## 2026/03/18
+```
+賣出6: 00940價格到達10附近, 空手等待崩盤.  
 買進優先判斷規則: VIX(約等於加權指數) > 股價位置 > 流行族群 > 利多時間點(雷虎)  
 NVDA 新晶片 Groq LPU30 晶片: 力積電,華邦電,愛普,鈺創.
 BMC晶片: 信驊,新唐.
