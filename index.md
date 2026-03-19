@@ -30,11 +30,11 @@ layout: testlayouts
 
 ## 2026/03/19
 ```
-買進優先判斷規則: VIX(約等於加權指數)(00715L) > 股價位置 > 流行族群 > 利多時間點(雷虎)  
-賣出6: 00940價格到達10附近, 空手等待崩盤.
+買進優先判斷規則: VIX(約等於加權指數)(00715L) > 股價位置 > 流行族群(宇樹機器人) > 利多時間點(雷虎)  
 高端疫苗取得越南新藥上市許可證, 造成上漲.
 麗臺03/17宣布成為NVIDIA IGX Thor代理商, 造成上漲.
-3/23國防預算特別條例立法院開會, 買進雷虎,邑錡. 觀察美股Swarmer.
+利多3/23國防預算特別條例立法院開會, 買進雷虎,邑錡. 觀察美股Swarmer.
+宇樹機器人: 觀察瑞軒雅特力-KY, 買進慶騰.
 ```
 [高端疫苗取得越南新藥上市許可證](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9a24dc8d4e12476ca5429afc91943d9c),[麗臺NVIDIA IGX Thor代理商](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=6ee5872a-a9b4-4e8b-bf86-9b9789bb488e)
 
