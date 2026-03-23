@@ -28,6 +28,14 @@ layout: testlayouts
 賣出5: 當從上市櫃 漲到 興櫃就是上市櫃的賣點.  
 賣出6: 00940價格到達10附近, 空手等待崩盤.  
 
+## 2026/03/23
+```
+2026/03/23全球最大衛星通訊展Satellite 2026.
+行政院院長卓榮泰3/22參訪為升, 雷盾無人機反制系統, 觀察為升T0.
+3/24無人機展XPONENTIAL EUROPE 2026, 等待雷虎,邑錡.
+```
+[2026/03/23全球最大衛星通訊展Satellite 2026](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=88a1597999984976b4ea3658639b3000), [23,24,25日三天立法院將審國防特別條例](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1980c3e0ccc6400aaf93389a423c50c8), [行政院院長參訪為升](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=aae8e10d0796444abce052dc54a09d5e)
+
 ## 2026/03/20
 ```
 3/23國防預算特別條例立法院開會, 買進雷虎,邑錡.
