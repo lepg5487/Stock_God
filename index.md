@@ -12,6 +12,13 @@ layout: testlayouts
 
 [04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
+## 2026/03/26
+```
+鴻海宣布與以色列太空運算基礎設施大廠Ramon.Space合作, 乙盛-KY,建漢. 鴻海入股國碩旗下碩禾.
+南亞科私募引進鎧俠(Kioxia),晟碟(Sandisk),SK海力士集團,思科(Cisco)四巨頭資金, 合計募得787億元.
+```
+[鴻海衛星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df54ad8292f548858e992332735bfd5c),[鴻海入股國碩旗下碩禾](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7529485314c3281957dba8f985b56),[南亞科私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bf0f29a226e4b4ca754b7cd06729139).
+
 ## 2026/03/25
 ```
 SpaceX本周或下周遞交IPO.
