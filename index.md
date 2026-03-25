@@ -8,9 +8,16 @@ layout: testlayouts
 
 台灣時間晚上 04/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
-台灣時間晚上 03/20. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
+台灣時間晚上 06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
 [04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+
+## 2026/03/25
+```
+SpaceX本周或下周遞交IPO.
+化學原料硫酸漲價, 國外化學股多數上漲5~9%, 觀察天弘化,康普,買進中華化.
+```
+[化學原料硫酸漲價](https://www.100ppi.com/vane/detail-236.html)
 
 ## 2026/03/24
 ```
