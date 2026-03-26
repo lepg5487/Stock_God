@@ -16,10 +16,9 @@ layout: testlayouts
 ```
 鴻海宣布與以色列太空運算基礎設施大廠Ramon.Space合作, 乙盛-KY,建漢. 鴻海入股國碩旗下碩禾.
 南亞科私募引進鎧俠(Kioxia),晟碟(Sandisk),SK海力士集團,思科(Cisco)四巨頭資金, 合計募得787億元.
-Google發布的新型AI記憶體壓縮技術TurboQuant, 造成美光,Sandisk下跌.
-歷史當能源危機引發惡性通膨與貨幣緊縮時, 半導體板塊這類對利率敏感度高的資產, 其回檔幅度通常會高達 40% 到 60% 之間, 等待崩盤.
+Google發布的新型AI記憶體壓縮技術TurboQuant, 造成美光,Sandisk下跌, 3月25日SK海力士股東大會造成下跌.
 ```
-[歷史能源危機](https://gemini.google.com/share/3fdc63ebfb98),[鴻海衛星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df54ad8292f548858e992332735bfd5c),[鴻海入股國碩旗下碩禾](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7529485314c3281957dba8f985b56),[南亞科私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bf0f29a226e4b4ca754b7cd06729139).
+[鴻海衛星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df54ad8292f548858e992332735bfd5c),[鴻海入股國碩旗下碩禾](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7529485314c3281957dba8f985b56),[南亞科私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bf0f29a226e4b4ca754b7cd06729139).
 
 ## 2026/03/25
 ```
