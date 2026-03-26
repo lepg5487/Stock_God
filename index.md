@@ -17,6 +17,8 @@ layout: testlayouts
 鴻海宣布與以色列太空運算基礎設施大廠Ramon.Space合作, 乙盛-KY,建漢. 鴻海入股國碩旗下碩禾.
 南亞科私募引進鎧俠(Kioxia),晟碟(Sandisk),SK海力士集團,思科(Cisco)四巨頭資金, 合計募得787億元.
 Google發布的新型AI記憶體壓縮技術TurboQuant, 造成美光,Sandisk下跌, 3月25日SK海力士股東大會造成下跌.
+昇達科聯亞IET-KY出關, 帶動低軌,矽光子上漲, 下一次好位置再買進處置族群.
+川普都是星期五六日發布恐嚇消息崩盤,星期一二再說正在和談,一二是好買點.
 ```
 [鴻海衛星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df54ad8292f548858e992332735bfd5c),[鴻海入股國碩旗下碩禾](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7529485314c3281957dba8f985b56),[南亞科私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bf0f29a226e4b4ca754b7cd06729139).
 
