@@ -12,6 +12,13 @@ layout: testlayouts
 
 [04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
+## 2026/04/02
+```
+Touch Taiwan 2026造成LED上漲, 環宇-KY(富采大股東),鼎元,友達.
+"華東"營收高度仰賴"華邦電"訂單, "欣銓"長期與"旺宏"維持上下游合作關係.
+```
+[Touch Taiwan 2026造成LED上漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=178b0a4c324d40cba52b56f337b950e4), [記憶土關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=913e0e63e2c0442897b92e828f3b5fb9)
+
 ## 2026/03/26
 ```
 鴻海宣布與以色列太空運算基礎設施大廠Ramon.Space合作, 乙盛-KY,建漢. 鴻海入股國碩旗下碩禾.
