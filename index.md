@@ -16,8 +16,9 @@ layout: testlayouts
 ```
 4月10日CPI公布要空手.
 2026/4/30國巨人工智慧高峰論壇, 國巨集團在2024/09/26舉辦AI高峰論壇後，再度舉辦相關論壇。4月中買進國巨.
+佳和獲認證紡織業跨航太鏈, 公司目前已是特斯拉（Tesla）及路虎（Range Rover）的合格供應商.
 ```
-[國巨2024/09/26](https://www.ctee.com.tw/news/20240821700164-439901), [國巨2026/04/30](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fc13cd4b33624953a21e39f9396e0450)
+[佳和紡織業跨航太](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4576a4934b344277b770053eba26e94b), [國巨2024/09/26](https://www.ctee.com.tw/news/20240821700164-439901), [國巨2026/04/30](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fc13cd4b33624953a21e39f9396e0450)
 ```
 前提: 跟著加權下跌+和加權高點相似的曾經強勢股.
 3/9波若威100(隨緣), 
