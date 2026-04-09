@@ -12,6 +12,13 @@ layout: testlayouts
 
 [04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
+## 2026/04/09
+```
+4月10日星期五早上CPI公布空手.
+觀察聯友金屬,昶昕, 等待衛司特.
+主觀加權指數會下跌, 買進00715L.
+```
+
 ## 2026/04/08
 ```
 目前位置好,營收公布容易上漲.
