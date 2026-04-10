@@ -10,7 +10,18 @@ layout: testlayouts
 
 台灣時間晚上 06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[04月03日,04月06日)休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+
+T0:Rubin(嘉基,營邦),矽光子,PCB,PCB廢水,穿孔(尖點大量),玻纖布.
+T1:記憶體,記憶體封測,HVLP.
+T3:低軌,太陽能,被動元件->台勝科中美晶等最後一棒.
+
+## 2026/04/10
+```
+漲到台勝科等最後一棒.
+主觀加權指數會下跌, 等待00715L.
+觀察聯友金屬,昶昕, 等待衛司特.
+```
 
 ## 2026/04/09
 ```
