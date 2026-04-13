@@ -22,7 +22,7 @@ T3:低軌,太陽能,被動元件->台勝科中美晶等最後一棒.
 4/16 台積法說.
 冠西電, 攻光通訊.
 宏捷科, 有砷化鎵太陽能電池產品.
-鄭習會, 推動恢復上海市及福建省居民赴台個人遊自由行試點, 開盤買進雄獅,應該有2天漲勢.
+鄭習會, 推動恢復上海市及福建省居民赴台個人遊自由行試點, 買進五福或雄獅找沒漲的,應該有2天漲勢.
 ```
 [鄭習會](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=354340e84a8245d4a2194d7140b57f5e),[冠西電,攻光通訊](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0ea85728873f4503b8ceabd817d5e74b),[宏捷科,有砷化鎵太陽能電池產品](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=43c0d9c6b4a8433096aa2ef819a884fc), 
 
