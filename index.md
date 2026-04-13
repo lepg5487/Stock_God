@@ -22,8 +22,8 @@ T3:低軌,太陽能,被動元件->台勝科中美晶等最後一棒.
 鄭習會, 推動恢復上海市及福建省居民赴台個人遊自由行試點, 買進雄獅, 2/5曾經有2天漲勢.
 2026/04/13南亞科法說會, 造成記憶體族群小上漲, 法說會有機會, 4/16 台積電法說.
 宏捷科,有砷化鎵太陽能電池產品. 冠西電,攻光通訊.
+指數沒跌, 等待星期二買進主流流行股.
 等待雄獅, 等待00715L.
-指數沒跌, 星期一二選擇偏一點的法說會個股, 觀察沛爾生醫, 買進禾榮科.
 ```
 [鄭習會](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=354340e84a8245d4a2194d7140b57f5e),[冠西電,攻光通訊](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0ea85728873f4503b8ceabd817d5e74b),[宏捷科,有砷化鎵太陽能電池產品](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=43c0d9c6b4a8433096aa2ef819a884fc), 
 
