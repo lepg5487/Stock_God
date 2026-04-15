@@ -12,10 +12,10 @@ layout: testlayouts
 
 [05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-T0:Rubin(嘉基,營邦),矽光子,PCB,PCB廢水,穿孔(尖點大量),玻纖布08.  
-T1:HVLP08,化學09,被動元件08,台勝科08,BMC新唐13,HVDC康舒14.  
-T2:太陽能15,低軌.  
-T3:記憶體,記憶體封測.  
+T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
+T1: 玻纖布(德宏01富喬07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
+T2: 台勝科08, 化學09, BMC新唐13, HVDC康舒14.  
+T3: 太陽能15, 低軌, 記憶體,記憶體封測.  
 
 ## 2026/04/15
 ```
