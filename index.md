@@ -12,9 +12,20 @@ layout: testlayouts
 
 [05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-T0:Rubin(嘉基,營邦),矽光子,PCB,PCB廢水,穿孔(尖點大量),玻纖布.  
-T1:記憶體,記憶體封測,HVLP.  
-T3:低軌,太陽能,被動元件->台勝科中美晶等最後一棒.  
+T0:Rubin(嘉基,營邦),矽光子,PCB,PCB廢水,穿孔(尖點大量),玻纖布08.  
+T1:HVLP08,化學09,被動元件08,台勝科08,BMC新唐13,HVDC康舒14.  
+T2:太陽能15,低軌.  
+T3:記憶體,記憶體封測.  
+
+## 2026/04/15
+```
+Bloom Energy概念股: 康舒,金寶,高力. 曾帶動華城大同亞力士電.
+中鼎私募,大亞,台達電.
+太陽誘電,被動元件新價格將自5月1日生效。
+4/1村田製作所MLCC正式漲價, 所有被動元件低點.
+2/6日本松下被動元件正式漲價, 所有被動元件低點.
+```
+[燃料電池大廠Bloom Energy宣布與甲骨文擴大合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=36c8356ad08c42f8bb11a3cf3e074ab2),[太陽誘電5月1日被動元件漲價](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a9a0cb73da424a0db0cd6105b1141083), [中鼎私募大亞台達電](https://money.udn.com/money/story/5612/9441519)
 
 ## 2026/04/14
 ```
