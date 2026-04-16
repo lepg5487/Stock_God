@@ -14,8 +14,21 @@ layout: testlayouts
 
 T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
 T1: 玻纖布(德宏01富喬07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
-T2: 台勝科08, 化學09, BMC新唐13, HVDC康舒14.  
-T3: 太陽能15, 低軌, 記憶體,記憶體封測.  
+T2: 台勝科08, 化學09, BMC新唐13, HVDC康舒14, 太陽能15.  
+T3: 低軌, 記憶體,記憶體封測.  
+
+## 2026/04/16
+```
+NVIDIA Ising量子電腦: 金寶(2025/11/20買SEEQC), 博磊(2025/9/18和子公司科榮合作簽約(IQM Quantum Computers))
+2奈米AMC: 創控,鈺祥,濾能.
+盟立,精確新合資機器人公司.
+私募多數股價下跌,
+尖點私募,參加者欣興,金像電,臻鼎-KY.
+南亞科私募,參加者都國外鎧俠、晟碟、Solidigm、思科.
+```
+[NVIDIA Ising量子電腦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=dfe8b6a706c84516bf84125e1fb34403),[NVIDIA Ising全球首個量子電腦開放式AI模型原文](https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)  
+[金寶買SEEQC](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=aee43f3a-5672-48df-853a-f7a34afcde35), [科榮簽約IQM](https://meetiqm.com/press-releases/iqm-and-scientek-corporation-sign-reseller-agreement-to-boost-quantum-computing-in-taiwan/)  
+[2奈米AMC](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4ba89446437c4591904fbf1964ec29f1), [盟立,精確](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8d8cc87bacd44826bae9b8c368d44884)
 
 ## 2026/04/15
 ```
