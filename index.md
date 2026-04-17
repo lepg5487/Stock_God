@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 045/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 05/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 04/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
