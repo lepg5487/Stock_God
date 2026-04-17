@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 04/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 045/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 04/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -16,6 +16,7 @@ T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).
 T1: 玻纖布(德宏01富喬07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
 T2: 台勝科08, 石英08, 2奈米AMC08, 化學09, BMC新唐13, HVDC康舒14, 太陽能15.  
 T3: 低軌, 記憶體, 記憶體封測.  
+
 4-5月: 2026/5/19, Google I/O 2026(首款搭載Gemini的AI眼鏡).  
 5-6月: 2026/6/2, Space Tech Expo USA 2026(美國太空科技展).  
 6-7月: 2026/7/24, 台灣鈣鈦礦技術暨應用論壇.  
