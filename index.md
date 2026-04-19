@@ -28,12 +28,15 @@ T3: 低軌, 記憶體, 記憶體封測.
 AI眼鏡: 倚強科(永豐金台南),英濟,達邁,意騰-KY,伯特光,華通,材料-KY,耕興,佐臻.
 量子電腦: 金寶, 仁寶, 博磊, 千附精密. 晶睿?, 奇偶?, 中光電?, 昇達科?
 大同, 南亞合作TNEX變壓器.
-2026/03/16 聯電公告4/1調整代工價格, 聯電4/2低點(4/1附近).
+2026/5/1 CCL漲價, M6以下漲價幅度將高於高階, 聯茂 > 台燿 > 台光電, 5月初買進.
+2026/3/16 聯電公告4/1調整代工價格, 聯電4/2低點(4/1附近).
 2026/6/1 Nexchip晶圓代工費用漲價10%, 聯電或世界.
 2026/7/1 聯電晶圓代工費用開始漲價, 聯電或世界.
 ```
+[5月CCL漲價M6以下漲價幅度將高於高階](https://www.ctee.com.tw/news/20260417700300-430203),
 [Nexchip,聯電代工費用](https://news.futunn.com/hk/post/71686477?level=1&data_ticket=1742348137323296), [2026/03/16聯電公告4月調整代工價格](https://money.udn.com/money/story/5612/9381834),  
-[20251022量子概念](https://www.sinotrade.com.tw/richclub/industry/%E9%87%8F%E5%AD%90%E6%A6%82%E5%BF%B5%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%8F%B0%E7%81%A3%E7%9A%84%E9%87%8F%E5%AD%90%E6%88%B0%E7%95%A5%E8%88%879%E6%AA%94%E9%87%8F%E5%AD%90%E6%A6%82%E5%BF%B5%E8%82%A1%E6%95%B4%E7%90%86%E7%B5%A6%E4%BD%A0-%E7%94%A2%E6%A5%AD%E7%86%B1%E8%A9%B1-68ede37fb9e1fd98c707cac2), [2026/4/13普萊德量子概念](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2ad484b2af4ffeb34b7c7effb04b43), [2026/4/17佐臻AR眼鏡](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=edb081beca754ac4b7c9554930c53562), [2026/4/17大同南亞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0e6764876151452c81a7590cfeec972d)
+[20251022量子概念](https://www.sinotrade.com.tw/richclub/industry/%E9%87%8F%E5%AD%90%E6%A6%82%E5%BF%B5%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%8F%B0%E7%81%A3%E7%9A%84%E9%87%8F%E5%AD%90%E6%88%B0%E7%95%A5%E8%88%879%E6%AA%94%E9%87%8F%E5%AD%90%E6%A6%82%E5%BF%B5%E8%82%A1%E6%95%B4%E7%90%86%E7%B5%A6%E4%BD%A0-%E7%94%A2%E6%A5%AD%E7%86%B1%E8%A9%B1-68ede37fb9e1fd98c707cac2), [2026/4/13普萊德量子概念](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2ad484b2af4ffeb34b7c7effb04b43),  
+[2026/4/17佐臻AR眼鏡](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=edb081beca754ac4b7c9554930c53562), [2026/4/17大同南亞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0e6764876151452c81a7590cfeec972d)
 
 ## 2026/04/17
 ```
