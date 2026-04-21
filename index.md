@@ -23,6 +23,17 @@ T3: 低軌, 記憶體, 記憶體封測.
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/04/21
+```
+4/22特斯拉財報, SpaceX IPO獨家線上研討會, 昇達科,華通,燿華,耀登(4/27安立財報), 買進華通.
+日本東北7.5強震, 造成記憶體上漲.
+毅嘉奪下Coherent矽光子訂單.
+巨鎧精密打入輝達供應鏈.
+大甲跨足先進封裝.
+```
+[日本東北7.5強震](https://abmedia.io/kioxia-japan-earthquake-nand), [大甲跨足先進封裝](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=42dde52ed5504779a881b5835d4f6520), [巨鎧精密打入輝達供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fd557835aaa14f0f8ed63deccd7765a6),
+[毅嘉奪下Coherent矽光子訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b1ade57d20da498091c7df0aab01dba7)
+
 ## 2026/04/20
 ```
 AI眼鏡: 倚強科(永豐金台南),英濟,達邁,意騰-KY,伯特光,華通,材料-KY,耕興,佐臻.
