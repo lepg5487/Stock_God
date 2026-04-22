@@ -23,6 +23,14 @@ T3: 低軌, 記憶體, 記憶體封測.
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/04/22
+```
+SpaceX本周21日22日23日將在德州發射基地與田納西州資料中心舉辦三天閉門會議.
+SpaceX計劃6月8日邀請1,500人參觀星際基地。
+FA失效分析概念股: 宜特,汎銓. (EDFAS電子設備故障分析協會盛會2026/4/21高點)(ISTFA失效分析研討會2026/10/4還有一次)
+```
+[SpaceX計劃](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8100096d408a4df1a419d8e72e465b11), [EDFAS電子設備故障分析協會盛會](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d249ea0a0d2e452a8a62bb0563a7a826)
+
 ## 2026/04/21
 ```
 4/22特斯拉財報, SpaceX IPO獨家線上研討會, 昇達科,華通,燿華,耀登(4/27安立財報), 買進華通.
