@@ -28,7 +28,7 @@ T3: 低軌, 記憶體, 記憶體封測.
 SpaceX本周21日22日23日將在德州發射基地與田納西州資料中心舉辦三天閉門會議, 沒方向等待華通.
 SpaceX計劃6月8日邀請1,500人參觀星際基地。
 FA失效分析概念股: 宜特,汎銓. (EDFAS電子設備故障分析協會盛會2026/4/21高點)(ISTFA失效分析研討會2026/10/4還有一次)
-2023年4月13日,2024年4月11日,2025年4月10日,2026年4月9日, 每年Amazon亞馬遜股東信公布日幾乎都是ASIC和IP的低點.
+2023年4月13日,2024年4月11日,2025年4月10日,2026年4月9日, 每年Amazon亞馬遜股東信公布日幾乎都是ASIC和IP的低點, 創意.
 ```
 [SpaceX計劃](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8100096d408a4df1a419d8e72e465b11), [EDFAS電子設備故障分析協會盛會](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d249ea0a0d2e452a8a62bb0563a7a826)
 
