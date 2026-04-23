@@ -23,6 +23,12 @@ T3: 低軌, 記憶體, 記憶體封測.
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/04/23
+```
+SpaceX太空資料中心無法實現商業可行性利空資訊, 利空賣出空手等.
+```
+[SpaceX太空資料中心無法實現商業可行性](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5e44a98de1924ee9bc31eaa8d8fea000)
+
 ## 2026/04/22
 ```
 SpaceX本周21日22日23日將在德州發射基地與田納西州資料中心舉辦三天閉門會議, 沒方向等待華通.
