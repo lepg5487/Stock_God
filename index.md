@@ -25,11 +25,13 @@ T3: 低軌, 記憶體, 記憶體封測.
 
 ## 2026/04/27
 ```
-汽零廠跨AI水冷: 盟立, 精確, 六方科-KY, 豐祥-KY, 倉佑.
 ARM概念股IP: 智原,神盾,安國.
-觀察Intel,ARM,智原, 買進神盾.
+汽零廠跨AI水冷: 盟立, 精確, 六方科-KY, 豐祥-KY, 倉佑.
+2nm晶圓防翹曲: 中美晶投資晶化科技(2nm晶圓防翹曲), 印能科技, 山太士(辛耘).
+4/28/中國玻纖布財報,國際復材, 等待富喬.
+4/28美股BE財報, 4/14美股BE+23%時康舒有反應, 買進康舒.
 ```
-[智原,神盾,安國](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=240129a415e54d54a83d48125fdcfb58), [汽零廠跨AI水冷](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=326478d2aa5f4e8bb95ab1ff1d3271e9)
+[智原,神盾,安國](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=240129a415e54d54a83d48125fdcfb58), [汽零廠跨AI水冷](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=326478d2aa5f4e8bb95ab1ff1d3271e9), [中美晶投資晶化科技](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1792c6e2d5544d20bc30ad6616af4f0f)
 
 ## 2026/04/24
 ```
