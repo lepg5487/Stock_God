@@ -25,6 +25,7 @@ T3: 低軌, 記憶體, 記憶體封測.
 
 ## 2026/04/28
 ```
+強化防衛韌性及不對稱戰力計畫採購特別條例草案, 國防特別預算條例, 5月6日下午3時再次召開朝野協商, 雷虎賣點.
 聚鼎,獲美國軍工國防大單. 歐特明,視覺AI機器人打入輝達供應鏈. 廌家,低軌衛星主要客戶是AST SpaceMobile.
 經濟部27日宣布成立「量子產業技術推動辦公室」, 造成金寶+10%.
 4/28/中國玻纖布財報,國際復材, 觀察德宏,南亞,台玻,建榮, 等待富喬.
@@ -32,7 +33,8 @@ T3: 低軌, 記憶體, 記憶體封測.
 4/28康寧GLW財報, 買進沛亨.
 日本北川精機+20%, 5/8財報提前上漲, TGV真空壓膜機: 長廣,德律, 觀察志聖, 買進群翊.
 ```
-[廌家AST SpaceMobile](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=66f08813348d4cfa8db576d02069cfea), [量子產業技術推動辦公室](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a5dc265c3ffd4f4198d840355e752699), [聚鼎獲美國軍工國防大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=167b0181254549b5ad3d981e2210330b), [歐特明打入輝達供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=691393af7cf54fe4b3bf87418f6ad39b)
+[廌家AST SpaceMobile](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=66f08813348d4cfa8db576d02069cfea), [量子產業技術推動辦公室](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a5dc265c3ffd4f4198d840355e752699), [聚鼎獲美國軍工國防大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=167b0181254549b5ad3d981e2210330b), [歐特明打入輝達供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=691393af7cf54fe4b3bf87418f6ad39b).  
+[國防特別預算條例5月6日再次召開朝野協商](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=633954).
 
 ## 2026/04/27
 ```
