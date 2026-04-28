@@ -30,6 +30,7 @@ T3: 低軌, 記憶體, 記憶體封測.
 4/28/中國玻纖布財報,國際復材, 等待富喬.
 4/28美股BE財報, 4/14美股BE+23%時康舒有反應, 等待康舒.
 4/28康寧GLW財報, 買進沛亨.
+日本北川精機財報+20%, TGV真空壓膜機: 長廣,德律, 觀察志聖, 買進群翊.
 ```
 [廌家AST SpaceMobile](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=66f08813348d4cfa8db576d02069cfea), [量子產業技術推動辦公室](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a5dc265c3ffd4f4198d840355e752699), [聚鼎獲美國軍工國防大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=167b0181254549b5ad3d981e2210330b), [歐特明打入輝達供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=691393af7cf54fe4b3bf87418f6ad39b)
 
