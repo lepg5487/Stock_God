@@ -32,6 +32,7 @@ T3: 低軌, 記憶體, 記憶體封測.
 2026年6月2日台北國際電腦展COMPUTEX, Intel高機率帶動概念股: 鈦昇 ,智原IP, 閎康Terafab.
 康寧GLW財報-8.9%,賣出沛亨. BE+12%,沒反應賣出康舒. 體感財報勝率不高了賣出富喬.
 TGV真空壓膜機: 長廣,德律, 觀察志聖, 等待群翊.
+沒明顯方向, 觀察中華化等化學股, 等待4/29財報, 買進三福化.
 ```
 [臻鼎入列台積3DFabric聯盟](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=171b20602f774a5e9c5411b43e824024), [欣興](https://www.cna.com.tw/news/afe/202210270026.aspx).  
 [和碩系統電加百裕私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bc0db616894646d49f790d0d893512e5), [祥碩芯鼎私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74524c232ed64118b178ac019cfa8058).  
