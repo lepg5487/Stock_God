@@ -35,7 +35,7 @@ T3: 低軌, 記憶體, 記憶體封測.
 ```
 臻鼎入列台積3DFabric聯盟, 已經上漲可惜.
 欣興在2022年10月27日加入台積電的3DFabric聯盟, 那時沒上漲後面有30%漲幅.
-和碩私募案取得系統電9%股權, 系統電去年入股加百裕約20%股權.
+和碩私募案取得系統電9%股權, 系統電去年入股加百裕約20%股權, 信立買邁達康30%股權.
 祥碩參與芯鼎私募, 力成超豐母子公司.
 2026年6月2日台北國際電腦展COMPUTEX, Intel高機率帶動概念股: 鈦昇 ,智原IP, 閎康Terafab.
 康寧GLW財報-8.9%,賣出沛亨. BE+12%,沒反應賣出康舒. 國外財報反應越來越小,賣出富喬.
@@ -43,8 +43,9 @@ TGV真空壓膜機: 長廣,德律, 觀察志聖, 等待群翊.
 觀察中華化等化學股, 試試國內4/29財報, 買進三福化.
 ```
 [臻鼎入列台積3DFabric聯盟](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=171b20602f774a5e9c5411b43e824024), [欣興](https://www.cna.com.tw/news/afe/202210270026.aspx).  
-[和碩系統電加百裕私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bc0db616894646d49f790d0d893512e5), [祥碩芯鼎私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74524c232ed64118b178ac019cfa8058).  
-[Intel台北國際電腦展COMPUTEX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e8d5b3f91824182ac23ebe5e1de7c52)
+[和碩系統電加百裕私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bc0db616894646d49f790d0d893512e5), [祥碩芯鼎私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74524c232ed64118b178ac019cfa8058),
+[信立買邁達康30%股權](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d1c87e5ed1504eaeab97ecf53068b7bf).  
+[Intel台北國際電腦展COMPUTEX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e8d5b3f91824182ac23ebe5e1de7c52).
 
 ## 2026/04/28
 ```
