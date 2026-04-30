@@ -23,6 +23,14 @@ T3: 低軌, 記憶體, 記憶體封測.
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/04/30
+```
+康舒賣太快, 下次類似財報等到"實體K棒"出現再離場.
+希捷Seagate硬碟供應商: 光洋科, 金寶, 廣明.
+聯電,聯穎,合作CPO.
+```
+[聯電聯穎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=14a11e69d9234a908d8b2e73fa000aa9), [希捷Seagate](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f58658e4c599404b9c93bf923a3437af)
+
 ## 2026/04/29
 ```
 臻鼎入列台積3DFabric聯盟, 已經上漲可惜.
