@@ -12,10 +12,9 @@ layout: testlayouts
 
 [05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
-T1: 玻纖布(德宏01富喬07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
-T2: 台勝科08, 石英08, 2奈米AMCALD08(長興新應材雙鍵), 太陽能化學09(日勝化永光), BMC新唐13, HVDC康舒14, 太陽能15.  
-T3: 低軌, 記憶體, 記憶體封測.  
+T0: Intel(悅城,鈦昇,家登,家碩), TGV真空壓膜機.  
+T1: 矽光子01, PCB欣興01, 穿孔(大量01尖點07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
+T2: 台勝科08, 石英08, 2奈米AMCALD08(長興新應材雙鍵)(日勝化永光), BMC新唐13, HVDC康舒14.  
 
 4-5月: 2026/5/19, Google I/O 2026(首款搭載Gemini的AI眼鏡).  
 5-6月: 2026/6/2, Space Tech Expo USA 2026(美國太空科技展).  
