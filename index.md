@@ -28,6 +28,8 @@ T3: 低軌, 記憶體, 記憶體封測.
 康舒賣太快, 下次類似財報等到"實體K棒"出現再離場.
 希捷Seagate硬碟供應商: 光洋科, 金寶, 廣明.
 聯電,聯穎,合作CPO.
+TGV真空壓膜機: 長廣,德律, 觀察志聖, 等待群翊.
+00715L油價創新高, 隨時空手.
 ```
 [聯電聯穎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=14a11e69d9234a908d8b2e73fa000aa9), [希捷Seagate](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f58658e4c599404b9c93bf923a3437af)
 
