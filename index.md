@@ -30,11 +30,11 @@ Q1財報公布高機率上漲5/4, 定穎投控示範效果.
 Lumentum, ANET, Coherent 矽光子財報5/5.
 Coherent矽光子財報5/6. AAOI矽光子財報5/7.
 觀察波若威,東典光電,聯亞, 等待統新.
-Intel玻璃基板CMP研磨: 榮田, 明基材, 達興材料, 長興, 頌勝科技, 中砂, 崇越, 華立.
+Intel玻璃基板CMP研磨: 榮田, 明基材, 達興材料, 長興, 頌勝科技, 中砂, 崇越, 華立, 旭然, 倉佑.
 AMD財報5/5, 買進營邦.
 觀察奇鈦科三晃永光等, 買進長興.
 ```
-[榮田CMP設備](https://www.ctee.com.tw/news/20260501700230-430503?sysid=948788200678096896), [明基材轉投資CMP耗材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=284f59283fc146beba552cf3e2181b48), [CMP研磨液:達興材料,長興.CMP代理商:崇越,華立](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222026?sysid=948788200678096896), [CMP研磨墊:頌勝科技,中砂](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222016?sysid=948788200678096896)
+[榮田CMP設備](https://www.ctee.com.tw/news/20260501700230-430503?sysid=948788200678096896), [明基材轉投資CMP耗材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=284f59283fc146beba552cf3e2181b48), [CMP研磨液:達興材料,長興.CMP代理商:崇越,華立](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222026?sysid=948788200678096896), [CMP研磨墊:頌勝科技,中砂](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222016?sysid=948788200678096896), [CMP研磨過濾:旭然](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=83193998-06de-483a-acb8-cf0b75cbb943&just_req=1), [CMP設備零組件:倉佑](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=08f6424a-b63d-495e-b20b-6802e67a89b6&just_req=1)
 
 ## 2026/05/04
 ```
