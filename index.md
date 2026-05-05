@@ -12,9 +12,10 @@ layout: testlayouts
 
 [05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-T0: Intel(悅城,鈦昇,家登,家碩), TGV真空壓膜機.  
-T1: 矽光子01, PCB欣興01, 穿孔(大量01尖點07), HVLP金居07, PCB廢水昶昕07, Rubin(嘉基07,營邦07), 被動元件07.  
-T2: 台勝科08, 石英08, 2奈米AMCALD08(長興新應材雙鍵)(日勝化永光), BMC新唐13系微20, HVDC康舒14.  
+T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
+T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動元件07.  
+T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
+T3: BMC新唐13系微20, HVDC康舒14, Intel(悅城27)(FOPLP)(TGV).  
 
 4-5月: 2026/5/19, Google I/O 2026(首款搭載Gemini的AI眼鏡).  
 5-6月: 2026/6/2, Space Tech Expo USA 2026(美國太空科技展).  
@@ -10184,7 +10185,7 @@ Intel:
 Intel台灣唯一ZAM記憶體概念股: 力積電.
 TGV設備商: 鈦昇, 雷科, 東捷, 東台, 聯策.
 TGV真空壓膜機: 志聖, 群翊, 長廣, 德律.
-Intel高機率帶動概念股: 鈦昇 ,智原IP, 閎康Terafab
+Intel高機率帶動概念股: 悅城, 鈦昇 ,智原IP, 閎康Terafab, 家登, 家碩
 
 台積電:
 2奈米RDL: 由田, 辛耘(山太士合作), 印能科技, 中美晶(投資晶化科技), 東捷, 德律.
