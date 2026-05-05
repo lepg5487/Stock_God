@@ -15,7 +15,7 @@ layout: testlayouts
 T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
 T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動元件07.  
 T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
-T3: BMC新唐13系微20, HVDC康舒14, Intel(悅城27)(FOPLP)(TGV).  
+T3: BMC新唐13系微20, HVDC康舒14, Intel玻璃基板(悅城27)(FOPLP)(TGV)(CMP).  
 
 4-5月: 2026/5/19, Google I/O 2026(首款搭載Gemini的AI眼鏡).  
 5-6月: 2026/6/2, Space Tech Expo USA 2026(美國太空科技展).  
@@ -27,10 +27,14 @@ T3: BMC新唐13系微20, HVDC康舒14, Intel(悅城27)(FOPLP)(TGV).
 ```
 每月營收公布高機率上漲5/5, 南亞科示範效果.
 Q1財報公布高機率上漲5/4, 定穎投控示範效果.
+Lumentum, ANET, Coherent 矽光子財報5/5.
+Coherent矽光子財報5/6. AAOI矽光子財報5/7.
 觀察波若威,東典光電,聯亞, 等待統新.
+Intel玻璃基板CMP研磨: 榮田, 明基材, 達興材料, 長興, 頌勝科技, 中砂, 崇越, 華立.
 AMD財報5/5, 買進營邦.
 觀察奇鈦科三晃永光等, 買進長興.
 ```
+[榮田CMP設備](https://www.ctee.com.tw/news/20260501700230-430503?sysid=948788200678096896), [明基材轉投資CMP耗材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=284f59283fc146beba552cf3e2181b48), [CMP研磨液:達興材料,長興.CMP代理商:崇越,華立](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222026?sysid=948788200678096896), [CMP研磨墊:頌勝科技,中砂](https://www.moneyweekly.com.tw/ArticleData/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/222016?sysid=948788200678096896)
 
 ## 2026/05/04
 ```
