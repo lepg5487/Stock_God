@@ -23,6 +23,14 @@ T3: BMC新唐13系微20, HVDC康舒14, Intel玻璃基板(悅城27)(FOPLP)(TGV)(C
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/05/07
+```
+NVDA宣布將與北美最大光纖製造商康寧建立長期合作夥伴, 使用康寧的光學玻璃光纖取代銅線, 正達和康寧策略合作.
+Intel: 力積電EMIB先進封裝架構.
+MSCI美超微: 優群供應DRAM連接器.
+```
+[力積電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=75d070f8342241b891d05c8c1f6456b2), [優群](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=da2542558bb94158a0e2df14f9cea7e6), [康寧](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=465dd8c748d84d30a175e020f60ae93b), [正達和康寧合作.](https://blog.fugle.tw/post/earnings-call-3149-2025-06-26)
+
 ## 2026/05/06
 ```
 ARM財報5/6, 威盛財報5/6,
