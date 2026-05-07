@@ -12,10 +12,10 @@ layout: testlayouts
 
 [05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
-T0: 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
+T0: Intel玻璃基板(悅城27)(FOPLP)(TGV)(CMP). 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
 T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動元件07.  
 T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
-T3: BMC新唐13系微20, HVDC康舒14, Intel玻璃基板(悅城27)(FOPLP)(TGV)(CMP).  
+T3: BMC新唐13系微20, HVDC康舒14  
 
 4-5月: 2026/5/19, Google I/O 2026(首款搭載Gemini的AI眼鏡).  
 5-6月: 2026/6/2, Space Tech Expo USA 2026(美國太空科技展).  
@@ -28,6 +28,7 @@ T3: BMC新唐13系微20, HVDC康舒14, Intel玻璃基板(悅城27)(FOPLP)(TGV)(C
 NVDA宣布將與北美最大光纖製造商康寧建立長期合作夥伴, 使用康寧的光學玻璃光纖取代銅線, 正達和康寧策略合作.
 Intel: 力積電EMIB先進封裝架構.
 MSCI美超微: 優群供應DRAM連接器.
+空手等新消息.
 ```
 [力積電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=75d070f8342241b891d05c8c1f6456b2), [優群](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=da2542558bb94158a0e2df14f9cea7e6), [康寧](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=465dd8c748d84d30a175e020f60ae93b), [正達和康寧合作.](https://blog.fugle.tw/post/earnings-call-3149-2025-06-26)
 
