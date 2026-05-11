@@ -25,9 +25,11 @@ T3: BMC新唐13系微20, HVDC康舒14
 ## 2026/05/11
 ```
 面板級扇出型封裝FOPLP, 台積電合作: 力成,采鈺. 群創合作:東捷,友威科,晶彩科.
+群創FOPLP和台積電合作, 買進東捷.
 仁寶曾經有DELL訂單起漲.
+台積電2奈米SPR: 精材, 光洋科.
 ```
-[仁寶曾經有DELL訂單起漲](https://tw.news.yahoo.com/%E5%82%B3%E6%8B%BF%E4%B8%8B%E6%88%B4%E7%88%BE%E5%8D%83%E5%84%84ai%E5%A4%A7%E5%96%AE-%E4%BB%81%E5%AF%B6%E7%A0%B8%E9%8C%A2%E8%B5%B4%E7%BE%8E%E8%A8%AD%E5%BB%A0-033246849.html)
+[仁寶曾經有DELL訂單起漲](https://tw.news.yahoo.com/%E5%82%B3%E6%8B%BF%E4%B8%8B%E6%88%B4%E7%88%BE%E5%8D%83%E5%84%84ai%E5%A4%A7%E5%96%AE-%E4%BB%81%E5%AF%B6%E7%A0%B8%E9%8C%A2%E8%B5%B4%E7%BE%8E%E8%A8%AD%E5%BB%A0-033246849.html), [群創FOPLP和台積電合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5d91e5d01a7a4b7091663a91937d67b6), [精材SPR](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=34fcb70747bc4ae795169f78091f446e)
 
 ## 2026/05/08
 ```
