@@ -29,6 +29,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 全球類比IC和PMIC供應商龍頭德州儀器(TI)預計7月1日起漲價, 上次是4月1日, "矽力-KY", 致新, 茂達, 天鈺, 德微, 強茂,等等...
 立法院最終通過7,800億元國防特別預算，但主要項目集中在對美軍購，包括自走砲、海馬士等系統，沒有台灣之盾與本土無人機供應鏈。
 任天堂: 鴻準, 偉詮電, 創惟, 原相, 旺宏.
+現在漲停板太多家,族群會太亂, 直接看弱勢股分辨哪些不要碰.
 觀察群創, 等待東捷,友威科,晶彩科.
 ```
 [德州儀器漲價1](https://www.ctee.com.tw/news/20260512700062-430501), [德州儀器漲價2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bd461f20a50f41e08e9b1c51c2a746c6), [恩智浦漲價](https://www.trendforce.com/news/2026/05/11/news-chip-price-hike-wave-builds-as-nxp-ti-reportedly-prepare-their-second-increases-this-year-for-june-and-july/), [國防預算沒有無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0a376609c5c24af6aed219a00e6c9999), [任天堂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3f1318bd431d4d99963193880b4c0300)
