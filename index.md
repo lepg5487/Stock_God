@@ -22,6 +22,16 @@ T3: BMC新唐13系微20, HVDC康舒14
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/05/12
+```
+川習會川普將在台灣時間13日晚間抵達北京, 中國概念都有機會, 立積,欣興,等等...
+全球第二大汽車半導體供應商恩智浦半導體(NXP)6月1日漲價.
+全球類比IC龍頭德州儀器(TI)預計7月1日起漲價, 矽力-KY, 致新, 茂達, 天鈺.
+立法院最終通過7,800億元國防特別預算，但主要項目集中在對美軍購，包括自走砲、海馬士等系統，未納入台灣之盾與本土無人機供應鏈。
+任天堂: 鴻準, 偉詮電, 創惟, 原相, 旺宏.
+```
+[德州儀器漲價](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bd461f20a50f41e08e9b1c51c2a746c6), [恩智浦漲價](https://www.trendforce.com/news/2026/05/11/news-chip-price-hike-wave-builds-as-nxp-ti-reportedly-prepare-their-second-increases-this-year-for-june-and-july/), [國防預算沒有無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0a376609c5c24af6aed219a00e6c9999), [任天堂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3f1318bd431d4d99963193880b4c0300)
+
 ## 2026/05/11
 ```
 面板級扇出型封裝FOPLP, 台積電合作: 力成,采鈺. 群創合作:東捷,友威科,晶彩科.
