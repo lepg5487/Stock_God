@@ -28,6 +28,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 應用材料和台積電展開最新合作計畫, 京鼎是全球最大半導體設備商美商應用材料的長期合作夥伴與重要代工廠.
 2026/05/12機器人巨頭宇樹推出全球首款量產版可載人機器人「GD01」, 造成機器人上漲?
 祥碩是AMD AM5供應商.
+觀察群創, 等待東捷,友威科.
 ```
 [京鼎,光洋科](https://money.udn.com/money/story/5612/9498783), [祥碩AMD AM5供應商](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=300a77eb3886462ab27375feeac7b681)
 
