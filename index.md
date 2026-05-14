@@ -128,7 +128,7 @@ AOI: 志聖, 東捷, 由田, 晶彩科.
 雙鴻取得中揚光8%股權.
 
 各種合作關係:
-家登: 迅得,科嶠. 日月光投控:牧德. 聖暉: 揚博. 由田: 晶彩科, TKTK. 東台: Dry Chemical. 大量: 群翊.
+家登: 迅得,科嶠. 日月光投控:牧德. 聖暉: 揚博. 由田: 晶彩科, TKTK. 大量: 群翊.
 ```
 [ZAM記憶體被定位為HBM記憶體的下一代替代方案](https://www.trendforce.com/news/2026/04/30/news-intel-softbank-reportedly-to-unveil-zam-based-hb3dm-in-june-bandwidth-more-than-double-hbm4/), [各種合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=273ae0c9db654707b5104f5cc0d84f67), [雙鴻取得中揚光8%股權](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c8e86791c3444bb3a8dbcf0adc8ab772).
 
@@ -10276,7 +10276,6 @@ BMC晶片: 信驊, 新唐, 系微.
 日月光投控:牧德.
 聖暉: 揚博.
 由田: 晶彩科, TKTK.
-東台: Dry Chemical.
 大量: 群翊.
 合作CPO: 聯電,聯穎.
 雙鴻: 取得中揚光8%股權.
