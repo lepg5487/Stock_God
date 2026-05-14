@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-[05月01日勞動節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[06月19日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 T0: Intel玻璃基板(悅城27)(FOPLP)(TGV)(CMP). 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
 T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動元件07.  
@@ -21,6 +21,14 @@ T3: BMC新唐13系微20, HVDC康舒14
 6-7月: 2026/7/24, 台灣鈣鈦礦技術暨應用論壇.  
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
+
+## 2026/05/14
+```
+上曜集團的世紀,收購星雲和天良.
+智伸科,EUV自動化設備套筒,打入艾司摩爾ASML供應鏈.
+凌華,先進製程CoWoS和CPO自動化設備.
+```
+[世紀收購天良](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=63270c52315c477cbccad6cd2a02c150), [智伸科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c4156c2e7f654800bfedd02aa52d5584), [凌華](https://blog.fugle.tw/post/earnings-call-6166-2026-05-13)
 
 ## 2026/05/13
 ```
