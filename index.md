@@ -27,6 +27,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 上曜集團的世紀,收購星雲和天良.
 智伸科,EUV自動化設備套筒,打入艾司摩爾ASML供應鏈.
 凌華,先進製程CoWoS和CPO自動化設備.
+觀察群創, 等待東捷,友威科.
 ```
 [世紀收購天良](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=63270c52315c477cbccad6cd2a02c150), [智伸科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c4156c2e7f654800bfedd02aa52d5584), [凌華](https://blog.fugle.tw/post/earnings-call-6166-2026-05-13)
 
