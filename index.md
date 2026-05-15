@@ -24,11 +24,12 @@ T3: BMC新唐13系微20, HVDC康舒14
 
 ## 2026/05/15
 ```
+三星罷工, 造成記憶體全面上漲.
 川習會面傳美批准10家陸企購買H200, 2025/12/09美國商務部即將允許NVDA的H200出口到中國, 曾經造成威盛上漲.
 台積電技術論壇提到AI眼鏡智慧眼鏡(Smart Glasses), 造成宏達電,英濟,澤米,玉晶光,揚明光,亞光等等上漲.
 台積電熊本廠: 矽科宏晟,信紘科.
 ```
-[傳美批准10家陸企購買H200](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4b824a31ba1f4dda887db20b3e251607), [台積電提到AI眼鏡](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9aaf600d264f4fda9dee2c63066f16fa), [信紘科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bdb56b0adc1406e9578f395716ba13f), [矽科宏晟](https://blog.fugle.tw/post/earnings-call-6725-20251209)
+[三星罷工](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8983db3dabee470384dea2e1b56570d4), [傳美批准10家陸企購買H200](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4b824a31ba1f4dda887db20b3e251607), [台積電提到AI眼鏡](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9aaf600d264f4fda9dee2c63066f16fa), [信紘科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6bdb56b0adc1406e9578f395716ba13f), [矽科宏晟](https://blog.fugle.tw/post/earnings-call-6725-20251209)
 
 ## 2026/05/14
 ```
