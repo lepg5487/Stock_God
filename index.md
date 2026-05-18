@@ -25,11 +25,12 @@ T3: BMC新唐13系微20, HVDC康舒14
 ## 2026/05/18
 ```
 台積電15日宣布賣出世界股票, 1.52億股相當8.1％股權, 造成世界跌停.
+先進電源管理IVR(Integrated Voltage Regulator)(整合穩壓器)(整合式電壓調節): 創意, 聯發科, "愛普"(矽電容（S-SiCap)), 精材
 2026/05/12機器人巨頭宇樹推出全球首款量產版可載人機器人「GD01」, 造成機器人上漲: 全球傳動,穎漢,羅昇,大銀微系統,盟立,陽程,宇隆,所羅門,和椿等等...
 SpaceX最早於6月12日在納斯達克上市, 造成低軌衛星上漲: 昇達科,華通,燿華,耀登.
 觀察群創, 等待東捷,友威科. 處置股鈦昇,悅城,準備出關. 也觀察TPK-KY,安可,正達.
 ```
-[台積電賣出世界股票](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7f6ea405e305481d83dbd78236f26c5e), [正達,TPK](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=90b25dff1a4848ae9ac585a5c22301ba), [東捷,友威科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=797a0fff98244deaa1d09a15a3e8d7d6)
+[目前台廠愛普進度最快](https://www.ctee.com.tw/news/20250827700232-430501?sysid=948788200678096896), [台積電IVR先進電源管理](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4ee39b0d7c344f798c7374e3c2b4ba5b), [台積電賣出世界股票](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7f6ea405e305481d83dbd78236f26c5e), [正達,TPK](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=90b25dff1a4848ae9ac585a5c22301ba), [東捷,友威科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=797a0fff98244deaa1d09a15a3e8d7d6)
 
 ## 2026/05/15
 ```
