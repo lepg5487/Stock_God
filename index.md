@@ -29,7 +29,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 SpaceX最早於6月12日在納斯達克上市, 造成低軌衛星上漲: 昇達科,華通,燿華,耀登.
 觀察群創, 等待東捷,友威科. 處置股鈦昇,悅城,準備出關. 也觀察TPK-KY,安可,正達.
 ```
-[台積電賣出世界股票](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7f6ea405e305481d83dbd78236f26c5e)
+[台積電賣出世界股票](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7f6ea405e305481d83dbd78236f26c5e), [正達,TPK](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=90b25dff1a4848ae9ac585a5c22301ba), [東捷,友威科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=797a0fff98244deaa1d09a15a3e8d7d6)
 
 ## 2026/05/15
 ```
