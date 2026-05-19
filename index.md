@@ -24,10 +24,12 @@ T3: BMC新唐13系微20, HVDC康舒14
 
 ## 2026/05/19
 ```
+大拓-KY收購"尚茂"發行股數51.6%.
 廌家,三年前投入量子電腦線材. 啓碁,布局後量子加密(PQC)模組.
 大立光切入CPO透過光纖陣列單元(FAU). 創泓科技,反制無人機.
 觀察鑫科,TPK-KY,安可,正達,蔚華科,群創, 等待東捷,友威科. 處置股鈦昇,悅城,準備出關.
 ```
+[大拓-KY,尚茂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0861dbc4b25648fba5c77dbed52e3527), 
 [創泓科技反制無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=384fb7cce82c4f5dba4bbe86265230ca), [廌家量子電腦線材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b04425d9fc424cc1a1f102ee4db86eb6), [大立光CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0efc431f662546719cd7ae86769c9c4e), [啓碁布局後量子加密模組](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=692c3a07414742509a4824eff2bab0a1)
 
 ## 2026/05/18
