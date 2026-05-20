@@ -26,10 +26,11 @@ T3: BMC新唐13系微20, HVDC康舒14
 ```
 2026年9月23日Meta LlamaCon高機率是AI眼鏡?
 環球晶,持有德國矽晶圓廠Siltronic造成上漲, 連動性很高.
-NVIDIA Vera CPU交貨到Anthropic、OpenAI、SpaceXAI和甲骨文等首批客戶手上, 造成(HVDC)台半,德微,強茂上漲.
+NVIDIA Vera CPU交貨到Anthropic、OpenAI、SpaceXAI和甲骨文等首批客戶手上, 造成(HVDC)德微,博盛半導體,台半,強茂上漲.
+英特爾2025年Intel Foundry Direct Connect: 聯發科, 聯電, 力旺, 欣興.
 觀察鑫科,TPK-KY,安可,正達,蔚華科,鈦昇,雷科,群創, 等待東捷,友威科. 處置股悅城準備出關.
 ```
-[Meta LlamaCon](https://www.meta.com/zh-tw/blog/connect-2026-save-the-date/?brid=YWdncwHnrBr_XiPr8d89vvLXe6Dh), [環球晶](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=05728ccb12914d95b1d68dfaadbc98d0), [Vera原文](https://blogs.nvidia.com/blog/vera-cpu-delivery/), [Vera新聞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e46bf6a5353f4d019c2e40e7ff26479e)
+[德微,博盛半導體](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6963cccb8c1c47459a698a2811bdb320), [Intel](https://money.udn.com/money/story/5612/8707516), [Meta LlamaCon](https://www.meta.com/zh-tw/blog/connect-2026-save-the-date/?brid=YWdncwHnrBr_XiPr8d89vvLXe6Dh), [環球晶](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=05728ccb12914d95b1d68dfaadbc98d0), [Vera原文](https://blogs.nvidia.com/blog/vera-cpu-delivery/), [Vera新聞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e46bf6a5353f4d019c2e40e7ff26479e)
 
 ## 2026/05/19
 ```
