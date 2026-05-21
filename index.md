@@ -33,9 +33,10 @@ T3: BMC新唐13系微20, HVDC康舒14
 2026年6月24日至7月31日舉行RIMPAC環太平洋軍演(2年一次), 龍德造船?雷虎?
 AMD的新伺服器處理器Venice: 博智, 新聿科, 金居, 日月光投控, 信驊, 嘉澤,  穎崴,  致茂.
 Intel的新伺服器處理器Oak Stream:  健鼎, 台光電, 台燿, 金居, 博智, 嘉澤, 信驊.
+凌陽,凌陽創新,通過AMD和INTC認證供應商名單, 成為目前市場上首家同時獲得兩大處理器巨頭官方認證的eUSB2V1方案供應商.
 看波若威,統新,瑞軒, 觀察東典光電.
 ```
-[中國海關15日將RTX5090DV2輝達晶片禁運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9ee1e5a9651949b88941e2a9a804d004), [風青](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cbb6e187927147bc80bf588117baa58e), 
+[凌陽,凌陽創新](https://m.cnyes.com/news/id/6462157), [中國海關15日將RTX5090DV2輝達晶片禁運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9ee1e5a9651949b88941e2a9a804d004), [風青](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cbb6e187927147bc80bf588117baa58e), 
 [國巨6月1日漲價](https://www.ctee.com.tw/news/20260521700084-430502), [Panasonic松下](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9dab68d5780f44828afdeea73a8234ce), [AMD的Venice](https://www.trendforce.com/news/2026/05/21/news-amds-lisa-su-reportedly-to-visit-tsmc-for-2nm-capacity-announces-us10b-taiwan-ai-packaging-investment/)
 
 ## 2026/05/20
