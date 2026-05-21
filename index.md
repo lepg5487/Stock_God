@@ -22,6 +22,16 @@ T3: BMC新唐13系微20, HVDC康舒14
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/05/21
+```
+中國海關15日禁運NVIDIA晶片, 造成威盛,金麗科上漲.
+全球微型逆變器龍頭美國Enphase Energy的線材供應廠商: 風青.
+日本Panasonic松下被動元件相關SP-Cap產品7月1日漲價, 造成日電貿, 堡達上漲.
+國巨6月1日漲價.
+```
+[中國海關15日將RTX5090DV2輝達晶片禁運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9ee1e5a9651949b88941e2a9a804d004), [風青](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cbb6e187927147bc80bf588117baa58e), 
+[國巨6月1日漲價](https://www.ctee.com.tw/news/20260521700084-430502), [Panasonic松下](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9dab68d5780f44828afdeea73a8234ce)
+
 ## 2026/05/20
 ```
 2026年9月23日Meta LlamaCon高機率是AI眼鏡?
