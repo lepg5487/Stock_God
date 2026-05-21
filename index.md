@@ -31,6 +31,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 全球微型逆變器龍頭美國Enphase Energy的線材供應廠商: 風青.
 國巨6月1日漲價. 日本Panasonic松下被動元件相關SP-Cap產品7月1日漲價, 造成日電貿, 堡達上漲. 
 2026年6月24日至7月31日舉行RIMPAC環太平洋軍演(2年一次), 龍德造船?雷虎?
+看波若威,統新,瑞軒, 觀察東典光電.
 ```
 [中國海關15日將RTX5090DV2輝達晶片禁運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9ee1e5a9651949b88941e2a9a804d004), [風青](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cbb6e187927147bc80bf588117baa58e), 
 [國巨6月1日漲價](https://www.ctee.com.tw/news/20260521700084-430502), [Panasonic松下](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9dab68d5780f44828afdeea73a8234ce)
