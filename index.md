@@ -4,11 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 05/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 2026/05/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 2026/06/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/12造成VIX上漲,全球指數下跌,幾乎所有個股高點,6/11空手.
 
-台灣時間晚上 06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
+台灣時間晚上 2026/06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+
+台灣時間晚上 2026/06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
 [06月19日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
@@ -24,10 +26,11 @@ T3: BMC新唐13系微20, HVDC康舒14
 
 ## 2026/05/21
 ```
+5/12公布CPI造成VIX上漲,全球指數下跌,幾乎所有個股高點, 6/11空手.
 中國海關15日禁運NVIDIA晶片, 造成威盛,金麗科上漲.
 全球微型逆變器龍頭美國Enphase Energy的線材供應廠商: 風青.
-日本Panasonic松下被動元件相關SP-Cap產品7月1日漲價, 造成日電貿, 堡達上漲.
-國巨6月1日漲價.
+國巨6月1日漲價. 日本Panasonic松下被動元件相關SP-Cap產品7月1日漲價, 造成日電貿, 堡達上漲. 
+2026年6月24日至7月31日舉行RIMPAC環太平洋軍演(2年一次), 龍德造船?雷虎?
 ```
 [中國海關15日將RTX5090DV2輝達晶片禁運](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9ee1e5a9651949b88941e2a9a804d004), [風青](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cbb6e187927147bc80bf588117baa58e), 
 [國巨6月1日漲價](https://www.ctee.com.tw/news/20260521700084-430502), [Panasonic松下](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9dab68d5780f44828afdeea73a8234ce)
