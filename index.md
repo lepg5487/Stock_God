@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/05/20. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 2026/06/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 2026/06/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/12造成VIX上漲,全球指數下跌,幾乎所有個股高點,6/11空手.
 
@@ -23,6 +23,14 @@ T3: BMC新唐13系微20, HVDC康舒14
 6-7月: 2026/7/24, 台灣鈣鈦礦技術暨應用論壇.  
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
+
+## 2026/05/21
+```
+川普投資量子電腦, 造成美股IBM,QBTS,IONQ上漲.
+量子電腦: 金寶, 仁寶, 博磊, 千附精密, 普萊德, 廌家, 啓碁.
+
+```
+[川普投資量子電腦](https://www.ctee.com.tw/news/20260522700150-439901)
 
 ## 2026/05/21
 ```
