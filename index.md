@@ -29,9 +29,10 @@ T3: BMC新唐13系微20, HVDC康舒14
 川普投資量子電腦, 造成美股IBM,QBTS,IONQ上漲.
 量子電腦: 金寶, 仁寶, 博磊, 千附精密, 普萊德, 廌家, 啓碁.
 所有題材都向上噴發, 看泰藝晶技等石英元件, 觀察台灣精材.
+2026年6月14日至6月18日2026 IEEE/JSAP Symposium on VLSI Technology & Circuits, 美光和"力積電"公布更多ZAM記憶體細節.
 觀察鑫科,TPK-KY,安可,正達,蔚華科,鈦昇,雷科,群創, 等待東捷,友威科. 處置股悅城準備出關.
 ```
-[川普投資量子電腦](https://www.ctee.com.tw/news/20260522700150-439901)
+[川普投資量子電腦](https://www.ctee.com.tw/news/20260522700150-439901), [](https://www.trendforce.com/news/2026/05/22/news-psmc-joins-intel-saimemory-to-demo-9-layer-fusion-bonded-via-in-one-architecture-for-high-bandwidth-3d-memory/)
 
 ## 2026/05/21
 ```
