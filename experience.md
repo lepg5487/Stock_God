@@ -121,6 +121,11 @@ Step2: (Step1)買進T0賺錢且確定漲停時, 繼續買進同族群T1.
 
 # 商品
 ```
+AMD的新伺服器處理器Venice: 博智, 新聿科, 金居, 日月光投控, 信驊, 嘉澤,  穎崴,  致茂.
+先進封裝技術嵌入式微間距凸塊(高架扇出橋接技術)(EFB)(Elevated Fan-out Bridge): 日月光, 力成
+Intel的新伺服器處理器Oak Stream:  健鼎, 台光電, 台燿, 金居, 博智, 嘉澤, 信驊.
+EMIB: 愛普, 力積電
+
 NVIDIA Vera Rubin:
 水冷板散熱: 奇鋐,雙鴻,健策
 SOCAMM2記憶體: 擎亞
