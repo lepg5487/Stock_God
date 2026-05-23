@@ -24,7 +24,14 @@ T3: BMC新唐13系微20, HVDC康舒14
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
-## 2026/05/21
+## 2026/05/23
+```
+先進封裝技術嵌入式微間距凸塊(高架扇出橋接技術)(EFB)(Elevated Fan-out Bridge): 日月光, 力成.
+文曄和日電貿交叉持股深化合作關係。
+```
+[AMD新封裝EFB](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=181f79f3e9624edbb2195b7ff4b11aba), [文曄日電貿](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c162277c8de7481a9e720ce634066ab5)
+
+## 2026/05/22
 ```
 川普投資量子電腦, 造成美股IBM,QBTS,IONQ上漲.
 量子電腦: 金寶, 仁寶, 博磊, 千附精密, 普萊德, 廌家, 啓碁.
