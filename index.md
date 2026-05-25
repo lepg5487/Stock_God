@@ -29,7 +29,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 量子電腦: 金寶, 仁寶, 博磊, 千附精密, 普萊德, 廌家, 啓碁, 廣達(投資Rigetti), 旺宏(IBM合作,IBM被定義為量子股).
 AMD Zen 7: 力成(EFB先進封裝), 譜瑞-KY(ASIC-Like).
 力士, 任天堂遊戲機訂單.
-觀察鑫科,TPK-KY,安可,正達,蔚華科,鈦昇,雷科,悅城,群創, 等待東捷,友威科.
+觀察鑫科,TPK-KY,安可,正達,蔚華科,鈦昇,雷科,悅城,群創, 等待東捷,友威科. 由田位置很棒.
 ```
 [AMD Zen 7](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fdb9068822d94203abdabb645a8ea40f), [力士任天堂遊戲機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b328721ca56a4f129ddca698d6b5fa8e), [新量子,廣達旺宏](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d2fad93054884687b3b18c955e383ec2)
 
