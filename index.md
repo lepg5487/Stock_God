@@ -33,9 +33,10 @@ Bloom Energy概念股: 崇越, 高力, 康舒,金寶.
 伸興, 持股宇隆26%. 雷虎合作義隆電無人機.
 上緯投控,積極開發M8等級銅箔基板的環保環氧樹脂與硬化劑配方, 台光電、台燿等CCL龍頭大廠並與其中一家龍頭廠已建立合作關係。
 矽光子,光通訊金凸塊Bumping濺鍍: 頎邦, 光洋科.
+國巨子公司: 凱美, 同欣電, 富鼎.
 觀察群創,悅城等, 等待東捷. 觀察位速, 買進聯合再生. SpaceX將於6月12日掛牌上市.
 ```
-[光洋科頎邦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=890f227c89774195b2f1b357ca9d2a29), [上緯投控](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c4e6383bb014f3ea665c1a93ec410ff), [伸興](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cc715e93e8954f47bc4d74922f24f3ba), [崇越](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0f01f1889bf44dd294d3adbba1a9b7d5), [禾伸堂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=874575254bad46198d33d1ce0f986ba7), [良維](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0b288a02be1f47418afd4df152053428), [雷虎義隆電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=85592273288f484591e6feddb4f361ef), [萬泰科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fcfaf5bfab2a4a4b920f5e37f85f90ab), [](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0f01f1889bf44dd294d3adbba1a9b7d5)
+[國巨,凱美同欣電富鼎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=64f777b2edda4eccb4f3b606108c0cb5), [光洋科頎邦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=890f227c89774195b2f1b357ca9d2a29), [上緯投控](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c4e6383bb014f3ea665c1a93ec410ff), [伸興](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cc715e93e8954f47bc4d74922f24f3ba), [崇越](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0f01f1889bf44dd294d3adbba1a9b7d5), [禾伸堂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=874575254bad46198d33d1ce0f986ba7), [良維](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0b288a02be1f47418afd4df152053428), [雷虎義隆電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=85592273288f484591e6feddb4f361ef), [萬泰科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fcfaf5bfab2a4a4b920f5e37f85f90ab), [](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0f01f1889bf44dd294d3adbba1a9b7d5)
 
 ## 2026/05/25
 ```
