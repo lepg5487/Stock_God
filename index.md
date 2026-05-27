@@ -24,6 +24,15 @@ T3: BMC新唐13系微20, HVDC康舒14
 9-10月: 2026/10/14, 台灣能源展(鈣鈦礦?).  
 10-11月: 2026/11/10, 台灣量子科技計畫徵集2026 Quantum Taiwan Call for Participation (CfP).  
 
+## 2026/05/27
+```
+台積電近期傳出砍員工分紅, 台積電有職工福利委員會, 但沒有工會, 預期號召罷工有難度.
+上銀,大銀微系統,轉型矽光子檢測設備廠.
+中美晶,已有太空應用PERC太陽能產品小量出貨中.
+美律,切入AI眼鏡.
+```
+[上銀大銀微系統](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=17c1157fb07343afb6b6e28090499f09), [中美晶](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=79332e74ae03497ab8cf589b5877e40b), [美律](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ec6454bc105b4999b60faf128206101b), [台積砍分紅](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c887e22a28e046ccbf5fc293f3109098)
+
 ## 2026/05/26
 ```
 良維,禾伸堂客戶有VeraRubin,AWS,微軟,Google,Meta,Dell.
