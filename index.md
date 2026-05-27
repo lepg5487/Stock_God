@@ -30,8 +30,11 @@ T3: BMC新唐13系微20, HVDC康舒14
 上銀,大銀微系統,轉型矽光子檢測設備廠.
 中美晶,已有太空應用PERC太陽能產品小量出貨中.
 美律,切入AI眼鏡.
+前OpenAI大老旗下對沖基金Situational Awareness LP, 最新公告的13F持倉報告中, 建倉美國本土光伏太陽能巨頭T1 Energy, 造成聯合再生等太陽能+3%.
+2026年5月28日國際玻璃通孔技術創新與應用論壇 iTGV 2026, 觀察群創,悅城等, 等待東捷.
+SpaceX將於6月12日掛牌上市. 觀察位速, 等待聯合再生.
 ```
-[上銀大銀微系統](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=17c1157fb07343afb6b6e28090499f09), [中美晶](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=79332e74ae03497ab8cf589b5877e40b), [美律](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ec6454bc105b4999b60faf128206101b), [台積砍分紅](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c887e22a28e046ccbf5fc293f3109098)
+[T1 Energy](https://www.moneyweekly.com.tw/ArticleData/Info/Article/229340), [上銀大銀微系統](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=17c1157fb07343afb6b6e28090499f09), [中美晶](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=79332e74ae03497ab8cf589b5877e40b), [美律](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ec6454bc105b4999b60faf128206101b), [台積砍分紅](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c887e22a28e046ccbf5fc293f3109098)
 
 ## 2026/05/26
 ```
