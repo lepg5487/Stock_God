@@ -31,6 +31,7 @@ GIS-KY奪下輝光通訊大廠Coherent訂單, Coherent概念股: 光聖, IET-KY,
 Vera Rubin概念股: 可成, 良維, 嘉基, 禾伸堂.
 機器人策略合作: 程泰, 亞崴, 新代.
 鋁價鋁電容上漲: 立敦, 金山電, 立隆電, 鈺邦, 凱美.
+矽光子環宇-KY跌停第二天小心, 觀察群創,悅城等, 等待東捷.
 ```
 [GIS-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a97af8fc3cbd451cbafad5e1f461772c), [可成Vera Rubin](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3f5b1df0bfa149319a36e2d2954b537c), [程泰,亞崴,新代](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ea16580cc5bd4a8593aec5d648f0d1d2), [太陽誘電代理商蜜望實](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=caf384116c7248358c350d55e3d070f0), [鋁價鋁電容上漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=36cc0e76528049c895a142b383f4e377)
 
