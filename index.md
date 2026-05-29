@@ -25,8 +25,9 @@ T3: BMC新唐13系微20, HVDC康舒14
 新纖轉型半導體特化材料. 堤維西旗下子公司儒億切入PCB.
 Marvell邁威爾: 華星光光通訊合作夥伴. 矽光子欣銓轉投資瑞峰, 瑞峰被Fabrinet入股.
 PI膜材料(PI被列為先進封裝材料的候選名單): 達邁,達勝
+2026/5/23矽電容(Si-Cap): 華邦電有機會成為SEMCO潛在合作夥伴造成上漲. 矽電容: 愛普, 華邦電.
 ```
-[儒億](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=67d2929491114f44a5cab86b7407e0f2), [新纖](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b659a08a078f4932a6d47197d42fd08c), [華星光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d9b78afa8bf54f83a357c8efbc955bc6), [欣銓瑞峰](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4de2e7bd10fd4e2891e1155803f03c03), [232關稅優惠](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6809521a6d7c4eafbae60529955f9a4f), [達勝達邁](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6ba185897db64fba886d1346baec20f7)
+[儒億](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=67d2929491114f44a5cab86b7407e0f2), [新纖](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b659a08a078f4932a6d47197d42fd08c), [華星光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d9b78afa8bf54f83a357c8efbc955bc6), [欣銓瑞峰](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4de2e7bd10fd4e2891e1155803f03c03), [232關稅優惠](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6809521a6d7c4eafbae60529955f9a4f), [達勝達邁](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6ba185897db64fba886d1346baec20f7), [華邦電矽電容](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5b033de6734c46f2977893da4fca68e2)
 
 ## 2026/05/28
 ```
