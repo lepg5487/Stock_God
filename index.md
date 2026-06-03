@@ -14,6 +14,8 @@ layout: testlayouts
 
 [06月19日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
+2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
+
 T0: Intel玻璃基板(悅城27)(FOPLP)(TGV)(CMP). 矽光子01, PCB欣興01, 穿孔(大量01尖點07).  
 T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動元件07.  
 T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
@@ -21,15 +23,16 @@ T3: BMC新唐13系微20, HVDC康舒14
 
 ## 2026/06/03
 ```
-NVIDIA N1X(RTX Spark)(AI PC)(邊緣運算等等): 宏碁, 藍天, 佳世達, 廣達, 微星, 華碩, 英業達, 仁寶, 系微. 系微可以搶短.
+NVIDIA N1X(RTX Spark)(AI PC)(邊緣運算等等): 宏碁, 藍天, 佳世達, 精英, 廣達, 微星, 華碩, 英業達, 仁寶, 系微. 系微可以搶短.
 Intel新商品合作: AMAX-KY, 宏碁, 技嘉.
 貿聯-KY併購新富生主要客戶為康寧. 康寧: 沛亨, 貿聯-KY, 正達.
 Marvell邁威爾: 華星光, 日月光投控, 一詮.
 NVIDIA第3代MGX機架: 臻鼎-KY, 可成.
-
+2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。
+上銀合作高通PLP.
 新唐上次4/1漲價, 4/10開始起漲, 7/1準備漲價, 4/09~10可以買進.
 ```
-[Intel新商品合作](https://newsroom.intel.com/press-kit/press-kit-intel-at-computex-2026), [新唐7/1調漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f393a26b176f4017abb523bc1c583dba), [貿聯-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=39f383b62c2740c69f621a0e22fe6777), [MGX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1320c6d068d44dde98353673e6d2de5f)
+[Intel新商品合作](https://newsroom.intel.com/press-kit/press-kit-intel-at-computex-2026), [新唐7/1調漲](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f393a26b176f4017abb523bc1c583dba), [貿聯-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=39f383b62c2740c69f621a0e22fe6777), [MGX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1320c6d068d44dde98353673e6d2de5f), [上銀合作高通PLP](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=536cdc66d439480e81f0f31e72253623), [程泰亞崴新代](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2d22921ad81a43628b4a74ae3d903f26)
 ```
 NVDA顯卡每2年一次規律, 微星, 買進10月底11月初.
 20系列(2018年), 微星, 買進10月底11月初, 最底收盤價40%(隔年5~7月)(O)
