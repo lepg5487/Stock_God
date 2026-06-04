@@ -24,13 +24,14 @@ T3: BMC新唐13系微20, HVDC康舒14
 ## 2026/06/04
 ```
 晶心科取得Meta訂單. 大立光攜手先進光CPO. 鐿鈦轉型矽光子.
-觀察力積電, 力成, 精材, 昇陽半導體, 中砂.
+2026年6月14日, VLSI研討會Intel台灣唯一ZAM記憶體概念股: 力積電. 
+2026年6月23日, NVIDIA RTX AI PC Partner Summit, NVIDIA N1X(RTX Spark)(AI PC)(邊緣運算等等): 宏碁, 藍天, 佳世達, 精英, 廣達, 技嘉, 微星, 華碩, 英業達, 仁寶, 系微.
 ```
 [晶心科Meta訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=978520997124490886512346a15df8d6), [大立光攜手先進光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=082a27ea16f44236b856e7c1484e9bba), [鐿鈦矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=25dc54360f744539acc9dea1a121cc3f)
 
 ## 2026/06/03
 ```
-NVIDIA N1X(RTX Spark)(AI PC)(邊緣運算等等): 宏碁, 藍天, 佳世達, 精英, 廣達, 微星, 華碩, 英業達, 仁寶, 系微. 系微可以搶短.
+NVIDIA N1X(RTX Spark)(AI PC)(邊緣運算等等): 宏碁, 藍天, 佳世達, 精英, 廣達, 技嘉, 微星, 華碩, 英業達, 仁寶, 系微. 系微可以搶短.
 Intel新商品合作: AMAX-KY, 宏碁, 技嘉.
 貿聯-KY併購新富生主要客戶為康寧. 康寧: 沛亨, 貿聯-KY, 正達.
 Marvell邁威爾: 華星光, 日月光投控, 一詮.
