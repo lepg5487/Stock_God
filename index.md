@@ -21,6 +21,16 @@ T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動
 T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
 T3: BMC新唐13系微20, HVDC康舒14  
 
+## 2026/06/05
+```
+聯友金屬主要產品是鎢酸鈉及鎢酸鈣, 聯友金屬也是全球前三大的鎢酸鈉製造商, 鎢酸鈉領域的產量居全球第一.
+2026年6月17日 AWS Summit, AWS概念股有機會.
+納微Navitas打入NVIDIA最新MGX生態系, 供應800V直流(800VDC)供電架構所需氮化鎵與碳化矽晶片.
+力積電是納微Navitas主力代工廠.
+2026年6月14日, VLSI研討會Intel ZAM, 緩慢買進力積電.
+```
+[力積電納微Navitas](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f0573fe110af401e9a40f5958b89b701), [聯友金屬基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4f0f7d5eff214ea38a306c787f9c4058)
+
 ## 2026/06/04
 ```
 晶心科取得Meta訂單. 大立光攜手先進光CPO. 鐿鈦轉型矽光子.
