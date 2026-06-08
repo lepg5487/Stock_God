@@ -6,7 +6,9 @@ layout: testlayouts
 
 台灣時間晚上 2026/06/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 2026/06/06. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 上次5/09造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/06空手.
+台灣時間晚上 2026/06/06. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 上次5/09造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/05空手.
+
+台灣時間晚上 2026/06/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/13造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/10空手.
 
 台灣時間晚上 2026/06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -23,8 +25,12 @@ T3: BMC新唐13系微20, HVDC康舒14
 
 ## 2026/06/08
 ```
+等待台灣時間晚上2026/06/11公布CPI.
 空手等待漲停板提示族群, 或是新消息新族群.
 全部反彈暴漲也一樣繼續等待.
+太多人討論玻璃基板等等...
+2026年6月23日, NVIDIA RTX AI PC Partner Summit, 主觀看好仁寶等等的AIPC, 最沒人討論.
+6月17日AWS Summit: 良維, 禾伸堂, 欣興, 一詮, 金像電, 台燿, 貿聯-KY(60%AWS), 世芯-KY
 ```
 
 ## 2026/06/06
