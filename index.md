@@ -23,6 +23,13 @@ T1: HVLP金居07, PCB廢水昶昕07, 玻纖布, Rubin(嘉基07,營邦07), 被動
 T2: 台勝科08, 石英08, 2奈米AMCALD08(奇鈦科長興雙鍵)(日勝化永光).  
 T3: BMC新唐13系微20, HVDC康舒14  
 
+## 2026/06/09
+```
+2月到4月中國停止出口碳化鎢和鎢粉, 台灣唯一廠商: 聯友金屬.
+義隆轉型矽光子,無人機.
+```
+[義隆矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f8890f6b780a4400b5bea13ec0ff3bbd), [聯友金屬](https://www.trendforce.com/news/2026/06/09/news-chinas-tungsten-carbide-and-powder-exports-to-japan-reportedly-drop-to-zero-in-feb-apr-as-prices-surge/)
+
 ## 2026/06/08
 ```
 等待台灣時間晚上2026/06/11公布CPI.
