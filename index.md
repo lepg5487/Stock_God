@@ -27,6 +27,7 @@ T3: BMC新唐13系微20, HVDC康舒14
 ```
 2月到4月中國停止出口碳化鎢和鎢粉, 台灣唯一廠商: 聯友金屬.
 義隆轉型矽光子,無人機.
+全部反彈暴漲, 等待. 觀察波若威聯亞等矽光子.
 ```
 [義隆矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f8890f6b780a4400b5bea13ec0ff3bbd), [聯友金屬](https://www.trendforce.com/news/2026/06/09/news-chinas-tungsten-carbide-and-powder-exports-to-japan-reportedly-drop-to-zero-in-feb-apr-as-prices-surge/)
 
