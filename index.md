@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/06/06. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 上次5/09造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/05空手.
 
-台灣時間晚上 2026/06/11. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/13造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/10空手.
+台灣時間晚上 2026/06/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/13造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/10空手.
 
 台灣時間晚上 2026/06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -23,9 +23,9 @@ layout: testlayouts
 
 ## 2026/06/10
 ```
-2026/05/13上個月CPI公布以後造成VIX上漲加權櫃買指數下跌5~7天, 2026/06/11準備公布CPI.
+2026/05/13上個月CPI公布以後造成VIX上漲加權櫃買指數下跌5~7天, 2026/06/10準備公布CPI.
 逆指數的太反直覺, 所以不會去操作被動元件,光學,富邦媒(LINEPAY,綠界),營建等等題材.
-2026/6/18中央銀行理監事聯席會議, 新青安2.0月準備公布, 造成營建股全面起漲, 遠雄,國建,長虹,聯上發,冠德等等.
+2026/06/18中央銀行理監事聯席會議, 新青安2.0月準備公布, 造成營建股全面起漲, 遠雄,國建,長虹,聯上發,冠德等等.
 觀察波若威,聯亞等矽光子起漲, 再開始動作.
 ```
 [新青安2.0](https://www.storm.mg/article/11140110)
