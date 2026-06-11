@@ -26,7 +26,7 @@ layout: testlayouts
 ```
 2026/06/17再開始買進, 觀察大綜(賣電腦筆電通路商), 主觀看好仁寶,華碩,宏碁,藍天(DELL),佳世達.
 2026/06/23, NVIDIA RTX AI PC Partner Summit.
-2026/07/01, DELL,聯想電腦漲價, IGBT(環球晶,合晶,台勝科)漲價, PMIC(矽力-KY,德微,台半)漲價, 新唐漲價.
+2026/07/01, DELL,聯想電腦漲價, 英飛凌(Infineon),意法半導體(STMicroelectronics): IGBT(環球晶,合晶,台勝科)漲價, 德州儀器(TI): PMIC(矽力-KY,德微,台半)漲價, 新唐漲價.
 觀察波若威,聯亞等矽光子起漲, 再開始動作.
 ```
 [7月DELL聯想電腦漲價](https://www.trendforce.com/news/2026/06/10/news-lenovo-reportedly-set-for-july-price-hikes-across-product-portfolio-as-memory-costs-pressure-pc-market/), [7月漲價IGBT,PMIC](https://www.ctee.com.tw/news/20260611700077-430704)
