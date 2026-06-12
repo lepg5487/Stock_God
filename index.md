@@ -19,17 +19,21 @@ layout: testlayouts
 2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 
 6月T0: 被動(國巨等), 光學(大立光等), 石英(晶技等), 金居.  
-6月T1: IGBT(環球晶,合晶,台勝科)漲價, PMIC(矽力-KY,德微,台半), 新唐, 高力康舒.  
+6月T1: IGBT(HVDC)(環球晶,合晶,台勝科)漲價, PMIC(HVDC)(矽力-KY,德微,台半), 新唐, 高力康舒.  
 6月T1: PCB穿孔(大量,尖點,科嶠),玻璃基板(FOPLP)(TGV)(鈦昇,雷科,東捷,聯策,力成,悅城,正達等).  
 
 ## 2026/06/12
 ```
+凌嘉FOPLP製程設備出貨美國客戶, 宣德Starlink地面接收站訂單, 立凱-KY簽訂LFP鋰電池正極材料前驅體供貨奪特斯拉大單.
+聯陽HDMI2.1重計時器晶片(Retimer)打入NVDA供應鏈.
 假設環球晶,合晶,是指數指標.
 觀察藍天,微星,宏碁等等, 族群有人漲停就開始買進仁寶.
 觀察悅城,力成,東捷,雷科,鈦昇等等, 族群有人漲停就開始買進群創.
 2026年6月14日, VLSI研討會Intel ZAM, 觀察華邦電,南亞科,買進力積電.
-觀察台半,矽力-KY, 買進德微.
+觀察環球晶,合晶,台勝科, 觀察台半,矽力-KY, 買進德微.
 ```
+[凌嘉FOPLP](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9bd9b168a0ea47f5a0ffbd342ea0198b), [宣德Starlink](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d40bfe1563f3452aa7ffc1dba2163db7), [立凱-KY奪特斯拉大單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=46c3aae7e0d44a79aa16ed031a63e2d0).
+[聯陽打入NVDA供應鏈](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1e4bb047a6b54cc1bbeffc45670329b6)
 
 ## 2026/06/11
 ```
