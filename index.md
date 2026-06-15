@@ -6,9 +6,9 @@ layout: testlayouts
 
 台灣時間晚上 2026/06/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 2026/06/06. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 上次5/09造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/05空手.
+台灣時間晚上 2026/07/02. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 07/02空手.
 
-台灣時間晚上 2026/06/10. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 上次5/13造成VIX上漲,全球指數下跌,幾乎所有個股高點,06/10空手.
+台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 07/14空手.
 
 台灣時間晚上 2026/06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
