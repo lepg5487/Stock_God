@@ -29,7 +29,7 @@ layout: testlayouts
 SpaceX需要濾光片: 統新, 東典光電.
 2026/06/17,AWS Summit-New York,AWS資料中心大電流電源線的最大供應商, 買進良維.
 觀察華邦電,南亞科, 等待力積電.
-觀察台半,朋程,強茂, 等待德微.
+觀察台半,朋程,強茂,矽力-KY,力智, 等待德微.(應該買矽力-KY,該檢討.)
 ```
 [盟立](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=50842b7d25e84b36be8df14f41ded276), [全友](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7ca1493830584931bbc219a1859bd922), [鼎元](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2890081b76fc4c8d9b909d6dfc0c6453), [SpaceX需要濾光片](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f436d1ffcf8744179f91e04cad7cc0fd), [朋億](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=14ab85b56ca4410ea23584df7d0f5ba3)
 
