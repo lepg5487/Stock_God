@@ -24,9 +24,13 @@ layout: testlayouts
 
 ## 2026/06/16
 ```
-
+六方科-KY,擴大出貨光通訊廠, Fabbinet、Coherent、Lumentum.
+建通,針對NVIDIA新一代GPU散熱架構所需「AI液冷微通道散熱銅材」進行深度布局.
+匯鑽科,專業表面處理廠轉型AI液冷散熱、CPO光通訊.
+美股夜盤個股平均-2%, 沒有拉開成本的個股先賣出觀望.
 2026/06/24美光財報, 觀察華邦電,南亞科, 等待力積電.
 ```
+[六方科-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=17a9f4807d6c43388b31f9112719f4c8), [建通](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e5bc2f89f3ff4e72acb1b0a7956551ca), [匯鑽科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=69bae15702e94d2286736827a690b727)
 
 ## 2026/06/15
 ```
