@@ -26,8 +26,7 @@ layout: testlayouts
 大立光首度參加9月登場的台灣國際半導體展(SEMICON Taiwan), 展示一系列CPO新品.
 華紙憑著特殊材料攻進日韓面板大廠、歐洲精品業.
 台苯表示，用於探針測試的鍍膜材料，已逐步導入客戶, 台積電等晶圓大廠的2奈米以下先進製程，還有先進封裝玻璃基板等領域，都需要用到鍍膜技術.
-觀察群創,力成,雷科,鈦昇,聯策等等, 群創準備出關, 等待東捷.
-2026/06/24美光財報, 觀察華邦電,南亞科, 等待力積電.
+觀察群創,雷科,鈦昇,聯策等等, 群創準備出關, 等待東捷, 買進力成.
 這禮拜打錯的地方就是沒買矽晶圓, 就算合晶不能融資也可以買沒被關的中美晶, 該檢討.
 ```
 [大立光CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3997947fe88549e38ed1fc3596a94f78), [大立光CPO基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a06bd78dc6a54673a74237d6071f12a9), [華紙](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=32298133250d4f4a90557285dc270e62), [台苯國喬](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ff9e878ac73a4a5484f725508b3cac26)
