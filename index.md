@@ -4,22 +4,29 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/06/17. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 2026/07/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 2026/07/02. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 07/02空手.
 
 台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 07/14空手.
 
-台灣時間晚上 2026/06/17. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
+台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
-台灣時間晚上 2026/06/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
+台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
 [06月19日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 
 6月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), 被動元件(國巨等), 光學CPO(大立光等)  
-6月T1: 記憶體(南亞科,華邦電,力積電),玻璃基板(FOPLP)(TGV)(群創,雷科,東捷,力成,正達等).  
+6月T1: 記憶體(南亞科,華邦電).  
+6月T2: 玻璃基板(FOPLP)(TGV)(群創,雷科,東捷,力成,正達等).  
+6月T3: HVDC(台半,德微,強茂,朋程,矽力-KY等等).  
+
+## 2026/06/18
+```
+觀察群創,雷科,鈦昇,聯策等等, 等待東捷.
+```
 
 ## 2026/06/17
 ```
