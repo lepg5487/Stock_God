@@ -22,6 +22,14 @@ layout: testlayouts
 6月T1: 記憶體(華邦電>南亞科),  HVDC(台半>矽力-KY>德微,強茂,朋程等等).  
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 
+## 2026/06/21
+```
+2026/5/14智伸科打入艾司摩爾(ASML)供應鏈, 6/11艾司摩爾(ASML)+10%才造成智伸科開始發動起漲.
+威盛ASIC設計服務業者威宏已經有3奈米製程案件. 威盛光通訊業務主要以旗下子公司微捷創研負責相關業務.
+封裝訂單外溢二線廠: 力成,超豐,日月光,矽格,,台星科,頎邦,欣銓,京元電,同欣電.
+```
+[威盛](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9a11dccced2848e5b267a669373c5c8c), [封裝訂單外溢二線廠](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1427f6a1310e4b4790c6bc7636146fef), [智伸科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c4156c2e7f654800bfedd02aa52d5584)
+
 ## 2026/06/18
 ```
 佳美工,尼吉康代理商: 日電貿, 日本松下代理商: 堡達, 鋁電容: 凱美,立隆電,金山電,國巨.
