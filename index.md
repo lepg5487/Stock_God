@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/07/15. 結算. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 2026/07/15. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 2026/07/02. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 07/02空手.
 
@@ -30,7 +30,7 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 義隆(轉投資美商沛達PETA切入矽光子), 沛達的光學合作夥伴是大立光.
 台積電美國亞利桑那州擴產(系統整合): 大綜,緯致(緯軟),仁大資訊.
 ```
-[風青Vera Rubin](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adfd3ce702704ae298ead5226900dc6c), [盟立,亞光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8e79a81cf1104a8ab983a8babcd2276a), [大立光義隆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2e088e1cb045178071b895286cea56), [](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=038a6e57bf554a86a0b872d6676e948e)
+[風青Vera Rubin](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adfd3ce702704ae298ead5226900dc6c), [盟立,亞光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8e79a81cf1104a8ab983a8babcd2276a), [大立光義隆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2e088e1cb045178071b895286cea56), [大綜,緯軟,仁大資訊](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=038a6e57bf554a86a0b872d6676e948e)
 
 ## 2026/06/21
 ```
