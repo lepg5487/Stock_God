@@ -19,8 +19,18 @@ layout: testlayouts
 2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 
 6月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), 被動元件(國巨等), 光學CPO(大立光等).  
-6月T1: 記憶體(華邦電>南亞科),  HVDC(台半>矽力-KY>德微,強茂,朋程等等).  
+6月T1: 記憶體(華邦電>南亞科),  HVDC(台半>矽力-KY>德微,強茂,朋程等等)(被動元件的下一棒)(韓國發展的下一棒).  
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
+T3: 矽光子, 石英元件(矽光子的下一棒).  
+
+## 2026/06/22
+```
+風青打入nvidia Vera Rubin供應鏈.
+盟立,亞光打入馬斯克Optimus 3供應鏈.
+義隆(轉投資美商沛達PETA切入矽光子), 沛達的光學合作夥伴是大立光.
+台積電美國亞利桑那州擴產(系統整合): 大綜,緯致(緯軟),仁大資訊.
+```
+[風青Vera Rubin](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adfd3ce702704ae298ead5226900dc6c), [盟立,亞光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8e79a81cf1104a8ab983a8babcd2276a), [大立光義隆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2e088e1cb045178071b895286cea56), [](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=038a6e57bf554a86a0b872d6676e948e)
 
 ## 2026/06/21
 ```
