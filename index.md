@@ -26,6 +26,7 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 ## 2026/06/23
 ```
 大立被動元件電容產品逐步進入驗證階段, 有望打入當紅的被動元件供應鏈.
+逆指數的反直覺,被動元件,光學,通膨富邦媒(LINEPAY,寶雅,綠界),營建等等題材, 觀察富邦媒,寶雅, LINEPAY位置不錯.
 觀察環球晶,合晶,台勝科,長黑空手.
 ```
 [大立](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fa305a5e8fb64a62a117f1b36e246b93)
@@ -36,7 +37,7 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 盟立,亞光打入馬斯克Optimus 3供應鏈.
 義隆(轉投資美商沛達PETA切入矽光子), 沛達的光學合作夥伴是大立光.
 台積電美國亞利桑那州擴產(系統整合): 大綜,緯致(緯軟),仁大資訊.
-觀察群創,力成,雷科,鈦昇,聯策等等, 真的沒錢了等待東捷.
+觀察群創,力成,雷科,鈦昇,聯策等等, 等待東捷.
 ```
 [風青Vera Rubin](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adfd3ce702704ae298ead5226900dc6c), [盟立,亞光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8e79a81cf1104a8ab983a8babcd2276a), [大立光義隆](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ce2e088e1cb045178071b895286cea56), [大綜,緯軟,仁大資訊](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=038a6e57bf554a86a0b872d6676e948e)
 
