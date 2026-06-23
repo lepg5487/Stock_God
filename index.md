@@ -23,6 +23,13 @@ layout: testlayouts
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/06/23
+```
+大立被動元件電容產品逐步進入驗證階段, 有望打入當紅的被動元件供應鏈.
+觀察環球晶,合晶,台勝科,長黑空手.
+```
+[大立](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fa305a5e8fb64a62a117f1b36e246b93)
+
 ## 2026/06/22
 ```
 風青打入nvidia Vera Rubin供應鏈.
