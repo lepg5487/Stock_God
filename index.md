@@ -23,6 +23,16 @@ layout: testlayouts
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/06/24
+```
+中砂7月起將調整砂輪報價15％左右.
+台鎔科技,半導體廢棄物處理廠.
+量子加密: 中華電信,合勤控,啓碁,普萊德. 金寶, 仁寶, 博磊, 千附精密, 廌家, 廣達, 旺宏.
+矽格首度揭露"矽電容"布局，目前已有客戶委由矽格進行矽電容測試.
+矽電容: 矽格,愛普,華邦電.
+```
+[矽格](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=11a9e4d86be7419798ec884f78b7d3da), [台鎔科技](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7a3f6a38f426452ea1dfa209d4b4cd29), [中砂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1ec8293d8e6249ccbf3abeaa5326d920), [量子加密](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e54605a1ce5640ed9eb48dcaa7a74471)
+
 ## 2026/06/23
 ```
 大立被動元件電容產品逐步進入驗證階段, 有望打入當紅的被動元件供應鏈.
@@ -87,7 +97,7 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 觀察群創,雷科,鈦昇,聯策等等, 群創準備出關, 等待東捷, 買進力成.
 這禮拜打錯的地方就是沒買矽晶圓, 就算合晶不能融資也可以買沒被關的中美晶, 該檢討.
 ```
-[大立光CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3997947fe88549e38ed1fc3596a94f78), [大立光CPO基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a06bd78dc6a54673a74237d6071f12a9), [華紙](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=32298133250d4f4a90557285dc270e62), [台苯國喬](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ff9e878ac73a4a5484f725508b3cac26)
+[大立光CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3997947fe88549e38ed1fc3596a94f78), [大立光CPO基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a06bd78dc6a54673a74237d6071f12a9), [華紙](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=32298133250d4f4a90557285dc270e62), [台苯國喬](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ff9e878ac73a4a5484f725508b3cac26), [東聯](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cab40f0affe64ed7b236f5b48ed49ed8)
 
 ## 2026/06/16
 ```
