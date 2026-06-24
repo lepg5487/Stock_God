@@ -33,6 +33,7 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 量子加密: 中華電信,合勤控,啓碁,普萊德. 金寶, 仁寶, 博磊, 千附精密, 廌家, 廣達, 旺宏.
 矽格首度揭露"矽電容"布局，目前已有客戶委由矽格進行矽電容測試.
 矽電容: 矽格,愛普,華邦電.
+2026/07/02左右再開始再買進股票?
 ```
 [矽格](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=11a9e4d86be7419798ec884f78b7d3da), [台鎔科技](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7a3f6a38f426452ea1dfa209d4b4cd29), [中砂](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1ec8293d8e6249ccbf3abeaa5326d920), [量子加密](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e54605a1ce5640ed9eb48dcaa7a74471), [標普全球PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829),
 [韓國徵稅1](https://news.futunn.com/hk/post/74940709/did-a-short-essay-trigger-a-sell-off-in-korean?level=1&data_ticket=1777353910501662), [韓國徵稅2](https://www.wealth.com.tw/articles/1f40c669-8b32-439f-a16e-cd09a322a074).
