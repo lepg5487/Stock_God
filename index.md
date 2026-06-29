@@ -31,7 +31,8 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 可成持股鐿鈦比重約25%.
 台揚大客戶Viasat.
 台積電建立本土DRAM供應鏈,華邦電合作.
-台積電2026/071/6法說會.
+台積電2026/07/16法說會.
+2026/07/02左右再開始再買進股票?
 ```
 [國碩碩禾](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=742c6aa3d947433788a84b04ded05327), [可成鐿鈦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=029c3cf360f84cfc90468046501b6b04), [台揚](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b38bc9680cfd4f19b44c7bc01a2fbfc4), [國巨茂達大中](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=193a7f7c199e4ba2bd8842fb8ecae6d5), [榮星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8e7605340f2b4c18bef86142c2abadb6), [台積電華邦電合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=23151c79730348ae95a78d9d8b2363e5)
 
