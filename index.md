@@ -23,13 +23,20 @@ layout: testlayouts
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/07/01
+```
+
+國巨,華新科新供應鏈: 國碩, 碩禾, 買進碩禾.
+觀察環球晶,合晶,台勝科,漢磊,嘉晶, 買進中美晶.
+```
+
 ## 2026/06/30
 ```
 大亞是榮星第一大股東, 榮星第二大股東日本古河電工, 日本古河電工陶瓷基板CoPoS: 榮星, 九豪, 中釉.
-國巨,華新科供應鏈: 國碩, 碩禾.
+國巨,華新科新供應鏈: 國碩, 碩禾.
 康寧GlassBridge可能取代FAU, 遠離FAU(大立光上詮等等).
 崇越是美光關鍵合作夥伴.
-觀察環球晶,合晶,台勝科,漢磊, 買進中美晶.
+觀察環球晶,合晶,台勝科,漢磊,嘉晶, 買進中美晶.
 ```
 [康寧GlassBridge](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0705b46991414bc097b016ed7e39b38e), [大亞榮星](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a017f32bf45b46c796ba1eaf9f38d349), [崇越](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2c7eceafbd2940debe25c1da3c4f2027)
 
