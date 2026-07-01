@@ -25,11 +25,13 @@ T3: 矽光子, 石英元件(矽光子的下一棒).
 
 ## 2026/07/01
 ```
+雷虎, 2026/06/29無人機6年2400億拚國產.
 東聯,電子級CO2是半導體先進製程和HBM中「超臨界清洗」製程重要化學品.
 康寧概念股: 聯嘉投控, 沛亨, 貿聯-KY.
-觀察環球晶,合晶,台勝科,漢磊,嘉晶, 買進中美晶.
+觀察環球晶,合晶,台勝科,漢磊,嘉晶, 等待中美晶.
 ```
-[聯嘉康寧](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=23be9202ee0049c28cfc68a3a606fd58), [東聯](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=61e6cc1d83a04ae592785c93b7dfd35a)
+[聯嘉康寧](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=23be9202ee0049c28cfc68a3a606fd58), [東聯](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=61e6cc1d83a04ae592785c93b7dfd35a), [雷虎無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=71201590ea8c4eff9928da2c0b2e5f24)
+<img width="1419" height="772" alt="image" src="https://github.com/user-attachments/assets/506329fb-ea53-4aec-829b-700a35c09028" />
 
 ## 2026/06/30
 ```
