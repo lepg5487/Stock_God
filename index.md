@@ -23,6 +23,15 @@ layout: testlayouts
 6月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/07/02
+```
+台積電最新技術: FinFET(繼鰭式場效電晶體)(聯電Intel) -> Nanosheet(GAA)(環繞式閘極電晶體 -> CFET(ring oscillators)(環形振盪器)
+2026/07/02台中市政府與美國在台協會(AIT)舉辦「台中無人機產業與海外商機論壇」.
+太陽能逆變器(PV Inverter): 旭隼, 全漢, 亞力, 盛達.
+無人機IC設計: 安格, 芯鼎, 迅杰, 神盾, 欣普羅.
+```
+[太陽能逆變器(PV Inverter)](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=75a074bb18d34848b5991550922f5856), [無人機IC設計](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8374aba48a534d8db08739f6411a0c10), [台積電最新技術](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c013430a5f9944e0aac2825e9a313e60)
+
 ## 2026/07/01
 ```
 雷虎, 2026/06/29無人機6年2400億拚國產.
