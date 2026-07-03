@@ -23,6 +23,15 @@ layout: testlayouts
 7月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/07/03
+```
+Meta出售多餘的AI算力, 市場擔心科技巨頭出現算力過剩情況, 造成07/01費半-6%, 美光-10%.
+Intel拿下Google先進封裝大單, Google下一代處理器(TPU)捨棄先前採用的台積電CoWoS先進封裝, 轉向Intel最新的EMIB-T封裝技術.
+2026/06/12 SpaceX上市, 造成台灣6/8低軌(石英元件)小反彈到6/12, 
+2026/07/10 韓國記憶體海力士SK美股上市, 7/6可以買進記憶體(華邦電?).
+```
+[Meta賣AI算力](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4caedaaf5c724371a239579ed307e331), [Intel搶台積電的單成功](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a935ca06dddc44bc84826545132f8a96)
+
 ## 2026/07/02
 ```
 台積電最新技術: FinFET(繼鰭式場效電晶體)(聯電Intel) -> Nanosheet(GAA)(環繞式閘極電晶體) -> CFET(互補式場效電晶體)
