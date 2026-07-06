@@ -6,7 +6,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/07/15. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
-台灣時間晚上 2026/07/02. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 07/02空手.
+台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.
 
 台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 07/14空手.
 
@@ -22,6 +22,14 @@ layout: testlayouts
 7月T1: 被動元件(國巨等), 光學CPO(大立光等).  
 7月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
+
+## 2026/07/06
+```
+2026/07/14 CPI公布加權指數會下跌, 等待時間到空手.
+2026/06/12 SpaceX上市, 造成台灣6/8低軌(石英元件)小反彈到6/12.
+2026/07/10 韓國記憶體海力士SK美股上市, 7/6可以買進記憶體(華邦電?).
+觀察弱勢股有沒有強勢股, 觀察環球晶出關,台勝科出關,合晶,,漢磊,嘉晶, 等待中美晶.
+```
 
 ## 2026/07/03
 ```
