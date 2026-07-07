@@ -18,15 +18,20 @@ layout: testlayouts
 
 2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 
-7月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), HVDC(台半>矽力-KY>德微,強茂,朋程等等)(被動元件的下一棒)(韓國發展的下一棒).  
-7月T1: 被動元件(國巨等), 光學CPO(大立光等).  
+7月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), HVDC(台半>矽力-KY>德微,強茂,朋程等等).  
 7月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
 
 ## 2026/07/07
 ```
 開盤環球晶,合晶緩戳下跌, 賣出中美晶.
+三星SDI將電池芯交給新普後, 由新普組裝成BBU電池模組, 最後交給Amazon, Meta等北美科技巨頭客戶.
+新普伺服器BBU業務主要由旗下AES-KY負責.
+和大集團, 格斯科技打入Amazon電池供應鏈.
+電池: 新普, AES-KY, 新盛力, 加百裕, 長園科, 西勝, 格斯科技.
+全新的磷化銦(Inp)基板料源主要來自AXT, 全新將基板做成磷化銦磊晶片, 出貨給Coherent.
 ```
+[新普1](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=cf643dcb-2293-44c1-834a-e34a30b60fc9), [新普AES-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9235db43edb74392a3b15c5af1b600b8), [全新](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5bd610eb1e8e4ec5ad30d292558469d6)
 
 ## 2026/07/06
 ```
