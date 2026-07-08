@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.
 
-台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 07/14空手.
+台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.
 
 台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -19,8 +19,18 @@ layout: testlayouts
 2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 
 7月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), HVDC(台半>矽力-KY>德微,強茂,朋程等等).  
-7月T2: 玻璃基板(FOPLP)(TGV)(群創>雷科>東捷,力成,正達等).  
+7月T1: 軍工(雷虎,邑錡,中光電,亞航,長榮航太等等)  
+7月T2: TGV(科嶠,聯策,揚博,長廣)  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
+
+## 2026/07/08
+```
+瑞智, 熱浪襲歐洲搶冷氣, 直接或間接銷往歐洲移動式空調用壓縮機.
+雷虎第二輪標案將在8月登場, 後續還有利多.
+和成, 和雷虎攜手打造無人機和無人艇.
+等待台灣時間晚上2026/07/14公布美國CPI, 指數下跌小心.
+```
+[雷虎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5d8b855621f942c7bdff6b9a55893b88), [和成](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d074f0244dac41b39fe9076b703402ac), [瑞智](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=dbc4d5b7c05348d3a9cd4f1f8c272a45)
 
 ## 2026/07/07
 ```
