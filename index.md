@@ -23,6 +23,14 @@ layout: testlayouts
 7月T2: TGV(科嶠,聯策,揚博,長廣)  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/07/09
+```
+友訊打入SpaceX供應鏈, 9月開始出貨2萬台交換機大單.
+台積電最新技術: FinFET(繼鰭式場效電晶體)(聯電Intel) -> Nanosheet(GAA)(環繞式閘極電晶體) -> CFET(互補式場效電晶體), 報告指出將背面供電網路(BSPDN)視為CFET的先決條件.
+Intel提出XBM無需中介層取代HBM.
+```
+[友訊SpaceX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ec584ddb9da14137b53248d6394c9bb2), [台積電最新技術晶片技術基本面](https://www.trendforce.com/news/2026/07/09/news-imec-roadmap-extends-to-a3-by-2038-chip-density-gains-shift-beyond-traditional-transistor-scaling/), [Intel的XBM](https://www.trendforce.com/news/2026/07/08/news-intel-patent-reveals-xbm-matching-hbm4-footprint-without-interposers-commercialization-seen-after-2030/)
+
 ## 2026/07/08
 ```
 2026/07/24台灣鈣鈦礦技術暨應用論壇: 聯合再生, 茂迪, 元晶, 國碩, 碩禾.
