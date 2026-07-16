@@ -4,11 +4,11 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/07/15. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
+台灣時間晚上 2026/08/19. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.
 
 台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.
 
-台灣時間晚上 2026/07/14. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.
+台灣時間晚上 2026/08/12. [CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.
 
 台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.
 
@@ -22,6 +22,13 @@ layout: testlayouts
 7月T1: 軍工(雷虎,邑錡,中光電,亞航,長榮航太等等)  
 7月T2: TGV(6/24蔚華科, 6/25聯策, 科嶠6/29, 迅得6/29, 家登6/29->家碩.)(揚博6/29,長廣6/26)  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
+
+## 2026/07/16
+```
+2026/7/16台積電舉行第二季法說會, 主觀加權指數樂觀.
+2026/7/22德州儀器財報, 觀察統懋,富鼎,台半,德微,茂達,大中,,矽力-KY, 等待強茂. 預判太多該檢討.
+觀察希華,加高,安碁,台嘉碩,泰藝, 買進晶技.
+```
 
 ## 2026/07/15
 ```
