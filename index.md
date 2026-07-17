@@ -23,6 +23,15 @@ layout: testlayouts
 7月T2: TGV(6/24蔚華科, 6/25聯策, 科嶠6/29, 迅得6/29, 家登6/29->家碩.)(揚博6/29,長廣6/26)  
 T3: 記憶體(華邦電>南亞科), 矽光子, 石英元件(矽光子的下一棒).  
 
+## 2026/07/17
+```
+力成和博通AVGO在新加坡設立合資公司, 在扇出型面板級封裝(FOPLP)合作.
+台積電董事長魏哲家表示，目前成熟及特殊製程供應較吃緊的應用，主要集中在電源管理IC(PMIC)與感測器，一般消費性電子及標準化成熟製程需求仍偏弱。
+2026/7/22德州儀器財報, 觀察統懋,富鼎,台半,德微,茂達,大中,,矽力-KY, 等待強茂. 
+等待弱勢股沒有強勢股, 等待韓股穩定小漲小跌再看看, 最近漲停容易馬上跌停.
+```
+[台積電法說PMIC](https://technews.tw/2026/07/17/ai-drives-new-demand-mature-process-technologies-tsmc-highlights-pmic-sensors-most-constrained/), [力成博通AVGO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7bc19c41d0884ab8b5d12c22d8b8d51e)
+
 ## 2026/07/16
 ```
 2026/7/16台積電舉行第二季法說會, 主觀加權指數樂觀.
