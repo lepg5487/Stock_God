@@ -25,6 +25,14 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/21
+```
+時碩工業, 獲日本古河電工TPU伺服器水冷散熱系統3年大單.
+艾訊,歐特明, 共同推出人形機器人整合式邊緣AI視覺解決方案.
+2026/7/28工研院有無人機研討會, 無人機利多.
+```
+[時碩工業](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4bb7326e4d73482d9a1ca8e4aba14b5b), [艾訊歐特明](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=c4b755f9a5f34046a723c7ddaeed74a5), [工研院無人機研討會](https://iekweb2.iek.org.tw/IEKConf/Client/confinfo.aspx?mode=confinfo&conf_no=578601391)
+
 ## 2026/07/20
 ```
 富田, 無人機馬達. 
