@@ -30,7 +30,7 @@ layout: testlayouts
 NVIDIA暗光纖(Dark Fiber): 波若威, 光聖, 華星光.
 中美晶,聯合再生, 共同投資成立美國太陽能模組製造公司.
 2026/07/22, 無人機族群沒有續漲, 錦明-10%,漢翔-10%. [第2天]
-停損長榮航太, 空手等待新族群上漲. 
+停損長榮航太, 搶反彈只能搶電子股, 空手等待新族群上漲. 
 ```
 [NVIDIA暗光纖Dark Fiber](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b548799c07cb4d6f9fc5132b62f55a70), [中美晶聯合再生](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8afac769667c44c18cc76599595e5947)
 
