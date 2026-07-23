@@ -25,6 +25,16 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/23
+```
+美超微SMCI合作概念股: 優群, 麗臺, 尼得科超眾, 雙鴻, 南俊國際, 勤誠.
+漢翔, 美商Moog延長合作.
+環球晶, 義大利Novara廠火災.
+川普又開始打伊朗造成油價上漲時, 就要介入化學股, 該檢討.
+空手等待新族群上漲.
+```
+[美超微SMCI合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=22f2819ce2024bfa92cd12c374941478), [漢翔美商Moog合作](https://www.cna.com.tw/news/afe/202607220083.aspx), [環球晶火災](https://www.cna.com.tw/news/afe/202607220339.aspx)
+
 ## 2026/07/22
 ```
 NVIDIA暗光纖(Dark Fiber): 波若威, 光聖, 華星光.
