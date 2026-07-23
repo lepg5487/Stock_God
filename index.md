@@ -27,6 +27,7 @@ layout: testlayouts
 
 ## 2026/07/23
 ```
+2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
 美超微SMCI合作概念股: 優群, 麗臺, 尼得科超眾, 雙鴻, 南俊國際, 勤誠.
 漢翔, 美商Moog延長合作.
 環球晶, 義大利Novara廠火災.
@@ -34,7 +35,7 @@ layout: testlayouts
 7/23觀察矽光子族群(聯亞,波若威,華星光)有沒有崩盤(破5日線或-10%), [第3天]
 矽光子族群沒崩盤有機會能介入, 7/28康寧財報, 沛亨.
 ```
-[美超微SMCI合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=22f2819ce2024bfa92cd12c374941478), [漢翔美商Moog合作](https://www.cna.com.tw/news/afe/202607220083.aspx), [環球晶火災](https://www.cna.com.tw/news/afe/202607220339.aspx)
+[30年期美債](https://news.futunn.com/t/hk/post/76442804/r6uy7mzrib), [美超微SMCI合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=22f2819ce2024bfa92cd12c374941478), [漢翔美商Moog合作](https://www.cna.com.tw/news/afe/202607220083.aspx), [環球晶火災](https://www.cna.com.tw/news/afe/202607220339.aspx)
 
 ## 2026/07/22
 ```
