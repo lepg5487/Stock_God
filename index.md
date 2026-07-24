@@ -6,9 +6,9 @@ layout: testlayouts
 
 台灣時間晚上 2026/08/19. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
 
-台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
-
 台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
+
+台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
 
 台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
 
@@ -25,6 +25,16 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/24
+```
+2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
+Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
+2026/4/7記憶體長約, 南亞科華邦電休息了14天以後才開始再次上漲.
+2026/7/10環球晶,美光建立10年長約長期策略合作, 休息14天?
+29日以後買進族群明顯是矽光子族群.
+```
+[Intel,AMD,CPU長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5fa33ac59b6040d3a4098a0463a6b531), [記憶體長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=007233f8f69b42ebba0e7c89b534f53f)
+
 ## 2026/07/23
 ```
 2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
@@ -39,12 +49,13 @@ layout: testlayouts
 
 ## 2026/07/22
 ```
+欣興買盟立設備.
 NVIDIA暗光纖(Dark Fiber): 波若威, 光聖, 華星光.
 中美晶,聯合再生, 共同投資成立美國太陽能模組製造公司.
 2026/07/22, 無人機族群沒有續漲, 錦明-10%,漢翔-10%. [第2天]
 停損長榮航太, 搶反彈只能搶電子股該檢討, 空手等待新族群上漲. 
 ```
-[NVIDIA暗光纖Dark Fiber](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b548799c07cb4d6f9fc5132b62f55a70), [中美晶聯合再生](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8afac769667c44c18cc76599595e5947)
+[NVIDIA暗光纖Dark Fiber](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b548799c07cb4d6f9fc5132b62f55a70), [中美晶聯合再生](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8afac769667c44c18cc76599595e5947), [欣興盟立](https://www.moneydj.com/KMDJ/news/newsviewer.aspx?a=bf5a0824-f0ad-4f05-b115-b0ed1059e7f1)
 
 ## 2026/07/21
 ```
@@ -144,7 +155,7 @@ NVIDIA暗光纖(Dark Fiber): 波若威, 光聖, 華星光.
 
 ## 2026/07/10
 ```
-環球晶,美光建立10年長期策略合作.
+環球晶,美光建立10年長約長期策略合作.
 信紘科, 布局玻璃基板,扇出型面板級封裝FOPLP.
 ```
 [環球晶美光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a09eeb6d59b04c12a01e4030c8edf125), [信紘科FOPLP](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=19d70db004cc4d329d57f98c5970132c)
