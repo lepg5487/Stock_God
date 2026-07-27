@@ -25,13 +25,22 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/27
+```
+NVIDIA再度推進太空發展計畫, 月球車採用Jetson晶片控制光達(LiDAR)系統, (新聞股): 佳凌,亞光,華晶科,佳能,研華. (看盤股): 聯一光,先進光,揚明光.
+矽光子族群沒有破5日線或-10%. [安全]
+光學族群開盤先進光+10%,聯一光+10%. [第1天]
+```
+[研華,月球車](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4a366d35a6784421979939052b176d13), [佳凌,亞光,華晶科,佳能](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f3111068b5804a1b92848bdc2f2c0a39)
+
 ## 2026/07/24
 ```
 2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
 Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
 2026/4/7記憶體長約, 南亞科華邦電休息了14天以後才開始再次上漲.
 2026/7/10環球晶,美光建立10年長約長期策略合作, 休息14天?
-29日以後買進族群明顯是矽光子族群.
+29日以後買進族群明顯是矽光子族群?
+開盤矽光子族群沒有破5日線或-10% [第4天], 可以買進任何族群,但是害怕.
 ```
 [Intel,AMD,CPU長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5fa33ac59b6040d3a4098a0463a6b531), [記憶體長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=007233f8f69b42ebba0e7c89b534f53f)
 
