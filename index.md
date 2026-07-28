@@ -16,11 +16,10 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/03. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數下跌小心,空手.  
 
-[06月19日端午節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
-2026年8月19日台灣自動化智慧及機器人展, 程泰,亞崴,新代新品登場亮相。  
 7月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), 軍工(雷虎,邑錡,中光電,亞航,長榮航太等等).  
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
