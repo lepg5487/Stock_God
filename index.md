@@ -8,7 +8,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/07/29. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
+台灣時間晚上 2026/07/30. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
 
 台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
 
@@ -31,7 +31,8 @@ layout: testlayouts
 鉅明, 高爾夫球具代工, 切入無人機供應鏈.
 光鼎, LED封裝廠, 轉型布局功率半導體.
 AMD工業電腦新品: 研華, 威強電, 磐儀, 廣積.
-2026/7/27中國長鑫存儲記憶體上市, 中國削價競爭是世界級的.
+2026/07/27中國長鑫存儲記憶體上市, 中國削價競爭是世界級的.
+等待 2026/07/30 02:00 FOMC利率決策公布.
 ```
 [亞電M10](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=62a01de4d9474fd389e15b518d4480d4), [鉅明無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=860f3238ca844ca5bd15d97155f5af9f), [光鼎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c611260bf144be998554b8bcede840d), [AMD工業電腦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74da1675f0e645bcb69e919333c5ac75), [長鑫存儲](https://www.trendforce.com/news/2026/07/27/news-cxmts-471-star-debut-makes-it-chinas-top-listed-firm-reshaping-global-memory-dynamics/)
 
@@ -47,7 +48,7 @@ NVIDIA再度推進太空發展計畫, 月球車採用Jetson晶片控制光達(Li
 
 ## 2026/07/24
 ```
-2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
+2026/07/30 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
 Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
 2026/4/7記憶體長約, 南亞科華邦電休息了14天以後才開始再次上漲.
 2026/7/10環球晶,美光建立10年長約長期策略合作, 休息14天?
@@ -58,7 +59,7 @@ Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
 
 ## 2026/07/23
 ```
-2026/07/29 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
+2026/07/30 FOMC利率決策公布, 這次加權指數下跌市場是害怕這天升息, 和30年期美債, 30年期美債29日以後下跌再開始買進.
 美超微SMCI合作概念股: 優群, 麗臺, 尼得科超眾, 雙鴻, 南俊國際, 勤誠.
 漢翔, 美商Moog延長合作.
 環球晶, 義大利Novara廠火災.
