@@ -25,6 +25,16 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/28
+```
+亞電, M10等級氟素(PTFE)混搭材料，切入輝達AI伺服器.
+鉅明, 高爾夫球具代工, 切入無人機供應鏈.
+光鼎, LED封裝廠, 轉型布局功率半導體.
+AMD工業電腦新品: 研華, 威強電, 磐儀, 廣積.
+2026/7/27中國長鑫存儲記憶體上市, 中國削價競爭是世界級的.
+```
+[亞電M10](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=62a01de4d9474fd389e15b518d4480d4), [鉅明無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=860f3238ca844ca5bd15d97155f5af9f), [光鼎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c611260bf144be998554b8bcede840d), [AMD工業電腦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74da1675f0e645bcb69e919333c5ac75), [長鑫存儲](https://www.trendforce.com/news/2026/07/27/news-cxmts-471-star-debut-makes-it-chinas-top-listed-firm-reshaping-global-memory-dynamics/)
+
 ## 2026/07/27
 ```
 2026/07/29 FOMC利率決策公布, 這次加權櫃買指數下跌, 市場是害怕這天升息, 30年期美債明顯可以觀察.
