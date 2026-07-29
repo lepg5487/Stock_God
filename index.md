@@ -29,6 +29,8 @@ layout: testlayouts
 岱宇, 轉型AI無人載具市場.
 NVIDIA 將 Vera Rubin SOCAMM 記憶體減半, 記憶體族群至少要先-50%.
 觀察中國長鑫存儲記憶體.
+矽光子族群破5日線或-10%. [空手]
+光學族群破5日線或-10%. [空手]
 等待 2026/07/30 02:00 FOMC利率決策公布.
 ```
 [岱宇1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=497fb28097794629a3fed43cb1d65d67), ,[岱宇2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=95ac64f88bc541a19fcecc5c59fca0f2), [玻璃基板基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1daa76258f244598b7b0d8b528c6a506), [NVIDIA記憶體減半](https://www.trendforce.com/news/2026/07/28/news-nvidia-reportedly-halves-vera-rubin-socamm-capacity-as-memory-costs-near-29-of-system-bom/)
@@ -41,6 +43,8 @@ NVIDIA 將 Vera Rubin SOCAMM 記憶體減半, 記憶體族群至少要先-50%.
 AMD工業電腦新品: 研華, 威強電, 磐儀, 廣積.
 2026/07/27中國長鑫存儲記憶體上市, 中國削價競爭是世界級的.
 等待 2026/07/30 02:00 FOMC利率決策公布.
+矽光子族群沒有破5日線或-10%. [安全]
+光學族群沒有破5日線或-10%. [第2天]
 ```
 [亞電M10](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=62a01de4d9474fd389e15b518d4480d4), [鉅明無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=860f3238ca844ca5bd15d97155f5af9f), [光鼎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c611260bf144be998554b8bcede840d), [AMD工業電腦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74da1675f0e645bcb69e919333c5ac75), [長鑫存儲](https://www.trendforce.com/news/2026/07/27/news-cxmts-471-star-debut-makes-it-chinas-top-listed-firm-reshaping-global-memory-dynamics/)
 
