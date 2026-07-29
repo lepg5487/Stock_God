@@ -24,6 +24,15 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/29
+```
+岱宇, 轉型AI無人載具市場.
+NVIDIA 將 Vera Rubin SOCAMM 記憶體減半, 記憶體族群至少要先-50%.
+觀察中國長鑫存儲記憶體.
+等待 2026/07/30 02:00 FOMC利率決策公布.
+```
+[岱宇1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=497fb28097794629a3fed43cb1d65d67), ,[岱宇2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=95ac64f88bc541a19fcecc5c59fca0f2), [玻璃基板基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1daa76258f244598b7b0d8b528c6a506), [NVIDIA記憶體減半](https://www.trendforce.com/news/2026/07/28/news-nvidia-reportedly-halves-vera-rubin-socamm-capacity-as-memory-costs-near-29-of-system-bom/)
+
 ## 2026/07/28
 ```
 亞電, M10等級氟素(PTFE)混搭材料，切入輝達AI伺服器.
