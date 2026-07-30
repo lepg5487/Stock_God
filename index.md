@@ -34,7 +34,7 @@ xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
 台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待.
 30年期美債明顯可以觀察, 等待美債下跌.
 ```
-[日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
+[最新融資維持率網站](https://studio.finlab.finance/market-pulse), [日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
 
 ## 2026/07/29
 ```
