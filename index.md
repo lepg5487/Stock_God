@@ -24,6 +24,13 @@ layout: testlayouts
 7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
 7月T2: TGV(雷科, 東捷), 石英元件.  
 
+## 2026/07/30
+```
+日本太陽誘電, 全球三大MLCC(多層陶瓷電容器)(被動元件)製造商, 預計漲價將於9月1日開始.
+美國禁止進口中國機器人和電力逆變器, 機器人龍頭宇樹科技首當其衝.
+```
+[日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
+
 ## 2026/07/29
 ```
 岱宇, 轉型AI無人載具市場.
