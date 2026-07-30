@@ -24,12 +24,15 @@ layout: testlayouts
 
 ## 2026/07/31
 ```
+觀察美元指數(先行指標).
 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
 聯電, 欣興, 台光電, 台達電, 盛群, 力旺會反應: 晶圓代工, PCB, HVDC, MCU, IP.
 富鼎, 德微, 同欣電, 不會反應: PMIC, 被動元件.
 觀察漢磊(矽晶圓), 晶豪科(記憶體), 全新(矽光子), 天二科技(被動元件).
 環球晶, 115年08月04日董事會公布第二季財務報告.
-(觀察聯電,會反應?)世界, 115年08月03日董事會公佈第二季財務報告, 8月4日線上法人說明會.
+(觀察聯電)世界, 115年08月03日董事會公佈第二季財務報告, 8月4日線上法人說明會.
+(觀察晶豪科,華東)十銓鈺創愛普福懋科. (創意,力旺)威盛M31金麗科. 隨機應變.
+誰漲停買誰.
 ```
 
 ## 2026/07/30
@@ -37,8 +40,7 @@ layout: testlayouts
 日本太陽誘電, 全球三大MLCC(多層陶瓷電容器)(被動元件)製造商, 預計漲價將於9月1日開始.
 美國禁止進口中國機器人和電力逆變器, 機器人龍頭宇樹科技首當其衝.
 xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
-台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待.
-30年期美債明顯可以觀察, 等待美債下跌.
+台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待, 觀察美元指數(先行指標).
 聯電, 欣興, 台光電, 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
 ```
 [最新融資維持率網站](https://studio.finlab.finance/market-pulse), [日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
