@@ -8,13 +8,15 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/07/30. [FOMC利率決策公布時間](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
+台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
 
-台灣時間晚上 2026/08/07. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
+台灣時間晚上 2026/07/30.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 多空反轉日期.  
 
-台灣時間晚上 2026/08/12. [美國居民消費價格指數CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.  
+台灣時間晚上 2026/08/07.20:30. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
 
-台灣時間晚上 2026/09/03. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數下跌小心,空手.  
+台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.  
+
+台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數下跌小心,空手.  
 
 [09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
@@ -28,6 +30,9 @@ layout: testlayouts
 ```
 日本太陽誘電, 全球三大MLCC(多層陶瓷電容器)(被動元件)製造商, 預計漲價將於9月1日開始.
 美國禁止進口中國機器人和電力逆變器, 機器人龍頭宇樹科技首當其衝.
+xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
+台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待.
+30年期美債明顯可以觀察, 等待美債下跌.
 ```
 [日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
 
