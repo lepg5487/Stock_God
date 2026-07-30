@@ -22,9 +22,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
-7月T0: 矽晶圓變方晶圓配合玻璃基板(環球晶,合晶,台勝科,中美晶), 軍工(雷虎,邑錡,中光電,亞航,長榮航太等等).  
-7月T1: HVDC(富鼎,強茂,台半,德微,茂達,大中,,矽力-KY等等).  
-7月T2: TGV(雷科, 東捷), 石英元件.  
+## 2026/07/31
+```
+富鼎, 德微, 同欣電, 不會反應: PMIC, 被動元件.
+聯電, 欣興, 台光電, 台達電, 盛群, 力旺會反應: 晶圓代工, PCB, HVDC, MCU, IP.
+公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
+(會反應)世界, 115年08月03日董事會公佈第二季財務報告, 8月4日線上法人說明會.
+環球晶, 115年08月04日董事會公布第二季財務報告.
+觀察漢磊(矽晶圓), 晶豪科(記憶體), 全新(矽光子), 天二科技(被動元件).
+```
 
 ## 2026/07/30
 ```
@@ -33,6 +39,7 @@ layout: testlayouts
 xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
 台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待.
 30年期美債明顯可以觀察, 等待美債下跌.
+聯電, 欣興, 台光電, 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
 ```
 [最新融資維持率網站](https://studio.finlab.finance/market-pulse), [日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
 
