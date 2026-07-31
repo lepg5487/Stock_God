@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 多空反轉日期.  
 
-台灣時間晚上 2026/07/30.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 多空反轉日期.  
+台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 多空反轉日期.  
 
 台灣時間晚上 2026/08/07.20:30. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
 
@@ -28,6 +28,7 @@ layout: testlayouts
 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
 聯電, 欣興, 台光電, 台達電, 盛群, 力旺, 晶豪科, 會反應: 晶圓代工, PCB, HVDC, MCU, IP, 記憶體.
 富鼎, 德微, 同欣電, 漢磊, 全新, 不會反應: PMIC, 被動元件, 矽晶圓, 矽光子.
+2026年8月4日 FMS 2026(全球記憶體與儲存高峰會，快閃記憶體峰會).
 觀察南亞科,華邦電,晶豪科,華東, 買進十銓等8/3.pm財報.
 ```
 
