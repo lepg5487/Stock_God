@@ -22,6 +22,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+
+## 2026/08/05
+```
+華強北(中國電子第一街)最新一周DRAM報價+10%~14%.
+觀察南亞科,華邦電,晶豪科,華東,鈺創, 等待十銓.
+觀察聯一光,先進光,大立光, 這一波反彈的先行指標, 如果破5日或-10%, 就賣出所有個股空手.
+```
+[華強北DRAM](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8c83caab82cc41e5ac8e04cd12defcb4)
+
 ## 2026/08/04
 ```
 反彈最多: 光學(聯一光,先進光), 矽光子(聯亞,全新,環宇-KY,IET-KY,波若威), PCB(景碩,欣興,台燿), 記憶體(南亞科,華邦電).
