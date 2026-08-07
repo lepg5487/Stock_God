@@ -683,7 +683,7 @@ G20舉辦日的前12天買進權值股, G20附近賣出權值股, 權值股會�
 2023/10/24, 15天低
 \
 ```
-[經濟部航太產業發展,航太各種展整理](https://www.casid.org.tw/EventList01.aspx?ID=1fd9ef07-878f-4a8c-a816-137026a35258)
+[經濟部航太產業發展,航太各種展整理](https://meid.nat.gov.tw/casid/NewsList01.aspx)
 
 ## 9月:
 ```
