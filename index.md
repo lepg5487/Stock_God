@@ -8,17 +8,19 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數下跌小心,空手.  
+台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數會下跌一天.  
+台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
 
-台灣時間晚上 2026/09/02.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數是否會下跌.  
+台灣時間晚上 2026/09/02.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/09/04.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數下跌小心.  
+台灣時間晚上 2026/09/04.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
 
-台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.  
+台灣時間晚上 2026/09/08.23:00. [紐約聯儲消費者預期Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數下跌小心,空手.  
+台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+
+台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
 
 [09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
@@ -26,7 +28,9 @@ layout: testlayouts
 
 ## 2026/08/08
 ```
-任何數據公布指數漲過就是高點, 任何數據公布指數跌過就是低點.
+任何數據公布之前指數"漲過", 公布後指數就是"高點".
+任何數據公布之前指數"跌過", 公布後指數就是"低點".
+PCE物價指數公布指數最壞下跌1天.
 ```
 
 ## 2026/08/07
