@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數下跌小心,空手.  
 
-台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數下跌小心,空手.  
+台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數會下跌一天.  
 
 台灣時間晚上 2026/09/02.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數是否會下跌.  
 
@@ -26,8 +26,7 @@ layout: testlayouts
 
 ## 2026/08/08
 ```
-台灣時間晚上 2026/08/05.20:15. (小非農)美國非農就業人數ADP公布時間, 提前判斷NFP公布時(台灣時間晚上 2026/08/07.20:30.), 指數是否會下跌.
-參考道瓊指數期貨 2026/08/05.20:15 時, 明顯開始往上+1~2%.
+任何數據公布指數漲過就是高點, 任何數據公布指數跌過就是低點.
 ```
 
 ## 2026/08/07
