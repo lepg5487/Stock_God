@@ -12,15 +12,23 @@ layout: testlayouts
 
 台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數下跌小心,空手.  
 
-台灣時間晚上 2026/08/07.20:30. [美國非農就業人數NFP未來公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 指數下跌小心,空手.  
+台灣時間晚上 2026/09/02.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數是否會下跌.  
 
-台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI未來公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.  
+台灣時間晚上 2026/09/04.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數下跌小心.  
+
+台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數下跌小心,空手.  
 
 台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數下跌小心,空手.  
 
 [09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
+
+## 2026/08/08
+```
+台灣時間晚上 2026/08/05.20:15. (小非農)美國非農就業人數ADP公布時間, 提前判斷NFP公布時(台灣時間晚上 2026/08/07.20:30.), 指數是否會下跌.
+參考道瓊指數期貨 2026/08/05.20:15 時, 明顯開始往上+1~2%.
+```
 
 ## 2026/08/07
 ```
