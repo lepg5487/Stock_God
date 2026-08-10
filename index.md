@@ -34,9 +34,7 @@ layout: testlayouts
 2026年8月11日晚上Lumentum財報, 2026年8月12日Coherent財報.
 台積電買友達中科兩座廠, 造成友達群創+10%.
 Micro LED CPO: 友達,"鼎元"->富采, 環宇-KY(富采大股東). 群創,"光鋐"->榮創.
-買進鼎元等8/10.pm財報.
-
-
+觀察友達群創環宇-KY聯亞聯鈞華星光上詮等等, 買進鼎元等8/10.pm財報.
 ```
 [台積電買友達廠](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=63a74354db2f4db398bd4554e0175d3f), [2026/6/15鼎元CPO新聞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2890081b76fc4c8d9b909d6dfc0c6453), [友達鼎元富采環宇-KY關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cd732176cc6d4276bbf15e88d99d44fb). [一詮](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b13c5153ba7d439fb44445bf6b64e0d8)
 
