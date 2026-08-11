@@ -16,7 +16,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/04.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
 
-台灣時間晚上 2026/09/08.23:00. [紐約聯儲消費者預期Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
+台灣時間晚上 2026/09/08.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
 台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
@@ -25,6 +25,12 @@ layout: testlayouts
 [09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
+
+## 2026/08/11
+```
+台灣時間晚上 2026/08/12.20:30. 美國居民消費價格指數CPI公布, 指數高點或低點.
+早上9:34友達聯鈞破當日新低, 停損賣出鼎元, 空手等待.
+```
 
 ## 2026/08/10
 ```
