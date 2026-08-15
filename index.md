@@ -18,7 +18,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/08.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/08/12.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+台灣時間晚上 2026/09/15.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
 台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
 
@@ -128,6 +128,7 @@ PCE物價指數公布指數最壞下跌1天.
 
 ## 2026/07/31
 ```
+費城半導體+8%, 一定會大漲.
 觀察美元指數(先行指標).
 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
 聯電, 欣興, 台光電, 台達電, 盛群, 力旺, 晶豪科, 會反應: 晶圓代工(X), PCB, HVDC, MCU, IP, 記憶體(O).
@@ -146,6 +147,7 @@ PCE物價指數公布指數最壞下跌1天.
 xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
 台灣時間晚上2026/07/30.20:30. PCE物價指數公布, 繼續等待, 觀察美元指數(先行指標).
 聯電, 欣興, 台光電, 公布第2季財報造成早上+10%, 可以進行第2季財報的事件交易.
+光學族群破5日線或-10%. [空手]
 ```
 [最新融資維持率網站](https://studio.finlab.finance/market-pulse), [日本太陽誘電](https://www.trendforce.com/news/2026/07/29/news-samsung-electro-mechanics-lifts-mlcc-prices-30-starting-aug-1-taiyo-yuden-reportedly-eyes-sept-1-hike/), [美國禁止進口中國機器人](https://www.trendforce.com/news/2026/07/29/news-u-s-unveils-bans-targeting-chinese-robots-power-inverters-unitree-sungrow-poised-to-be-hit/)
 
@@ -155,7 +157,7 @@ xAI下一代大模型Grok 4.6預計將於8月7日前後發佈.
 NVIDIA 將 Vera Rubin SOCAMM 記憶體減半, 記憶體族群至少要先-50%.
 觀察中國長鑫存儲記憶體.
 矽光子族群破5日線或-10%. [空手]
-光學族群破5日線或-10%. [空手]
+光學族群沒有破5日線或-10%. [第3天]
 等待 2026/07/30 02:00 FOMC利率決策公布.
 ```
 [岱宇1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=497fb28097794629a3fed43cb1d65d67), ,[岱宇2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=95ac64f88bc541a19fcecc5c59fca0f2), [玻璃基板基本面](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1daa76258f244598b7b0d8b528c6a506), [NVIDIA記憶體減半](https://www.trendforce.com/news/2026/07/28/news-nvidia-reportedly-halves-vera-rubin-socamm-capacity-as-memory-costs-near-29-of-system-bom/)
@@ -168,7 +170,7 @@ NVIDIA 將 Vera Rubin SOCAMM 記憶體減半, 記憶體族群至少要先-50%.
 AMD工業電腦新品: 研華, 威強電, 磐儀, 廣積.
 2026/07/27中國長鑫存儲記憶體上市, 中國削價競爭是世界級的.
 等待 2026/07/30 02:00 FOMC利率決策公布.
-矽光子族群沒有破5日線或-10%. [安全]
+矽光子族群破5日線或-10%. [空手]
 光學族群沒有破5日線或-10%. [第2天]
 ```
 [亞電M10](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=62a01de4d9474fd389e15b518d4480d4), [鉅明無人機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=860f3238ca844ca5bd15d97155f5af9f), [光鼎](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9c611260bf144be998554b8bcede840d), [AMD工業電腦](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=74da1675f0e645bcb69e919333c5ac75), [長鑫存儲](https://www.trendforce.com/news/2026/07/27/news-cxmts-471-star-debut-makes-it-chinas-top-listed-firm-reshaping-global-memory-dynamics/)
@@ -190,7 +192,7 @@ Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
 2026/4/7記憶體長約, 南亞科華邦電休息了14天以後才開始再次上漲.
 2026/7/10環球晶,美光建立10年長約長期策略合作, 休息14天?
 29日以後買進族群明顯是矽光子族群?
-開盤矽光子族群沒有破5日線或-10% [第4天], 可以買進任何族群,但是害怕.
+開盤矽光子族群沒有破5日線或-10% [第4天], 可以買進任何族群, 但是害怕(2026/07/30FOMC利率決策公布).
 ```
 [Intel,AMD,CPU長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=5fa33ac59b6040d3a4098a0463a6b531), [記憶體長約](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=007233f8f69b42ebba0e7c89b534f53f)
 
@@ -202,6 +204,7 @@ Intel, AMD, 中國伺服器客戶就資料中心處理器簽訂長約.
 環球晶, 義大利Novara廠火災.
 7/7川普又開始打伊朗造成"油價"上漲時, 就要介入化學股, 該檢討.
 7/23觀察矽光子族群(聯亞,波若威,華星光)有沒有崩盤(破5日線或-10%), [第3天]
+收盤沒有崩盤(破5日線或-10%), 可以開始買進個股, 但是2026/07/30FOMC利率決策公布, 停止買進.
 矽光子族群沒崩盤有機會能介入, 7/28康寧財報, 沛亨.
 ```
 [30年期美債](https://news.futunn.com/t/hk/post/76442804/r6uy7mzrib), [美超微SMCI合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=22f2819ce2024bfa92cd12c374941478), [漢翔美商Moog合作](https://www.cna.com.tw/news/afe/202607220083.aspx), [環球晶火災](https://www.cna.com.tw/news/afe/202607220339.aspx)
@@ -249,7 +252,7 @@ NVIDIA暗光纖(Dark Fiber): 波若威, 光聖, 華星光.
 6/9開盤大立光+10%(光學族群),希華+10%(石英族群). [第1天]
 2026年06月10日,美國居民消費價格指數(CPI), 櫃買指數下跌.
 6/10開盤大立光+6%, 光學族群續漲: 開盤先進光+10%, 開盤聯一光+10%. [第2天]
-6/11觀察光學族群(大立光,先進光,聯一光)有沒有崩盤(破5日線或-10%), 沒有發生就可以開始買進個股(任何族群). (小賭)(第1次買進)[第3天]
+6/11觀察光學族群(大立光,先進光,聯一光)有沒有崩盤(破5日線或-10%), 沒有發生就可以收盤開始買進個股(任何族群). (小賭)(第1次買進)[第3天]
 6/12開盤環球晶族群+10%, 馬上買進中美晶.(安全)(第2次買進) [第4天][光學族群沒有破5日線或-10%]
 
 6/12[第1天]等待中美晶
