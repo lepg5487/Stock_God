@@ -4,7 +4,7 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/08/19. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
+台灣時間晚上 2026/09/16. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
 
 台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
@@ -25,6 +25,18 @@ layout: testlayouts
 [09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
+
+## 2026/08/18
+```
+Google TPU v10傳出將AMD展開合作, 聯發科是TPU v8和v9設計案, 聯發科危險.
+崇越, 布局M9超低損耗等級材料「石英布」.
+億光,晶焱,亞信, 打入機器人供應鏈.
+主觀加權指數會漲到 2026/08/26.20:30. 美國核心個人消費支出平減指數(PCE)公布.
+8/18, 觀察領先族群:記憶體(破5日線或-10%), 賣出空手(空手3~4天,8/18,8/19,8/20).
+方法一: 加權沒事, 8/21或8/24收盤時可以買進(-7%到-10%遠離), 急漲+20%以後有下跌的族群ＸＸ.
+方法二: 加權沒事, 8/21或8/24或8/25, 開盤ＸＸ+10%馬上買進ＸＸ.
+```
+[億光](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=157412d011fc44d1b30618d72874cd51), [Google TPU v10](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3fffc424b8a04568826a74ac2ecea4fd), [晶焱亞信](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2db42e091ac34b18a6db0eab32a7c061), [崇越M9](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f0e3dc25b32b454d8543634137d8a74d)
 
 ## 2026/08/17
 ```
