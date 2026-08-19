@@ -32,6 +32,8 @@ layout: testlayouts
 友鋮, 取得Volvo電動車EX60電池底盤關鍵防水螺栓訂單.
 富強鑫, MLPC疊層固態電容被動元件.
 CPO Metalens: 亞光,采鈺.
+台灣時間晚上2026/08/20.01:00. 美國至20年期國債競拍. (觀察)
+台灣時間晚上2026/08/20.02:00. 美國聯準會會議紀要. (觀察)
 ```
 [被動元件8月沒貨](https://www.trendforce.com/news/2026/08/18/news-mlcc-lead-times-diverge-as-high-end-products-stretch-to-5-10-months-on-ai-demand-tightness-may-extend-into-2027/), [CPO亞光Metalens](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b45fde29962544fabcdaddfe642a4499), [富強鑫](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=410520a068e74ea1b309209f3300a5d9), [友鋮](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=748409c7c9474863956d161d6430101d)
 
