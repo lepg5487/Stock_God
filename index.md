@@ -40,7 +40,7 @@ layout: testlayouts
 2023/11/14 長榮Q3財報公布造成起漲, 巴拿馬運河聖嬰造成缺水, 11月美國聖誕節採購旺季, 連鎖反應下造成漲到2023年1月4日.
 結論只要看到巴拿馬運河巨額通行費(400萬美元左右), 開盤買進萬海長榮陽明.
 ```
-[巴拿馬運河策略完整指南](https://content.ballastmarkets.com/chokepoints/panama-canal/#forecast-capacity) ,[Gatun Lake(水庫水位)](https://panama.aquaticinformatics.net/Data/Dashboard/1), [2026/8/12巨額插隊費](https://www.ctee.com.tw/news/20260812701931-430704), [2023/11/15巨額插隊費](https://tw.news.yahoo.com/share/abae60ef-c7ec-3fe9-92b1-8011c7d3dded)
+[巴拿馬運河策略完整指南](https://content.ballastmarkets.com/chokepoints/panama-canal/#forecast-capacity) ,[Gatun Lake(水庫水位)](https://panama.aquaticinformatics.net/Data/Dashboard/1), [2026/8/12巨額通行費](https://www.ctee.com.tw/news/20260812701931-430704), [2023/11/15巨額通行費](https://tw.news.yahoo.com/share/abae60ef-c7ec-3fe9-92b1-8011c7d3dded), [巴拿馬官方新聞](https://pancanal.com/en/news/)
 
 ## 2026/08/21
 ```
