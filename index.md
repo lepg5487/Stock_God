@@ -37,7 +37,7 @@ layout: testlayouts
 2026至2027年間的聖嬰現象(El Niño)強度達到最高級別(通常稱為「超級聖嬰」)的機率已超過90%。
 2026/08/12 巨額通行費(400萬美元左右), 台股明顯造成萬海起漲事件, 萬海最少經過巴拿馬運河, 所以這次最強.
 2023/11/15 巨額通行費(400萬美元左右), 台股明顯造成長榮起漲事件(3月初公布營收造成最高點).
-2023/11/14 長榮Q3財報公布造成起漲, 巴拿馬運河聖嬰造成缺水, 11月美國聖誕節採購旺季, 連鎖反應下造成漲到2023年1月4日.
+2023/11/14 長榮Q3財報公布造成起漲, 巴拿馬運河聖嬰造成缺水, 11月美國聖誕節採購旺季, 連鎖反應下造成漲到2024年1月4日.
 結論只要看到巴拿馬運河巨額通行費(400萬美元左右), 開盤買進萬海長榮陽明.
 ```
 [巴拿馬運河策略完整指南](https://content.ballastmarkets.com/chokepoints/panama-canal/#forecast-capacity) ,[Gatun Lake(水庫水位)](https://panama.aquaticinformatics.net/Data/Dashboard/1), [2026/8/12巨額通行費](https://www.ctee.com.tw/news/20260812701931-430704), [2023/11/15巨額通行費](https://tw.news.yahoo.com/share/abae60ef-c7ec-3fe9-92b1-8011c7d3dded), [巴拿馬官方新聞](https://pancanal.com/en/news/)
