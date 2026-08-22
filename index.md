@@ -26,6 +26,16 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/22
+```
+2026至2027年間的聖嬰現象(El Niño)強度達到最高級別(通常稱為「超級聖嬰」)的機率已超過90%。
+2026/08/12 巨額插隊費, 台股明顯造成長榮萬海起漲事件.
+2023/11/15 巨額插隊費, 台股明顯造成長榮起漲事件.
+每3年到4年發生聖嬰現象, 造成巴拿馬運河降雨量減少, Gatun Lake(水庫)水位下降, 造成船吃水受到限縮, 運輸量減少, 對貨運價格產生可預測的影響。
+2023年到2024年
+```
+[巴拿馬運河策略完整指南](https://content.ballastmarkets.com/chokepoints/panama-canal/#forecast-capacity) ,[Gatun Lake(水庫水位)](https://panama.aquaticinformatics.net/Data/DataSet/Chart/Interval/Latest), [2026/8/12巨額插隊費](https://www.sinotrade.com.tw/richclub/news/6a7bcc98b17ee73678a87e3f), [2023/11/15巨額插隊費](https://tw.news.yahoo.com/share/abae60ef-c7ec-3fe9-92b1-8011c7d3dded)
+
 ## 2026/08/21
 ```
 中國限制石英出口台灣, 造成希華晶技加高安碁泰藝+5%.
