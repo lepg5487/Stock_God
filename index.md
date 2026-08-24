@@ -26,6 +26,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/24
+```
+台灣時間晚上 2026/08/26.20:30. 美國核心個人消費支出平減指數(PCE), 加權指數高機率下跌.
+2026年9月2日國際半導體展SEMICON Taiwan 2026, 大立光將首度參加, 造成這次光學最強.
+因為賭財報買進, 早上9:10~15沒反應就要賣出該檢討.
+2026年8月24日台積電法說會, 加權指數24日25日高機率不會下跌.
+觀察領先族群:光學(是否破5日線或-10%), 隨時準備空手.
+```
+
 ## 2026/08/22
 ```
 2023/6-2024/3巴拿馬運河波段交易: NOAA declares El Niño 2023 probability (聖嬰現象84%)
@@ -39,6 +48,8 @@ layout: testlayouts
 2023/11/15 巨額通行費(400萬美元左右), 台股明顯造成長榮起漲事件(3月初公布營收造成最高點).
 2023/11/14 長榮Q3財報公布造成起漲, 巴拿馬運河聖嬰造成缺水, 11月美國聖誕節採購旺季, 連鎖反應下造成漲到2024年1月4日.
 結論只要看到巴拿馬運河巨額通行費(400萬美元左右), 開盤買進萬海長榮陽明.
+假設會重複發生的話, 2026年11月13日前找好位置買萬海.
+持續觀察Gatun Lake(水庫), 只要持續下降80英尺以下,  2026年11月13日前找好位置買萬海.
 ```
 [巴拿馬運河策略完整指南](https://content.ballastmarkets.com/chokepoints/panama-canal/#forecast-capacity) ,[Gatun Lake(水庫水位)](https://panama.aquaticinformatics.net/Data/Dashboard/1), [2026/8/12巨額通行費](https://www.ctee.com.tw/news/20260812701931-430704), [2023/11/15巨額通行費](https://tw.news.yahoo.com/share/abae60ef-c7ec-3fe9-92b1-8011c7d3dded), [巴拿馬官方新聞](https://pancanal.com/en/news/)
 
