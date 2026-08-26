@@ -26,6 +26,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/26
+```
+漲停板數量將近50個, 明顯不怕任何利空, 高機率漲到台灣時間晚上 2026/09/02.20:15. (小非農)美國非農就業人數ADP公布.
+2026/08/21成立正式成立SEMI半導體材料聯盟, 2026/09/03策略材料高峰論壇, 買進合晶.
+```
+[2026/08/21成立SEMI半導體材料聯盟](https://www.bnext.com.tw/article/91956/semi-taiwan-materials-alliance)
+
 ## 2026/08/24
 ```
 2026年8月24日台積電法說會, 加權指數24日25日高機率不會下跌.
