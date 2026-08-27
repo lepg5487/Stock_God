@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/08/26.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
+台灣時間晚上 2026/09/25.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
 
 台灣時間晚上 2026/09/02.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
 
@@ -26,11 +26,24 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/27
+```
+直得拿下矽光子訂單, 開盤漲停造成大銀微>全球傳動>上銀跟漲.
+等待破5日線或-10%: 聯一光, 鼎元. 賣出空手.
+
+```
+[直得矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b642d098c938402e880c43bbbb2af1f0)
+
 ## 2026/08/26
 ```
 漲停板數量將近50個, 明顯不怕任何利空, 高機率漲到台灣時間晚上 2026/09/02.20:15. (小非農)美國非農就業人數ADP公布.
 個股準備被關: 矽光子X 光學X. 剪刀石頭布: 矽晶圓(環球晶合晶台勝科), PCB(欣興南電景碩), 晶圓代工(聯電世界), 記憶體(華邦電力積電南亞科), 被動元件(禾伸堂信昌電).
 2026/08/21成立正式成立SEMI半導體材料聯盟, 2026/09/03策略材料高峰論壇, 買進環球晶.
+
+8/26早上9:10大立光+10%,9:15聯一光+10%,10:45鼎元+10%, 早上10:45時明顯知道加權指數不會下跌, 所以可以開始盤中買進.
+光學聯一光明顯漲超過3天不能買, 矽光子明顯漲超過3天不能買(8/25鼎元收盤+10%買進矽光子?).
+PCB聯茂台虹漲2天可以買 > 記憶體漲0天可以買 > 被動元件漲0天可以買 > 矽晶圓漲0天可以買.
+可以盤中買進的剩PCB(景碩南電欣興), 記憶體(南亞科華邦電力積電), 被動元件(禾伸堂信昌電), 矽晶圓(合晶環球晶台勝科).
 ```
 [2026/08/21成立SEMI半導體材料聯盟](https://www.bnext.com.tw/article/91956/semi-taiwan-materials-alliance)
 
