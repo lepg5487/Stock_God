@@ -30,7 +30,7 @@ layout: testlayouts
 ```
 直得拿下矽光子訂單, 開盤漲停造成大銀微>全球傳動>上銀跟漲.
 等待破5日線或-10%: 聯一光, 鼎元. 賣出空手.
-
+方法一: 加權沒事, 8/27收盤時可以買進, 還沒上漲的族群ＸＸ(8/27矽晶圓).
 ```
 [直得矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b642d098c938402e880c43bbbb2af1f0)
 
