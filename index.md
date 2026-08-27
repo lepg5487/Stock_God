@@ -29,10 +29,12 @@ layout: testlayouts
 ## 2026/08/27
 ```
 直得拿下矽光子訂單, 開盤漲停造成大銀微>全球傳動>上銀跟漲.
+特斯拉將於9月3日在得克薩斯州奧斯汀舉辦專屬的Cybercab發佈活動.
+蘋果公司將於9月9日舉辦今年最大規模的產品發佈會, 首款摺疊iPhone.
 等待破5日線或-10%: 聯一光, 鼎元. 賣出空手.
 方法一: 加權沒事, 8/27收盤時可以買進, 還沒上漲的族群ＸＸ(8/27矽晶圓).
 ```
-[直得矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b642d098c938402e880c43bbbb2af1f0)
+[直得矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b642d098c938402e880c43bbbb2af1f0), [蘋果首款摺疊iPhone](https://news.futunn.com/t/flash/20682550/AAAQeU3Fva)
 
 ## 2026/08/26
 ```
