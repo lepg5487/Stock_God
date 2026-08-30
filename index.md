@@ -26,6 +26,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/30
+```
+2026/05/15三星罷工新聞, 原訂5月21日登場的大規模罷工, 5月20日是三星股價最低點.
+美光9月準備罷工, 留意罷工日期南亞科華邦電力積電股價最低點.
+```
+[2026/05/15三星罷工](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=8983db3dabee470384dea2e1b56570d4), [美光9月準備罷工](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fa39894891a84aeabc980723ca1259c4)
+
 ## 2026/08/28
 ```
 美股矽光子邁威爾財報公布-7.5%, 日股記憶體鎧俠-6%, 主觀空手等待.
