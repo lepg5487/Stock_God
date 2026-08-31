@@ -30,6 +30,8 @@ layout: testlayouts
 ```
 8月上漲華碩, 微星, 宏碁, 技嘉原因, NVIDIA合作聯發科開發的RTX Spark系列PC預購人氣旺.
 欣興涉洗產地, 大陸產製PCB產品運回台灣後, 換貼「台灣製造」.
+台灣時間晚上 2026/09/02.20:15. 以後很多大事. 等待光學大立光聯一光下跌.
+觀察統懋, 09/02如果繼續漲停, 09/02盤中買進PMIC強茂台半等.
 ```
 [華碩微星RTX Spark](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e8c37e4d0b654ad7be2978024261b976), [欣興涉洗產地](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7b69e4d34440e82b97fb4bb864780)
 
