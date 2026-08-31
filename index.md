@@ -26,6 +26,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/08/31
+```
+8月上漲華碩, 微星, 宏碁, 技嘉原因, NVIDIA合作聯發科開發的RTX Spark系列PC預購人氣旺.
+欣興涉洗產地, 大陸產製PCB產品運回台灣後, 換貼「台灣製造」.
+```
+[華碩微星RTX Spark](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e8c37e4d0b654ad7be2978024261b976), [欣興涉洗產地](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=adc7b69e4d34440e82b97fb4bb864780)
+
 ## 2026/08/30
 ```
 2026/05/15三星罷工新聞, 原訂5月21日登場的大規模罷工, 5月20日是三星股價最低點.
@@ -44,7 +51,9 @@ layout: testlayouts
 T0: 聯亞>聯鈞>環宇-KY, 聯一光>大立光>玉晶光, 聯茂>台虹>台郡, 南亞>德宏>富喬.
 T1: 信昌電>禾伸堂>華新科, 南亞科>華邦電>力積電.
 T2: 合晶>台勝科>環球晶, 聯電>力積電>世界. 快進快出.
+PCB新材質PTFE: 台虹, 台郡, 亞電.
 ```
+[台虹台郡亞電PTFE材質](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e38f50015f8b43c8992ac29b725687cb)
 
 ## 2026/08/27
 ```
