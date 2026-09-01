@@ -26,6 +26,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/01
+```
+NVIDIA首度投資台灣上市公司聯發科, 認購聯發科海外可轉換公司債.
+友達康寧合作矽光子CPO: 友達,鼎元,富采,環宇-KY,達興材料.
+```
+[友達康寧矽光子CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=91892cc825774308bb2f1fbd9081a488), [NVIDIA首度投資台灣上市公司聯發科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0519ca6ebd4b426c9b33e14188196ff6)
+
 ## 2026/08/31
 ```
 8月上漲華碩, 微星, 宏碁, 技嘉原因, NVIDIA合作聯發科開發的RTX Spark系列PC預購人氣旺.
