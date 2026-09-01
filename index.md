@@ -30,6 +30,7 @@ layout: testlayouts
 ```
 NVIDIA首度投資台灣上市公司聯發科, 認購聯發科海外可轉換公司債: (網路)聯發科,亞信,達發,九暘.
 友達康寧合作矽光子CPO: 友達,鼎元,富采,環宇-KY,達興材料.
+觀察鼎元, 買進環宇-KY.
 ```
 [友達康寧矽光子CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=91892cc825774308bb2f1fbd9081a488), [NVIDIA首度投資台灣上市公司聯發科](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=0519ca6ebd4b426c9b33e14188196ff6)
 
