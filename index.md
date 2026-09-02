@@ -31,8 +31,17 @@ layout: testlayouts
 散熱新技術Microchannel微通道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
 台灣時間晚上 2026/09/03.02:00. 美國聯準會褐皮書公布.
 選股有點難多看處置王, 空手等待事件結束.
+觀察聯發科,九暘,等待晶心科.
 ```
-[Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e)
+```
+主觀NVIDIA聯發科訪談重點: 定制晶片XPU. 矽智財IP.
+黃仁勳：其實整件事情本來就是客戶主動要求的！定制晶片XPU.
+一座AI工廠需要用到7種不同類型的NVIDIA晶片和多種網路交換器。
+如果客戶在某些機架上以 定制晶片XPU 取代了其中一顆晶片，
+NVIDIA的網路、交換器和 CPU 仍在發揮作用。
+聯發科加上NVIDIA，能為客戶提供端到端的完整方案。
+```
+[NVIDIA聯發科訪談XPU](https://news.cnyes.com/news/id/6593924), [Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e)
 
 ## 2026/09/01
 ```
