@@ -26,6 +26,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/02
+```
+散熱新技術Microchannel微通道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
+台灣時間晚上 2026/09/03.02:00. 美國聯準會褐皮書公布.
+選股有點難多看處置王, 空手等待事件結束.
+```
+[Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e)
+
 ## 2026/09/01
 ```
 NVIDIA首度投資台灣上市公司聯發科, 認購聯發科海外可轉換公司債: (網路)聯發科,亞信,達發,九暘,晶心科.
