@@ -44,7 +44,8 @@ NVIDIA的網路、交換器和 CPU 仍在發揮作用。
 [NVIDIA聯發科訪談XPU](https://news.cnyes.com/news/id/6593924), [Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e), [機械業跨足CPO設備1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6fc238c8c3fc46d9961e3e3f0b6b5e94), [機械業跨足CPO設備2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4e5cd980014c4f53b3eb758a20361e4c)
 ```
 8/31, 前鼎起漲漲停11:00後, 11:00~11:30有"出量急漲"(不管出量完收盤位置)的個股.
-9/01, 會買進的個股: 上詮, 華星光, 創威, 沛亨
+9/01, 會買進的個股: 上詮, 華星光, 創威, 沛亨.
+9/01, 華星光被關不會買, 上詮8/31大漲+6%不會買, 創威低價怕被騙, 會買高價的沛亨.
 其他矽光子都沒有這種反應, 下次選股使用這個方式.
 ```
 #### 前鼎
