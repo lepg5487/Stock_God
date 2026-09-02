@@ -29,6 +29,7 @@ layout: testlayouts
 ## 2026/09/02
 ```
 散熱新技術Microchannel微通道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
+台灣機械業跨足CPO設備: 東佑達,高明鐵,上銀,大銀微系統,直得,東台.
 台灣時間晚上 2026/09/03.02:00. 美國聯準會褐皮書公布.
 選股有點難多看處置王, 空手等待事件結束.
 ```
@@ -40,7 +41,7 @@ layout: testlayouts
 NVIDIA的網路、交換器和 CPU 仍在發揮作用。
 聯發科加上NVIDIA，能為客戶提供端到端的完整方案。
 ```
-[NVIDIA聯發科訪談XPU](https://news.cnyes.com/news/id/6593924), [Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e)
+[NVIDIA聯發科訪談XPU](https://news.cnyes.com/news/id/6593924), [Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e), [台灣機械業跨足CPO設備](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6fc238c8c3fc46d9961e3e3f0b6b5e94)
 
 ## 2026/09/01
 ```
