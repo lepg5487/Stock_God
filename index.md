@@ -47,14 +47,19 @@ NVIDIA的網路、交換器和 CPU 仍在發揮作用。
 ```
 ##### 前鼎
 <img width="435" height="337" alt="image" src="https://github.com/user-attachments/assets/8825c37d-c05e-4d25-8f3f-5f5c0cb6b729" />
+
 ##### 上詮
 <img width="438" height="337" alt="image" src="https://github.com/user-attachments/assets/06f3d7b2-7de1-451b-b922-2e81c95f31da" />
+
 ##### 華星光
 <img width="429" height="336" alt="image" src="https://github.com/user-attachments/assets/760b7e36-8f58-48b8-b1ee-2f9e8f148df7" />
+
 ##### 創威
 <img width="434" height="336" alt="image" src="https://github.com/user-attachments/assets/155767e5-81c7-4173-9540-f93749e90d5f" />
+
 ##### 沛亨
 <img width="432" height="337" alt="image" src="https://github.com/user-attachments/assets/83a42003-2bbb-4ae1-b058-8f11236ad5fb" />
+
 
 ## 2026/09/01
 ```
