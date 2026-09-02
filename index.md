@@ -28,6 +28,12 @@ layout: testlayouts
 
 ## 2026/09/02
 ```
+散熱新技術Microchannel微通道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
+台灣機械業跨足CPO設備: 東佑達,高明鐵,上銀,大銀微系統,直得,東台.
+台灣時間晚上 2026/09/03.02:00. 美國聯準會褐皮書公布.
+選股有點難多看處置王, 空手等待事件結束.
+```
+```
 主觀NVIDIA聯發科訪談重點: 定制晶片XPU. 矽智財IP.
 黃仁勳：其實整件事情本來就是客戶主動要求的！定制晶片XPU.
 一座AI工廠需要用到7種不同類型的NVIDIA晶片和多種網路交換器。
@@ -37,27 +43,23 @@ NVIDIA的網路、交換器和 CPU 仍在發揮作用。
 ```
 [NVIDIA聯發科訪談XPU](https://news.cnyes.com/news/id/6593924), [Microchannel微通道](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=10f87f38fccd4afea08a1d9f87cad92e), [機械業跨足CPO設備1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6fc238c8c3fc46d9961e3e3f0b6b5e94), [機械業跨足CPO設備2](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=4e5cd980014c4f53b3eb758a20361e4c)
 ```
-散熱新技術Microchannel微通道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
-台灣機械業跨足CPO設備: 東佑達,高明鐵,上銀,大銀微系統,直得,東台.
-台灣時間晚上 2026/09/03.02:00. 美國聯準會褐皮書公布.
-選股有點難多看處置王, 空手等待事件結束.
 8/31, 前鼎起漲漲停11:00後, 11:00~11:30有"出量急漲"(不管出量完收盤位置)的個股.
 9/01, 會買進的個股: 上詮, 華星光, 創威, 沛亨
 其他矽光子都沒有這種反應, 下次選股使用這個方式.
 ```
-##### 前鼎
+#### 前鼎
 <img width="435" height="337" alt="image" src="https://github.com/user-attachments/assets/8825c37d-c05e-4d25-8f3f-5f5c0cb6b729" />
 
-##### 上詮
+#### 上詮
 <img width="438" height="337" alt="image" src="https://github.com/user-attachments/assets/06f3d7b2-7de1-451b-b922-2e81c95f31da" />
 
-##### 華星光
+#### 華星光
 <img width="429" height="336" alt="image" src="https://github.com/user-attachments/assets/760b7e36-8f58-48b8-b1ee-2f9e8f148df7" />
 
-##### 創威
+#### 創威
 <img width="434" height="336" alt="image" src="https://github.com/user-attachments/assets/155767e5-81c7-4173-9540-f93749e90d5f" />
 
-##### 沛亨
+#### 沛亨
 <img width="432" height="337" alt="image" src="https://github.com/user-attachments/assets/83a42003-2bbb-4ae1-b058-8f11236ad5fb" />
 
 
