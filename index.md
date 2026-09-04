@@ -32,7 +32,7 @@ layout: testlayouts
 工研院攜手一詮成立AI晶片散熱設計新創公司惠智先進.
 散熱新技術Microchannel微通道微流道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
 PCB新材質PTFE: 台虹, 台郡, 聯茂, 亞電, 律勝.
-觀察鼎元,聯一光,禾伸堂,東捷, 如果其中一個隔天持續漲停,
+觀察鼎元,聯一光,禾伸堂,東捷, 如果其中一個隔天持續漲停, 其他族群最強漲停時盤中買進.
 盤中買進台虹亞電聯茂? 南亞德宏富喬? 南亞科華邦電力積電? 合晶環球晶台勝科? 強懋台半富鼎?
 ```
 [Coherent發表全新光學平台PhotonLink](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=16f7e6b4d3f0400483cd2552a180c8a5), [工研院一詮](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fed41f70db8b4d61adc3e3f0e6297675)
