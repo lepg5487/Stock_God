@@ -26,6 +26,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/04
+```
+2026/09/21 Coherent在西班牙馬拉加舉行PhotonLink發表會全新光學平台, 矽光子利多.
+工研院攜手一詮成立AI晶片散熱設計新創公司惠智先進.
+散熱新技術Microchannel微通道微流道: 健策,一詮,奇鋐,雙鴻,竑騰,鴻勁.
+```
+[Coherent發表全新光學平台PhotonLink](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=16f7e6b4d3f0400483cd2552a180c8a5), [工研院一詮](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fed41f70db8b4d61adc3e3f0e6297675)
+
 ## 2026/09/03
 ```
 SK海力士提前採購矽晶圓, 台灣只有環球晶有賣給SK海力士.
@@ -82,7 +90,8 @@ SANDISK財報-15%, 預判聯一光開盤破5日線, 準備下跌.
 看到禾伸堂信昌電9:36漲停, 9:58買進華新科.
 指標股: 聯一光
 8/31,
-台虹9:50破5日線, 鼎元9:30破5日線, 賣出玉晶光.
+台虹9:50破5日線, 鼎元9:30破5日線, 賣出玉晶光,華新科.
+結論: 主觀認同族群的A個股有上引線時, A個股是否有繼續漲停板, A個股繼續漲停板的當天:開始哪個族群漲停買哪個,A個股破5日時賣出空手.
 ```
 
 
