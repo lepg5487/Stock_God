@@ -29,6 +29,8 @@ layout: testlayouts
 ## 2026/09/07
 ```
 2026/09/07美股休市.
+禾伸堂隔天持續漲停, 台虹9:22漲停買進聯茂(同時間向上漲是金像電泰鼎-KY臻鼎-KY), PCB最簡單的只能選景碩欣興南電雖然不是漲最多但是至少會漲.
+觀察禾伸堂信昌電金山電是否破5日線.
 ```
 [羅昇萬潤都轉投資的光陽光電CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=aba0552b9ff64b10ad0f2c73b06c1861)
 
