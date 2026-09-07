@@ -26,6 +26,12 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/07
+```
+2026/09/07美股休市.
+```
+[羅昇萬潤都轉投資的光陽光電CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=aba0552b9ff64b10ad0f2c73b06c1861)
+
 ## 2026/09/05
 ```
 2026/09/07美股休市.
