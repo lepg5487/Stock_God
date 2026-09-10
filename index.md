@@ -26,6 +26,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/10
+```
+觀察日本東證指數, 等待9月15日美國居民消費價格指數(CPI) 20:30.
+中國被動元件電子陶瓷龍頭潮州三環集團(300408), 最新陶瓷封裝基座11月起標準品漲幅最高超過15%, 同欣電,九豪.
+2026/09/21 Lumentum,Coherent在西班牙馬拉加舉行PhotonLink發表會全新光學平台, 矽光子.
+2026/09/30 美光財報.
+```
+[同欣電,九豪](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df385d02093446ffa5f472e2a2fb8ff4)
+
 ## 2026/09/09
 ```
 觀察日本東證指數, 空手等待9月15日美國居民消費價格指數(CPI) 20:30.
