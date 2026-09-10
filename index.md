@@ -32,10 +32,10 @@ layout: testlayouts
 中國被動元件電子陶瓷龍頭潮州三環集團(300408), 最新陶瓷封裝基座11月起標準品漲幅最高超過15%, 同欣電,九豪.
 2026/09/21 Lumentum,Coherent在西班牙馬拉加舉行PhotonLink發表會全新光學平台, 矽光子.
 2026/09/30 美光財報.
-觀察信昌電禾伸堂, 如果其中一個隔天持續漲停時, 其他B族群最強個股T0漲停時盤中買進落後T1.
+10:42新聞村田製作所停產某些MLCC, 12:25造成信昌電禾伸堂上漲, 如果其中一個隔天持續漲停時, 其他B族群最強個股T0漲停時盤中買進落後T1.
 盤中買進 南亞科華邦電力積電? 聯鈞穩懋上詮聯亞全新IET-KY? 聯一光大立光先進光? 東捷雷科東台蔚華科? 大量尖點恩德?
 ```
-[同欣電,九豪](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df385d02093446ffa5f472e2a2fb8ff4)
+[同欣電,九豪](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df385d02093446ffa5f472e2a2fb8ff4), [村田製作所停產某些MLCC](https://www.ctee.com.tw/news/20260910701043-430201)
 
 ## 2026/09/09
 ```
