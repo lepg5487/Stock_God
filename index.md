@@ -18,7 +18,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/09/08.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/09/15.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+台灣時間晚上 2026/09/11.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
 台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
 
@@ -28,7 +28,8 @@ layout: testlayouts
 
 ## 2026/09/11
 ```
-觀察日本東證指數, 事件日期每月初要重新確認有時會改變, 等待9月11日美國居民消費價格指數(CPI) 20:30.
+事件日期每月初要重新確認有時會改變, 等待台灣時間晚上 2026/09/11.20:30.美國居民消費價格指數(CPI)
+觀察日本東證指數, 等待台灣時間晚上 2026/09/17.02:00.FOMC美國利率決議.
 日股瑞薩電子(6723)功率半導體PMIC宣布再次調整價格, 新價格將於2027年1月1日生效.
 觀察世紀, 等待T0族群漲停板提示, 提示完再買進T1族群.
 ```
