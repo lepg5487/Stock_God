@@ -31,7 +31,7 @@ layout: testlayouts
 事件日期每月初要重新確認有時會改變, 等待台灣時間晚上 2026/09/11.20:30.美國居民消費價格指數(CPI)
 觀察日本東證指數, 等待台灣時間晚上 2026/09/17.02:00.FOMC美國利率決議.
 日股瑞薩電子(6723)功率半導體PMIC宣布再次調整價格, 新價格將於2027年1月1日生效.
-觀察世紀, 等待T0族群漲停板提示, 提示完再買進T1族群.
+觀察世紀,信昌電,青雲,恩德,晟鈦,聯一光, 等待T0族群漲停板提示, 提示完再買進T1族群.
 ```
 [瑞薩電子功率半導體PMIC漲價](https://www.trendforce.com/news/2026/09/11/news-renesas-to-raise-prices-again-from-jan-2027-citing-rising-material-energy-and-manufacturing-costs/), [被動元件龍頭日商村田停產MLCC](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b31a122acbc14dcc9d88f478619f8fef)
 
