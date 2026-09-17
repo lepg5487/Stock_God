@@ -26,6 +26,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/17
+```
+美國已在太空部署武器, 是美方首次證實在太空軌道上擁有軍事能力. 造成昇達科, 萊德光電, 耀登漲停.
+三星擬將傳統記憶體模組與固態硬碟委外生產: 創見(典範與創見長期合作), 宇瞻.
+能率亞洲, 佳能轉投資美國人形機器人廠商Agility Robotics.
+華邦電 收購 英飛凌Infineon 成為全球 NOR Flash 龍頭.
+```
+[美國太空軍事](https://money.udn.com/money/story/5612/9756857?dark_mode=1), [三星委外創見宇瞻](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3d8f65658f0c449ab6793c906e223cb1), [典範華泰](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=1c72866ce4ab43efab5a8b46964438cb), [能率亞洲,佳能,Agility Robotics](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=42a1fca49e4b4e1d8b27aa5ac0714545), [華邦電收購英飛凌Infineon](https://money.udn.com/money/story/5612/9759454?dark_mode=1)
+
 ## 2026/09/16
 ```
 等待台灣時間晚上 2026/09/17.02:00.FOMC美國利率決議.
