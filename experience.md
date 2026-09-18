@@ -897,7 +897,7 @@ NVIDIA GTC開發者大會公布時間.
 <img width="291" height="236" alt="image" src="https://github.com/user-attachments/assets/3e0e5bdf-e529-4c2d-b515-a9a633e0ff29" />
 <img width="575" height="499" alt="image" src="https://github.com/user-attachments/assets/38a8427b-6c53-45d3-a95a-d8401f9e7b19" />
 
-# 1~2月決標的巨額案, 高機率上漲, 華城,士電,樂事綠能才是主角.
+# 1~2月決標的巨額案, 高機率上漲, 華城,士電,樂事綠能才是主角. pcc.mlwmlw.org[圖片網址](https://pcc.mlwmlw.org/unit/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%8A%9B%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 <img width="1246" height="1046" alt="image" src="https://github.com/user-attachments/assets/6ea12c83-4a3b-4231-af3a-6e7a656234f7" />
 
 # 每年1月開始有訂單的重電"必漲", 每年1月政府會開始發包訂單給重電業者競標, "破億"訂單會造成起漲.
