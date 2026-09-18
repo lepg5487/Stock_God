@@ -863,9 +863,6 @@ NVIDIA GTC開發者大會公布時間.
 大綜? 國防部	雲端資訊服務授權	306億 招標日2026/02/25,	決標日2026/03/01.
 ```
 
-# 1~2月決標的巨額案, 高機率上漲, 華城,士電,樂事綠能才是主角.
-<img width="1246" height="1046" alt="image" src="https://github.com/user-attachments/assets/6ea12c83-4a3b-4231-af3a-6e7a656234f7" />
-
 # 台灣電力股份有限公司電力通信處, "招標公告"日期, 2億以上就會上漲, 觀察星通(看招標日期)和華電網(看決標日期).
 ```
 觀察招標公告日期, 公告以後觀察華電網和星通, 哪個個股公告日期20天內有沒有漲停,
@@ -900,15 +897,21 @@ NVIDIA GTC開發者大會公布時間.
 <img width="291" height="236" alt="image" src="https://github.com/user-attachments/assets/3e0e5bdf-e529-4c2d-b515-a9a633e0ff29" />
 <img width="575" height="499" alt="image" src="https://github.com/user-attachments/assets/38a8427b-6c53-45d3-a95a-d8401f9e7b19" />
 
+# 1~2月決標的巨額案, 高機率上漲, 華城,士電,樂事綠能才是主角.
+<img width="1246" height="1046" alt="image" src="https://github.com/user-attachments/assets/6ea12c83-4a3b-4231-af3a-6e7a656234f7" />
 
 # 每年1月開始有訂單的重電"必漲", 每年1月政府會開始發包訂單給重電業者競標, "破億"訂單會造成起漲.
 ```
+2026/01/02 華城,士電,樂事綠能, (採購案號:0081400078)[4]
 2026/01/13 士電,取得網站破億訂單造成起漲,161kV氣體絕緣開關設備(採購案號:6531400085)[1]
 2026/01/14 士電,華城,取得另一個破億訂單繼續起漲,345kV並聯電抗器(採購案號:6531400081)[2]
 2026/01/16 中興電,取得另一個破億訂單繼續起漲,馬公S/S69kVGIS設備汰換採購案(採購案號:1141400021)[3]
 每年1月政府會開始發包訂單給重電業者競標,"破億"訂單會造成起漲.
 ```
-[1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), [2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=), [3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=)
+[4](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwNzM2NjM=),
+[1](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODQ0NDM=), 
+[2](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODYwNjQ=),
+[3](https://web.pcc.gov.tw/tps/atm/AtmAwardWithoutSso/QueryAtmAwardDetail?pkAtmMain=NzEwODk1NDY=).
 
 [台灣採購公報網,台灣電力股份有限公司,歷年招標案件數量及金額統計表:](https://www.taiwanbuying.com.tw/ShowOrgStat.ASP?OrgID=2971), 選擇最近年份.  
 <img width="745" height="714" alt="image" src="https://github.com/user-attachments/assets/aee08652-1254-4b7c-b756-5eb7ff348a7a" />
