@@ -33,7 +33,7 @@ layout: testlayouts
 友達康寧合作矽光子CPO: 友達,鼎元,富采,環宇-KY,達興材料.
 Intel合作友達Micro LED CPO, 開盤買進友達.
 群創2026/05/11和台積電合作新聞起漲, 群創漲到2010/01高點才開始下跌.
-如果友達會複製群創走勢, 友達2010/01高點是四二.
+如果友達會複製群創走勢, 友達2010/01高點是四二30%.
 ```
 [Intel合作友達Micro LED CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=29f23cf5b3f848de809b9c414a148fee), [馬斯克社群發文太陽能顯然就是未來](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3ccd19d1475b466482554eda72ebc542), [馬斯克原文9/16](https://x.com/elonmusk/status/2099932353678467575)
 
