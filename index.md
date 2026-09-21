@@ -26,6 +26,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/21
+```
+馬斯克社群發文太陽能顯然就是未來, 造成元晶,國碩等等太陽能上漲.
+馬斯克原文9/16發文, 新聞9/21公布, 太陽能小心.
+友達康寧合作矽光子CPO: 友達,鼎元,富采,環宇-KY,達興材料.
+Intel合作友達Micro LED CPO, 開盤買進友達.
+```
+[Intel合作友達Micro LED CPO](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=29f23cf5b3f848de809b9c414a148fee), [馬斯克社群發文太陽能顯然就是未來](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3ccd19d1475b466482554eda72ebc542), [馬斯克原文9/16](https://x.com/elonmusk/status/2099932353678467575)
+
 ## 2026/09/18
 ```
 2025年4月29日Meta LlamaCon, 造成華經,驊宏資,訊達股價高點.
