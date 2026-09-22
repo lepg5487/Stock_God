@@ -26,6 +26,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/22
+```
+中國面板三巨頭京東方,華星光電,惠科發出漲價通知.
+全球功率半導體漲價10月10日起調整, 強茂,台半,德微等等.
+正淩, 打入nvidia,亞馬遜,AVGO. 亞馬遜主要是無人機應用，nvidia則拿到AI相關專案，博通AVGO為光通訊產品.
+2026/09/30 美光財報.
+```
+[正淩nvidia亞馬遜](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=bd67b74657684f26a5f86f26e2262a1a), [全球功率半導體漲價](https://www.ctee.com.tw/news/20260922700058-430501), [中國面板漲價](https://money.udn.com/money/story/5612/9769182?dark_mode=1)
+
 ## 2026/09/21
 ```
 馬斯克社群發文太陽能顯然就是未來, 造成元晶,國碩等等太陽能上漲.
