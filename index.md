@@ -26,6 +26,16 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/23
+```
+嘉晶, 鍺矽磊晶矽光子, 主要應用於光通訊接收端的光二極體(PD). 其他晶沒有這項產品, 所以族群不連貫.
+hTC宏達電新品"預告"VIVEE, 造成宏達電,建達,英濟漲停.
+2025/07/16宏達電事件曾經重複過, 2025/08/15新品預購開始正式起漲80%.
+2026/09/23宏達電新品"預告", 猜測2026/10/1X新品預購.
+```
+[hTC宏達電新品預告VIVEE](https://tw.stock.yahoo.com/share/65139a2c-3148-438d-92f1-0bf16c210fa8), [hTC宏達電新品IG](https://www.instagram.com/vivee_htc/?hl=zh-tw),
+[嘉晶鍺矽磊晶矽光子](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=d754bbfae120410aa8d12d483bcb6143)
+
 ## 2026/09/22
 ```
 中國面板三巨頭京東方,華星光電,惠科發出漲價通知.
