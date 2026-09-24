@@ -4,11 +4,13 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/09/16. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
+台灣時間晚上 2026/10/21. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
 
-台灣時間晚上 2026/09/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
+台灣時間晚上 2026/12/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/09/17.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
+台灣時間晚上 2026/10/29.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
+
+台灣時間晚上 2026/10/01.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
 
 台灣時間晚上 2026/09/30.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
 
@@ -16,15 +18,22 @@ layout: testlayouts
 
 台灣時間晚上 2026/10/02.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
 
-台灣時間晚上 2026/09/08.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
+台灣時間晚上 2026/10/07.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/09/11.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+台灣時間晚上 2026/10/14.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
-台灣時間晚上 2026/09/03.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
+台灣時間晚上 2026/10/??.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
 
-[09月25日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月09日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
+
+## 2026/09/24
+```
+等待2026/09/30美光財報, 觀察南亞科.
+觀察南亞科(加權指數領先指標), 等待友達.
+等待2026京東,淘寶,天貓,雙11活動時間公布.
+```
 
 ## 2026/09/23
 ```
