@@ -28,6 +28,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/25
+```
+Meta Connect 2026發布Meta Muse Charm掌上AI裝置.
+hTC宏達電新品"預告"VIVEE, 高機率是一樣的掌上AI裝置.
+```
+[Meta Muse Charm掌上AI裝置](https://technews.tw/2026/09/24/meta-put-muse-in-a-tamagotchi-like-charm-device/)
+
 ## 2026/09/24
 ```
 等待2026/09/30美光財報, 觀察南亞科.
