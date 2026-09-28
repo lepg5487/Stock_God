@@ -28,6 +28,12 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/28
+```
+京東2026年雙11, 10月12日開始, 觀察
+```
+[京東2026年雙11,10月12日開始](https://finance.sina.com.cn/roll/2026-09-24/doc-inisxaez5348047.shtml)
+
 ## 2026/09/25
 ```
 Meta Connect 2026發布Meta Muse Charm掌上AI裝置.
