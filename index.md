@@ -30,12 +30,15 @@ layout: testlayouts
 
 ## 2026/09/29
 ```
-美國兩黨國會參議員共同提出《保護國家安全系統免受中國光收發器威脅法案》, 目的是限制美國聯邦政府相關採購光通訊模組限制, 確保美國國家安全.
-造成中國長飛光纖, 中際旭創等等矽光子-10%.
-Nvidia 首度推出AI工廠全新認證規範計畫 DSX Ready to Qualified, 台灣散熱雙雄奇鋐, 雙鴻都未入列.
-DSX Ready to Qualified合作夥伴有特斯拉, 特斯拉合作夥伴是台達電, 光寶科. 
+美國兩黨國會參議員共同提出《保護國家安全系統免受中國光收發器威脅法案》, 目的是限制美國聯邦政府相關採購光通訊模組限制, 確保美國國家安全, 造成中國長飛光纖, 中際旭創等等矽光子-10%.
+Nvidia 首度推出AI工廠全新認證規範計畫 DSX Ready to Qualified, 台灣散熱雙雄奇鋐, 雙鴻都未入列. DSX Ready to Qualified合作夥伴有特斯拉, 特斯拉合作夥伴是台達電, 光寶科.
+京東2026年雙11, 10月12日開始, 等待盤好買進富邦媒或綠界科技.
 ```
-[美國限制中國光通訊模組](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=51532798e8ff469fa0bf7a452737b08d), [nvidia 首度推出AI工廠全新認證規範計畫 DSX Ready to Qualified](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fbbf0e059b864f39be70f126a36bcffb), [DSX Ready to Qualified解釋](https://www.nvidia.com/en-us/data-center/products/dsx/dsx-ready/#nv-accordion-0c3c5e4e26-item-63efd6fd71), [DSX Ready to Qualified合作夥伴](https://marketplace.nvidia.com/en-us/enterprise/dsx-infrastructure/?category=bess&validationStatus=NVIDIA+DSX+Ready&page=1&limit=15), [特斯拉,台達電,光寶科](https://udn.com/news/story/7240/9782226)
+[美國限制中國光通訊模組](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=51532798e8ff469fa0bf7a452737b08d),  
+[nvidia 首度推出AI工廠全新認證規範計畫 DSX Ready to Qualified](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fbbf0e059b864f39be70f126a36bcffb),  
+[DSX Ready to Qualified解釋](https://www.nvidia.com/en-us/data-center/products/dsx/dsx-ready/#nv-accordion-0c3c5e4e26-item-63efd6fd71),  
+[DSX Ready to Qualified合作夥伴](https://marketplace.nvidia.com/en-us/enterprise/dsx-infrastructure/?category=bess&validationStatus=NVIDIA+DSX+Ready&page=1&limit=15),  
+[特斯拉,台達電,光寶科](https://udn.com/news/story/7240/9782226)
 
 ## 2026/09/28
 ```
