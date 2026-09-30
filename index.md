@@ -34,9 +34,10 @@ layout: testlayouts
 2026年10月1日SpaceX計劃執行NASA Crew-13載人任務，Google TPU原型衛星同日也將升空.
 2026年10月14日台灣國際淨零永續展與, 台灣國際智慧能源週, 台灣鈣鈦礦: 元晶,聯合再生,茂迪,國碩,碩禾. 觀察聯合再生, 買進元晶.
 豪勉, 協助友達在光通訊晶片巨量篩選檢測流程上大幅提升效率.
+宏達電, 和World Labs於2025年11月首度公開雙方技術合作計畫, AMD約82億美元的全股票交易收購AI新創World Labs.
 ```
 [豪勉攜友達](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=57b8047db0e4496ba0f774d8eeda55b1), [SpaceX Google TPU](https://news.futunn.com/t/hk/post/1000241098/weekly-outlook-a-flurry-of-releases-august-s-core-pce/6mVBmzVnVf),
-[亞馬遜首度參與金像電私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e49c3224ad4f4711b040f2e4f6dd57d5)
+[亞馬遜首度參與金像電私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e49c3224ad4f4711b040f2e4f6dd57d5), [宏達電和AMD和World Labs關係](https://money.udn.com/money/story/5612/9784608?dark_mode=1)
 
 ## 2026/09/29
 ```
