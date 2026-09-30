@@ -28,6 +28,16 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/09/30
+```
+亞馬遜首度參與金像電私募.
+2026年10月1日SpaceX計劃執行NASA Crew-13載人任務，Google TPU原型衛星同日也將升空.
+2026年10月14日台灣國際淨零永續展與, 台灣國際智慧能源週, 台灣鈣鈦礦: 元晶,聯合再生,茂迪,國碩,碩禾. 觀察聯合再生, 買進元晶.
+豪勉, 協助友達在光通訊晶片巨量篩選檢測流程上大幅提升效率.
+```
+[豪勉攜友達](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=57b8047db0e4496ba0f774d8eeda55b1), [SpaceX Google TPU](https://news.futunn.com/t/hk/post/1000241098/weekly-outlook-a-flurry-of-releases-august-s-core-pce/6mVBmzVnVf),
+[亞馬遜首度參與金像電私募](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e49c3224ad4f4711b040f2e4f6dd57d5)
+
 ## 2026/09/29
 ```
 美國兩黨國會參議員共同提出《保護國家安全系統免受中國光收發器威脅法案》, 目的是限制美國聯邦政府相關採購光通訊模組限制, 確保美國國家安全, 造成中國長飛光纖, 中際旭創等等矽光子-10%.
