@@ -36,7 +36,7 @@ layout: testlayouts
 豪勉, 協助友達在光通訊晶片巨量篩選檢測流程上大幅提升效率. 觀察豪勉, 等待友達.
 GoogleTPU發射衛星任務Transporter-18定於太平洋時間10月1日上午11時32分. 觀察倉和, 等待元晶.
 ```
-[GoogleTPU發射衛星任務](https://news.futunn.com/t/hk/post/1000502291/M2bqU3zNAe)
+[GoogleTPU發射衛星任務](https://news.futunn.com/t/hk/post/1000502291/M2bqU3zNAe), [GoogleAI晶片送上太空的計畫成功1](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/), [GoogleAI晶片送上太空的計畫成功2](https://udn.com/news/story/6811/9790218)
 
 ## 2026/10/01
 ```
