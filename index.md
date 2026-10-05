@@ -34,6 +34,7 @@ layout: testlayouts
 建準, 台灣第一家獲得NASA認證的散熱廠. 
 友達, 10月中旬友達舉辦30週年慶祝活動. 觀察豪勉, 等待友達.
 倉和9:22創當日新低, 賣出元晶. 低軌衛星這次漲華通, 可惜.
+觀察華通,昇達科,燿華, 買進耀登.
 ```
 [10月中旬友達舉辦30週年慶祝活動](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=acd369a7027e46579012731686dc84e3), [建準](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b570600e164345d0a0d1a178422fdfa7)
 
