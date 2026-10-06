@@ -28,6 +28,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/06
+```
+AMD蘇姿丰6日訪台密會供應鏈, 8日赴韓談AI合作. AMD力成(EFB先進封裝), 譜瑞-KY(ASIC-Like), 營邦(MI450).
+PCB新材料-> PTFE(聚四氟乙烯): 台虹, 台郡, 聯茂, 亞電, 律勝. HC(碳氫樹脂): 國精化, 雙鍵.
+```
+[AMD亞洲巡迴訪問](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=60cf6c7bdb314050a685954522c5be1a), [PCB新材料](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=97288b58a96b40e49836d18435ebd6be)
+
 ## 2026/10/05
 ```
 10/8大立光法說會,  10/12南亞科法說會, 10/15台積電法說會, 10/29友達法說會.
