@@ -22,9 +22,9 @@ layout: testlayouts
 
 台灣時間晚上 2026/10/14.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
-台灣時間晚上 2026/10/??.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), 指數高點或低點.  
+台灣時間晚上 2026/10/??.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
 
-[10月09日中秋節休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月09日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
