@@ -28,6 +28,16 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/08
+```
+美光桃園工會同意罷工10月7日宣布, 台灣高科技產業工會首次取得罷工權。10月8日9日董事會召開, 10月19日在凱達格蘭大道舉行示威活動, 台中廠調解訂於10月22日.
+日本村田製作所在9月10日對全球客戶發出年度停產通知, 造成國巨,華新科上漲.
+台塑, 攜手創曦資訊建置AIDC, 造成台塑上漲.
+10/12京東,淘寶,天貓,雙11活動開始, 等待富邦媒.
+觀察豪勉, 等待友達.
+```
+[日本村田製作9月10日停產](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f58765d806b0486e9dbd111811bda011), [台塑建置AIDC](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=80a77b19f2404e6d8b35c5d25d758b76), [美光罷工1](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9269cc8e21634df8b05be69c53125421), [美光罷工2](https://www.trendforce.com/news/2026/10/08/news-micron-taiwans-taoyuan-union-secures-right-to-strike-with-88-3-support-taichung-mediation-set-for-oct-22/)
+
 ## 2026/10/07
 ```
 10/15台積電法說會, 主觀加權指數高點會在那附近.
