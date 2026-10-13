@@ -28,6 +28,17 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/13
+```
+NVDA和Cisco合作全球首發USFP(Ultra Small Form Factor Pluggable)400G光通模組.
+友達第一個賣點是2010/01高點是四二.
+友達第二個賣點是10/6豪勉出關9:15破當日新低.
+友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點.
+阿里巴巴(09988)天貓及京東(09618)兩大電商平台宣布,將於15日舉行2026雙11新聞發布會, 等待富邦媒.
+等待美股費半加權明顯上漲時開盤買進南亞科.
+```
+[NVDA和Cisco合作全球首發USFP400G光通模組](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=cdf2f9d57bf24c4abdd754c01c2f368b), [2026雙11新聞發布會](https://inews.hket.com/article/4207689?r=cpsdlc)
+
 ## 2026/10/12
 ```
 大立光10/8法說會說友達Micro LED CPO方案不可能成真, 造成開盤友達-5%.
