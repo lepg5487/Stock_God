@@ -28,6 +28,26 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/14
+```
+10/15台積電法說會, 10/21 Meta財報.
+NVDA和Cisco合作全球首發USFP, 今天才反應舊新聞(華星光,眾達-KY), 現在盤面買信仰下跌比較安全.
+擎邦,台塑合作關係, 也有股價連動關係.
+普鴻, 量子資安.
+友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點.
+阿里巴巴(09988)天貓及京東(09618)兩大電商平台宣布,將於15日舉行2026雙11新聞發布會, 等待富邦媒.
+```
+[擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f)
+```
+宏達電2025/07/15下午在Facebook、Instagram及X釋出新訊息, 似乎又要發表新品.
+2025/07/16造成宏達電,建達,英濟漲停.
+2025/08/15新品預購開始正式起漲70%~80%.
+
+2026/10/21 Meta財報.
+宏達電2026/09/23新品"預告"VIVEE, 造成宏達電,建達,英濟漲停.
+猜測2026/10/2X新品預購, 準備買進宏達電.
+```
+
 ## 2026/10/13
 ```
 NVDA和Cisco合作全球首發USFP(Ultra Small Form Factor Pluggable)400G光通模組.
