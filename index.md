@@ -35,7 +35,7 @@ NVIDIA OCP峰會NVLink PTFE Board展示看板照片, 列出台郡(Flexium)台虹
 NVDA和Cisco合作全球首發USFP, 今天才反應舊新聞(華星光,眾達-KY), 現在盤面買信仰下跌比較安全.
 擎邦,台塑合作關係, 也有股價連動關係.
 普鴻, 量子資安.
-友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點.
+友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點約五十一.
 阿里巴巴(09988)天貓及京東(09618)兩大電商平台宣布,將於15日舉行2026雙11新聞發布會, 等待富邦媒.
 ```
 [擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f), [NVIDIA NVLink PTFE Board](https://money.udn.com/money/story/5607/9813601?from=edn_newest_index&dark_mode=1)
