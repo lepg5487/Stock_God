@@ -4,27 +4,27 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/10/21. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
+台灣時間晚上 2026/11/18. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
 
 台灣時間晚上 2026/12/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
 台灣時間晚上 2026/10/29.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/10/01.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
+台灣時間晚上 2026/10/23.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
 
-台灣時間晚上 2026/09/30.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
+台灣時間晚上 2026/10/29.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
 
-台灣時間晚上 2026/09/30.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
+台灣時間晚上 2026/11/04.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/10/02.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
+台灣時間晚上 2026/11/06.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
 
-台灣時間晚上 2026/10/07.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
+台灣時間晚上 2026/11/09.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/10/14.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+台灣時間晚上 2026/11/10.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
 
-台灣時間晚上 2026/10/??.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
+台灣時間晚上 2026/11/26.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
 
-[10月09日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[10月25日26日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
@@ -33,11 +33,12 @@ layout: testlayouts
 建漢, 合作Marvell, 宣布推出全新「Pallas 系列」1.6T乙太網路交換器平台架構，支援邁威爾(Marvell)晶片.
 勤凱, 合作台郡成為輝達NVLink PTFE交換器板合作夥伴, 而勤凱的高階合金膏通過認證, 獲台郡MetaLink平台採用.
 緯穎, 合作創意2026 OCP全球高峰會首次實機展示整合式運算系統與即時遙測監控，驗證CPO光互連技術.
+台亞, 轉型矽光子.
 2026/10/21台指期結算日期, 依照8月9月歷史經驗是電子股個股起漲點.
 聖嬰現象巴拿馬運河Gatun Lake(水庫)水量沒有持續下降, 萬海11月初無法買進.
 明天早上賣出富邦媒. 2026/10/21 Meta財報, 準備賣出友達, 準備買進宏達電.
 ```
-[建漢合作Marvell](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a033ecce10da42beab764411ca760821), [台郡合作勤凱](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ede923c4a3984427ace8196f8ee56e81), [緯穎合作創意](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e0a80160abc450d844268d3e9fd6a02)
+[建漢合作Marvell](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a033ecce10da42beab764411ca760821), [台郡合作勤凱](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ede923c4a3984427ace8196f8ee56e81), [緯穎合作創意](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e0a80160abc450d844268d3e9fd6a02), [台亞轉型矽光子](https://www.ctee.com.tw/news/20261014702211-430502)
 
 ## 2026/10/14
 ```
