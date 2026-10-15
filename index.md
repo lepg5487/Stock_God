@@ -28,6 +28,17 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/15
+```
+建漢, 合作Marvell, 宣布推出全新「Pallas 系列」1.6T乙太網路交換器平台架構，支援邁威爾(Marvell)晶片.
+勤凱, 合作台郡成為輝達NVLink PTFE交換器板合作夥伴, 而勤凱的高階合金膏通過認證, 獲台郡MetaLink平台採用.
+緯穎, 合作創意2026 OCP全球高峰會首次實機展示整合式運算系統與即時遙測監控，驗證CPO光互連技術.
+2026/10/21台指期結算日期, 依照8月9月歷史經驗是電子股個股起漲點.
+聖嬰現象巴拿馬運河Gatun Lake(水庫)水量沒有持續下降, 萬海11月初無法買進.
+明天早上賣出富邦媒. 2026/10/21 Meta財報, 準備賣出友達, 準備買進宏達電.
+```
+[建漢合作Marvell](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a033ecce10da42beab764411ca760821), [台郡合作勤凱](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ede923c4a3984427ace8196f8ee56e81), [緯穎合作創意](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e0a80160abc450d844268d3e9fd6a02)
+
 ## 2026/10/14
 ```
 10/15台積電法說會, 10/21 Meta財報.
