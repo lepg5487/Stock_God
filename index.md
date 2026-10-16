@@ -28,6 +28,17 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/16
+```
+Intel以色列工廠工安意外爆炸.
+正文, 攜手美國製造Starman造成漲停.
+現在盤面買信仰下跌比較安全, 漲停隔天9成幾乎沒動能續漲, 等待新題材或美股明顯上漲.
+下禮拜很多財報和展覽, 10/29友達法說會.
+2026/10/21 Meta財報, 準備賣出友達, 準備買進宏達電.
+觀察鏵友益, 牧德(投資鏵友益).
+```
+[正文攜手美國製造Starman](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=75713e5560834f26ae1917dd1dad9f38), [Intel以色列工廠工安意外爆炸](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2ace5bf07e3948c49db66aa8b1e50898)
+
 ## 2026/10/15
 ```
 建漢, 合作Marvell, 宣布推出全新「Pallas 系列」1.6T乙太網路交換器平台架構，支援邁威爾(Marvell)晶片.
