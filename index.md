@@ -28,6 +28,16 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/17
+```
+因為大尺寸晶片Rubin Ultra翹曲問題等等,
+CCL基板->ABF基板(中間玻纖布有機基板)(Intel想把ABF基板改成"玻璃基板"(中間玻璃有機基板))->現在晶片都是小晶片拼成大晶片->小晶片之間傳輸透過矽中介層->矽中介層(貴)(台積電想把矽中介層改成"玻璃中介層").
+```
+```
+友達希望扮演模組整合者，由富采提供光源、鼎元提供接收元件，再結合康寧的光纖方案，開發Micro LED CPO光通訊模組；達興材料的絕緣材料則規劃導入封裝製程。
+```
+[友達運動會](https://www.bnext.com.tw/article/92686/auo-semiconductor-glass-core-micro-led-20261017), [YT高手講解先進封裝等](https://www.youtube.com/watch?v=T3R3CFtYUww)
+
 ## 2026/10/16
 ```
 Intel以色列工廠工安意外爆炸.
