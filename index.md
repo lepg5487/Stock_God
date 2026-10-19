@@ -34,7 +34,7 @@ NVIDIA宣布開發客製化高頻寬記憶體NVHBM並與Amazon Annapurna Labs(�
 NVDA高速傳輸生態系重要成員Credo攜手SENKO新產品技術方向, 證明友達方向正確.
 智原, 取得三星2奈米PDK和Intel美國12奈米產線訂單.
 擎邦, 拿下台光電大園新廠機電工程統包.
-2026/10/21 Meta財報, 準備賣出友達, 準備買進宏達電.
+2026/10/21 Meta財報, 準備買進宏達電.
 等待美股費半加權明顯上漲時開盤買進南亞科.
 ```
 [Credo新品證明友達方向正確](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=57cffb8c6a934f1d861fdfecaf0b1137), [擎邦台光電台塑](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=71377a37b40841cda120fb67f1559d90), [智原取得三星Intel訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=056fc266819344d6bd629e448bc375ac), [NVIDIA NVHBM 世芯-KY](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=95ad578fa2f4449a852810c967bb174e)
