@@ -28,6 +28,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/20
+```
+加權櫃買指數下跌時起漲的族群, 就是指數上漲時的主流, 台塑集團(台塑,南亞,台塑化,台化等等), PTFE(台虹,台郡(勤凱合作),聯茂,亞電,律勝,騰輝電子-KY等等).
+等待美股費半台股加權明顯上漲時, 開盤買進南亞科.
+等待宏達電新品IG發布新消息再買進.
+```
+[宏達電新品IG](https://www.instagram.com/vivee_htc/?hl=zh-tw)
+
 ## 2026/10/19
 ```
 NVIDIA宣布開發客製化高頻寬記憶體NVHBM並與Amazon Annapurna Labs(世芯-KY長期合作)合作.
@@ -82,7 +90,10 @@ NVDA和Cisco合作全球首發USFP, 今天才反應舊新聞(華星光,眾達-KY
 友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點約五十一.
 阿里巴巴(09988)天貓及京東(09618)兩大電商平台宣布,將於15日舉行2026雙11新聞發布會, 等待富邦媒.
 ```
-[擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f), [NVIDIA NVLink PTFE Board](https://money.udn.com/money/story/5607/9813601?from=edn_newest_index&dark_mode=1)
+[擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f), [NVIDIA NVLink PTFE Board](https://money.udn.com/money/story/5607/9813601?from=edn_newest_index&dark_mode=1), [看板照片文章](https://abmedia.io/nvidia-ptfe-ccl-supply-chain)  
+
+<img width="960" height="765" alt="image" src="https://github.com/user-attachments/assets/1dd9f236-cb36-47b9-aca5-f1a706207ebc" />  
+
 ```
 宏達電2025/07/15下午在Facebook、Instagram及X釋出新訊息, 似乎又要發表新品.
 2025/07/16造成宏達電,建達,英濟漲停.
