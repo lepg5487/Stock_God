@@ -28,6 +28,12 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/21
+```
+2026/07/29, (19.69%)融資餘額減幅>(16.13%)加權指數跌幅, 相差3%以上高機率指數低點, 買正2?
+```
+[融資餘額減幅(%)>加權指數跌幅(%)](https://www.macromicro.me/charts/115588/rong-zi-yu-e-jian-fei-VS-jia-quan-zhi-shu-die-fu)
+
 ## 2026/10/20
 ```
 加權櫃買指數下跌時起漲的族群, 就是指數上漲時的主流, 台塑集團(台塑,南亞,台塑化,台化等等), PTFE(台虹,台郡(勤凱合作),聯茂,亞電,律勝,騰輝電子-KY等等).
