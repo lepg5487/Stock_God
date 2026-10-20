@@ -32,9 +32,12 @@ layout: testlayouts
 ```
 加權櫃買指數下跌時起漲的族群, 就是指數上漲時的主流, 台塑集團(台塑,南亞,台塑化,台化等等), PTFE(台虹,台郡(勤凱合作),聯茂,亞電,律勝,騰輝電子-KY等等).
 等待美股費半台股加權明顯上漲時, 開盤買進南亞科.
-等待宏達電新品IG發布新消息再買進.
+宏達電2025/08/11時IG有PO文公告8/15新品即將發表, 2025/08/11開始買進.
+等待宏達電新品IG發布新消息再開盤買進.
 ```
-[宏達電新品IG](https://www.instagram.com/vivee_htc/?hl=zh-tw)
+[宏達電新品IG](https://www.instagram.com/vivee_htc/?hl=zh-tw), [2025/08/11時IG有PO文公告](https://www.instagram.com/p/DNNk9T_TMcx/?hl=zh-tw)  
+
+<img width="1278" height="1115" alt="image" src="https://github.com/user-attachments/assets/6a04a7ff-3e3d-424d-9569-6a115d8a0091" />  
 
 ## 2026/10/19
 ```
