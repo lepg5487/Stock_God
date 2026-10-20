@@ -36,8 +36,7 @@ layout: testlayouts
 等待宏達電新品IG發布新消息再開盤買進.
 ```
 [宏達電新品IG](https://www.instagram.com/vivee_htc/?hl=zh-tw), [2025/08/11時IG有PO文公告](https://www.instagram.com/p/DNNk9T_TMcx/?hl=zh-tw)  
-
-<img width="1278" height="1115" alt="image" src="https://github.com/user-attachments/assets/6a04a7ff-3e3d-424d-9569-6a115d8a0091" />  
+<img width="1277" height="1181" alt="image" src="https://github.com/user-attachments/assets/28b0b125-c242-49b4-aa1d-9a8af2275658" />  
 
 ## 2026/10/19
 ```
