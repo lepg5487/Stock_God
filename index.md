@@ -33,8 +33,9 @@ layout: testlayouts
 2026/07/29, (19.69%)融資餘額減幅>(16.13%)加權指數跌幅, 相差3%以上高機率指數低點, 買正2?
 NVIDIA官網量子運算突破新聞2026/10/19, 國外新聞提早一天沒漲是正常現象.
 NVIDIA台灣量子運算突破新聞2026/10/20, 以台灣角度來說第一天, 要選擇金寶.
+2026/10/21台灣晚上, 突然開的美光技術網路演討會, 2026/10/21力積電法說會, 買進力積電.
 ```
-[融資餘額減幅(%)>加權指數跌幅(%)](https://www.macromicro.me/charts/115588/rong-zi-yu-e-jian-fei-VS-jia-quan-zhi-shu-die-fu), [NVIDIA量子運算突破新聞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7a088bc21af84c9791fd38eec987590b), [NVIDIA官網新聞](https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre)
+[融資餘額減幅(%)>加權指數跌幅(%)](https://www.macromicro.me/charts/115588/rong-zi-yu-e-jian-fei-VS-jia-quan-zhi-shu-die-fu), [NVIDIA量子運算突破新聞](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7a088bc21af84c9791fd38eec987590b), [NVIDIA官網新聞](https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre), [突然開的美光技術網路演討會](https://investors.micron.com/news/press-release/2026/Micron-to-Host-Technology-Webinar-on-Oct--21/default.aspx)
 
 ## 2026/10/20
 ```
