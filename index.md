@@ -28,6 +28,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/22
+```
+NVIDIA GTC Berlin 2026 攜手台供應鏈大擴產, 日月光投控旗下矽品,京元電子,欣興.
+NVIDIA推出DSX POD AI工廠, 緯創,台達電,技嘉,沒有小公司可惜.
+韓國美股太弱空手, 等待明顯上漲, 再買進記憶體.
+```
+[NVIDIA攜手台供應鏈大擴產](https://money.udn.com/money/story/5612/9829578?from=edn_newestlist_rank&dark_mode=1), [NVIDIA推出DSX POD AI工廠](https://money.udn.com/money/story/5612/9829542?from=edn_newestlist_rank&dark_mode=1)
+
 ## 2026/10/21
 ```
 2026/07/29, (19.69%)融資餘額減幅>(16.13%)加權指數跌幅, 相差3%以上高機率指數低點, 買正2?
