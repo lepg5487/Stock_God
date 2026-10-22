@@ -3317,8 +3317,16 @@ NVIDIARobotics在24日X發布Did you mark your calendars?
 發布8月25日時要公布新機器人產品, 造成今天機器人全面上漲.
 曾經黃仁勳背板最有關係的是所羅門波若威, 最近和所羅門合作的個股圓剛.
 ```
-[22日影片](https://x.com/NVIDIARobotics/status/1958571389037748328)
-[24日發文](https://x.com/NVIDIARobotics/status/1959364501616074774)
+[22日影片](https://x.com/NVIDIARobotics/status/1958571389037748328), [24日發文](https://x.com/NVIDIARobotics/status/1959364501616074774)
+```
+台灣公司：
+研揚科技、日月光、Footprint-AI、HomeeAI、立端科技(Lanner)、宇見智能科技(MetAI)、同德(Palit)、偲捷科技(SPINGENCE)、宏碁、華擎科技、
+仁寶、Fortune AI、麗臺、神達、凌華、華碩、訊凱國際、鴻海、敦新科技、樂達科技、微星、研華、中光電、鴻佰科技、律果科技、和碩、StarFab、台智雲、
+聯電、澄風科技(STREAMTECK) 、欣興、美超微、杰倫智能(PROFET AI)、滿拓科技(DeepMentor)、圓剛、安提國際、艾訊、神瑞人工智慧(DeepRad.AI)、英研智能、
+城智科技(AIRA)、台達電、巨大集團、鑫蘊林科(Linker Vision)、宸曜、超恩(VECOW)、雲達、廣達、達明機器人、緯創、德律、
+緯穎、聰泰、曜越、所羅門、新漢、光寶科、英業達、技嘉、勤誠、安宏生醫、亞太智能科技、集仕多、益登、集雅科技、迎廣、廣運、趨勢科技、台積電、矽品、醫揚、聯發科、京元電、弘憶股、慧友。
+```
+[NVIDIA 黃仁勳 2024 GTC 背板](https://www.nownews.com/news/6440919)
 
 ## 2025/08/22
 ```
