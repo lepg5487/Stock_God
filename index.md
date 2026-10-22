@@ -102,14 +102,14 @@ Intel以色列工廠工安意外爆炸.
 ## 2026/10/14
 ```
 10/15台積電法說會, 10/21 Meta財報.
-NVIDIA OCP峰會NVLink PTFE Board展示看板照片, 列出台郡(Flexium)台虹(Taiflex)等廠商, 造成PCB新材料PTFE(聚四氟乙烯): 台虹, 台郡, 聯茂, 亞電, 律勝, 騰輝電子-KY等等.
+NVIDIA OCP峰會NVLink PTFE Board展示背板照片, 列出台郡(Flexium)台虹(Taiflex)等廠商, 造成PCB新材料PTFE(聚四氟乙烯): 台虹, 台郡, 聯茂, 亞電, 律勝, 騰輝電子-KY等等.
 NVDA和Cisco合作全球首發USFP, 今天才反應舊新聞(華星光,眾達-KY), 現在盤面買信仰下跌比較安全.
 擎邦,台塑合作關係, 也有股價連動關係.
 普鴻, 量子資安.
 友達這位置只能繼續假設會複製群創走勢, 破月線後創新高的隔天早上高點約五十一.
 阿里巴巴(09988)天貓及京東(09618)兩大電商平台宣布,將於15日舉行2026雙11新聞發布會, 等待富邦媒.
 ```
-[擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f), [NVIDIA NVLink PTFE Board](https://money.udn.com/money/story/5607/9813601?from=edn_newest_index&dark_mode=1), [看板照片文章](https://abmedia.io/nvidia-ptfe-ccl-supply-chain)  
+[擎邦台塑合作關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a47a2c270aa94ff6b80049f37e8b2b33), [普鴻量子資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7985cac6fed14491ad707685e43d3b6f), [NVIDIA NVLink PTFE Board](https://money.udn.com/money/story/5607/9813601?from=edn_newest_index&dark_mode=1), [背板照片文章](https://abmedia.io/nvidia-ptfe-ccl-supply-chain)  
 
 <img width="960" height="765" alt="image" src="https://github.com/user-attachments/assets/1dd9f236-cb36-47b9-aca5-f1a706207ebc" />  
 
