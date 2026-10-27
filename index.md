@@ -31,9 +31,10 @@ layout: testlayouts
 ## 2026/10/27
 ```
 美超微旗下大訊科技與肯微, 合計持股麗臺30%, 大訊參與州巧私募案取得州巧近25%股權.
+Hugging Face 機器人 Microduck 8月27日開始預購, 10月21日黃仁勳在GTC柏林大會上指揮這機器人, 造成盟立等等機器人上漲.
 宏達電沒反應預購等待3天. 等待台郡下跌到月線附近.
 ```
-[美超微,州巧新關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f0a2e18d6be24c34aa232f6f1b096708)
+[美超微,州巧新關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f0a2e18d6be24c34aa232f6f1b096708), [Microduck](https://finance.biggo.com.tw/news/9bcb5f35-1bab-4403-9e55-f37d94fa96e9)
 
 ## 2026/10/24
 ```
