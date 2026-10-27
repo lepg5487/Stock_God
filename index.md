@@ -28,6 +28,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/27
+```
+美超微旗下大訊科技與肯微, 合計持股麗臺30%, 大訊參與州巧私募案取得州巧近25%股權.
+宏達電沒反應預購等待3天. 等待台郡下跌到月線附近.
+```
+[美超微,州巧新關係](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=f0a2e18d6be24c34aa232f6f1b096708)
+
 ## 2026/10/24
 ```
 宏達電AI新商品VIVEE, 10月22日至11月30日美國開始預購, 開盤買進宏達電.
