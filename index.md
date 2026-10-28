@@ -32,7 +32,7 @@ layout: testlayouts
 ```
 Intel收購量子軟體公司Classiq, "博磊"轉投資公司科榮和Classiq合作.
 雙鴻私募濱川合作NVIDIA Vera Rubin平台液冷零組件.
-明天早上空手.
+2026/10/28聯電法說會, 買進聯電. 明天早上空手.
 ```
 [Intel收購量子軟體公司Classiq](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=af92c77dcdf9426dbf9d9a80879f849d), [雙鴻私募濱川](https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=237244a0-1242-48f1-81ff-c56d6a5501a3)
 
