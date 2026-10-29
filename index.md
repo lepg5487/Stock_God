@@ -28,6 +28,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/10/29
+```
+NVIDIA RTX 60系列延後至2028年發布, 2年就新一代的規律改變, 微星事件交易改到2028.
+個股漲停隔天跌停的趨勢還是沒有改變, 玉晶光.
+開盤停損空手, 等待明顯上漲, 再買進記憶體.
+```
+[NVIDIA RTX 60系列延後至2028年發布](https://www.trendforce.com/news/2026/10/29/insights-nvidia-rtx-60-may-slip-to-2028-amd-rdna-5-also-in-question-why-are-gaming-gpu-cycles-slowing/)
+
 ## 2026/10/28
 ```
 Intel收購量子軟體公司Classiq, "博磊"轉投資公司科榮和Classiq合作.
