@@ -8,11 +8,11 @@ layout: testlayouts
 
 台灣時間晚上 2026/12/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/10/29.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
+台灣時間晚上 2026/12/10.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/10/23.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
+台灣時間晚上 2026/11/03.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
 
-台灣時間晚上 2026/10/29.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), 指數最壞下跌1天.  
+台灣時間晚上 2026/11/25.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), [PCE時間](https://www.newyorkfed.org/research/calendars/i-nov26.html),指數最壞下跌1天.  
 
 台灣時間晚上 2026/11/04.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
 
@@ -24,7 +24,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/11/26.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
 
-[10月25日26日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
+[12月25日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
