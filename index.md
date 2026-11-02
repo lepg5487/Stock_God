@@ -28,6 +28,19 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/02
+```
+聯電, 取得全球光模組龍頭中際旭創訂單.
+jpp-KY, 透過與泰國電源管理大廠合作, 取得亞馬遜Google訂單, 電源電池儲能相關機構件.
+三星電子12月中推出首款人工智慧智慧眼鏡Intelligent Eyewear.
+博通, TOPPAN合作研發玻璃基板, 下一代Tomahawk交換器晶片.
+光互連技術: 線性可插拔光學(LPO)->近封裝光學(NPO)->共同封裝光學(CPO)->光學晶片互連(OOI)
+共同封裝光學(CPO): 光引擎從傳統可插拔光模組移至交換晶片旁的"有機基板".
+光學晶片互連(OOI): 光引擎整合至運算晶片所在的"矽中介層". 8波長DWDM密集波分複用方案.
+NVDA OOI: Lumentum, 天孚通信, 台積電, 鴻海.
+```
+[NVDA矽光子最新技術1](https://news.cnyes.com/news/id/6643213), [NVDA矽光子最新技術2](https://news.futunn.com/t/hk/post/1003015433/JvqyVZBQQe), [三星電子Intelligent Eyewear](https://www.trendforce.com/news/2026/11/02/news-samsungs-first-ai-glasses-reportedly-set-for-mid-december-launch-in-korea-u-s-enters-meta-dominated-market/), [博通TOPPANTomahawk玻璃基板](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=78f2171a7be24104ae78dd5be6f797a6), [聯電取得中際旭創訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=50ec5065f47345d78b643c48cb0fc54f), [jpp-KY取得亞馬遜Google訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=86d6e459bf52451f9d3fc34010b96b22)
+
 ## 2026/10/30
 ```
 背板概念股: 急漲30~40%, 急跌到月季線買點, 月季線價格會再+30%.
