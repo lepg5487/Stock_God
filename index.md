@@ -30,6 +30,7 @@ layout: testlayouts
 
 ## 2026/11/02
 ```
+中國被動元件電子陶瓷龍頭潮州三環集團(300408), 最新陶瓷封裝基座11月起標準品漲幅最高超過15%, 造成同欣電,九豪漲停.
 2026/10/27下午中國國家隊護盤.
 聯電, 取得全球光模組龍頭中際旭創訂單.
 jpp-KY, 透過與泰國電源管理大廠合作, 取得亞馬遜Google訂單, 電源電池儲能相關機構件.
@@ -42,7 +43,7 @@ NVDA OOI: Lumentum, 天孚通信, 台積電, 鴻海.
 NVDA DWDM: 統新, 前鼎, 佳必琪.
 2026/11/3美國期中選舉. 2026/11/4律勝出關. 2026/11/4台郡法說會, 觀察律勝, 緩慢買進台郡.
 ```
-[NVDA矽光子最新技術1](https://news.cnyes.com/news/id/6643213), [NVDA矽光子最新技術2](https://news.futunn.com/t/hk/post/1003015433/JvqyVZBQQe), [三星電子Intelligent Eyewear](https://www.trendforce.com/news/2026/11/02/news-samsungs-first-ai-glasses-reportedly-set-for-mid-december-launch-in-korea-u-s-enters-meta-dominated-market/), [博通TOPPANTomahawk玻璃基板](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=78f2171a7be24104ae78dd5be6f797a6), [聯電取得中際旭創訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=50ec5065f47345d78b643c48cb0fc54f), [jpp-KY取得亞馬遜Google訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=86d6e459bf52451f9d3fc34010b96b22), [2026/10/27下午中國國家隊護盤](https://www.ctee.com.tw/news/20261027700140-439901), [統新](https://blog.fugle.tw/post/earnings-call-6426-2026-08-26), [前鼎](https://blog.fugle.tw/post/earnings-call-4908-2026-04-17), [佳必琪](https://blog.fugle.tw/post/earnings-call-6197-2025-12-31)
+[NVDA矽光子最新技術1](https://news.cnyes.com/news/id/6643213), [NVDA矽光子最新技術2](https://news.futunn.com/t/hk/post/1003015433/JvqyVZBQQe), [三星電子Intelligent Eyewear](https://www.trendforce.com/news/2026/11/02/news-samsungs-first-ai-glasses-reportedly-set-for-mid-december-launch-in-korea-u-s-enters-meta-dominated-market/), [博通TOPPANTomahawk玻璃基板](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=78f2171a7be24104ae78dd5be6f797a6), [聯電取得中際旭創訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=50ec5065f47345d78b643c48cb0fc54f), [jpp-KY取得亞馬遜Google訂單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=86d6e459bf52451f9d3fc34010b96b22), [2026/10/27下午中國國家隊護盤](https://www.ctee.com.tw/news/20261027700140-439901), [統新](https://blog.fugle.tw/post/earnings-call-6426-2026-08-26), [前鼎](https://blog.fugle.tw/post/earnings-call-4908-2026-04-17), [佳必琪](https://blog.fugle.tw/post/earnings-call-6197-2025-12-31), [同欣電,九豪](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=df385d02093446ffa5f472e2a2fb8ff4)
 
 ## 2026/10/30
 ```
