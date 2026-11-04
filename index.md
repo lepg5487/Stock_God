@@ -37,7 +37,7 @@ layout: testlayouts
 2026/11/04 12:00 台灣加權指數最低點.
 2026/11/04 11:45~50 個股當日最低點.
 
-2026/11/04 11:21 確定任何一黨勝利時就能開始買進.
+2026/11/04 11:21 任何一黨的"參議院"和"眾議院"確定結果時就能開始買進.
 ```
 [川普共和黨輸"參議院"時間點](https://news.nextapple.com/international/20261104/35DE487CFB969EA101A0E91F9E9B7A8B), [川普共和黨輸"眾議院"時間點](https://www.rti.org.tw/news?uid=3&pid=241726), [川普共和黨確定輸"參議院"時間點](https://tw.news.yahoo.com/share/0bfe272d-0cd3-36e0-9347-37666a66ba54)  
 
