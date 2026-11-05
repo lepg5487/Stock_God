@@ -30,8 +30,11 @@ layout: testlayouts
 
 ## 2026/11/05
 ```
+旭暉應材, 宣布和美國矽谷創新散熱技術公司Frore Systems簽署合作, 造成漲停.
+民主黨太陽能: 倉和, 碩和, 國碩, 聯合再生, 元晶, 茂迪, 安集.
 空手等待長紅.
 ```
+[旭暉應材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=6ace3118189144be8d58b6c02c4bad02)
 
 ## 2026/11/04
 ```
