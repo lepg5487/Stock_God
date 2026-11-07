@@ -28,6 +28,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/07
+```
+2026/11/06晚上國安基金決定啟動安定市場任務和限空令(融券保證金調整為130％).
+觀察星期一韓國日本股市開盤狀況決定買正2還是南亞科.
+```
+[國安基金進場](https://www.mof.gov.tw/singlehtml/383?cntId=9f3f6bab54e44038b427386b8acc63fa) ,[限空令(融券保證金調整為130％)](https://money.udn.com/money/story/124512/9862830?from=edn_editorrelated_story&dark_mode=1#catalog-anchor_0)
+
 ## 2026/11/06
 ```
 國安基金禁空令紀錄
