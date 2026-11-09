@@ -37,6 +37,7 @@ layout: testlayouts
 [碩陽電機](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3b37aeb6156b4be5a7d494ad4a20724d)  
 
 ```
+美國選舉策略:
 2016年11月8日選舉 川普共和黨
 2018年11月6日期中 川普共和黨<拜登民主黨
 (低點2018/10/26, 高點2018/11/06聯合再生元晶(30%)太陽能)
