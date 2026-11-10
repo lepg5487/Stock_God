@@ -30,12 +30,11 @@ layout: testlayouts
 
 ## 2026/11/10
 ```
-蘋果人形機器人: 鴻準,台達電.
 Google TPU系列擴展至四款, NVIDIA GPU 市場發起挑戰. TPU正吸引apple,Meta,甲骨文,Anthropic,OpenAI購買, AI晶片競爭正從"通用"轉向"專業".
+蘋果人形機器人: 鴻準,台達電.
 NVIDIA資安問題可能轉單AMD和Google.
-賣出記憶體南亞科.
-觀察 11/10 聯發科 法說會.
-觀察世芯-KY, M31, 威盛, 愛普, 等待巨有科技財報.
+加權指數漲第3天, 早上9:15~20賣出南亞科.
+觀察 11/10 聯發科 法說會, 觀察世芯-KY, M31, 威盛, 愛普, 等待巨有科技財報.
 ```
 [蘋果人形機器人鴻準台達電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a73fd307c5104830bae65629badfd136), [Google TPU](https://news.futunn.com/t/post/1003932437/eyb6QQInzb), [NVIDIA資安問題轉單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2cdf803bc5234f118b846c42c2a42fc0)
 
