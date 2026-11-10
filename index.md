@@ -35,7 +35,7 @@ Google TPU系列擴展至四款, NVIDIA GPU 市場發起挑戰. TPU正吸引appl
 NVIDIA資安問題可能轉單AMD和Google.
 賣出記憶體南亞科.
 觀察 11/10 聯發科 法說會.
-觀察世芯-KY, M31, 威盛, 愛普, 等待巨有科技財報, 買進晶心科等待營收和11/13法說會.
+觀察世芯-KY, M31, 威盛, 愛普, 等待巨有科技財報.
 ```
 [蘋果人形機器人鴻準台達電](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a73fd307c5104830bae65629badfd136), [Google TPU](https://news.futunn.com/t/post/1003932437/eyb6QQInzb), [NVIDIA資安問題轉單](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2cdf803bc5234f118b846c42c2a42fc0)
 
