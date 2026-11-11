@@ -28,6 +28,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/11
+```
+觀察世芯-KY, 創意, 等待巨有科技.
+等待2026/11/13力旺, 晶心科法說會.
+2026/11/11聯友金屬-創法人說明會, 2026/09/03曾經法人說明會上漲3天, 買進聯友金屬-創.
+```
+
 ## 2026/11/10
 ```
 Google TPU系列擴展至四款, NVIDIA GPU 市場發起挑戰. TPU正吸引apple,Meta,甲骨文,Anthropic,OpenAI購買, AI晶片競爭正從"通用"轉向"專業".
