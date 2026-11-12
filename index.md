@@ -33,6 +33,12 @@ layout: testlayouts
 元太,打入Google轉投資美國機器人開發商Apptronik供應鏈. 元太電子紙用於Apptronik人形機器人臉部及上半身,與人類進行溝通.
 馬斯克X發文SpaceX已向太陽能設備商SINGULUS訂購年產能達100GW的異質結(HJT)太陽能電池設備, 造成昇達科+10%->華通+10%->元晶+9%->聯合再生+3%->倉和+10%->碩禾+10%
 NVDA夜盤-8%, 空手等待月底所羅門機器人.
+2026/11/09黃仁勳遇到女刺客外遇造成NVDA股價開始下跌, 預估總共要下跌5天, 2026/11/13主觀猜測是NVDA的相對低點.
+```
+```
+2018/09/27美國證券交易委員會(SEC)對馬斯克提告後,短短兩天雙方就和解.
+和解內容,馬斯克要辭去特斯拉董事長,改為執行長.
+造成特斯拉股價下跌5天總共下跌25%.
 ```
 ```
 意法半導體漲價歷史, 2026/04/26, 2026/06/28, 2026/08/23, 2027/01/01
@@ -41,7 +47,8 @@ NVDA夜盤-8%, 空手等待月底所羅門機器人.
 2026/8/23漲價, 新唐2026/08/07低點(11天), 新唐2026/08/13高點(漲4天)
 2027/1/01漲價, 新唐2026/12/15低點(1?天), 新唐2026/12/2x高點(漲?天)
 ```
-[馬斯克X發文](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a63cd0794ebc4508acf958193c5cd557), [元太](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e7cd11be2404512844c2893fa97ea76),[意法半導體漲價](https://www.trendforce.com/news/2026/11/12/news-stmicroelectronics-reportedly-to-hike-prices-on-jan-1-2027-after-three-rounds-in-2026-citing-supply-chain-costs/)
+[2018/09/27馬斯克辭去特斯拉董事長](https://www.bnext.com.tw/article/50766/elon-musk-agrees-to-resign-as-tesla-chairman-in-settlement-with-sec)
+[馬斯克X發文SpaceX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=a63cd0794ebc4508acf958193c5cd557), [元太](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9e7cd11be2404512844c2893fa97ea76),[意法半導體漲價](https://www.trendforce.com/news/2026/11/12/news-stmicroelectronics-reportedly-to-hike-prices-on-jan-1-2027-after-three-rounds-in-2026-citing-supply-chain-costs/)
 
 ## 2026/11/11
 ```
