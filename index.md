@@ -28,6 +28,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/13
+```
+黃仁勳離開NVDA, 市場預期NVDA產不出更好的晶片ASIC, 造成台灣所有ASIC IP全部+10%.
+誠美材, 主要聚焦封裝應用膜材及先進封裝材料, 膜材以晶圓切割及研磨膠帶為主.
+元太, 合作PTFE材料台虹技術及元太捲對捲(Roll-to-Roll)製程.
+期貨創意聯發科世芯-KY全漲停, 股票開盤買進巨有科技.
+```
+[黃仁勳NVDA,ASIC](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9b22576b2cc04363874379e6da9d98cf), [誠美材先進封裝膜材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3e62205d1daa4c47be85f9e7634d1250), [元太台虹合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=24dfe6dbc8bf41ae885f9c2cc21e070b)
+
 ## 2026/11/12
 ```
 元太,打入Google轉投資美國機器人開發商Apptronik供應鏈. 元太電子紙用於Apptronik人形機器人臉部及上半身,與人類進行溝通.
