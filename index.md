@@ -34,6 +34,7 @@ layout: testlayouts
 黃仁勳離開NVDA, 市場預期NVDA產不出更好的晶片ASIC, 造成台灣所有ASIC IP全部+10%.
 誠美材, 主要聚焦封裝應用膜材及先進封裝材料, 膜材以晶圓切割及研磨膠帶為主.
 元太, 合作PTFE材料台虹技術及元太捲對捲(Roll-to-Roll)製程.
+等待月底機器人, 所羅門(黃仁勳危險), 特斯拉Optimus: 盟立, 亞光.
 期貨創意聯發科世芯-KY全漲停, 股票開盤買進巨有科技, 突發事件造成的上漲最少有30%.
 ```
 [黃仁勳川普APEC](https://www.nownews.com/news/6890628), [黃仁勳同意出席閉門簡報](https://www.rti.org.tw/news?uid=3&pid=1051260), [黃仁勳NVDA,ASIC](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=9b22576b2cc04363874379e6da9d98cf), [誠美材先進封裝膜材](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=3e62205d1daa4c47be85f9e7634d1250), [元太台虹合作](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=24dfe6dbc8bf41ae885f9c2cc21e070b)
