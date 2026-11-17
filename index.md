@@ -4,29 +4,44 @@ layout: testlayouts
 
 # 青年股神的日記 
 
-台灣時間晚上 2026/11/18. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
+台灣時間晚上 2026/12/16. [台指期結算日期](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 多空反轉日期.  
 
 台灣時間晚上 2026/12/18. 美股[四巫日](https://www.taifex.com.tw/file/taifex/CHINESE/4/2026Calendar.pdf), 指數很震.  
 
-台灣時間晚上 2026/12/10.02:00. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
+台灣時間晚上 2026/12/10.02:30. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), ,[官方時間(Kevin Warsh)](https://www.federalreserve.gov/newsevents/calendar.htm), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/11/03.21:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
+台灣時間晚上 2026/12/30.03:00. [美國聯邦公開市場委員會(FOMC)會議紀要(FOMC Minutes)](https://hk.investing.com/economic-calendar/federal-a%C3%A7%C4%B1k-piyasa-komitesi-(fomc)-toplant%C4%B1-tutanaklar%C4%B1-108), [官方時間(FOMC Minutes Meeting)](https://www.federalreserve.gov/newsevents/calendar.htm)
 
-台灣時間晚上 2026/11/25.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), [PCE時間](https://www.newyorkfed.org/research/calendars/i-nov26.html),指數最壞下跌1天.  
+台灣時間晚上 2026/12/01.22:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
 
-台灣時間晚上 2026/11/04.20:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
+台灣時間晚上 2026/12/23.20:30. [PCE物價指數](https://hk.investing.com/economic-calendar/core-pce-price-index-905), [PCE時間](https://www.newyorkfed.org/research/calendars/i-nov26.html),指數最壞下跌1天.  
 
-台灣時間晚上 2026/11/06.20:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
+台灣時間晚上 2026/12/02.21:15. [(小非農)美國非農就業人數ADP公布時間](https://hk.investing.com/economic-calendar/adp-nonfarm-employment-change-1), 提前判斷NFP公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/11/09.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-aug26.html), 提前判斷CPI公布時, 指數高點或低點.  
+台灣時間晚上 2026/12/04.21:30. [(大非農)美國非農就業人數NFP公布時間](https://hk.investing.com/economic-calendar/nonfarm-payrolls-227), 參考NFP判斷公布ADP, 指數高點或低點.  
 
-台灣時間晚上 2026/11/10.20:30. [美國居民消費價格指數CPI公布時間](https://hk.investing.com/economic-calendar/cpi-733), 指數高點或低點.  
+美國時間晚上 2026/12/07.23:00. [Survey of Consumer Expectations](https://www.newyorkfed.org/research/calendars/i-dec26.html), 提前判斷CPI公布時, 指數高點或低點.  
 
-台灣時間晚上 2026/11/26.02:00. [美國聯準會褐皮書](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
+美國時間晚上 2026/12/10.20:30. [美國居民消費價格指數CPI(Consumer Price Index)](https://www.newyorkfed.org/research/calendars/i-dec26.html), 指數高點或低點.  
+
+台灣時間晚上 2026/11/26.02:00. [美國聯準會褐皮書(Beige Book)](https://hk.investing.com/economic-calendar/beige-book-10), [準確時間](https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm), 指數高點或低點.  
 
 [12月25日休市](https://www.twse.com.tw/zh/holidaySchedule/holidaySchedule)  
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
+
+## 2026/11/17
+```
+2026年11月18日 NVIDIA 第三季財報.
+2026年11月19日 NVIDIA 臨時CEO將於召開全體員工會議.
+黃仁勳2026年11月18日出席美國國會舉行的聯合閉門聽證會(閉門簡報會).
+眾議院三個委員會要求其12月1日接受閉門問話,
+參議院銀行委員會則要求其12月3日出席聽證會,
+美國商務部長Lutnick亦被要求於12月10日作證.
+2026年11月19日 Anthropic上市交易.
+等待平盤以下禁止放空, 如果出現買進00631L.
+等待月底機器人, 所羅門(黃仁勳危險), 特斯拉Optimus: 盟立, 亞光, 高鋒.
+```
 
 ## 2026/11/16
 ```
