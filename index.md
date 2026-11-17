@@ -10,7 +10,7 @@ layout: testlayouts
 
 台灣時間晚上 2026/12/10.02:30. [FOMC利率決策公布時間](https://hk.investing.com/economic-calendar/fed-interest-rate-decision-168), ,[官方時間(Kevin Warsh)](https://www.federalreserve.gov/newsevents/calendar.htm), [升息機率](https://www.cmegroup.com/cn-t/markets/interest-rates/cme-fedwatch-tool.html), 指數高點或低點.  
 
-台灣時間晚上 2026/12/30.03:00. [美國聯邦公開市場委員會(FOMC)會議紀要(FOMC Minutes)](https://hk.investing.com/economic-calendar/federal-a%C3%A7%C4%B1k-piyasa-komitesi-(fomc)-toplant%C4%B1-tutanaklar%C4%B1-108), [官方時間(FOMC Minutes Meeting)](https://www.federalreserve.gov/newsevents/calendar.htm)
+台灣時間晚上 2026/12/30.03:00. [美國聯邦公開市場委員會會議紀要(FOMC Minutes)](https://hk.investing.com/economic-calendar/federal-a%C3%A7%C4%B1k-piyasa-komitesi-(fomc)-toplant%C4%B1-tutanaklar%C4%B1-108), [官方時間](https://www.federalreserve.gov/newsevents/calendar.htm)
 
 台灣時間晚上 2026/12/01.22:45. [美國製造業PMI](https://hk.investing.com/economic-calendar/manufacturing-pmi-829), 指數最壞下跌2天.  
 
