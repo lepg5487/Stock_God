@@ -30,6 +30,15 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/18
+```
+蘋果計畫在2027年6月的WWDC正式發表首款AI眼鏡.
+NVIDIA代理專用 AI CPU 明年初出貨.
+2026/11/26大世科法人說明會.
+等待11/25, 等待平盤以下禁止放空, 如果出現買進00631L.
+```
+[蘋果WWDC正式發表AI眼鏡](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=b6a805b2a4c345c0a59c5ec67a02ccfa), [NVIDIA代理專用AI CPU](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=ab2c3246df78452bae9cf51145ef193c)
+
 ## 2026/11/17
 ```
 2026年11月18日 NVIDIA 第三季財報.
