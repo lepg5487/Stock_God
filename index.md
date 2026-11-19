@@ -30,6 +30,14 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/19
+```
+嘉聯益, 機器人靈巧手相關應用, 該公司也與政府研究單位合作, 目前歐美客戶正進行產品驗證.
+優群, 連接器廠Google新案, 預計明年第1季量產伺服器業績.
+等待11/25左右附近, 等待8:45期貨開盤記憶體+10%, 等待平盤以下禁止放空, 如果出現買進00631L.
+```
+[嘉聯益攻機器人](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=23f2c926758d4ebc826824901f07f6b5), [優群Google新案](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=05f6f6129a2744448e8df2dde3906e88)
+
 ## 2026/11/18
 ```
 蘋果計畫在2027年6月的WWDC正式發表首款AI眼鏡.
