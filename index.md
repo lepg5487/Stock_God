@@ -30,6 +30,13 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/20
+```
+Intel打進微軟自研晶片, 微軟首度公開確認將在Azure自研晶片導入英特爾EMIB封裝技術.
+等待11/25左右附近, 等待8:45期貨開盤記憶體+10%, 如果出現買進00631L.
+```
+[Intel打進微軟自研晶片](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=e5aaf7de27974a06aa28f26f92cc4eea)
+
 ## 2026/11/19
 ```
 2026/12/1美國加州聖馬特奧將舉行人形機器人峰會(Humanoids Summit 2026), 特斯拉第三代Optimus機器人計劃進行現場演示.
