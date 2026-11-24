@@ -30,6 +30,19 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/24
+```
+台指選擇權外資未平倉口數崩跌抄底方式: 加權指數-10%或-20%時, 看外資未平倉連續大增3天, 第4天緩慢買進正2.
+黃仁勳恢復CEO和董事會成員職務, 造成NVDA+30%, 台指期+10%.
+精確切入SpaceX旗下Starlink(星鏈)供應鏈.
+00631L,00685L掛單太多, 開盤買進00675L,00663L.
+```
+[精確SpaceX](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=2b0a969bb3444ea1b8a08819c4c13d76), [黃仁勳恢復CEO和董事會成員職務](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director), [1台指選擇權外資未平倉口數崩跌抄底方式](https://histock.tw/stock/optionthree.aspx), [2台指選擇權外資未平倉口數崩跌抄底方式](https://www.wantgoo.com/option/institutional-investors-bull-bear)
+
+<img width="1376" height="1004" alt="image" src="https://github.com/user-attachments/assets/6b1c81db-d8cf-4538-a9dc-d65d14271e77" />
+
+<img width="1425" height="551" alt="image" src="https://github.com/user-attachments/assets/19f259ef-ffa4-4a2a-97d7-9c2c8b0c4dc0" />
+
 ## 2026/11/23
 ```
 2026/11/23早上09:00聯電法說會, 造成開盤漲停.
