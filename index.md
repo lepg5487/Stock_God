@@ -30,6 +30,17 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/25
+```
+東擎, 和INTEL共同開發平台RBK-100 Robotics-in-a-Box整合式實體AI(Physical AI).
+中環, 日本富士軟片傳出投入百億日圓擴大磁帶產能至原有的五倍, 光碟片產業受惠.
+光碟片因不連網, 不上雲端, 成為駭客無法攻擊的安全儲存環境.
+黃仁勳眾議院三個委員會要求其12月1日接受閉門問話.
+黃仁勳參議院銀行委員會則要求其12月3日出席聽證會.
+凹單等待, 2026/12/01以前空手.
+```
+[東擎INTEL](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fdf38c9d39454c8c8a84329fef9f97df), [中環光碟片資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=55533e85b7944d9f8aeba0b685f9becf)
+
 ## 2026/11/24
 ```
 台指選擇權外資未平倉口數崩跌抄底方式: 加權指數-10%或-20%時, 看外資未平倉連續大增3天, 第4天緩慢買進正2.
