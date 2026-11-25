@@ -37,9 +37,19 @@ layout: testlayouts
 光碟片因不連網, 不上雲端, 成為駭客無法攻擊的安全儲存環境.
 黃仁勳眾議院三個委員會要求其12月1日接受閉門問話.
 黃仁勳參議院銀行委員會則要求其12月3日出席聽證會.
-凹單等待, 2026/12/01以前空手.
+凹單等待, 等待美國感恩節, 2026/12/01以前空手.
 ```
 [東擎INTEL](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fdf38c9d39454c8c8a84329fef9f97df), [中環光碟片資安](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=55533e85b7944d9f8aeba0b685f9becf)
+
+```
+NVDA官網未來事件公告:
+11/12黃仁勳離職後出現No Results.
+11/23黃仁勳復職後全部出現.
+11/25????????????????出現No Results.
+```
+
+<img width="1651" height="959" alt="image" src="https://github.com/user-attachments/assets/c521cb86-6bae-480e-b24c-8a94dde32adb" />
+
 
 ## 2026/11/24
 ```
