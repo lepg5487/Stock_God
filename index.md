@@ -30,6 +30,17 @@ layout: testlayouts
 
 [全球財經行事曆](https://www.macromicro.me/calendar#macro)  
 
+## 2026/11/26
+```
+2026/12/01 眾議院三個委員會黃仁勳接受閉門問話.
+2026/12/03 參議院銀行委員會則要求黃仁勳出席聽證會.
+2022/12/06 台積電美國亞利桑納州第一座晶圓廠舉行首批機台移入典禮, 當時美國總統拜登,商務部長雷蒙多親自出席. 台股加權指數高點.
+2026/12/04 台積電美國亞利桑那州鳳凰城廠區的擴建典禮, 川普將出席主持. 台股加權指數高點?
+美元漲, 美股跌, 銅價跌, 油價跌, 金價跌, 美債殖利率跌 -> 極端流動性危機(現金為王) -> 觀察黃金上漲, 美元下跌, 美股創低VIX不創高 -> 費半加權上漲.
+等待"黃金下跌時"隔天早上賣出空手, 等待00675L,00663L.
+```
+[1台積電擴廠典禮川普](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7664acc572854b2aaade783e5504ee09), [2台積電擴廠典禮川普](https://www.trendforce.com/news/2026/11/26/news-trump-to-join-tsmcs-arizona-expansion-ceremony-jensen-huangs-possible-visit-fab-plans-in-focus/)
+
 ## 2026/11/25
 ```
 東擎, 和INTEL共同開發平台RBK-100 Robotics-in-a-Box整合式實體AI(Physical AI).
