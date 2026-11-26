@@ -32,6 +32,8 @@ layout: testlayouts
 
 ## 2026/11/26
 ```
+美國聯邦傳播委員會(FCC)授權SpaceX部署100萬顆衛星打造太空資料中心, 目前太空軌道上只有1萬7000顆衛星, 造成昇達科,華通,燿華,啟碁,萊德光電-KY,兆赫,事欣科,萬泰科,敬鵬上漲.
+假設昇達科,華通等等持續上漲, "精確"切入SpaceX旗下Starlink(星鏈)供應鏈.
 2026/12/01 眾議院三個委員會黃仁勳接受閉門問話.
 2026/12/03 參議院銀行委員會則要求黃仁勳出席聽證會.
 2022/12/06 台積電美國亞利桑納州第一座晶圓廠舉行首批機台移入典禮, 當時美國總統拜登,商務部長雷蒙多親自出席. 台股加權指數高點.
@@ -39,7 +41,7 @@ layout: testlayouts
 美元漲, 美股跌, 銅價跌, 油價跌, 金價跌, 美債殖利率跌 -> 極端流動性危機(現金為王) -> 觀察黃金上漲, 美元下跌, 美股創低VIX不創高 -> 費半加權上漲.
 等待"黃金下跌時"隔天早上賣出空手, 等待00675L,00663L.
 ```
-[1台積電擴廠典禮川普](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7664acc572854b2aaade783e5504ee09), [2台積電擴廠典禮川普](https://www.trendforce.com/news/2026/11/26/news-trump-to-join-tsmcs-arizona-expansion-ceremony-jensen-huangs-possible-visit-fab-plans-in-focus/)
+[美國授權SpaceX部署100萬顆衛星](https://money.udn.com/money/story/123398/9902518?dark_mode=1), [1台積電擴廠典禮川普](https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=7664acc572854b2aaade783e5504ee09), [2台積電擴廠典禮川普](https://www.trendforce.com/news/2026/11/26/news-trump-to-join-tsmcs-arizona-expansion-ceremony-jensen-huangs-possible-visit-fab-plans-in-focus/)
 
 ## 2026/11/25
 ```
